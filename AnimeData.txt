@@ -1,0 +1,213 @@
+ANIME DATA TAKEN FROM ANIMENEWSNETWORK.COM
+
+
+name: your name. (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171
+ranking: 1
+rating: 9.16
+votes: 723comedy, drama, romance, supernatural, amnesia, body switch, natural disaster, tragedy, 
+name: Fullmetal Alchemist: Brotherhood (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216
+ranking: 2
+rating: 9.10
+votes: 5623adventure, comedy, drama, fantasy, thriller, alchemy, conspiracy, Homunculi, military, steampunk, tragedy, 
+name: Steins;Gate (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11770
+ranking: 3
+rating: 9.08
+votes: 4501adventure, comedy, drama, mystery, psychological, romance, science fiction, thriller, butterfly effect, conspiracy, technology, Time travel, tragedy, 
+name: Clannad After Story (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9701
+ranking: 4
+rating: 9.06
+votes: 5135comedy, drama, psychological, romance, supernatural, bishoujo, coming of age, entering adulthood, family, moe, parenting, tragedy, 
+name: Rurouni Kenshin: Trust & Betrayal (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=210
+ranking: 5
+rating: 8.97
+votes: 6627action, drama, romance, historical, revenge, samurai, tragedy, 
+name: Code Geass: Lelouch of the Rebellion R2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173
+ranking: 6
+rating: 8.94
+votes: 7766action, drama, magic, psychological, science fiction, alternate history, conspiracy, immortality, mecha, military, mind control, politics, real robot, revenge, strategic minds, terrorism, tragedy, war, 
+name: Spirited Away (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=377
+ranking: 7
+rating: 8.92
+votes: 10421adventure, drama, fantasy, spirits, 
+name: A Silent Voice (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16661
+ranking: 8
+rating: 8.92
+votes: 267comedy, drama, psychological, romance, School life, 
+name: Mushishi: The Next Chapter (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15895
+ranking: 9
+rating: 8.90
+votes: 465adventure, drama, mystery, psychological, supernatural, folklore, iyashikei, mythology, nature, spirits, 
+name: Cowboy Bebop (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13
+ranking: 10
+rating: 8.90
+votes: 12101action, drama, science fiction, bounty hunters, space, space western, 
+name: (The) Disappearance of Haruhi Suzumiya (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11120
+ranking: 11
+rating: 8.87
+votes: 2742drama, magic, mystery, psychological, science fiction, alternate reality, high school, time travel, 
+name: Princess Mononoke (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=197
+ranking: 12
+rating: 8.86
+votes: 9731adventure, drama, fantasy, deforestation, forest spirit, spirits, 
+name: Made in Abyss (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18952
+ranking: 13
+rating: 8.82
+votes: 309adventure, drama, fantasy, psychological, science fiction, exploration, post-apocalyptic, robots, 
+name: (The) Legend of the Galactic Heroes (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1786
+ranking: 14
+rating: 8.81
+votes: 688drama, science fiction, military, politics, space, space battles, space navy, war, 
+name: Mushi-Shi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5923
+ranking: 15
+rating: 8.79
+votes: 4943adventure, mystery, psychological, slice of life, supernatural, folklore, iyashikei, mythology, nature, spirits, 
+name: Death Note (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592
+ranking: 16
+rating: 8.79
+votes: 12761drama, mystery, psychological, supernatural, thriller, crime, death, detective, justice, Magic Book, police, shinigami, 
+name: Maria Watches Over Us 3rd Season (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6113
+ranking: 17
+rating: 8.77
+votes: 721slice of life, shoujo-ai, 
+name: Maria Watches Over Us Season 2: Printemps (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4175
+ranking: 18
+rating: 8.76
+votes: 1340slice of life, shoujo-ai, yuri, 
+name: anohana: The Flower We Saw That Day (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12368
+ranking: 19
+rating: 8.75
+votes: 3109drama, romance, supernatural, ghosts, growing up, love triangle, 
+name: Gintama' (TV 2/2011)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12835
+ranking: 20
+rating: 8.75
+votes: 415action, comedy, drama, science fiction, aliens, harem, parody, samurai, space, 
+name: Code Geass: Lelouch of the Rebellion (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704
+ranking: 21
+rating: 8.75
+votes: 9057action, drama, magic, psychological, science fiction, Alternate history, immortality, mecha, military, mind control, politics, real robot, school, strategic minds, terrorism, war, 
+name: Gintama' (TV 3/2012)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15223
+ranking: 22
+rating: 8.75
+votes: 245action, comedy, drama, science fiction, Aliens, Historical, Parody, Samurai, 
+name: Maria Watches Over Us 4th Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9210
+ranking: 23
+rating: 8.73
+votes: 504drama, shoujo-ai, 
+name: Bunny Drop (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12398
+ranking: 24
+rating: 8.73
+votes: 1770comedy, slice of life, adoption, family, iyashikei, parenting, single parents, taking care of a child, 
+name: Evangelion: 2.0 You Can (Not) Advance (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421
+ranking: 25
+rating: 8.72
+votes: 2056action, drama, psychological, science fiction, mecha, military, post-apocalyptic, 
+name: Gintama (TV 4/2015)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16644
+ranking: 26
+rating: 8.72
+votes: 131action, comedy, drama, Historical, Parody, Samurai, 
+name: Descending Stories: Showa Genroku Rakugo Shinju (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18888
+ranking: 27
+rating: 8.71
+votes: 134drama, historical, rakugo, 
+name: Monster (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3750
+ranking: 28
+rating: 8.71
+votes: 3425drama, horror, mystery, psychological, thriller, amnesia, crime, detective, police, serial killer, tragedy, 
+name: Grave of the Fireflies (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=152
+ranking: 29
+rating: 8.67
+votes: 4532drama, historical, tragedy, war, World War II, 
+name: Cross Game (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10580
+ranking: 30
+rating: 8.67
+votes: 677drama, romance, tournament, baseball, school, sports, tsundere, 
+name: Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8495
+ranking: 31
+rating: 8.67
+votes: 2567action, drama, psychological, science fiction, android, crime, cyberpunk, military, police, politics, virtual reality, 
+name: Fighting Spirit (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1139
+ranking: 32
+rating: 8.66
+votes: 1613comedy, drama, tournament, boxing, sports, 
+name: Summer Wars (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10544
+ranking: 33
+rating: 8.66
+votes: 3344adventure, comedy, drama, romance, science fiction, thriller, computers, family, social-networking, technology, virtual reality, 
+name: Fullmetal Alchemist (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960
+ranking: 34
+rating: 8.65
+votes: 13346adventure, drama, fantasy, alchemy, Homunculi, military, steampunk, tragedy, 
+name: Nodame Cantabile (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7010
+ranking: 35
+rating: 8.64
+votes: 2745comedy, drama, romance, college, music, 
+name: (The) Girl Who Leapt Through Time (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6733
+ranking: 36
+rating: 8.64
+votes: 5471adventure, comedy, drama, romance, science fiction, school, time travel, 
+name: 5 Centimeters Per Second (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6696
+ranking: 37
+rating: 8.64
+votes: 5691drama, romance, u, n, k, n, o, w, n, 
+name: Hunter × Hunter (TV 2011)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13262
+ranking: 38
+rating: 8.64
+votes: 919adventure, comedy, drama, fantasy, tournament, bounty hunters, coming-of-age, developing powers, gore, organized crime, special abilities, survival game, 
+name: Nausicaä of the Valley of the Wind (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=180
+ranking: 39
+rating: 8.64
+votes: 4988adventure, drama, fantasy, science fiction, giant insects, post-apocalyptic, 
+name: (The) Garden of Sinners (movie series)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7472
+ranking: 40
+rating: 8.63
+votes: 1672horror, magic, psychological, romance, absurdity, gore, murder, 
+name: Gurren Lagann (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6698
+ranking: 41
+rating: 8.62
+votes: 6887action, comedy, drama, science fiction, Burning Manly Passion, mecha, post-apocalyptic, super robot, 
+name: Wolf Children (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13862
+ranking: 42
+rating: 8.62
+votes: 1077drama, romance, supernatural, country life, family, growing up, wolves, 
