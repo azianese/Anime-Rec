@@ -8,7 +8,7 @@ public class Main {
     ///////////////// TESTING AREA /////////////////
 
     //setup to determine significance of each category with respect to anime score
-    
+    /*
     int rating_weight = 0;
     int min_votes = 0;
     int max_votes = 9999;
@@ -27,6 +27,27 @@ public class Main {
     List<String> themes = new ArrayList<>(Arrays.asList("alternate history","conspiracy","immortality","mecha","military","mind control","politics","real robot","revenge","strategic minds","terrorism","tragedy","war"));
     String director = "goro taniguchi";
     String studio = "Bandai Co., Ltd.";
+    */
+    Input input = new Input();
+    
+    int rating_weight = input.rating_weight;
+    int min_votes = input.min_votes;
+    int max_votes = input.max_votes;
+    
+    // ((genre score)/total number of genres) * matched genres
+    int genres_weight = input.genres_weight;
+    // (themes score)/total number of genres) * matched themes
+    int themes_weight = input.themes_weight;
+    
+    int director_weight = input.director_weight;
+    int studio_weight = input.studio_weight;
+    int min_year = input.min_year;
+    int max_year = input.max_year;
+    
+    List<String> genres = input.genres;
+    List<String> themes = input.themes;
+    String director = input.director;
+    String studio = input.studio;
     
     ///////////////// END TESTING AREA /////////////////
     
