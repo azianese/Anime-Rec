@@ -1,5 +1,6 @@
 # allows for web-scrapping data
 from urllib.request import urlopen
+# from urllib2 import urlopen
 from bs4 import BeautifulSoup as soup
 
 # Anime class for different animes
@@ -59,8 +60,8 @@ def getAnime():
       # Goes to the webpage for the current anime
       success = False
       while success == False:
-        animeClient = urlopen(link, timeout=10)
         try: 
+          animeClient = urlopen(link, timeout=5)
           animeHTML = animeClient.read()
           success = True
         except: 
@@ -113,11 +114,11 @@ def getAnime():
       # Prints the genres
       animeFile.write('\ngenres: ')
       for genre in currentAnime.genres:
-          animeFile.write(genre + ', ')
+          animeFile.write(genre + ',')
       # Prints the themes
       animeFile.write('\nthemes: ')
       for theme in currentAnime.themes:
-          animeFile.write(theme + ', ')
+          animeFile.write(theme + ',')
           
       # Prints the premiere date, director, and studio
       animeFile.write('\npremiere date: ' + currentAnime.premiereDate)
