@@ -49,7 +49,7 @@ public class Anime {
       return -1;
     //case for when the date is unknown
     if (this.date.equals("unknown")) 
-      return 0;
+      return 1;
     //makes sure this anime's date is not out of range
     if (Float.valueOf(this.date) < min_year 
         || max_year < Float.valueOf(this.date)) 

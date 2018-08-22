@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 public class Input {
-
   //basic data
   int rating_weight;
   int min_votes;
@@ -40,14 +39,14 @@ public class Input {
     else
       compareAnime = false;
     if (!compareAnime) {
-      genres_weight = getGenresWeight(sc);
       genres = getGenres(sc);
-      themes_weight = getThemesWeight(sc);
+      genres_weight = getGenresWeight(sc);
       themes = getThemes(sc);
-      director_weight = getDirectorWeight(sc);
+      themes_weight = getThemesWeight(sc);
       director = getDirector(sc);
-      studio_weight = getStudioWeight(sc);
+      director_weight = getDirectorWeight(sc);
       studio = getStudio(sc);
+      studio_weight = getStudioWeight(sc);
     }
   }
 
@@ -63,14 +62,15 @@ public class Input {
     return s;
   }
 
+  //Sets default weights if the user selects default recommendations
   private void setDefault() {
+    //basic data
     this.rating_weight = 10;
-
     this.min_votes = 0;
     this.max_votes = Integer.MAX_VALUE;
     this.min_year = 0;
-    this.max_year = 2018;
-
+    this.max_year = Integer.MAX_VALUE;
+    //specific data
     this.genres_weight = 0;
     this.genres = new ArrayList<>(Arrays.asList(""));
     this.themes_weight = 0;
@@ -79,7 +79,7 @@ public class Input {
     this.director = "";
     this.studio_weight = 0;
     this.studio = "";
-
+    //other data
     this.numRecs = 100;
     this.compareAnime = false;
   }
@@ -110,45 +110,89 @@ public class Input {
     return num;
   }
 
+  //Asks for the rating weight
   private int getRatingWeight(Scanner sc) {
-    System.out.println("How much do you value the anime's rating (1-10)?");
+    return helperWeight10(sc, "How much do you value the anime's rating (1-10)?");
+  }
+
+  //Asks for the minimum vote cutoff
+  private int getMinVotes(Scanner sc) {
+    boolean valid = false;
+    System.out.println("What is the minimum number of votes you want your recommendations to have?");
     String s = sc.nextLine();
     int num = 0;
-    boolean valid = false;
     while (!valid) {
       try {
         num = Integer.valueOf(s);
-        if (num < 0 || num > 10) {
-          System.out.println("Sorry, invalid input. Only whole numbers between 0 and 10 [inclusive] are allowed.");
-          System.out.println("How much do you value the anime's rating (1-10)?");
-          s = sc.nextLine();
-        }
-        else
-          valid = true;
+        valid = true;
       }
       catch (Exception e) {
-        System.out.println("Sorry, invalid input. Only whole numbers between 0 and 10 [inclusive] are allowed.");
-        System.out.println("How much do you value the anime's rating (1-10)?");
+        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
+        System.out.println("What is the minimum number of votes you want your recommendations to have?");
         s = sc.nextLine();
       }
     }
     return num;
   }
 
-  private int getMinVotes(Scanner sc) {
-    return 0;
-  }
-
+  //Asks for the maximum vote cutoff
   private int getMaxVotes(Scanner sc) {
-    return 0;
+    boolean valid = false;
+    System.out.println("What is the maximum number of votes you want your recommendations to have?");
+    String s = sc.nextLine();
+    int num = 0;
+    while (!valid) {
+      try {
+        num = Integer.valueOf(s);
+        valid = true;
+      }
+      catch (Exception e) {
+        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
+        System.out.println("What is the maximum number of votes you want your recommendations to have?");
+        s = sc.nextLine();
+      }
+    }
+    return num;
   }
 
+  //Asks for the minimum year cutoff
   private int getMinYear(Scanner sc) {
-    return 0;
+    boolean valid = false;
+    System.out.println("You want to see recommendations no earlier than ____ year: ");
+    String s = sc.nextLine();
+    int num = 0;
+    while (!valid) {
+      try {
+        num = Integer.valueOf(s);
+        valid = true;
+      }
+      catch (Exception e) {
+        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
+        System.out.println("You want to see recommendations no earlier than ____ year: ");
+        s = sc.nextLine();
+      }
+    }
+    return num;
   }
 
+  //Asks for the maximum year cutoff
   private int getMaxYear(Scanner sc) {
-    return 0;
+    boolean valid = false;
+    System.out.println("You want to see recommendations no later than ____ year: ");
+    String s = sc.nextLine();
+    int num = 0;
+    while (!valid) {
+      try {
+        num = Integer.valueOf(s);
+        valid = true;
+      }
+      catch (Exception e) {
+        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
+        System.out.println("You want to see recommendations no later than ____ year: ");
+        s = sc.nextLine();
+      }
+    }
+    return num;
   }
 
   //Asks if the user wants to use a single anime for recomendations
@@ -166,6 +210,7 @@ public class Input {
       return false;
   }
 
+  //Autofills in input variable values if an anime is selected for comparison
   private Boolean useAnime(Scanner sc, List<Anime> animeList) {
     System.out.println("What anime would you like to use as a reference?");
     String animeName = sc.nextLine();
@@ -178,7 +223,7 @@ public class Input {
       }
     }
     if (animeFound == false) {
-      System.out.println("Sorry that anime was not found. Would you like to try a different anime (y/n)?");
+      System.out.println("Sorry, that anime was not found. Would you like to try a different anime (y/n)?");
       String s = sc.nextLine();
       while (!s.equalsIgnoreCase("y") && !s.equalsIgnoreCase("n")) {
         System.out.println("Sorry, invalid input. only 'y' or 'n' are valid inputs.");
@@ -192,49 +237,76 @@ public class Input {
         return false;
       }
     }
+    //weights for genres and themes
     genres_weight = 10;
     for (String genre : animeList.get(i).genres)
       genres.add(genre);    
     themes_weight = 10;
     for (String theme : animeList.get(i).themes)
-      themes.add(theme);    
-    director_weight = 5;    
+      themes.add(theme);
+    //weights for director and studio
+    director_weight = 5;
     director = animeList.get(i).director;
     studio_weight = 5;
     studio = animeList.get(i).studio;
     return true;
   }
 
-  private int getGenresWeight(Scanner sc) {
-    return 0;
-  }
-
   private List<String> getGenres(Scanner sc) {
     return new ArrayList<String>();
   }
 
-  private int getThemesWeight(Scanner sc) {
-    return 0;
+  private int getGenresWeight(Scanner sc) {
+    return helperWeight10(sc, "How much weight would you like to give the genres?");
   }
 
   private List<String> getThemes(Scanner sc) {
     return new ArrayList<String>();
   }
 
-  private int getDirectorWeight(Scanner sc) {
-    return 0;
+  private int getThemesWeight(Scanner sc) {
+    return helperWeight10(sc, "How much weight would you like to give the themes?");
   }
 
   private String getDirector(Scanner sc) {
     return "";
   }
 
-  private int getStudioWeight(Scanner sc) {
-    return 0;
+  private int getDirectorWeight(Scanner sc) {
+    return helperWeight10(sc, "How much weight would you like to give the director?");
   }
 
   private String getStudio(Scanner sc) {
     return "";
   }
 
+  private int getStudioWeight(Scanner sc) {
+    return helperWeight10(sc, "How much weight would you like to give the studio?");
+  }
+
+  //Helper function to determine weights between 0 and 10
+  private int helperWeight10(Scanner sc, String message) {
+    System.out.println(message);
+    String s = sc.nextLine();
+    boolean valid = false;
+    int num = 0;
+    while (!valid) {
+      try {
+        num = Integer.valueOf(s);
+        if (num < 0 || num > 10) {
+          System.out.println("Sorry, invalid input. Only whole numbers between 0 and 10 [inclusive] are allowed.");
+          System.out.println(message);
+          s = sc.nextLine();
+        }
+        else
+          valid = true;
+      }
+      catch (Exception e) {
+        System.out.println("Sorry, invalid input. Only whole numbers between 0 and 10 [inclusive] are allowed.");
+        System.out.println(message);
+        s = sc.nextLine();
+      }
+    }
+    return num;
+  }
 }

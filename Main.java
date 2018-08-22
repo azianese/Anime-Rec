@@ -91,19 +91,16 @@ public class Main {
 
       }//file has no more lines to read
     }
-    /*
-    catch(Exception e) {
-      System.out.println("Oops. Something went wrong");
-      System.out.println(e);
-    }*/
-
+    
     ///////////////// TESTING AREA /////////////////
 
-    System.out.println("anime list size: " + animeList.size());
+    //initialize variables
+    System.out.println("Disclaimer: Data is taken from animenewsnetwork and may not be compelete.");
     Scanner sc = new Scanner(System.in);
     Input input = new Input(sc, animeList);
     PriorityQueue<Anime> pq = new PriorityQueue<Anime>(new AnimeComparator());
 
+    //add animes to a priority queue
     for (int i = 0; i < animeList.size(); ++i) {
       Anime anime = animeList.get(i);
       anime.score = anime.determineScore(input.rating_weight,
@@ -114,34 +111,34 @@ public class Main {
                                          input.studio, input.studio_weight, 
                                          input.min_year, input.max_year);
       pq.add(anime);
+      if (pq.size() > input.numRecs+1)
+        pq.poll();
     }
 
-    for (int i = 1; i < 11; ++i) {
-      System.out.print(i + ": ");
-      System.out.println(pq.poll().name);
+    //outputs the contents on the priority queue in reverse order
+    System.out.println();
+    Stack<Anime> stack = new Stack<Anime>();
+    while (pq.peek() != null) {
+      stack.push(pq.poll());
+    }
+    int index = 0;
+    while (!stack.empty()) {
+      Anime anime = stack.pop();
+      System.out.println(index + ": " + anime.name);
+      System.out.println("  score: " + anime.score);
+      ++index;
     }
 
-    /*
-    if(anime.score > 3) {
-      System.out.println("-----------------" + anime.ranking);
-      System.out.println(anime.name);
-      System.out.println("score: " + anime.score);
-    }
-
-    for (int i = 0; i < anime.themes.length; ++i) {
-      System.out.println(anime.themes[i]);
-    }
-    */
-
-    sc.close();
     ///////////////// END TESTING AREA /////////////////
+    sc.close();
   }
 }
 
+//helper class to compare anime based on their score
 class AnimeComparator implements Comparator<Anime> {
   public int compare(Anime a, Anime b) {
-    if (a.score < b.score) return 1;
-    else if(a.score > b.score) return -1;
+    if (a.score < b.score) return -1;
+    if (a.score > b.score) return 1;
     return 0;
   }
 }
