@@ -49,7 +49,7 @@ public class Main {
             try {
               String[] temp = data.split(",");
               for (int i = 0; i < temp.length; ++i) 
-                anime.genres.add(temp[i]);
+                anime.genres.add(temp[i].replaceAll("\\s+",""));
             }
             catch (Exception e) {
               anime.genres.add("unknown");
@@ -59,7 +59,7 @@ public class Main {
             try {
               String[] temp = data.split(",");
               for (int i = 0; i < temp.length; ++i)
-                anime.themes.add(temp[i]);
+                anime.themes.add(temp[i].replaceAll("\\s+",""));
             }
             catch (Exception e) {
               anime.themes.add("unknown");
@@ -91,7 +91,7 @@ public class Main {
 
       }//file has no more lines to read
     }
-    
+
     ///////////////// TESTING AREA /////////////////
 
     //initialize variables
@@ -118,10 +118,16 @@ public class Main {
     //outputs the contents on the priority queue in reverse order
     System.out.println();
     Stack<Anime> stack = new Stack<Anime>();
+    //makes sure we have the correct number of anime recommendations being output,
+    //else recommendation 0 is the anime reference used itself.
+    int index = 0;
+    if (!input.compareAnime) {
+      pq.poll();
+      index = 1;
+    }
     while (pq.peek() != null) {
       stack.push(pq.poll());
     }
-    int index = 0;
     while (!stack.empty()) {
       Anime anime = stack.pop();
       System.out.println(index + ": " + anime.name);
@@ -139,6 +145,14 @@ class AnimeComparator implements Comparator<Anime> {
   public int compare(Anime a, Anime b) {
     if (a.score < b.score) return -1;
     if (a.score > b.score) return 1;
+    //in case of tied score, breaks ties with ranking
+    if (a.ranking < b.ranking) return 1;
+    if (a.ranking > b.ranking) return -1;
+    //shouldn't ever return 0....
     return 0;
   }
 }
+
+///////////////// NOTES /////////////////
+
+//still need a way deal with anime with unknown data

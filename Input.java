@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.lang.reflect.Field;
 
 public class Input {
   //basic data
@@ -10,9 +11,9 @@ public class Input {
   int max_year;
   //specific data
   int genres_weight;
-  List<String> genres = new ArrayList<String>();
+  List<String> genres;
   int themes_weight;
-  List<String> themes = new ArrayList<String>();
+  List<String> themes;
   int director_weight;
   String director;
   int studio_weight;
@@ -21,37 +22,46 @@ public class Input {
   int numRecs;
   Boolean compareAnime;
 
-  //Default costructor
+  //Class costructor.
+  //animeList is a list of Anime class objects
   public Input(Scanner sc, List<Anime> animeList) {
-    if (getDefault(sc).equals("y")) {
-      setDefault();
+    //uses preset data if the user wants to use default data
+    if (wantDefaultRecommendations(sc)) {
+      setDefaultData();
       return;
     }
+    //gets some baseline data
     numRecs = getNumRecs(sc);
     rating_weight = getRatingWeight(sc);
     min_votes = getMinVotes(sc);
     max_votes = getMaxVotes(sc);
     min_year = getMinYear(sc);
     max_year = getMaxYear(sc);
-
-    if (getPurpose(sc)) 
-      compareAnime = useAnime(sc, animeList);
-    else
-      compareAnime = false;
-    if (!compareAnime) {
+    compareAnime = false;
+    //uses preset data based on an anime if an anime is used as reference
+    if (getPurpose(sc)) {
+      compareAnime = true;
+      useAnime(sc, animeList);
+    }
+    //otherwise asks for user-inputted data
+    else {
       genres = getGenres(sc);
       genres_weight = getGenresWeight(sc);
       themes = getThemes(sc);
       themes_weight = getThemesWeight(sc);
-      director = getDirector(sc);
       director_weight = getDirectorWeight(sc);
-      studio = getStudio(sc);
+      if (director_weight > 0)
+        director = getDirector(sc, animeList);
       studio_weight = getStudioWeight(sc);
+      if (studio_weight > 0)
+        studio = getStudio(sc, animeList);
     }
   }
 
+  ////////////////// METHODS TO GET USER PURPOSE & SET PRESET DATA //////////////////
+
   //Asks for default recommendations
-  private String getDefault(Scanner sc) {
+  private Boolean wantDefaultRecommendations(Scanner sc) {
     System.out.println("Do you want the default recommendations? (y/n)?");
     String s = sc.nextLine();
     while (!s.equalsIgnoreCase("y") && !s.equalsIgnoreCase("n")) {
@@ -59,11 +69,14 @@ public class Input {
       System.out.println("Do you want the default recommendations? (y/n)?");
       s = sc.nextLine();
     }
-    return s;
+    if (s.equalsIgnoreCase("y"))
+      return true;
+    else
+      return false;
   }
 
   //Sets default weights if the user selects default recommendations
-  private void setDefault() {
+  private void setDefaultData() {
     //basic data
     this.rating_weight = 10;
     this.min_votes = 0;
@@ -110,91 +123,6 @@ public class Input {
     return num;
   }
 
-  //Asks for the rating weight
-  private int getRatingWeight(Scanner sc) {
-    return helperWeight10(sc, "How much do you value the anime's rating (1-10)?");
-  }
-
-  //Asks for the minimum vote cutoff
-  private int getMinVotes(Scanner sc) {
-    boolean valid = false;
-    System.out.println("What is the minimum number of votes you want your recommendations to have?");
-    String s = sc.nextLine();
-    int num = 0;
-    while (!valid) {
-      try {
-        num = Integer.valueOf(s);
-        valid = true;
-      }
-      catch (Exception e) {
-        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
-        System.out.println("What is the minimum number of votes you want your recommendations to have?");
-        s = sc.nextLine();
-      }
-    }
-    return num;
-  }
-
-  //Asks for the maximum vote cutoff
-  private int getMaxVotes(Scanner sc) {
-    boolean valid = false;
-    System.out.println("What is the maximum number of votes you want your recommendations to have?");
-    String s = sc.nextLine();
-    int num = 0;
-    while (!valid) {
-      try {
-        num = Integer.valueOf(s);
-        valid = true;
-      }
-      catch (Exception e) {
-        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
-        System.out.println("What is the maximum number of votes you want your recommendations to have?");
-        s = sc.nextLine();
-      }
-    }
-    return num;
-  }
-
-  //Asks for the minimum year cutoff
-  private int getMinYear(Scanner sc) {
-    boolean valid = false;
-    System.out.println("You want to see recommendations no earlier than ____ year: ");
-    String s = sc.nextLine();
-    int num = 0;
-    while (!valid) {
-      try {
-        num = Integer.valueOf(s);
-        valid = true;
-      }
-      catch (Exception e) {
-        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
-        System.out.println("You want to see recommendations no earlier than ____ year: ");
-        s = sc.nextLine();
-      }
-    }
-    return num;
-  }
-
-  //Asks for the maximum year cutoff
-  private int getMaxYear(Scanner sc) {
-    boolean valid = false;
-    System.out.println("You want to see recommendations no later than ____ year: ");
-    String s = sc.nextLine();
-    int num = 0;
-    while (!valid) {
-      try {
-        num = Integer.valueOf(s);
-        valid = true;
-      }
-      catch (Exception e) {
-        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
-        System.out.println("You want to see recommendations no later than ____ year: ");
-        s = sc.nextLine();
-      }
-    }
-    return num;
-  }
-
   //Asks if the user wants to use a single anime for recomendations
   private Boolean getPurpose(Scanner sc) {
     System.out.println("Do you have an anime in mind that you want to find similar animes to? (y/n)");
@@ -211,7 +139,7 @@ public class Input {
   }
 
   //Autofills in input variable values if an anime is selected for comparison
-  private Boolean useAnime(Scanner sc, List<Anime> animeList) {
+  private void useAnime(Scanner sc, List<Anime> animeList) {
     System.out.println("What anime would you like to use as a reference?");
     String animeName = sc.nextLine();
     boolean animeFound = false;
@@ -230,59 +158,88 @@ public class Input {
         System.out.println("Would you like to try a different anime (y/n)?");
         s = sc.nextLine();
       }
-      if (s.equals("y")) {
-        return useAnime(sc, animeList);
-      }
-      else {
-        return false;
-      }
     }
+    //String animeName = helperString(sc, animeList, "name");
     //weights for genres and themes
     genres_weight = 10;
+    List<String> genreList = new ArrayList<>();
     for (String genre : animeList.get(i).genres)
-      genres.add(genre);    
+      genreList.add(genre); 
+    genres = genreList;
     themes_weight = 10;
+    List<String> themeList = new ArrayList<>();
     for (String theme : animeList.get(i).themes)
-      themes.add(theme);
+      themeList.add(theme);
+    themes = themeList;
     //weights for director and studio
     director_weight = 5;
     director = animeList.get(i).director;
     studio_weight = 5;
     studio = animeList.get(i).studio;
-    return true;
   }
 
-  private List<String> getGenres(Scanner sc) {
-    return new ArrayList<String>();
+  //////////////////// METHODS TO GET/SET USER-DETERMINED DATA ////////////////////
+
+  //Asks for the rating weight
+  private int getRatingWeight(Scanner sc) {
+    return helperWeight10(sc, "How much do you value the anime's rating (1-10)?");
+  }
+
+  //Asks for the minimum vote cutoff
+  private int getMinVotes(Scanner sc) {
+    return helperInt(sc, "What is the minimum number of votes you want your recommendations to have?");
+  }
+
+  //Asks for the maximum vote cutoff
+  private int getMaxVotes(Scanner sc) {
+    return helperInt(sc, "What is the maximum number of votes you want your recommendations to have?");
+  }
+
+  //Asks for the minimum year cutoff
+  private int getMinYear(Scanner sc) {
+    return helperInt(sc, "You want to see recommendations no earlier than the year: ____");
+  }
+
+  //Asks for the maximum year cutoff
+  private int getMaxYear(Scanner sc) {
+    return helperInt(sc, "You want to see recommendations no later than the year: ____");
   }
 
   private int getGenresWeight(Scanner sc) {
     return helperWeight10(sc, "How much weight would you like to give the genres?");
   }
 
-  private List<String> getThemes(Scanner sc) {
-    return new ArrayList<String>();
+  private List<String> getGenres(Scanner sc) {
+    String message = "What genres would you like to search for (comma separated)? Ex: comedy, drama, etc.";
+    return helperList(sc, message, "genres");
   }
 
   private int getThemesWeight(Scanner sc) {
     return helperWeight10(sc, "How much weight would you like to give the themes?");
   }
 
-  private String getDirector(Scanner sc) {
-    return "";
+  private List<String> getThemes(Scanner sc) {
+    String message = "What themes would you like to search for (comma separated)? Ex: technology, time travel, etc.";
+    return helperList(sc, message , "themes");
   }
 
   private int getDirectorWeight(Scanner sc) {
     return helperWeight10(sc, "How much weight would you like to give the director?");
   }
 
-  private String getStudio(Scanner sc) {
-    return "";
+  private String getDirector(Scanner sc, List<Anime> animeList) {
+    return helperString(sc, animeList, "director");
   }
 
   private int getStudioWeight(Scanner sc) {
     return helperWeight10(sc, "How much weight would you like to give the studio?");
   }
+
+  private String getStudio(Scanner sc, List<Anime> animeList) {
+    return helperString(sc, animeList, "studio");
+  }
+
+  //////////////////// HELPER METHOD ////////////////////
 
   //Helper function to determine weights between 0 and 10
   private int helperWeight10(Scanner sc, String message) {
@@ -308,5 +265,80 @@ public class Input {
       }
     }
     return num;
+  }
+
+  //Helper function to get a user inputted int
+  private int helperInt(Scanner sc, String message) {
+    boolean valid = false;
+    System.out.println(message);
+    String s = sc.nextLine();
+    int num = 0;
+    while (!valid) {
+      try {
+        num = Integer.valueOf(s);
+        valid = true;
+      }
+      catch (Exception e) {
+        System.out.println("Sorry, invalid input. Only whole numbers between " + Integer.MIN_VALUE + " and " + Integer.MAX_VALUE + " are allowed.");
+        System.out.println(message);
+        s = sc.nextLine();
+      }
+    }
+    return num;
+  }
+
+  private List<String> helperList(Scanner sc, String message, String category) {
+    System.out.println(message);
+    String s = sc.nextLine();
+    List<String> list = new ArrayList<>();
+    //case: genre category
+    if (category.equalsIgnoreCase("genres")) {
+      String[] genreArray = s.split(",");
+      for (int i = 0; i < genreArray.length; ++i) {
+        list.add(genreArray[i].replaceAll("\\s+",""));
+      }
+    }
+    //case: theme category
+    if (category.equalsIgnoreCase("themes")) {
+      String[] themeArray = s.split(",");
+      for (int i = 0; i < themeArray.length; ++i) {
+        list.add(themeArray[i].replaceAll("\\s+",""));
+      }
+    }
+    return list;
+  }
+
+  //Helper function to get a user inputted string
+  private String helperString(Scanner sc, List<Anime> animeList, String category) {
+    System.out.println("What " + category + " would you like to use?");
+    String s = sc.nextLine();
+    //checks to see if the inputted string is present in the anime list
+    if (category.equalsIgnoreCase("name")) {
+      for (int i = 0; i < animeList.size(); ++i)
+        if (animeList.get(i).name.equalsIgnoreCase(s))
+          return s;
+    }
+    if (category.equalsIgnoreCase("director")) {
+      for (int i = 0; i < animeList.size(); ++i)
+        if (animeList.get(i).director.equalsIgnoreCase(s))
+          return s;
+    }
+    if (category.equalsIgnoreCase("studio")) {
+      for (int i = 0; i < animeList.size(); ++i)
+        if (animeList.get(i).studio.equalsIgnoreCase(s))
+          return s;
+    }
+    //the inputted string was not found
+    System.out.println("Sorry, that " + category + " was not found. Would you like to try a different " + category + " (y/n)?");
+    s = sc.nextLine();
+    while (!s.equalsIgnoreCase("y") && !s.equalsIgnoreCase("n")) {
+      System.out.println("Sorry, invalid input. only 'y' or 'n' are valid inputs.");
+      System.out.println("Would you like to try a different " + category + " (y/n)?");
+      s = sc.nextLine();
+    }
+    if (s.equalsIgnoreCase("y")) 
+      return helperString(sc, animeList, category);
+    else
+      return null;
   }
 }
