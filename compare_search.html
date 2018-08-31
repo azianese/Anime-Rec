@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--Page Metadata-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Sam Wang"> 
+    <meta name="description" content="anime recommender">
+    <meta name="keywords" content="anime, recommender, suggestions, anime recommender">
+    <title>Anime recommender</title>
+    <!--Stylesheets-->
+    <link rel="stylesheet" href="css/compare_search.css">
+  </head>
+
+  <body>
+    <div id='body'>
+      
+      <form action="filler.js">
+        <input type='text' placeholder="Anime Name"><br>
+        
+        Rating Weight:<br>
+        <input type='range' min='0' max='10'><br>
+        
+        How many recommendations do you want (0-500)?:<br>
+        <input type='number' min='1' max='500'><br>
+        
+        Min Year:<br>
+        <input type='number' min='0' max='9999'><br>
+        
+        Max Year:<br>
+        <input type='number' min='0' max='9999'><br>
+        
+        Min Votes:<br>
+        <input type='number' min='0' max='999999'><br>
+        
+        Max Votes:<br>
+        <input type='number' min='0' max='999999'><br>
+        
+        <input type='submit' value='Submit'>
+      </form>
+      
+    </div>
+  </body>
+</html>

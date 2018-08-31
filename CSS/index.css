@@ -24,15 +24,15 @@ p {
 
 a.button {
   width: 65%;
-  height: 30vh;
+  height: 20vh;
   border-radius: 5vh;
 
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5vh;
+  margin-top: 2vh;
 
-  line-height: 27vh;
+  line-height: 20vh;
   text-align: center;
   font-weight: bold;
   font-size: 8vh;
