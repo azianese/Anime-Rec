@@ -1,0 +1,70 @@
+/* resets default margins and padding to zero*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#body {
+  width: 100%;
+  min-width: 89vh;
+  height: 100vh;
+
+  background-image: url('../Images/VQaJKNO.png');
+  background-size: cover;
+
+  align-items: center;
+}
+
+p {
+  text-align: center;
+  color: purple;
+  font-size: 18vh;
+  font-weight: bold;
+}
+
+a.button {
+  width: 65%;
+  height: 30vh;
+  border-radius: 5vh;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+
+  line-height: 27vh;
+  text-align: center;
+  font-weight: bold;
+  font-size: 8vh;
+  color: #fff;
+  text-shadow: 0 1px 0 #4598f3; 
+
+  background: #9fd6fa;
+  background: -webkit-gradient(linear, 0 0, 0 bottom, from(#9fd6fa), to(#6bb9f7));
+  background: -moz-linear-gradient(#9fd6fa, #6bb9f7);
+  background: linear-gradient(#9fd6fa, #6bb9f7);
+  border: solid 1px #72bdf4;
+  border-bottom: solid 3px #4a9de1;
+  box-shadow: inset 0 0 0 1px #bfe4fc;
+}
+
+a.button:hover {
+  background: #6bb9f7;
+  background: -webkit-gradient(linear, 0 0, 0 bottom, from(#6bb9f7), to(#9fd6fa));
+  background: -moz-linear-gradient(#6bb9f7, #9fd6fa);
+  background: linear-gradient(#6bb9f7, #9fd6fa);
+  border: solid 1px #72bdf4;
+  border-bottom: solid 3px #4a9de1;
+  box-shadow: inset 0 0 0 1px #bfe4fc; 
+
+}
+
+a.button:active {
+  background: #6bb9f7;
+  background: -webkit-gradient(linear, 0 0, 0 bottom, from(#6bb9f7), to(#9fd6fa));
+  background: -moz-linear-gradient(#6bb9f7, #9fd6fa);
+  background: linear-gradient(#6bb9f7, #9fd6fa);
+  border: solid 1px #72bdf4;
+  box-shadow: inset 0 10px 15px 0 #50aaf3; 
+
+}
