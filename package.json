@@ -1,4 +1,19 @@
 {
-  "name": "",
-  "version": ""
+  "name": "anirec",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azianese/Anime-Rec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azianese/Anime-Rec/issues"
+  },
+  "homepage": "https://github.com/azianese/Anime-Rec#readme",
+  "description": ""
 }
