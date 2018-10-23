@@ -8,6 +8,8 @@ var app = express();
 var bodyParser = require('body-parser');
 //create application/x-www-form-urlencoded parser
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
+//create a variable for the server
+var server = require('http').Server(app)//
 
 //////////////////// SETUP ////////////////////
 
@@ -39,11 +41,14 @@ app.post('/custom_rec', urlencodedParser, function (req, res) {
 
 
 
-
+/*
 app.listen(process.env.PORT || 5000, function(){
   console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
-});
+});*/
+server.listen(process.env.PORT || 5000, function(){
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
 console.log('Server now listening on port 3000');
+});
 
 //////////////////// OLD CODE ////////////////////
 /*
