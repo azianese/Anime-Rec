@@ -1,18 +1,28 @@
 //use express
 var express = require('express');
+//variable to use express
 var app = express();
+//use the body-parser middleware to handle post data
+var bodyParser = require('body-parser');
+//parse application/x-www-form-urlencoded
+app.use(bodyParser.urlencoded({ extended: false }));
 
 //tells express to use ejs as the view/template engine
 app.set('view engine', 'ejs');
 
+//use express as middleware to serve static CSS pages
+app.use('/CSS', express.static('CSS'));
+app.use('/images', express.static('images'));
+
+//sets index as the default page
 app.get('/', function (req, res) {
   res.render('index');
 });
+//serve specified pages
 app.get('/:page', function (req, res) {
+  //console.log(page);
   res.render(req.params.page);
 });
-
-
 
 app.listen(3000);
 console.log('Server now listening on port 3000');
