@@ -1,18 +1,23 @@
+//////////////////// VARIABLES ////////////////////
+
 //use express
 var express = require('express');
 //variable to use express
 var app = express();
 //use the body-parser middleware to handle post data
 var bodyParser = require('body-parser');
-//parse application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded({ extended: false }));
+//create application/x-www-form-urlencoded parser
+var urlencodedParser = bodyParser.urlencoded({ extended: false });
+
+//////////////////// SETUP ////////////////////
 
 //tells express to use ejs as the view/template engine
 app.set('view engine', 'ejs');
-
-//use express as middleware to serve static CSS pages
+//use express as middleware to serve static pages
 app.use('/CSS', express.static('CSS'));
 app.use('/images', express.static('images'));
+
+//////////////////// FUNCTIONALITY ////////////////////
 
 //sets index as the default page
 app.get('/', function (req, res) {
@@ -20,13 +25,23 @@ app.get('/', function (req, res) {
 });
 //serve specified pages
 app.get('/:page', function (req, res) {
-  //console.log(page);
   res.render(req.params.page);
 });
 
-app.listen(3000);
-console.log('Server now listening on port 3000');
 
+
+
+app.post('/custom_rec', urlencodedParser, function (req, res) {
+  console.log(req.body);
+  res.render('custom_rec', {data: req.body});
+});
+
+
+
+
+
+app.listen(5000);
+console.log('Server now listening on port 3000');
 
 //////////////////// OLD CODE ////////////////////
 /*
