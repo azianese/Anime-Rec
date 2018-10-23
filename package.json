@@ -17,8 +17,9 @@
   "homepage": "https://github.com/azianese/Anime-Rec#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.4"
-  }
+  },
   "engines": {
     "node": "4.1.1"
   },
