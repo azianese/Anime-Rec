@@ -31,26 +31,24 @@ app.get('/:page', function (req, res) {
 });
 
 
-
-
+//gets data from the custom_rec page
 app.post('/custom_rec', urlencodedParser, function (req, res) {
   console.log(req.body);
   res.render('custom_rec', {data: req.body});
 });
 
+//gets data fromthe compare_search page
+app.post('/compare_rec', urlencodedParser, function (req, res) {
+  console.log(req.body);
+  res.render('compare_rec', {data: req.body});
+});
 
-
-
+//sets ports that the server will lisen to
 const host = '0.0.0.0';
 const port = process.env.PORT || 5000;
 app.listen(port, host, function(){
   console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
 });
-/*
-server.listen(process.env.PORT || 5000, function(){
-  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
-console.log('Server now listening on port 3000');
-});*/
 
 //////////////////// OLD CODE ////////////////////
 /*
