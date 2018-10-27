@@ -1,0 +1,5502 @@
+﻿ANIME DATA TAKEN FROM ANIMENEWSNETWORK.COM
+
+
+name: your name. (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171
+ranking: 1
+rating: 9.13
+votes: 857
+genres: comedy,drama,romance,supernatural,
+themes: amnesia,body switch,natural disaster,tragedy,
+premiere date: 2016-07-03 (World Premiere, Anime Expo, Los Angeles, CA, USA)
+director: Makoto Shinkai
+production studio: Amuse
+
+name: Fullmetal Alchemist: Brotherhood (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216
+ranking: 2
+rating: 9.10
+votes: 5684
+genres: adventure,comedy,drama,fantasy,thriller,
+themes: alchemy,conspiracy,Homunculi,military,steampunk,tragedy,
+premiere date: unknown
+director: Yasuhiro Irie
+production studio: Aniplex
+
+name: Steins;Gate (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11770
+ranking: 3
+rating: 9.07
+votes: 4560
+genres: adventure,comedy,drama,mystery,psychological,romance,science fiction,thriller,
+themes: butterfly effect,conspiracy,technology,Time travel,tragedy,
+premiere date: unknown
+director: Hiroshi Hamasaki
+production studio: Katsuharu Nagata
+
+name: Clannad After Story (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9701
+ranking: 4
+rating: 9.06
+votes: 5152
+genres: comedy,drama,psychological,romance,supernatural,
+themes: bishoujo,coming of age,entering adulthood,family,moe,parenting,tragedy,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Tokyo Broadcasting System
+
+name: Rurouni Kenshin: Trust & Betrayal (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=210
+ranking: 5
+rating: 8.97
+votes: 6631
+genres: action,drama,romance,
+themes: historical,revenge,samurai,tragedy,
+premiere date: unknown
+director: Kazuhiro Furuhashi
+production studio: Aniplex
+
+name: Code Geass: Lelouch of the Rebellion R2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173
+ranking: 6
+rating: 8.93
+votes: 7799
+genres: action,drama,magic,psychological,science fiction,
+themes: alternate history,conspiracy,immortality,mecha,military,mind control,politics,real robot,revenge,strategic minds,terrorism,tragedy,war,
+premiere date: unknown
+director: Goro Taniguchi
+production studio: Bandai Co., Ltd.
+
+name: Spirited Away (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=377
+ranking: 7
+rating: 8.92
+votes: 10472
+genres: adventure,drama,fantasy,
+themes: spirits,
+premiere date: 2001-07-20 (Japan)
+director: Hayao Miyazaki
+production studio: Studio Ghibli
+
+name: A Silent Voice (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16661
+ranking: 8
+rating: 8.91
+votes: 347
+genres: comedy,drama,psychological,romance,
+themes: bullying,School life,suicide,
+premiere date: 2016-09-17 (Japan)
+director: Naoko Yamada
+production studio: ABC Animation
+
+name: Cowboy Bebop (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13
+ranking: 9
+rating: 8.90
+votes: 12157
+genres: action,drama,science fiction,
+themes: bounty hunters,space,space western,
+premiere date: unknown
+director: Melissa Williamson
+production studio: Bandai Visual
+
+name: Mushishi: The Next Chapter (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15895
+ranking: 10
+rating: 8.89
+votes: 485
+genres: adventure,drama,mystery,psychological,supernatural,
+themes: folklore,iyashikei,mythology,nature,spirits,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: Atsushi Suzuki
+
+name: Princess Mononoke (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=197
+ranking: 11
+rating: 8.86
+votes: 9771
+genres: adventure,drama,fantasy,
+themes: deforestation,forest spirit,spirits,
+premiere date: 1997-07-12 (Japan)
+director: Hayao Miyazaki
+production studio: Dentsu Inc.
+
+name: (The) Disappearance of Haruhi Suzumiya (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11120
+ranking: 12
+rating: 8.86
+votes: 2766
+genres: drama,magic,mystery,psychological,science fiction,
+themes: alternate reality,high school,time travel,
+premiere date: 2010-02-06 (Japan)
+director: Yasuhiro Takemoto
+production studio: Kadokawa Pictures
+
+name: (The) Legend of the Galactic Heroes (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1786
+ranking: 13
+rating: 8.81
+votes: 701
+genres: drama,science fiction,
+themes: military,politics,space,space battles,space navy,war,
+premiere date: unknown
+director: Noboru Ishiguro
+production studio: K Factory
+
+name: Mushi-Shi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5923
+ranking: 14
+rating: 8.79
+votes: 4970
+genres: adventure,mystery,psychological,slice of life,supernatural,
+themes: folklore,iyashikei,mythology,nature,spirits,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: avex entertainment
+
+name: Death Note (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592
+ranking: 15
+rating: 8.79
+votes: 12818
+genres: drama,mystery,psychological,supernatural,thriller,
+themes: crime,death,detective,justice,Magic Book,police,shinigami,
+premiere date: unknown
+director: Tetsuro Araki
+production studio: D.N. Dream Partners
+
+name: Maria Watches Over Us 3rd Season (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6113
+ranking: 16
+rating: 8.77
+votes: 723
+genres: slice of life,
+themes: shoujo-ai,
+premiere date: unknown
+director: Yukihiro Matsushita
+production studio: d-rights
+
+name: Made in Abyss (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18952
+ranking: 17
+rating: 8.77
+votes: 441
+genres: adventure,drama,fantasy,psychological,science fiction,
+themes: exploration,post-apocalyptic,robots,
+premiere date: unknown
+director: Masayuki Kojima
+production studio: Crystal Ruiz
+
+name: Maria Watches Over Us Season 2: Printemps (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4175
+ranking: 18
+rating: 8.75
+votes: 1341
+genres: slice of life,
+themes: shoujo-ai,yuri,
+premiere date: unknown
+director: Yukihiro Matsushita
+production studio: d-rights
+
+name: anohana: The Flower We Saw That Day (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12368
+ranking: 19
+rating: 8.75
+votes: 3139
+genres: drama,romance,supernatural,
+themes: ghosts,growing up,love triangle,
+premiere date: unknown
+director: Tatsuyuki Nagai
+production studio: Atsushi Terada
+
+name: Code Geass: Lelouch of the Rebellion (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704
+ranking: 20
+rating: 8.74
+votes: 9099
+genres: action,drama,magic,psychological,science fiction,
+themes: Alternate history,immortality,mecha,military,mind control,politics,real robot,school,strategic minds,terrorism,war,
+premiere date: unknown
+director: Goro Taniguchi
+production studio: Bandai Co., Ltd.
+
+name: Gintama' (TV 2/2011)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12835
+ranking: 21
+rating: 8.74
+votes: 421
+genres: action,comedy,drama,science fiction,
+themes: aliens,harem,parody,samurai,space,
+premiere date: unknown
+director: Yoichi Fujita
+production studio: Dentsu Inc.
+
+name: Descending Stories: Showa Genroku Rakugo Shinju (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18888
+ranking: 22
+rating: 8.74
+votes: 155
+genres: drama,
+themes: historical,rakugo,
+premiere date: unknown
+director: Mamoru Hatakeyama
+production studio: unknown
+
+name: Maria Watches Over Us 4th Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9210
+ranking: 23
+rating: 8.73
+votes: 505
+genres: drama,
+themes: shoujo-ai,
+premiere date: unknown
+director: Toshiyuki Kato
+production studio: d-rights
+
+name: Gintama' (TV 3/2012)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15223
+ranking: 24
+rating: 8.73
+votes: 252
+genres: action,comedy,drama,science fiction,
+themes: Aliens,Historical,Parody,Samurai,
+premiere date: unknown
+director: Yoichi Fujita
+production studio: unknown
+
+name: Gintama (TV 4/2015)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16644
+ranking: 25
+rating: 8.73
+votes: 141
+genres: action,comedy,drama,
+themes: Historical,Parody,Samurai,
+premiere date: unknown
+director: Chizuru Miyawaki
+production studio: unknown
+
+name: Bunny Drop (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12398
+ranking: 26
+rating: 8.73
+votes: 1783
+genres: comedy,slice of life,
+themes: adoption,family,iyashikei,parenting,single parents,taking care of a child,
+premiere date: unknown
+director: Kanta Kamei
+production studio: Dentsu Inc.
+
+name: Evangelion: 2.0 You Can (Not) Advance (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421
+ranking: 27
+rating: 8.72
+votes: 2069
+genres: action,drama,psychological,science fiction,
+themes: mecha,military,post-apocalyptic,
+premiere date: 2009-06-27 (Japan)
+director: Kazuya Tsurumaki
+production studio: Khara
+
+name: Monster (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3750
+ranking: 28
+rating: 8.71
+votes: 3436
+genres: drama,horror,mystery,psychological,thriller,
+themes: amnesia,crime,detective,police,serial killer,tragedy,
+premiere date: unknown
+director: Masayuki Kojima
+production studio: Madhouse
+
+name: Grave of the Fireflies (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=152
+ranking: 29
+rating: 8.67
+votes: 4556
+genres: drama,
+themes: historical,tragedy,war,World War II,
+premiere date: 1988-04-16 (Japan, released as a double bill with My Neighbor Totoro)
+director: Isao Takahata
+production studio: Seraphim Digital
+
+name: Cross Game (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10580
+ranking: 30
+rating: 8.67
+votes: 678
+genres: drama,romance,tournament,
+themes: baseball,school,sports,tsundere,
+premiere date: unknown
+director: Osamu Sekita
+production studio: Shogakukan-Shueisha Productions
+
+name: Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8495
+ranking: 31
+rating: 8.67
+votes: 2571
+genres: action,drama,psychological,science fiction,
+themes: android,crime,cyberpunk,military,police,politics,virtual reality,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Bandai Entertainment
+
+name: Summer Wars (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10544
+ranking: 32
+rating: 8.66
+votes: 3360
+genres: adventure,comedy,drama,romance,science fiction,thriller,
+themes: computers,family,social-networking,technology,virtual reality,
+premiere date: 2009-08-01 (Japan)
+director: Mamoru Hosoda
+production studio: Fumihiro Hirai
+
+name: Fighting Spirit (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1139
+ranking: 33
+rating: 8.66
+votes: 1617
+genres: comedy,drama,tournament,
+themes: boxing,sports,
+premiere date: unknown
+director: Satoshi Nishimura
+production studio: VAP
+
+name: Hunter × Hunter (TV 2011)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13262
+ranking: 34
+rating: 8.65
+votes: 947
+genres: adventure,comedy,drama,fantasy,tournament,
+themes: bounty hunters,coming-of-age,developing powers,gore,organized crime,special abilities,survival game,
+premiere date: unknown
+director: Hiroshi Koujina
+production studio: Madhouse
+
+name: Fullmetal Alchemist (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960
+ranking: 35
+rating: 8.65
+votes: 13379
+genres: adventure,drama,fantasy,
+themes: alchemy,Homunculi,military,steampunk,tragedy,
+premiere date: unknown
+director: Seiji Mizushima
+production studio: Aniplex
+
+name: Nodame Cantabile (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7010
+ranking: 36
+rating: 8.64
+votes: 2750
+genres: comedy,drama,romance,
+themes: college,music,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: Kouichi Uchida
+
+name: (The) Girl Who Leapt Through Time (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6733
+ranking: 37
+rating: 8.64
+votes: 5497
+genres: adventure,comedy,drama,romance,science fiction,
+themes: school,time travel,
+premiere date: 2006-07-15 (Japan)
+director: Mamoru Hosoda
+production studio: Haruo Kawashima
+
+name: 5 Centimeters Per Second (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6696
+ranking: 38
+rating: 8.64
+votes: 5720
+genres: drama,romance,
+themes: u,n,k,n,o,w,n,
+premiere date: 2007-03-03 (Japan, Cinema Rise theater at Shibuya, Tokyo)
+director: Makoto Shinkai
+production studio: CoMix Wave Films
+
+name: Nausicaä of the Valley of the Wind (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=180
+ranking: 39
+rating: 8.64
+votes: 5010
+genres: adventure,drama,fantasy,science fiction,
+themes: giant insects,post-apocalyptic,
+premiere date: 1984-03-11 (Japan)
+director: Hayao Miyazaki
+production studio: Toru Hara
+
+name: Gurren Lagann (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6698
+ranking: 40
+rating: 8.62
+votes: 6922
+genres: action,comedy,drama,science fiction,
+themes: Burning Manly Passion,mecha,post-apocalyptic,super robot,
+premiere date: unknown
+director: Hiroyuki Imaishi
+production studio: Aniplex
+
+name: (The) Garden of Sinners (movie series)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7472
+ranking: 41
+rating: 8.62
+votes: 1684
+genres: horror,magic,psychological,romance,
+themes: absurdity,gore,murder,
+premiere date: 2007-12-01 (Japan, Part 1 - Fukan Fūkei)
+director: Ei Aoki
+production studio: Aniplex
+
+name: Wolf Children (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13862
+ranking: 42
+rating: 8.60
+votes: 1099
+genres: drama,romance,supernatural,
+themes: country life,family,growing up,wolves,
+premiere date: 2012-06-25 (France, world premiere @ UGC Ciné Cité Les Halles, Paris)
+director: Mamoru Hosoda
+production studio: Fumihiro Hirai
+
+name: My Neighbor Totoro (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=534
+ranking: 43
+rating: 8.60
+votes: 4626
+genres: adventure,comedy,supernatural,
+themes: forest spirits,magical creatures,
+premiere date: 1988-04-16 (Japan)
+director: Hayao Miyazaki
+production studio: Studio Ghibli
+
+name: Baccano! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7492
+ranking: 44
+rating: 8.60
+votes: 4160
+genres: action,comedy,horror,supernatural,
+themes: alchemy,crime,historical,immortality,mafia,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: Aniplex
+
+name: Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14996
+ranking: 45
+rating: 8.59
+votes: 165
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2013-07-06 (Japan)
+director: Yoichi Fujita
+production studio: Aniplex
+
+name: Natsume's Book of Friends (TV 4)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13600
+ranking: 46
+rating: 8.59
+votes: 560
+genres: slice of life,supernatural,
+themes: folklore,spirits,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: NAS
+
+name: Honey and Clover II (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6440
+ranking: 47
+rating: 8.58
+votes: 2045
+genres: comedy,drama,romance,
+themes: Fine Arts,unrequited love,
+premiere date: unknown
+director: Tatsuyuki Nagai
+production studio: Kouichi Uchida
+
+name: Star Blazers 2199 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13776
+ranking: 48
+rating: 8.58
+votes: 300
+genres: adventure,drama,romance,science fiction,
+themes: battleships,conspiracy,military,space,space navy,space opera,spaceships,war,
+premiere date: unknown
+director: unknown
+production studio: Bandai Co., Ltd.
+
+name: Hajime no Ippo: New Challenger (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10387
+ranking: 49
+rating: 8.57
+votes: 710
+genres: comedy,drama,tournament,
+themes: boxing,
+premiere date: unknown
+director: Jun Shishido
+production studio: D.N. Dream Partners
+
+name: Kanon (TV 2/2006)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6431
+ranking: 50
+rating: 8.56
+votes: 3629
+genres: drama,romance,supernatural,
+themes: moe,school,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Hyakkaya
+
+name: GTO: Great Teacher Onizuka (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=153
+ranking: 51
+rating: 8.56
+votes: 4194
+genres: comedy,drama,
+themes: delinquents,school,troublesome kids,
+premiere date: unknown
+director: Noriyuki Abe
+production studio: Aniplex
+
+name: Kino's Journey (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1965
+ranking: 52
+rating: 8.56
+votes: 2642
+genres: adventure,psychological,slice of life,
+themes: parables,tragedy,traveling,
+premiere date: unknown
+director: Ryutaro Nakamura
+production studio: A.C.G.T
+
+name: Time of Eve (ONA)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7998
+ranking: 53
+rating: 8.55
+votes: 1439
+genres: drama,science fiction,
+themes: androids,café,roboethics,robots,
+premiere date: unknown
+director: Yasuhiro Yoshiura
+production studio: Directions, Inc.
+
+name: Howl's Moving Castle (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=889
+ranking: 54
+rating: 8.55
+votes: 6783
+genres: adventure,drama,fantasy,romance,
+themes: sorcery,wizards,
+premiere date: 2004-11-20 (Japan)
+director: Hayao Miyazaki
+production studio: Howl's Moving Castle Production Committee
+
+name: Puella Magi Madoka Magica (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12120
+ranking: 55
+rating: 8.55
+votes: 3460
+genres: action,drama,magic,psychological,thriller,
+themes: Dark fantasy,death,fighting,magical girl,moe,tragedy,witches,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Mushishi Tokubetsu-hen: Hihamukage (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15745
+ranking: 56
+rating: 8.53
+votes: 198
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: Aniplex
+
+name: Time of Eve (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11350
+ranking: 57
+rating: 8.53
+votes: 626
+genres: drama,science fiction,
+themes: androids,café,robots,
+premiere date: unknown
+director: Yasuhiro Yoshiura
+production studio: Directions, Inc.
+
+name: Natsume's Book of Friends (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10254
+ranking: 58
+rating: 8.53
+votes: 1150
+genres: comedy,slice of life,supernatural,
+themes: folklore,Iyashikei,spirits,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: unknown
+
+name: Monogatari Series Second Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15054
+ranking: 59
+rating: 8.53
+votes: 641
+genres: comedy,drama,psychological,romance,supernatural,
+themes: harem,vampires,youkai,
+premiere date: unknown
+director: Eita Higashikubo
+production studio: Aniplex
+
+name: Millennium Actress (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=374
+ranking: 60
+rating: 8.53
+votes: 2344
+genres: drama,psychological,romance,
+themes: historical,
+premiere date: 2001-07-28 (Canada, Fantasia Festival, world premiere)
+director: Satoshi Kon
+production studio: Bandai Visual
+
+name: Kaleido Star (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1805
+ranking: 61
+rating: 8.51
+votes: 2081
+genres: comedy,drama,
+themes: acrobatics,gymnastics,
+premiere date: unknown
+director: Junichi Sato
+production studio: HoriPro
+
+name: Natsume's Book of Friends (TV 3)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12542
+ranking: 62
+rating: 8.50
+votes: 659
+genres: slice of life,supernatural,
+themes: spirits,youkai,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: Aniplex
+
+name: Kids on the Slope (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13944
+ranking: 63
+rating: 8.50
+votes: 1244
+genres: drama,romance,
+themes: coming of age,friendship,music,
+premiere date: unknown
+director: Shinichiro Watanabe
+production studio: Dentsu Inc.
+
+name: Mononoke (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7890
+ranking: 64
+rating: 8.50
+votes: 822
+genres: mystery,supernatural,
+themes: demons,
+premiere date: unknown
+director: Kenji Nakamura
+production studio: Asmik Ace Entertainment, Inc.
+
+name: (The) Melancholy of Haruhi Suzumiya (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6430
+ranking: 65
+rating: 8.49
+votes: 10148
+genres: comedy,science fiction,slice of life,supernatural,
+themes: school,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Kadokawa Pictures
+
+name: Gankutsuou: The Count of Monte Cristo (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4194
+ranking: 66
+rating: 8.49
+votes: 2827
+genres: adventure,drama,mystery,romance,science fiction,
+themes: futuristic,revenge,
+premiere date: unknown
+director: Mahiro Maeda
+production studio: GONZO
+
+name: Clannad (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7809
+ranking: 67
+rating: 8.48
+votes: 6185
+genres: comedy,drama,romance,
+themes: Bishojo,family,harem,high school,moe,school,school life,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Tokyo Broadcasting System
+
+name: Planetes (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2654
+ranking: 68
+rating: 8.48
+votes: 2399
+genres: adventure,drama,romance,science fiction,
+themes: love,space,
+premiere date: unknown
+director: Goro Taniguchi
+production studio: Bandai Visual
+
+name: NANA (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6115
+ranking: 69
+rating: 8.47
+votes: 2039
+genres: drama,romance,
+themes: music,punk rock,relationships,
+premiere date: unknown
+director: Morio Asaka
+production studio: Madhouse
+
+name: Looking Up At The Half-Moon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6300
+ranking: 70
+rating: 8.46
+votes: 2345
+genres: drama,romance,
+themes: hospital,tragedy,
+premiere date: unknown
+director: Yukihiro Matsushita
+production studio: Pony Canyon
+
+name: March comes in like a lion (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19356
+ranking: 71
+rating: 8.46
+votes: 104
+genres: comedy,drama,tournament,
+themes: depression,family,shogi,shougi,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Castle in the Sky (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=481
+ranking: 72
+rating: 8.46
+votes: 4844
+genres: adventure,drama,fantasy,science fiction,
+themes: lost city,steampunk,
+premiere date: 1986-08-02 (Japan)
+director: Hayao Miyazaki
+production studio: Toru Hara
+
+name: Whisper of the Heart (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=847
+ranking: 73
+rating: 8.45
+votes: 2603
+genres: drama,romance,
+themes: growing up,
+premiere date: 1995-07-15 (Japan)
+director: Yoshifumi Kondō
+production studio: Shueisha
+
+name: Your Lie in April (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16108
+ranking: 74
+rating: 8.45
+votes: 1211
+genres: comedy,drama,psychological,romance,
+themes: music,pianist,poetic internal monologue,prodigy,school,trauma,
+premiere date: unknown
+director: Kyōhei Ishiguro
+production studio: Aniplex
+
+name: Ouran High School Host Club (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6122
+ranking: 75
+rating: 8.45
+votes: 6687
+genres: comedy,romance,slice of life,
+themes: bishounen,crossdressing,host club,male harem,parody,school,school life,
+premiere date: unknown
+director: Takuya Igarashi
+production studio: BONES
+
+name: Samurai Champloo (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2636
+ranking: 76
+rating: 8.45
+votes: 7903
+genres: action,drama,
+themes: historical,samurai,swordplay,
+premiere date: unknown
+director: Shinichiro Watanabe
+production studio: Barnum Studio
+
+name: Gurren Lagann the Movie – The Lights in the Sky Are Stars
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10576
+ranking: 77
+rating: 8.44
+votes: 462
+genres: action,drama,romance,science fiction,
+themes: aliens,fighting,mecha,space,super robot,superpowers,
+premiere date: 2009-04-25 (Japan)
+director: Hiroyuki Imaishi
+production studio: Aniplex
+
+name: (The) Beast Player Erin (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10291
+ranking: 78
+rating: 8.44
+votes: 393
+genres: adventure,drama,fantasy,
+themes: beast,magical creatures,politics,tragedy,
+premiere date: unknown
+director: Takayuki Hamana
+production studio: NHK Enterprises
+
+name: Ghost in the Shell: Stand Alone Complex (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=910
+ranking: 79
+rating: 8.43
+votes: 5164
+genres: action,drama,mystery,science fiction,
+themes: android,cyberpunk,cyborg,military,police,virtual reality,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Animax
+
+name: Maria Watches Over Us (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3150
+ranking: 80
+rating: 8.43
+votes: 2011
+genres: drama,romance,
+themes: shoujo-ai,yuri,
+premiere date: unknown
+director: Yukihiro Matsushita
+production studio: d-rights
+
+name: Aria the Origination (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8657
+ranking: 81
+rating: 8.43
+votes: 813
+genres: science fiction,slice of life,
+themes: bishoujo,coming of age,futuristic,gondolas,iyashikei,moe,
+premiere date: unknown
+director: Junichi Sato
+production studio: ARIA Company
+
+name: Angel Beats! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10885
+ranking: 82
+rating: 8.43
+votes: 4744
+genres: action,comedy,drama,fantasy,romance,
+themes: amnesia,death,fighting,girls with guns,gunfights,high school,life after death,music,school,tragedy,tragic past,
+premiere date: unknown
+director: Seiji Kishi
+production studio: Aniplex
+
+name: Spice and Wolf II (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10269
+ranking: 83
+rating: 8.43
+votes: 2189
+genres: adventure,drama,fantasy,romance,
+themes: economics,folklore,love,merchants,
+premiere date: unknown
+director: Takeo Takahashi
+production studio: Kadokawa Pictures
+
+name: A Place Further Than the Universe (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19828
+ranking: 84
+rating: 8.43
+votes: 189
+genres: adventure,comedy,drama,
+themes: antarctica,high school,
+premiere date: unknown
+director: Atsuko Ishizuka
+production studio: unknown
+
+name: Moribito - Guardian of the Spirit (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6634
+ranking: 85
+rating: 8.42
+votes: 2475
+genres: adventure,drama,fantasy,
+themes: assassins,female bodyguard,fugitives,spirits,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Dentsu Inc.
+
+name: Haikyu!! Second Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16660
+ranking: 86
+rating: 8.41
+votes: 270
+genres: comedy,drama,tournament,
+themes: sports,volleyball,
+premiere date: unknown
+director: Susumu Mitsunaka
+production studio: Crystal Ruiz
+
+name: Re:ZERO -Starting Life in Another World- (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17360
+ranking: 87
+rating: 8.41
+votes: 787
+genres: adventure,drama,fantasy,horror,mystery,psychological,romance,thriller,
+themes: butterfly effect,death,gore,other world,parallel universe,tragedy,
+premiere date: unknown
+director: Masaharu Watanabe
+production studio: Media Factory
+
+name: ef: a tale of melodies (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10128
+ranking: 88
+rating: 8.41
+votes: 1221
+genres: drama,psychological,romance,supernatural,
+themes: abuse,connected lives,death,love,orphans,siblings,tragedy,tragic past,
+premiere date: unknown
+director: Shin Oonuma
+production studio: ef Production Committe
+
+name: ef: a tale of memories (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8192
+ranking: 89
+rating: 8.41
+votes: 2455
+genres: drama,psychological,romance,
+themes: amnesia,love triangle,
+premiere date: unknown
+director: Shin Oonuma
+production studio: ef Production Committe
+
+name: Haikyu!! (TV 3)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18459
+ranking: 90
+rating: 8.40
+votes: 188
+genres: tournament,
+themes: sports,volleyball,
+premiere date: unknown
+director: Susumu Mitsunaka
+production studio: Keiji Ota
+
+name: Black Lagoon: The Second Barrage (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6832
+ranking: 91
+rating: 8.40
+votes: 3731
+genres: action,drama,
+themes: crime,girls with guns,mafia,mercenaries,pirates,
+premiere date: unknown
+director: Sunao Katabuchi
+production studio: Black Lagoon Production Team
+
+name: Welcome to the NHK (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6357
+ranking: 92
+rating: 8.40
+votes: 4101
+genres: comedy,drama,psychological,
+themes: conspiracy,dark comedy,hikikomori,NEET,otaku,satire,
+premiere date: unknown
+director: Yusuke Yamamoto
+production studio: NHK ni Youkoso! Production Team
+
+name: Legend of the Galactic Heroes: Overture to a New War (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1865
+ranking: 93
+rating: 8.40
+votes: 180
+genres: drama,science fiction,
+themes: military,space,
+premiere date: 1993-12-18 (Japan)
+director: Keizō Shimizu
+production studio: SUNTORY
+
+name: My Hero Academia (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18485
+ranking: 94
+rating: 8.40
+votes: 404
+genres: action,comedy,drama,science fiction,tournament,
+themes: developing powers,school life,special abilities,superheroes,superpowers,
+premiere date: unknown
+director: Kenji Nagasaki
+production studio: unknown
+
+name: Sword of the Stranger (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2340
+ranking: 95
+rating: 8.39
+votes: 1836
+genres: action,drama,
+themes: historical,samurai,
+premiere date: 2007-09-29 (Japan)
+director: Masahiro Ando
+production studio: unknown
+
+name: Honey and Clover (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4975
+ranking: 96
+rating: 8.39
+votes: 2901
+genres: comedy,romance,slice of life,
+themes: Fine Arts,unrequited love,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: Kouichi Uchida
+
+name: Haibane Renmei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1871
+ranking: 97
+rating: 8.39
+votes: 4070
+genres: drama,fantasy,mystery,psychological,
+themes: angels,iyashikei,redemption,
+premiere date: unknown
+director: Hiroshi Negishi
+production studio: Akihiro Yuasa
+
+name: (The) Twelve Kingdoms (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=840
+ranking: 98
+rating: 8.38
+votes: 2683
+genres: adventure,drama,fantasy,
+themes: demons,other world,politics,
+premiere date: unknown
+director: Tsuneo Kobayashi
+production studio: Nep 21
+
+name: (The) Tale of the Princess Kaguya (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14976
+ranking: 99
+rating: 8.38
+votes: 274
+genres: drama,supernatural,
+themes: coming of age,family,folklore,growing up,mythology,parenting,tragedy,
+premiere date: 2013-11-23 (Japan)
+director: Isao Takahata
+production studio: Koji Hoshino
+
+name: Hunter X Hunter (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1135
+ranking: 100
+rating: 8.38
+votes: 1420
+genres: adventure,drama,fantasy,thriller,
+themes: assassins,organized crime,revenge,special abilities,
+premiere date: unknown
+director: Satoshi Saga
+production studio: Hunter x Hunter OVA Production Committee
+
+name: Cowboy Bebop: The Movie
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=353
+ranking: 101
+rating: 8.38
+votes: 5992
+genres: action,drama,science fiction,
+themes: bounty hunters,space,terrorists,
+premiere date: 2001-09-01 (Japan)
+director: Hiroyuki Okiura
+production studio: Bandai Visual
+
+name: Maquia - When the Promised Flower Blooms (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19848
+ranking: 102
+rating: 8.38
+votes: 26
+genres: adventure,drama,fantasy,
+themes: u,n,k,n,o,w,n,
+premiere date: 2018-02-24 (Japan)
+director: Mari Okada
+production studio: unknown
+
+name: Toradora! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10050
+ranking: 103
+rating: 8.38
+votes: 4883
+genres: comedy,drama,romance,
+themes: coming of age,family,growing up,high school,love rectangle,school,school life,tsundere,unrequited love,
+premiere date: unknown
+director: Tatsuyuki Nagai
+production studio: GENCO
+
+name: Tokyo Godfathers (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2018
+ranking: 104
+rating: 8.38
+votes: 2117
+genres: comedy,drama,
+themes: parenting,
+premiere date: 2003-08-30 (New York - Big Apple Anime Fest)
+director: Satoshi Kon
+production studio: Dentsu Inc.
+
+name: Romeo × Juliet (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7087
+ranking: 105
+rating: 8.38
+votes: 2350
+genres: action,drama,fantasy,romance,
+themes: revenge,star-crossed love,tragedy,
+premiere date: unknown
+director: Fumitoshi Oizaki
+production studio: Chubu-Nippon Broadcasting Co., Ltd.
+
+name: Shōwa Genroku Rakugo Shinjū (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16614
+ranking: 106
+rating: 8.38
+votes: 259
+genres: drama,
+themes: historical,rakugo,
+premiere date: unknown
+director: Mamoru Hatakeyama
+production studio: unknown
+
+name: Mushishi: Zoku-Shō: Suzu no Shizuku (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17020
+ranking: 107
+rating: 8.38
+votes: 80
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2015-05-16 (Japan)
+director: Hiroshi Nagahama
+production studio: unknown
+
+name: Major (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4115
+ranking: 108
+rating: 8.37
+votes: 371
+genres: comedy,drama,tournament,
+themes: baseball,sports,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: NHK
+
+name: (The) Garden of Words (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14995
+ranking: 109
+rating: 8.37
+votes: 905
+genres: drama,romance,
+themes: age-gap relationship,
+premiere date: 2013-04-28 (Australia, Gold Coast Film Festival)
+director: Makoto Shinkai
+production studio: CoMix Wave Films
+
+name: Evangelion: 1.0 You Are (Not) Alone (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8420
+ranking: 110
+rating: 8.37
+votes: 2571
+genres: action,drama,psychological,science fiction,
+themes: aliens,mecha,military,post-apocalyptic,real robot,
+premiere date: 2007-09-01 (Japan)
+director: Kazuya Tsurumaki
+production studio: Khara
+
+name: Maison Ikkoku (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=376
+ranking: 111
+rating: 8.37
+votes: 610
+genres: comedy,drama,romance,
+themes: boarding house,
+premiere date: unknown
+director: Kazuo Yamazaki
+production studio: Fuji Television Network
+
+name: Shirobako (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16189
+ranking: 112
+rating: 8.37
+votes: 539
+genres: slice of life,
+themes: Animation Industry,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: Docomo Anime Store
+
+name: Owarimonogatari (specials)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19397
+ranking: 113
+rating: 8.37
+votes: 87
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Tomoyuki Itamura
+production studio: Aniplex
+
+name: Hellsing Ultimate (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5114
+ranking: 114
+rating: 8.36
+votes: 2653
+genres: action,drama,horror,supernatural,
+themes: gore,nazis,religion,vampires,
+premiere date: unknown
+director: Hiroyuki Tanaka
+production studio: G.D.H.
+
+name: Katanagatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10765
+ranking: 115
+rating: 8.36
+votes: 1301
+genres: action,drama,romance,
+themes: chanbara,historical,martial arts,ninja,swords,swordsman,
+premiere date: unknown
+director: Keitaro Motonaga
+production studio: Aniplex
+
+name: Tsubasa Tokyo Revelations (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8292
+ranking: 116
+rating: 8.36
+votes: 1182
+genres: adventure,drama,fantasy,romance,
+themes: other worlds,
+premiere date: unknown
+director: Shunsuke Tada
+production studio: Kodansha
+
+name: Chihayafuru (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12991
+ranking: 117
+rating: 8.36
+votes: 1025
+genres: drama,
+themes: card games,karuta,
+premiere date: unknown
+director: Morio Asaka
+production studio: Nippon Television Network
+
+name: Full Metal Panic! The Second Raid (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4449
+ranking: 118
+rating: 8.36
+votes: 4967
+genres: action,drama,romance,science fiction,
+themes: mecha,military,real robot,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: Full Metal Panic! Film Partners
+
+name: Mobile Suit Gundam UC (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10806
+ranking: 119
+rating: 8.35
+votes: 408
+genres: action,drama,science fiction,
+themes: mecha,military,real robot,war,
+premiere date: unknown
+director: Kazuhiro Furuhashi
+production studio: Bandai Visual
+
+name: Hunter X Hunter (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1134
+ranking: 120
+rating: 8.35
+votes: 2443
+genres: adventure,drama,fantasy,tournament,
+themes: assassins,revenge,special abilities,
+premiere date: unknown
+director: Miyadah Awda
+production studio: Nippon Animation
+
+name: Gintama. (TV 5/2017)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18901
+ranking: 121
+rating: 8.35
+votes: 71
+genres: comedy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Chizuru Miyawaki
+production studio: unknown
+
+name: ERASED (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17217
+ranking: 122
+rating: 8.35
+votes: 1163
+genres: drama,mystery,psychological,thriller,
+themes: assassins,butterfly effect,time travel,tragedy,
+premiere date: unknown
+director: Tomohiko Ito
+production studio: Aniplex
+
+name: My Hero Academia (TV 3)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20356
+ranking: 123
+rating: 8.35
+votes: 38
+genres: action,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kenji Nagasaki
+production studio: unknown
+
+name: Fate/Zero (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14122
+ranking: 124
+rating: 8.35
+votes: 1522
+genres: action,drama,magic,psychological,thriller,
+themes: fighting,gore,legendary warriors,tragedy,
+premiere date: unknown
+director: Ei Aoki
+production studio: Aniplex
+
+name: BECK: Mongolian Chop Squad (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4404
+ranking: 125
+rating: 8.35
+votes: 2725
+genres: drama,
+themes: high school,music,
+premiere date: unknown
+director: Osamu Kobayashi
+production studio: Asatsu
+
+name: Kimi ni Todoke - From Me to You (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10625
+ranking: 126
+rating: 8.35
+votes: 2811
+genres: comedy,drama,romance,
+themes: school,school life,
+premiere date: unknown
+director: Hiro Kaburagi
+production studio: D.N. Dream Partners
+
+name: (La) Maison en Petits Cubes (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10654
+ranking: 127
+rating: 8.35
+votes: 364
+genres: drama,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kunio Katō
+production studio: Robot
+
+name: Den-noh Coil (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6278
+ranking: 128
+rating: 8.34
+votes: 1390
+genres: adventure,drama,mystery,science fiction,
+themes: augmented reality,computers,technology,
+premiere date: unknown
+director: Mitsuo Iso
+production studio: Bandai Visual
+
+name: Attack on Titan (TV 2/2017)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16681
+ranking: 129
+rating: 8.34
+votes: 533
+genres: action,drama,fantasy,horror,psychological,thriller,
+themes: dystopia,military,post-apocalyptic,shapeshifting,superpowers,titans/giants,tragedy,
+premiere date: unknown
+director: Masashi Koizuka
+production studio: Dentsu Inc.
+
+name: Bakuman. 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12311
+ranking: 130
+rating: 8.33
+votes: 664
+genres: comedy,drama,
+themes: manga,Mangaká,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: NHK
+
+name: Natsume's Book of Friends (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9419
+ranking: 131
+rating: 8.33
+votes: 1550
+genres: slice of life,supernatural,
+themes: folklore,Iyashikei,spirits,youkai,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: NAS
+
+name: Nodame Cantabile: Paris (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9859
+ranking: 132
+rating: 8.33
+votes: 1295
+genres: comedy,drama,romance,
+themes: music,
+premiere date: unknown
+director: Chiaki Kon
+production studio: Asmik Ace Entertainment, Inc.
+
+name: Berserk (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=328
+ranking: 133
+rating: 8.33
+votes: 4483
+genres: action,drama,fantasy,horror,
+themes: bloodshed,demons,medieval,middle ages,sword-fights,swordplay,war,
+premiere date: unknown
+director: Michael Sinterniklaas
+production studio: Hakusensha
+
+name: Brave King GaoGaiGar Final (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2066
+ranking: 134
+rating: 8.33
+votes: 134
+genres: action,adventure,drama,science fiction,
+themes: mecha,
+premiere date: unknown
+director: Yoshitomo Kometani
+production studio: Sunrise
+
+name: JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17832
+ranking: 135
+rating: 8.33
+votes: 170
+genres: action,supernatural,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Naokatsu Tsuda
+production studio: JoJo's Bizarre Adventure DU Production Committee
+
+name: Kaiba (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9178
+ranking: 136
+rating: 8.32
+votes: 625
+genres: adventure,drama,fantasy,psychological,romance,science fiction,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Masaaki Yuasa
+production studio: Madhouse
+
+name: Ashita no Joe 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=915
+ranking: 137
+rating: 8.32
+votes: 55
+genres: u,n,k,n,o,w,n,
+themes: boxing,sports,
+premiere date: unknown
+director: Osamu Dezaki
+production studio: Tokyo Movie Shinsha
+
+name: Ping Pong (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15852
+ranking: 138
+rating: 8.31
+votes: 312
+genres: psychological,slice of life,tournament,
+themes: coming of age,ping pong,sports,
+premiere date: unknown
+director: Masaaki Yuasa
+production studio: Aniplex
+
+name: One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14669
+ranking: 139
+rating: 8.31
+votes: 195
+genres: drama,
+themes: pirates,superpowers,
+premiere date: unknown
+director: Katsumi Tokoro
+production studio: unknown
+
+name: Princess Tutu (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1267
+ranking: 140
+rating: 8.31
+votes: 1367
+genres: drama,magic,psychological,romance,
+themes: ballet,fairy tales,magical girl,
+premiere date: unknown
+director: Kiyoko Sayama
+production studio: Dentsu Inc.
+
+name: Conan, the Boy in Future (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=899
+ranking: 141
+rating: 8.31
+votes: 347
+genres: adventure,drama,science fiction,
+themes: post-apocalyptic,12,
+premiere date: unknown
+director: unknown
+production studio: NHK
+
+name: Natsume Yūjin-Chō Roku (TV 6)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18942
+ranking: 142
+rating: 8.30
+votes: 121
+genres: drama,supernatural,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kotomi Deai
+production studio: NAS
+
+name: Hotarubi no Mori e (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12543
+ranking: 143
+rating: 8.30
+votes: 594
+genres: drama,romance,supernatural,
+themes: spirits,
+premiere date: 2011-09-17 (Japan)
+director: Takahiro Ōmori
+production studio: Aniplex
+
+name: Full Metal Panic? Fumoffu (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=155
+ranking: 144
+rating: 8.30
+votes: 6016
+genres: action,comedy,slice of life,
+themes: mecha,military,school,school life,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: Ani Village
+
+name: Azumanga Daioh (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=799
+ranking: 145
+rating: 8.30
+votes: 5544
+genres: comedy,slice of life,
+themes: Growing Up,iyashikei,school,school life,
+premiere date: unknown
+director: Hiroshi Nishikiori
+production studio: Azumanga Daioh Production Committee
+
+name: Eden of the East (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10474
+ranking: 146
+rating: 8.29
+votes: 3748
+genres: adventure,mystery,psychological,romance,thriller,
+themes: amnesia,neet,political fiction,politics,social-networking,society,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Hiroko Yamada
+
+name: Nodame Cantabile: Finale (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10950
+ranking: 147
+rating: 8.29
+votes: 820
+genres: comedy,drama,romance,
+themes: music,
+premiere date: unknown
+director: Chiaki Kon
+production studio: Asmik Ace Entertainment, Inc.
+
+name: Haikyu!! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15683
+ranking: 148
+rating: 8.29
+votes: 482
+genres: comedy,slice of life,tournament,
+themes: sport,volleyball,
+premiere date: unknown
+director: Susumu Mitsunaka
+production studio: Mainichi Broadcasting System
+
+name: (The) Rose of Versailles (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=451
+ranking: 149
+rating: 8.29
+votes: 482
+genres: drama,fantasy,romance,
+themes: crossdressing,historical,politics,royalty,
+premiere date: unknown
+director: Osamu Dezaki
+production studio: Tokyo Movie Shinsha
+
+name: Hunter X Hunter: G I Final (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3177
+ranking: 150
+rating: 8.29
+votes: 1342
+genres: adventure,comedy,fantasy,
+themes: developing powers,survival game,virtual reality,
+premiere date: unknown
+director: Makoto Satō
+production studio: Hunter x Hunter OVA Production Committee
+
+name: Yuri!!! on Ice (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18191
+ranking: 151
+rating: 8.28
+votes: 399
+genres: comedy,drama,tournament,
+themes: ice-skating,shounen-ai,sports,
+premiere date: unknown
+director: Sayo Yamamoto
+production studio: unknown
+
+name: Assassination Classroom (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17686
+ranking: 152
+rating: 8.28
+votes: 366
+genres: action,comedy,drama,science fiction,
+themes: aliens,assassins,school,
+premiere date: unknown
+director: Seiji Kishi
+production studio: BS Fuji
+
+name: Berserk: The Golden Age Arc III - The Advent (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13800
+ranking: 153
+rating: 8.28
+votes: 399
+genres: action,horror,
+themes: u,n,k,n,o,w,n,
+premiere date: 2013-02-01 (Japan)
+director: Toshiyuki Kubooka
+production studio: BERSERK FILM PARTNERS
+
+name: Kimi ni Todoke 2nd Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11983
+ranking: 154
+rating: 8.27
+votes: 1399
+genres: comedy,drama,romance,
+themes: School,
+premiere date: unknown
+director: Hiro Kaburagi
+production studio: D.N. Dream Partners
+
+name: Girls und Panzer der Film (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16864
+ranking: 155
+rating: 8.27
+votes: 127
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2015-11-21 (Japan Theater Premiere)
+director: Tsutomu Mizushima
+production studio: Bandai Visual
+
+name: Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17219
+ranking: 156
+rating: 8.27
+votes: 82
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: Aniplex
+
+name: Trigun (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=88
+ranking: 157
+rating: 8.27
+votes: 7955
+genres: action,comedy,drama,science fiction,
+themes: post-apocalyptic,space western,western,
+premiere date: unknown
+director: Satoshi Nishimura
+production studio: Victor Entertainment
+
+name: Hanasaku Iroha - Blossoms for Tomorrow (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11795
+ranking: 158
+rating: 8.27
+votes: 1242
+genres: comedy,drama,romance,
+themes: coming of age,family,friends,hot springs,
+premiere date: unknown
+director: Masahiro Ando
+production studio: Bandai Visual
+
+name: Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6717
+ranking: 159
+rating: 8.27
+votes: 1722
+genres: action,mystery,science fiction,
+themes: cyberpunk,police,
+premiere date: 2006-09-01 (Japan, as a TV movie on SKYPerfecTV! network)
+director: Kenji Kamiyama
+production studio: Production I.G
+
+name: Mob Psycho 100 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18064
+ranking: 160
+rating: 8.27
+votes: 465
+genres: action,comedy,supernatural,
+themes: espers,special abilities,superpowers,
+premiere date: unknown
+director: Yuzuru Tachikawa
+production studio: BONES
+
+name: Paprika (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6142
+ranking: 161
+rating: 8.27
+votes: 3069
+genres: mystery,psychological,science fiction,thriller,
+themes: dreams,
+premiere date: 2006-09-02 ( Italy , Venice Film Festival )
+director: Satoshi Kon
+production studio: Sony Pictures
+
+name: Spice and Wolf (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8537
+ranking: 162
+rating: 8.26
+votes: 3776
+genres: adventure,drama,fantasy,romance,
+themes: economics,trading,wolf girls,
+premiere date: unknown
+director: Takeo Takahashi
+production studio: Spice & Wolf Production Committee
+
+name: Violet Evergarden (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19665
+ranking: 163
+rating: 8.26
+votes: 261
+genres: drama,fantasy,science fiction,
+themes: living dolls,military,steampunk,tragic past,war,
+premiere date: unknown
+director: Taichi Ishidate
+production studio: ABC Animation
+
+name: School Rumble: 2nd Semester (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6375
+ranking: 164
+rating: 8.26
+votes: 2484
+genres: comedy,drama,romance,
+themes: love polygon,parodies,school,school life,
+premiere date: unknown
+director: Takaomi Kanasaki
+production studio: Marvelous Entertainment
+
+name: Magnetic Rose (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=425
+ranking: 165
+rating: 8.26
+votes: 596
+genres: drama,horror,psychological,science fiction,supernatural,
+themes: cyberpunk,ghosts,
+premiere date: 1995-12-23 (Japan)
+director: Koji Morimoto
+production studio: Studio 4°C
+
+name: R.O.D -The TV-
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1989
+ranking: 166
+rating: 8.26
+votes: 3380
+genres: action,drama,mystery,science fiction,
+themes: conspiracies,secret agents,superpowers,
+premiere date: unknown
+director: Koji Masunari
+production studio: Aniplex
+
+name: Gungrave (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2635
+ranking: 167
+rating: 8.26
+votes: 3720
+genres: action,drama,magic,science fiction,
+themes: mafia,revenge,tragedy,
+premiere date: unknown
+director: Toshiyuki Tsuru
+production studio: Flying Dog
+
+name: Sound! Euphonium 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18558
+ranking: 168
+rating: 8.25
+votes: 193
+genres: drama,
+themes: bands,school,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Kyoto Animation
+
+name: Last Exile (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2294
+ranking: 169
+rating: 8.25
+votes: 4501
+genres: adventure,drama,fantasy,science fiction,
+themes: flying battleship,steampunk,
+premiere date: unknown
+director: Koichi Chigira
+production studio: MC Entertainment
+
+name: (The) Eccentric Family 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18812
+ranking: 170
+rating: 8.25
+votes: 121
+genres: comedy,drama,fantasy,
+themes: family,folklore,gender switch,shapeshifting,youkai,
+premiere date: unknown
+director: Masayuki Yoshihara
+production studio: unknown
+
+name: Land of the Lustrous (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19614
+ranking: 171
+rating: 8.25
+votes: 212
+genres: action,drama,fantasy,mystery,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Takahiko Kyōgoku
+production studio: Crystal Ruiz
+
+name: When Marnie Was There (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15761
+ranking: 172
+rating: 8.25
+votes: 260
+genres: drama,magic,psychological,
+themes: growing up,
+premiere date: 2014-07-19 (Japan)
+director: Hiromasa Yonebayashi
+production studio: Koji Hoshino
+
+name: Rurouni Kenshin (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=73
+ranking: 173
+rating: 8.25
+votes: 5937
+genres: action,comedy,drama,
+themes: historical,martial arts,politics,samurai,swordplay,
+premiere date: unknown
+director: Kazuhiro Furuhashi
+production studio: Aniplex
+
+name: Bakuman. 3 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13867
+ranking: 174
+rating: 8.25
+votes: 498
+genres: drama,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: NHK
+
+name: Comedy (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3554
+ranking: 175
+rating: 8.25
+votes: 843
+genres: drama,supernatural,
+themes: historical,war,
+premiere date: unknown
+director: Kazuto Nakazawa
+production studio: Studio 4°C
+
+name: Natsume Yūjin-Chō Go (TV 5)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18168
+ranking: 176
+rating: 8.25
+votes: 145
+genres: drama,supernatural,
+themes: spirits,
+premiere date: unknown
+director: Kotomi Deai
+production studio: NAS
+
+name: Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1802
+ranking: 177
+rating: 8.24
+votes: 253
+genres: science fiction,
+themes: historical,military,space,
+premiere date: 1988-02-06 (Japan)
+director: Noboru Ishiguro
+production studio: Kitty Films
+
+name: Skip Beat! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10091
+ranking: 178
+rating: 8.24
+votes: 2205
+genres: comedy,drama,romance,
+themes: acting,idols,inner demons,revenge,stardom,
+premiere date: unknown
+director: Kiyoko Sayama
+production studio: Hakusensha
+
+name: xxxHOLiC: Kei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8551
+ranking: 179
+rating: 8.23
+votes: 1111
+genres: comedy,drama,horror,mystery,psychological,supernatural,
+themes: folklore,spirits,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: BMG Japan
+
+name: Bakemonogatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10196
+ranking: 180
+rating: 8.23
+votes: 3472
+genres: adventure,comedy,drama,mystery,psychological,romance,supernatural,
+themes: absurdity,dark comedy,ecchi,fanservice,harem,magic and occult,spirits,vampires,youkai,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Neon Genesis Evangelion: The End of Evangelion (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=419
+ranking: 181
+rating: 8.23
+votes: 4855
+genres: action,drama,psychological,science fiction,
+themes: mecha,
+premiere date: 1997-07-19 (Japan)
+director: Hideaki Anno
+production studio: Hiroyuki Yamaga
+
+name: Attack on Titan (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14950
+ranking: 182
+rating: 8.23
+votes: 3886
+genres: action,drama,fantasy,horror,psychological,thriller,
+themes: Dystopia,military,post-apocalyptic,shapeshifting,superpowers,titans/giants,tragedy,
+premiere date: unknown
+director: Tetsuro Araki
+production studio: Dentsu Inc.
+
+name: (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=366
+ranking: 183
+rating: 8.23
+votes: 746
+genres: action,drama,romance,science fiction,
+themes: aliens,love triangle,mecha,military,musical,space,
+premiere date: 1984-07-07 (Japan)
+director: Noboru Ishiguro
+production studio: Artland
+
+name: In This Corner of the World (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17177
+ranking: 184
+rating: 8.22
+votes: 125
+genres: drama,
+themes: historical,World War II,
+premiere date: 2016-11-12 (Japan)
+director: Sunao Katabuchi
+production studio: AT-X
+
+name: Master Keaton (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7081
+ranking: 185
+rating: 8.22
+votes: 120
+genres: adventure,drama,mystery,
+themes: military,police,
+premiere date: unknown
+director: unknown
+production studio: Shogakukan-Shueisha Productions
+
+name: Kiki's Delivery Service (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=595
+ranking: 186
+rating: 8.22
+votes: 4033
+genres: adventure,drama,magic,
+themes: Growing up,witches,
+premiere date: 1989-07-29 (Japan)
+director: Hayao Miyazaki
+production studio: Studio Ghibli
+
+name: Hunter X Hunter: Greed Island (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2282
+ranking: 187
+rating: 8.22
+votes: 1366
+genres: adventure,fantasy,
+themes: developing powers,survival game,virtual reality,
+premiere date: unknown
+director: Yukihiro Matsushita
+production studio: Nippon Animation
+
+name: Romeo and the Black Brothers (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2019
+ranking: 188
+rating: 8.22
+votes: 79
+genres: drama,romance,slice of life,
+themes: historical,
+premiere date: unknown
+director: Kōzō Kusuba
+production studio: Fuji Television Network
+
+name: Hajime no Ippo - Champion Road (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3470
+ranking: 189
+rating: 8.22
+votes: 646
+genres: drama,tournament,
+themes: boxing,sports,
+premiere date: unknown
+director: Satoshi Nishimura
+production studio: unknown
+
+name: No Game, No Life Zero (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19405
+ranking: 190
+rating: 8.21
+votes: 95
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2017-07-15 (Japan)
+director: Atsuko Ishizuka
+production studio: unknown
+
+name: Gintama (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6236
+ranking: 191
+rating: 8.21
+votes: 1298
+genres: action,adventure,comedy,drama,fantasy,science fiction,
+themes: Aliens,historical,parody,Samurai,
+premiere date: unknown
+director: Shinji Takamatsu
+production studio: Dentsu Inc.
+
+name: (The) Super Dimension Fortress Macross (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=355
+ranking: 192
+rating: 8.21
+votes: 1046
+genres: action,drama,romance,science fiction,
+themes: aliens,giants,love triangle,mecha,military,real robot,space,space battles,space navy,war,
+premiere date: unknown
+director: unknown
+production studio: Anime Friend
+
+name: Tiger & Bunny (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12198
+ranking: 193
+rating: 8.21
+votes: 1086
+genres: action,comedy,drama,science fiction,
+themes: fighting,secret identity,super hero,superpowers,
+premiere date: unknown
+director: Keiichi Satō
+production studio: Bandai Visual
+
+name: Black Lagoon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6159
+ranking: 194
+rating: 8.21
+votes: 4966
+genres: action,drama,
+themes: crime,girls with guns,mafia,mercenaries,pirates,
+premiere date: unknown
+director: Sunao Katabuchi
+production studio: Black Lagoon Production Team
+
+name: Fate/stay night: Unlimited Blade Works (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15843
+ranking: 195
+rating: 8.21
+votes: 775
+genres: action,drama,supernatural,
+themes: fighting,legendary warriors,school,
+premiere date: unknown
+director: Takahiro Miura
+production studio: Aniplex
+
+name: Neon Genesis Evangelion (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=49
+ranking: 196
+rating: 8.21
+votes: 10144
+genres: action,drama,psychological,science fiction,
+themes: Angst,hybrid robot,mecha,military,post-apocalyptic,super robot,tragedy,
+premiere date: unknown
+director: Hideaki Anno
+production studio: GAINAX
+
+name: One Outs (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10199
+ranking: 197
+rating: 8.21
+votes: 435
+genres: psychological,tournament,
+themes: baseball,sports,
+premiere date: unknown
+director: Yuzo Sato
+production studio: D.N. Dream Partners
+
+name: Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6243
+ranking: 198
+rating: 8.21
+votes: 513
+genres: action,science fiction,
+themes: cyberpunk,terrorism,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Bandai Entertainment
+
+name: (The) Anthem of the Heart (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16728
+ranking: 199
+rating: 8.21
+votes: 177
+genres: drama,romance,supernatural,
+themes: growing up,school,tragic past,
+premiere date: 2015-09-19 (Japan)
+director: Tatsuyuki Nagai
+production studio: A-1 Pictures
+
+name: (The) Boy and The Beast (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16693
+ranking: 200
+rating: 8.20
+votes: 313
+genres: adventure,drama,fantasy,
+themes: beast,fighting,parallel universe,
+premiere date: 2015-07-11 (Japan)
+director: Mamoru Hosoda
+production studio: Chukyo TV
+
+name: Food Wars! Shokugeki no Soma (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16344
+ranking: 201
+rating: 8.20
+votes: 649
+genres: comedy,drama,tournament,
+themes: cooking,ecchi,food,school,
+premiere date: unknown
+director: Yoshitomo Yonetani
+production studio: Hiroo Maruyama
+
+name: Darker than Black (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7382
+ranking: 202
+rating: 8.20
+votes: 5247
+genres: action,drama,mystery,psychological,science fiction,supernatural,
+themes: assassins,conspiracy,crime,fighting,living dolls,neo-noir,police,superhuman,superpowers,
+premiere date: unknown
+director: Tensai Okamura
+production studio: Aniplex
+
+name: Macross Frontier (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8586
+ranking: 203
+rating: 8.20
+votes: 1566
+genres: action,drama,romance,science fiction,
+themes: aliens,idols,love triangle,mecha,military,music,space,
+premiere date: unknown
+director: Yasuhito Kikuchi
+production studio: Bandai Visual
+
+name: Fate/Zero (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12376
+ranking: 204
+rating: 8.20
+votes: 2047
+genres: action,drama,fantasy,psychological,
+themes: fighting,legendary warriors,spirits,
+premiere date: unknown
+director: Ei Aoki
+production studio: Aniplex
+
+name: Mobile Suit Gundam 00 Second Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10157
+ranking: 205
+rating: 8.20
+votes: 1531
+genres: action,drama,science fiction,
+themes: mecha,military,real robot,war,
+premiere date: unknown
+director: Seiji Mizushima
+production studio: Mainichi Broadcasting System
+
+name: Space Brothers (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13890
+ranking: 206
+rating: 8.19
+votes: 328
+genres: science fiction,
+themes: astronaut,brothers,childhood dream,JAXA,mature,NASA,space,technology,
+premiere date: unknown
+director: Ayumu Watanabe
+production studio: A-1 Pictures
+
+name: Hinamatsuri (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20335
+ranking: 207
+rating: 8.19
+votes: 203
+genres: comedy,slice of life,supernatural,
+themes: espers,special abilities,yakuza,
+premiere date: unknown
+director: Kei Oikawa
+production studio: unknown
+
+name: Monthly Girls' Nozaki-kun (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16036
+ranking: 208
+rating: 8.18
+votes: 967
+genres: comedy,romance,
+themes: manga,school,
+premiere date: unknown
+director: Mitsue Yamazaki
+production studio: AT-X
+
+name: Gosick (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11759
+ranking: 209
+rating: 8.18
+votes: 1645
+genres: adventure,drama,mystery,romance,
+themes: alternate history,detective,folklore,gothic lolita,occult,war,
+premiere date: unknown
+director: Hitoshi Nanba
+production studio: BONES
+
+name: Nichijou - My Ordinary Life (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12142
+ranking: 210
+rating: 8.18
+votes: 980
+genres: comedy,slice of life,
+themes: absurdity,School life,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Kadokawa Pictures
+
+name: Welcome to THE SPACE SHOW (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9174
+ranking: 211
+rating: 8.18
+votes: 671
+genres: adventure,science fiction,
+themes: aliens,space,
+premiere date: 2010-05-22 (UK, BFI's Anime Weekend at the National Film Theatre)
+director: Koji Masunari
+production studio: Atsuhiro Iwakami
+
+name: Denpa teki na Kanojo (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10519
+ranking: 212
+rating: 8.18
+votes: 1142
+genres: drama,horror,psychological,
+themes: crime,death,yandere,
+premiere date: unknown
+director: Mamoru Kanbe
+production studio: unknown
+
+name: Lupin III: The Castle of Cagliostro (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=127
+ranking: 213
+rating: 8.17
+votes: 1751
+genres: adventure,comedy,
+themes: crime,thief,
+premiere date: 1979-12-15 (Japan)
+director: Hayao Miyazaki
+production studio: Kazuhiko Yagiuchi
+
+name: Aria the Avvenire (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16769
+ranking: 214
+rating: 8.17
+votes: 55
+genres: slice of life,
+themes: iyashikei,
+premiere date: unknown
+director: Junichi Sato
+production studio: Shochiku
+
+name: Elfen Lied (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4148
+ranking: 215
+rating: 8.17
+votes: 10411
+genres: action,drama,horror,psychological,romance,science fiction,
+themes: amnesia,ecchi,gore,multiple personality,mutants,superpowers,tragedy,
+premiere date: unknown
+director: Mamoru Kanbe
+production studio: GENCO
+
+name: One Punch Man (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16840
+ranking: 216
+rating: 8.17
+votes: 1610
+genres: action,comedy,
+themes: cyborg,fighting,gore,parody,superhero,
+premiere date: unknown
+director: Shingo Natsume
+production studio: Asatsu
+
+name: Emma: A Victorian Romance Second Act (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7489
+ranking: 217
+rating: 8.17
+votes: 432
+genres: drama,romance,
+themes: historical,
+premiere date: unknown
+director: Tsuneo Kobayashi
+production studio: Ajiado
+
+name: Nobody's Boy Remi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2130
+ranking: 218
+rating: 8.17
+votes: 104
+genres: adventure,drama,slice of life,
+themes: historical,moe,
+premiere date: unknown
+director: Osamu Dezaki
+production studio: TMS Entertainment
+
+name: Wolf's Rain (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3521
+ranking: 219
+rating: 8.17
+votes: 1800
+genres: adventure,drama,
+themes: apocalyptic,tragedy,wolves,
+premiere date: unknown
+director: Tensai Okamura
+production studio: Asatsu-DK
+
+name: Rainbow - Nisha Rokubō no Shichinin (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9700
+ranking: 220
+rating: 8.16
+votes: 425
+genres: drama,horror,romance,thriller,
+themes: abuse,boxing,delinquents,prison,
+premiere date: unknown
+director: Hiroshi Koujina
+production studio: VAP
+
+name: No Game, No Life (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15784
+ranking: 221
+rating: 8.16
+votes: 1512
+genres: adventure,comedy,fantasy,
+themes: alternate world,ecchi,fanservice,game,game manipulations,hikikomori,NEET,parody,strategic minds,
+premiere date: unknown
+director: Atsuko Ishizuka
+production studio: Kadokawa Corporation
+
+name: My Hero Academia (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17786
+ranking: 222
+rating: 8.16
+votes: 726
+genres: action,comedy,drama,science fiction,
+themes: developing powers,school life,special abilities,superheroes,superpowers,
+premiere date: unknown
+director: Kenji Nagasaki
+production studio: Toho Animation
+
+name: Junjō Romantica 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10183
+ranking: 223
+rating: 8.16
+votes: 648
+genres: comedy,drama,erotica,romance,
+themes: bishounen,insecurities in a relationship,Intense,shounen-ai,trust,yaoi,
+premiere date: unknown
+director: Chiaki Kon
+production studio: Frontier Works
+
+name: Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5644
+ranking: 224
+rating: 8.16
+votes: 566
+genres: action,drama,mystery,psychological,science fiction,
+themes: cyberpunk,police,
+premiere date: unknown
+director: Kenji Kamiyama
+production studio: Animax
+
+name: Magical Girl Lyrical Nanoha the Movie 2nd A's
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12221
+ranking: 225
+rating: 8.16
+votes: 90
+genres: action,comedy,drama,
+themes: magical girl,Super power,
+premiere date: 2012-07-14 (Japan)
+director: Keizou Kusakawa
+production studio: Aniplex
+
+name: Eureka Seven (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4797
+ranking: 226
+rating: 8.16
+votes: 4711
+genres: adventure,drama,romance,science fiction,
+themes: aliens,fighting,growing up,mecha,military,real robot,
+premiere date: unknown
+director: Kazuya Murata
+production studio: Bandai Entertainment
+
+name: Tokyo Magnitude 8.0 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10704
+ranking: 227
+rating: 8.16
+votes: 988
+genres: adventure,drama,
+themes: disaster,earthquake,tragedy,
+premiere date: unknown
+director: Masaki Tachibana
+production studio: Asmik Ace Entertainment, Inc.
+
+name: Kill la Kill (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15336
+ranking: 228
+rating: 8.15
+votes: 1687
+genres: action,comedy,drama,fantasy,science fiction,
+themes: absurdity,ecchi,fanservice,fighting,school war,
+premiere date: unknown
+director: Hiroyuki Imaishi
+production studio: Aniplex
+
+name: Kizumonogatari Part 1: Tekketsu (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11789
+ranking: 229
+rating: 8.15
+votes: 165
+genres: action,mystery,romance,supernatural,
+themes: harem,Vampire,
+premiere date: 2016-01-08 (Japan)
+director: Tatsuya Oishi
+production studio: Aniplex
+
+name: School Rumble (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4114
+ranking: 230
+rating: 8.15
+votes: 3865
+genres: comedy,romance,slice of life,
+themes: bishoujo,love polygon,parody,school,school life,
+premiere date: unknown
+director: Shinji Takamatsu
+production studio: Marvelous Entertainment
+
+name: Parasyte -the maxim- (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15855
+ranking: 231
+rating: 8.15
+votes: 1249
+genres: action,drama,horror,psychological,romance,science fiction,
+themes: aliens,blunted affect,crime,fighting,gore,tragedy,
+premiere date: unknown
+director: Kenichi Shimizu
+production studio: Forecast Communications
+
+name: Ghost in the Shell (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=465
+ranking: 232
+rating: 8.14
+votes: 5748
+genres: action,psychological,science fiction,
+themes: cyberpunk,cyborg,police,
+premiere date: 1995-11-18 (Japan)
+director: Mamoru Oshii
+production studio: Bandai Visual
+
+name: Now and Then, Here and There (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=287
+ranking: 233
+rating: 8.14
+votes: 2210
+genres: adventure,drama,science fiction,
+themes: Another world,military,post-apocalyptic,war,
+premiere date: unknown
+director: Akitarō Daichi
+production studio: AIC
+
+name: Wagnaria!!3 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16648
+ranking: 234
+rating: 8.14
+votes: 278
+genres: comedy,romance,slice of life,
+themes: cafe,workplace,
+premiere date: unknown
+director: Yumi Kamakura
+production studio: Aniplex
+
+name: Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13799
+ranking: 235
+rating: 8.14
+votes: 463
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2012-06-23 (Japan)
+director: Toshiyuki Kubooka
+production studio: BERSERK FILM PARTNERS
+
+name: Puella Magi Madoka Magica the Movie Part 2: Eternal
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14364
+ranking: 236
+rating: 8.14
+votes: 447
+genres: action,drama,magic,psychological,thriller,
+themes: death,fighting,girls with guns,magical girls,tragedy,witches,
+premiere date: 2012-10-13 (Japan)
+director: Yukihiro Miyamoto
+production studio: Aniplex
+
+name: planetarian: Hoshi no Hito (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18282
+ranking: 237
+rating: 8.14
+votes: 23
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2016-09-03 (Japan)
+director: Naokatsu Tsuda
+production studio: Asmik Ace, Inc.
+
+name: Puella Magi Madoka Magica the Movie Part 1: Beginnings
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14363
+ranking: 238
+rating: 8.13
+votes: 419
+genres: action,drama,magic,psychological,thriller,
+themes: death,fighting,girls with guns,magical girls,tragedy,witches,
+premiere date: 2012-10-06 (Japan)
+director: Yukihiro Miyamoto
+production studio: Aniplex
+
+name: Kizumonogatari Part 2: Nekketsu (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17949
+ranking: 239
+rating: 8.13
+votes: 127
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2016-08-19 (Japan)
+director: Tatsuya Oishi
+production studio: Aniplex
+
+name: Kizumonogatari Part 3: Reiketsu (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18896
+ranking: 240
+rating: 8.13
+votes: 108
+genres: action,mystery,romance,supernatural,
+themes: ecchi,fanservice,gore,harem,vampire,
+premiere date: 2017-01-06 (Japan)
+director: Tatsuya Oishi
+production studio: Aniplex
+
+name: Porco Rosso (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=855
+ranking: 241
+rating: 8.13
+votes: 2432
+genres: adventure,comedy,
+themes: aircraft,historical,
+premiere date: 1992-07-18 (Japan)
+director: Hayao Miyazaki
+production studio: Japan Airline
+
+name: Kimagure Orange Road: The Movie
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=493
+ranking: 242
+rating: 8.13
+votes: 357
+genres: drama,romance,
+themes: love triangle,
+premiere date: 1988-10-08 (Japan)
+director: Tomomi Mochizuki
+production studio: Pierrot
+
+name: Lovely Complex (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7468
+ranking: 243
+rating: 8.13
+votes: 2090
+genres: comedy,drama,romance,
+themes: Kansai-ben,love,school,school life,
+premiere date: unknown
+director: unknown
+production studio: Shueisha
+
+name: (The) Place Promised in Our Early Days (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2324
+ranking: 244
+rating: 8.13
+votes: 2504
+genres: adventure,drama,romance,science fiction,
+themes: u,n,k,n,o,w,n,
+premiere date: 2004-11-20 (Japan - Cinema Rise Roadshow)
+director: Makoto Shinkai
+production studio: CoMix Wave Films
+
+name: Hikaru No Go: New Year Special
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3433
+ranking: 245
+rating: 8.13
+votes: 518
+genres: comedy,drama,tournament,
+themes: games,sports,
+premiere date: unknown
+director: Tetsuya Endo
+production studio: Dentsu Inc.
+
+name: Cardcaptor Sakura Movie 2: The Sealed Card
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2026
+ranking: 246
+rating: 8.13
+votes: 1538
+genres: magic,romance,
+themes: magical girl,
+premiere date: 2000-07-15 (Japan)
+director: Morio Asaka
+production studio: Bandai Visual
+
+name: Hajime no Ippo - Mashiba vs. Kimura (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3469
+ranking: 247
+rating: 8.13
+votes: 554
+genres: comedy,drama,tournament,
+themes: boxing,sports,
+premiere date: unknown
+director: unknown
+production studio: unknown
+
+name: Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1800
+ranking: 248
+rating: 8.12
+votes: 92
+genres: science fiction,
+themes: military,space,
+premiere date: unknown
+director: Keizō Shimizu
+production studio: Hiroaki Antachi
+
+name: Detroit Metal City (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10172
+ranking: 249
+rating: 8.12
+votes: 864
+genres: comedy,
+themes: music,stardom,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: Beyond C.
+
+name: Mobile Suit Gundam - The Movie Trilogy
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=154
+ranking: 250
+rating: 8.12
+votes: 528
+genres: action,drama,science fiction,
+themes: mecha,military,real robot,space,space colonies,space navy,
+premiere date: 1981-03-14 (Japan, Mobile Suit Gundam I)
+director: Ryoji Fujiwara
+production studio: Sunrise
+
+name: (The) Wind Rises (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14975
+ranking: 251
+rating: 8.12
+votes: 507
+genres: drama,romance,
+themes: historical,World War II,
+premiere date: 2013-07-20 (Japan)
+director: Hayao Miyazaki
+production studio: Buena Vista Home Entertainment
+
+name: Puella Magi Madoka Magica The Movie Part 3: Rebellion
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14850
+ranking: 252
+rating: 8.12
+votes: 612
+genres: action,drama,magic,psychological,thriller,
+themes: fighting,girls with guns,magical girls,tragedy,witches,
+premiere date: 2013-10-26 (Japan)
+director: Yukihiro Miyamoto
+production studio: Aniplex
+
+name: Strawberry Panic! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6176
+ranking: 253
+rating: 8.12
+votes: 2243
+genres: drama,romance,
+themes: yuri,
+premiere date: unknown
+director: Masayuki Sakoi
+production studio: Dwango
+
+name: (The) Slayers Next (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=220
+ranking: 254
+rating: 8.12
+votes: 1316
+genres: adventure,comedy,fantasy,
+themes: demons,fighting,monsters,sword and sorcery,
+premiere date: unknown
+director: Heisaku Wada
+production studio: J.C. Staff
+
+name: One Piece Film Strong World (movie 10)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10855
+ranking: 255
+rating: 8.12
+votes: 358
+genres: action,comedy,fantasy,
+themes: pirates,superpowers,
+premiere date: 2009-12-12 (Japan)
+director: Munehisa Sakai
+production studio: Bandai Co., Ltd.
+
+name: KenIchi the Mightiest Disciple (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6864
+ranking: 256
+rating: 8.12
+votes: 2147
+genres: action,comedy,romance,tournament,
+themes: developing powers,ecchi,martial arts,
+premiere date: unknown
+director: Hajime Kamegaki
+production studio: TMS Entertainment
+
+name: Princess Jellyfish (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11282
+ranking: 257
+rating: 8.11
+votes: 1034
+genres: comedy,romance,
+themes: crossdressing,fashion,otaku,parody,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: Atsushi Terada
+
+name: Bamboo Blade (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8455
+ranking: 258
+rating: 8.11
+votes: 2515
+genres: comedy,slice of life,tournament,
+themes: kendo,moe,sports,
+premiere date: unknown
+director: Hisashi Saito
+production studio: AIC
+
+name: (The) Ancient Magus' Bride (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19762
+ranking: 259
+rating: 8.11
+votes: 329
+genres: drama,magic,romance,
+themes: special abilities,
+premiere date: unknown
+director: Norihiro Naganuma
+production studio: Flying Dog
+
+name: ReLIFE (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20461
+ranking: 260
+rating: 8.11
+votes: 90
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Tomochi Kosaka
+production studio: unknown
+
+name: Initial D: Fourth Stage (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3396
+ranking: 261
+rating: 8.11
+votes: 830
+genres: drama,tournament,
+themes: auto racing,sports,
+premiere date: unknown
+director: Shinji Kofukada
+production studio: OB Planning
+
+name: Mobile Suit Gundam 00 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8190
+ranking: 262
+rating: 8.11
+votes: 2349
+genres: action,drama,science fiction,
+themes: mecha,military,space battles,war,
+premiere date: unknown
+director: Seiji Mizushima
+production studio: Mainichi Broadcasting System
+
+name: Owarimonogatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17645
+ranking: 263
+rating: 8.10
+votes: 246
+genres: comedy,drama,mystery,supernatural,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Tomoyuki Itamura
+production studio: unknown
+
+name: Silver Spoon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15017
+ranking: 264
+rating: 8.10
+votes: 618
+genres: comedy,slice of life,
+themes: agriculture,animal welfarism,farmers,school,
+premiere date: unknown
+director: Tomohiko Ito
+production studio: Kouichirou Natsume
+
+name: Hikaru no Go (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=912
+ranking: 265
+rating: 8.10
+votes: 1763
+genres: slice of life,supernatural,tournament,
+themes: games,school,sports,
+premiere date: unknown
+director: Jun Kamiya
+production studio: Dentsu Inc.
+
+name: Hajime no Ippo Rising (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15542
+ranking: 266
+rating: 8.10
+votes: 201
+genres: comedy,drama,tournament,
+themes: boxing,Sports,
+premiere date: unknown
+director: Jun Shishido
+production studio: unknown
+
+name: Bakuman. (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11197
+ranking: 267
+rating: 8.09
+votes: 1083
+genres: comedy,drama,romance,
+themes: manga,school,
+premiere date: unknown
+director: Kenichi Kasai
+production studio: NHK Enterprises
+
+name: ReLIFE (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16917
+ranking: 268
+rating: 8.09
+votes: 489
+genres: comedy,drama,romance,
+themes: Bullying,High School,
+premiere date: unknown
+director: Tomochi Kosaka
+production studio: Aniplex
+
+name: Banner of the Stars II (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=448
+ranking: 269
+rating: 8.09
+votes: 1117
+genres: drama,science fiction,
+themes: military,space,
+premiere date: unknown
+director: Yasuchika Nagaoka
+production studio: Bandai Visual
+
+name: Higurashi no Naku Koroni Kai (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7454
+ranking: 270
+rating: 8.09
+votes: 2766
+genres: drama,horror,mystery,psychological,supernatural,thriller,
+themes: conspiracy,death,goddesses,harem,revenge,time travel,tragedy,
+premiere date: unknown
+director: Chiaki Kon
+production studio: Frontier Works
+
+name: Gunbuster (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=466
+ranking: 271
+rating: 8.09
+votes: 1216
+genres: adventure,drama,science fiction,
+themes: fanservice,mecha,military,space navy,super robot,
+premiere date: unknown
+director: Hideaki Anno
+production studio: Tadatsugu Hayakawa
+
+name: Case Closed: The Phantom of Baker Street (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2680
+ranking: 272
+rating: 8.09
+votes: 314
+genres: adventure,drama,mystery,science fiction,thriller,
+themes: detective,serial murderer,sherlock holmes,survival game,
+premiere date: 2002-04-20 (Japan)
+director: Kenji Kodama
+production studio: Detective Conan Production Committee
+
+name: Miss Kobayashi's Dragon Maid (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18807
+ranking: 273
+rating: 8.08
+votes: 447
+genres: comedy,fantasy,slice of life,
+themes: dragons,maids,monster girls,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: ABC Animation
+
+name: Voices of a Distant Star (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=775
+ranking: 274
+rating: 8.08
+votes: 3071
+genres: action,drama,romance,science fiction,
+themes: mecha,military,space,
+premiere date: unknown
+director: Makoto Shinkai
+production studio: CoMix Wave Films
+
+name: Samurai 7 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3127
+ranking: 275
+rating: 8.08
+votes: 3999
+genres: action,fantasy,science fiction,
+themes: mecha,samurai,
+premiere date: unknown
+director: Toshifumi Takizawa
+production studio: G.D.H.
+
+name: A Lull in the Sea (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14858
+ranking: 276
+rating: 8.08
+votes: 618
+genres: comedy,drama,fantasy,romance,
+themes: parody,post-apocalyptic,sea-dwelling people,underwater world,unrequited love,
+premiere date: unknown
+director: Toshiya Shinohara
+production studio: Animax
+
+name: Doraemon the Movie: Nobita and the Steel Troops: The New Age
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11716
+ranking: 277
+rating: 8.08
+votes: 38
+genres: adventure,drama,science fiction,
+themes: aliens,alternate world,mecha,robots,talking animal,
+premiere date: 2011-03-05 (Japan)
+director: Yukiyo Teramoto
+production studio: Asatsu-DK
+
+name: Food Wars! The Second Plate (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18112
+ranking: 278
+rating: 8.08
+votes: 361
+genres: comedy,drama,tournament,
+themes: cooking,ecchi,food,school,
+premiere date: unknown
+director: Yoshitomo Yonetani
+production studio: unknown
+
+name: Slam Dunk (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=659
+ranking: 279
+rating: 8.08
+votes: 719
+genres: comedy,tournament,
+themes: basketball,sports,
+premiere date: unknown
+director: unknown
+production studio: Toei Animation
+
+name: Full Moon o Sagashite (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=872
+ranking: 280
+rating: 8.08
+votes: 1413
+genres: comedy,drama,romance,supernatural,
+themes: idols,magical girl,music,shinigami,
+premiere date: unknown
+director: Toshiyuki Kato
+production studio: NAS
+
+name: Mobile Suit Zeta Gundam (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1381
+ranking: 281
+rating: 8.07
+votes: 855
+genres: action,drama,science fiction,
+themes: mecha,military,real robot,Space,Space Battles,space colonies,Space Navy,War,
+premiere date: unknown
+director: unknown
+production studio: Nagoya Broadcasting Network
+
+name: Case Closed: Captured in Her Eyes (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2682
+ranking: 282
+rating: 8.07
+votes: 308
+genres: action,drama,mystery,romance,
+themes: amnesia,crime,detective,police,
+premiere date: 2000-04-22 (Japan)
+director: Kenji Kodama
+production studio: Kyokuichi Tokyo Movie Shinsha
+
+name: Sayonara, Zetsubou-Sensei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7767
+ranking: 283
+rating: 8.07
+votes: 1966
+genres: comedy,psychological,slice of life,
+themes: dark comedy,harem,parody,satire,school,suicide,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Starchild Records
+
+name: Psycho-Pass (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14195
+ranking: 284
+rating: 8.07
+votes: 2043
+genres: action,psychological,science fiction,thriller,
+themes: crime,cyberpunk,dystopia,future,gore,police,
+premiere date: unknown
+director: Naoyoshi Shiotani
+production studio: Dentsu Inc.
+
+name: Case Closed: The Last Magician of the Century (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2683
+ranking: 285
+rating: 8.07
+votes: 311
+genres: adventure,mystery,
+themes: crime,detective,thief,
+premiere date: 1999-04-17 (Japan)
+director: Kenji Kodama
+production studio: Detective Conan Production Committee
+
+name: (The) Secret World of Arrietty (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11212
+ranking: 286
+rating: 8.07
+votes: 1150
+genres: adventure,drama,
+themes: u,n,k,n,o,w,n,
+premiere date: 2010-07-17 (Japan)
+director: Hiromasa Yonebayashi
+production studio: Dentsu Inc.
+
+name: (The) Story of Saiunkoku Second Series (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7868
+ranking: 287
+rating: 8.07
+votes: 373
+genres: drama,romance,supernatural,
+themes: bishounen,historical,male harem,politics,
+premiere date: unknown
+director: Jun Shishido
+production studio: NHK
+
+name: FLCL (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=277
+ranking: 288
+rating: 8.07
+votes: 8666
+genres: comedy,drama,science fiction,
+themes: aliens,coming of age,parody,
+premiere date: unknown
+director: Kazuya Tsurumaki
+production studio: FLCL Production Committee
+
+name: Treasure Island (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2131
+ranking: 289
+rating: 8.07
+votes: 46
+genres: adventure,drama,mystery,supernatural,
+themes: historical,
+premiere date: unknown
+director: Osamu Dezaki
+production studio: TMS Entertainment
+
+name: Genshiken (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4168
+ranking: 290
+rating: 8.06
+votes: 2840
+genres: comedy,slice of life,
+themes: otaku,
+premiere date: unknown
+director: Takashi Ikehata
+production studio: GENCO
+
+name: Kyo kara Maoh! 3rd Series (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10056
+ranking: 291
+rating: 8.06
+votes: 215
+genres: adventure,comedy,fantasy,
+themes: alternate world,demons,medieval,other world,royalty,
+premiere date: unknown
+director: Junji Nishimura
+production studio: NHK
+
+name: Black Lagoon: Roberta's Blood Trail (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10166
+ranking: 292
+rating: 8.06
+votes: 945
+genres: action,drama,psychological,
+themes: crime organizations,girls with guns,revenge,
+premiere date: unknown
+director: Sunao Katabuchi
+production studio: Black Lagoon Production Team
+
+name: Touch (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=619
+ranking: 293
+rating: 8.06
+votes: 351
+genres: drama,romance,tournament,
+themes: baseball,school,sports,tragedy,
+premiere date: unknown
+director: unknown
+production studio: Asatsu-DK
+
+name: Case Closed: Countdown to Heaven (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2681
+ranking: 294
+rating: 8.05
+votes: 289
+genres: comedy,drama,mystery,thriller,
+themes: crime,detective,
+premiere date: 2001-04-21 (Japan)
+director: Kenji Kodama
+production studio: Kyokuichi Tokyo Movie Shinsha
+
+name: Log Horizon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15118
+ranking: 295
+rating: 8.05
+votes: 1098
+genres: adventure,comedy,drama,fantasy,science fiction,
+themes: evolving world,guilds,MMORPG,quests,rebuilding society,strategic battles,strategic minds,virtual reality,
+premiere date: unknown
+director: Shinji Ishihira
+production studio: NHK
+
+name: Genshiken 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7985
+ranking: 296
+rating: 8.05
+votes: 1270
+genres: comedy,drama,romance,
+themes: otaku,
+premiere date: unknown
+director: Kinji Yoshimoto
+production studio: GENCO
+
+name: Big Windup! Season 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11227
+ranking: 297
+rating: 8.05
+votes: 214
+genres: comedy,tournament,
+themes: baseball,sports,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: A-1 Pictures
+
+name: (The) Garden of Sinners/recalled out summer (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15249
+ranking: 298
+rating: 8.05
+votes: 185
+genres: mystery,psychological,
+themes: harem,multiple personality,
+premiere date: unknown
+director: Tomonori Sudou
+production studio: Aniplex
+
+name: Kaleido Star: Legend of Phoenix - Layla Hamilton Story (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6075
+ranking: 299
+rating: 8.04
+votes: 234
+genres: drama,fantasy,supernatural,
+themes: acrobatics,gymnastics,
+premiere date: unknown
+director: Junichi Sato
+production studio: GONZO
+
+name: Aria - The Natural (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6425
+ranking: 300
+rating: 8.04
+votes: 1065
+genres: science fiction,slice of life,
+themes: gondolas,iyashikei,
+premiere date: unknown
+director: Junichi Sato
+production studio: ARIA Company
+
+name: Saint Seiya: The Hades Chapter - Sanctuary (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1797
+ranking: 301
+rating: 8.04
+votes: 358
+genres: action,fantasy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Javier Roldán
+production studio: unknown
+
+name: Junjō Romantica (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8922
+ranking: 302
+rating: 8.04
+votes: 971
+genres: comedy,drama,erotica,romance,
+themes: bishounen,Intense,sexual assault,shounen-ai,yaoi,
+premiere date: unknown
+director: Chiaki Kon
+production studio: Frontier Works
+
+name: Claymore (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7028
+ranking: 303
+rating: 8.04
+votes: 5264
+genres: action,drama,fantasy,romance,
+themes: female warriors,medieval,monsters,revenge,swordplay,tragedy,
+premiere date: unknown
+director: Hiroyuki Tanaka
+production studio: avex mode
+
+name: Zoku Sayonara Zetsubō Sensei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8803
+ranking: 304
+rating: 8.03
+votes: 859
+genres: comedy,slice of life,
+themes: dark comedy,harem,parody,satire,school,suicide,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Starchild Records
+
+name: Nisemonogatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13556
+ranking: 305
+rating: 8.03
+votes: 1440
+genres: comedy,psychological,romance,supernatural,
+themes: absurdity,ecchi,family,fanservice,harem,love,vampires,youkai,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Aggressive Retsuko (ONA)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20607
+ranking: 306
+rating: 8.03
+votes: 71
+genres: comedy,
+themes: music,office,talking animals,work,
+premiere date: unknown
+director: Rarecho
+production studio: FANWORKS, Inc.
+
+name: Legend of the Galactic Heroes: Spiral Labyrinth (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6488
+ranking: 307
+rating: 8.03
+votes: 67
+genres: science fiction,
+themes: military,space,
+premiere date: unknown
+director: Keizō Shimizu
+production studio: Kitty Films
+
+name: Giant Robo (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=669
+ranking: 308
+rating: 8.03
+votes: 392
+genres: action,drama,science fiction,
+themes: fighting,mecha,superhumans,
+premiere date: unknown
+director: Yasuhiro Imagawa
+production studio: Amuse Video
+
+name: Non Non Biyori Repeat (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16655
+ranking: 309
+rating: 8.02
+votes: 203
+genres: comedy,slice of life,
+themes: iyashikei,school life,
+premiere date: unknown
+director: Shinya Kawatsura
+production studio: Janice Williams
+
+name: Fruits Basket (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=348
+ranking: 310
+rating: 8.02
+votes: 6347
+genres: comedy,drama,romance,supernatural,
+themes: bishounen,Chinese zodiac,family,kindness,school,
+premiere date: unknown
+director: Akitarō Daichi
+production studio: Furuba Production Committee
+
+name: Black Butler: Book of Murder (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16031
+ranking: 311
+rating: 8.02
+votes: 100
+genres: mystery,supernatural,
+themes: bishounen,dark comedy,demons,historical,
+premiere date: unknown
+director: Noriyuki Abe
+production studio: Aniplex
+
+name: Perfect Blue (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=192
+ranking: 312
+rating: 8.02
+votes: 2867
+genres: drama,horror,mystery,psychological,thriller,
+themes: idols,stalkers,stardom,
+premiere date: 1997-01-01 (Montreal [Fantasia Film Festival - exact date unknown])
+director: Satoshi Kon
+production studio: Rex Entertainment
+
+name: When They Cry - Higurashi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6134
+ranking: 313
+rating: 8.02
+votes: 4574
+genres: drama,horror,mystery,psychological,supernatural,thriller,
+themes: conspiracy,death,gore,moe,revenge,tragedy,
+premiere date: unknown
+director: Chiaki Kon
+production studio: "When Cicadas Cry" Production Committee
+
+name: From Up On Poppy Hill (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12307
+ranking: 314
+rating: 8.02
+votes: 581
+genres: romance,slice of life,
+themes: school,
+premiere date: 2011-07-16 (Japan)
+director: Goro Miyazaki
+production studio: Buena Vista Home Entertainment / Disney
+
+name: Birdy the Mighty Decode:02 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10207
+ranking: 315
+rating: 8.02
+votes: 1651
+genres: action,science fiction,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kazuki Akane
+production studio: Kouichirou Natsume
+
+name: Kimagure Orange Road (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=327
+ranking: 316
+rating: 8.02
+votes: 583
+genres: action,comedy,drama,romance,
+themes: espers,love triangle,superpowers,
+premiere date: unknown
+director: Osamu Kobayashi
+production studio: Pierrot
+
+name: Penguindrum (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12998
+ranking: 317
+rating: 8.01
+votes: 919
+genres: drama,mystery,psychological,supernatural,
+themes: conspiracy,destiny,penguins,resurrection,tragedy,
+premiere date: unknown
+director: Kunihiko Ikuhara
+production studio: Mainichi Broadcasting System
+
+name: Soul Eater (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9070
+ranking: 318
+rating: 8.01
+votes: 3915
+genres: action,comedy,fantasy,
+themes: human weapons,school,shinigami,superpowers,Witches,
+premiere date: unknown
+director: Takuya Igarashi
+production studio: BONES
+
+name: Hanada Shōnen-shi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1823
+ranking: 319
+rating: 8.01
+votes: 93
+genres: comedy,slice of life,supernatural,
+themes: ghosts,
+premiere date: unknown
+director: Masayuki Kojima
+production studio: Nippon Television Network
+
+name: Full Metal Panic! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=844
+ranking: 320
+rating: 8.01
+votes: 7197
+genres: action,comedy,drama,science fiction,
+themes: mecha,military,real robot,school,terrorists,
+premiere date: unknown
+director: Koichi Chigira
+production studio: Fuji Television Network
+
+name: Haré+Guu Deluxe (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2024
+ranking: 321
+rating: 8.01
+votes: 451
+genres: comedy,
+themes: parody,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: Bandai Visual
+
+name: Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18586
+ranking: 322
+rating: 8.01
+votes: 166
+genres: action,drama,science fiction,
+themes: mecha,military,politics,space,war,
+premiere date: unknown
+director: Tatsuyuki Nagai
+production studio: Mainichi Broadcasting System
+
+name: Baby Blue (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5838
+ranking: 323
+rating: 8.01
+votes: 224
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2007-07-07 (Japan)
+director: Shinichiro Watanabe
+production studio: Studio 4°C
+
+name: Emma: A Victorian Romance (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4506
+ranking: 324
+rating: 8.01
+votes: 717
+genres: drama,romance,
+themes: england,historical,historical (england),
+premiere date: unknown
+director: Tsuneo Kobayashi
+production studio: Enterbrain
+
+name: xxxHOLiC: Rō (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11396
+ranking: 325
+rating: 8.01
+votes: 362
+genres: mystery,supernatural,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: unknown
+
+name: Macross Zero (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=939
+ranking: 326
+rating: 8.01
+votes: 955
+genres: action,drama,science fiction,
+themes: mecha,military,music,real robot,
+premiere date: unknown
+director: Shoji Kawamori
+production studio: Bandai Visual
+
+name: Space Battleship Yamato 2199 (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13765
+ranking: 327
+rating: 8.00
+votes: 16
+genres: science fiction,
+themes: u,n,k,n,o,w,n,
+premiere date: 2012-04-07 (Japan)
+director: Yutaka Izubuchi
+production studio: AIC
+
+name: One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16232
+ranking: 328
+rating: 8.00
+votes: 67
+genres: action,comedy,drama,fantasy,
+themes: developing powers,fighting,navy,pirates,slapstick,superpowers,war,
+premiere date: unknown
+director: Naoyuki Itou
+production studio: Fuji Television Network
+
+name: Chihayafuru 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14781
+ranking: 329
+rating: 8.00
+votes: 718
+genres: comedy,drama,romance,
+themes: card games,card games karuta sports,karuta,sports,
+premiere date: unknown
+director: Morio Asaka
+production studio: Nippon Television Network
+
+name: Magical Girl Lyrical Nanoha A's (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5770
+ranking: 330
+rating: 8.00
+votes: 1055
+genres: action,drama,magic,
+themes: magical girl,
+premiere date: unknown
+director: Keizou Kusakawa
+production studio: Nanoha A's Project
+
+name: Ace of Diamond: Second Season (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16826
+ranking: 331
+rating: 8.00
+votes: 79
+genres: tournament,
+themes: baseball,sports,
+premiere date: unknown
+director: Mitsuyuki Masuhara
+production studio: unknown
+
+name: Tamayura: Sotsugyō Shashin (movie series)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16256
+ranking: 332
+rating: 8.00
+votes: 21
+genres: slice of life,
+themes: iyashikei,
+premiere date: unknown
+director: Junichi Sato
+production studio: Animatic
+
+name: (The) Tatami Galaxy (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11200
+ranking: 333
+rating: 7.99
+votes: 570
+genres: comedy,drama,psychological,
+themes: absurdity,
+premiere date: unknown
+director: Masaaki Yuasa
+production studio: Emiko Uchimura
+
+name: (The) Vision of Escaflowne (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=240
+ranking: 334
+rating: 7.99
+votes: 4116
+genres: adventure,drama,fantasy,romance,science fiction,
+themes: mecha,other world,
+premiere date: unknown
+director: Kazuki Akane
+production studio: Sunrise
+
+name: Fairy Tail Zero (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17834
+ranking: 335
+rating: 7.99
+votes: 101
+genres: adventure,fantasy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: unknown
+production studio: unknown
+
+name: Read or Die (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=819
+ranking: 336
+rating: 7.99
+votes: 3503
+genres: action,drama,mystery,science fiction,
+themes: secret agents,superpowers,
+premiere date: unknown
+director: Koji Masunari
+production studio: Aniplex
+
+name: (The) Eccentric Family (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15205
+ranking: 337
+rating: 7.99
+votes: 479
+genres: comedy,drama,fantasy,
+themes: family,folklore,gender switch,shapeshifting,youkai,
+premiere date: unknown
+director: Masayuki Yoshihara
+production studio: Bandai Visual
+
+name: Durarara!! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10947
+ranking: 338
+rating: 7.99
+votes: 3393
+genres: action,comedy,drama,mystery,supernatural,thriller,
+themes: coming of age,conspiracy,crime,Dullahan,fighting,Gangs,growing up,social-networking,spirits,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: Aniplex
+
+name: Broken Blade (movie series)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10952
+ranking: 339
+rating: 7.99
+votes: 739
+genres: action,drama,fantasy,science fiction,
+themes: Mecha,military,politics,tragedy,war,
+premiere date: 2010-05-29 (Japan, Book One - The Time of Awakening)
+director: Nobuyoshi Habara
+production studio: Bandai Visual
+
+name: Ga-Rei-Zero (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10052
+ranking: 340
+rating: 7.98
+votes: 2516
+genres: action,drama,horror,supernatural,
+themes: demons,gore,tragedy,youkai,
+premiere date: unknown
+director: Ei Aoki
+production studio: AIC
+
+name: Yu Yu Hakusho: Ghost Files (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=311
+ranking: 341
+rating: 7.98
+votes: 3429
+genres: action,comedy,drama,supernatural,tournament,
+themes: demons,detective,fighting,martial arts,shinigami,special abilities,spirits,youkai,
+premiere date: unknown
+director: Noriyuki Abe
+production studio: Fuji Television Network
+
+name: Fate/stay night: Unlimited Blade Works (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16825
+ranking: 342
+rating: 7.98
+votes: 563
+genres: action,drama,supernatural,
+themes: fighting,legendary warriors,school,
+premiere date: unknown
+director: Takahiro Miura
+production studio: ufotable
+
+name: Macross Plus Movie Edition
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=342
+ranking: 343
+rating: 7.98
+votes: 507
+genres: action,drama,science fiction,
+themes: mecha,military,
+premiere date: 1995-08-27 (First public preview in Japan)
+director: unknown
+production studio: Bandai Visual
+
+name: Kaiji (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8550
+ranking: 344
+rating: 7.98
+votes: 707
+genres: action,psychological,
+themes: gambling,survival game,yakuza,
+premiere date: unknown
+director: Yuzo Sato
+production studio: D.N. Dream Partners
+
+name: (The) Story of Saiunkoku (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6200
+ranking: 345
+rating: 7.98
+votes: 1060
+genres: drama,romance,supernatural,
+themes: bishounen,feminism,historical,male harem,politics,
+premiere date: unknown
+director: Jun Shishido
+production studio: NHK
+
+name: Tsubasa: Spring Thunder (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10584
+ranking: 346
+rating: 7.97
+votes: 569
+genres: action,drama,fantasy,romance,
+themes: other worlds,sorcery,
+premiere date: unknown
+director: Shunsuke Tada
+production studio: Kodansha
+
+name: Mobile Suit Gundam: The Origin (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13105
+ranking: 347
+rating: 7.97
+votes: 42
+genres: action,drama,science fiction,
+themes: mecha,politics,real robot,
+premiere date: unknown
+director: Takashi Imanishi
+production studio: Sunrise
+
+name: Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17081
+ranking: 348
+rating: 7.97
+votes: 44
+genres: slice of life,
+themes: iyashikei,
+premiere date: unknown
+director: Takahiro Ōmori
+production studio: unknown
+
+name: KONOSUBA - God's blessing on this wonderful world! 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18777
+ranking: 349
+rating: 7.97
+votes: 416
+genres: fantasy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Takaomi Kanasaki
+production studio: unknown
+
+name: Crest of the Stars (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14
+ranking: 350
+rating: 7.97
+votes: 1651
+genres: adventure,drama,romance,science fiction,
+themes: military,space,space navy,war,
+premiere date: unknown
+director: Yasuchika Nagaoka
+production studio: Bandai Visual
+
+name: On Your Mark (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=879
+ranking: 351
+rating: 7.97
+votes: 513
+genres: action,science fiction,
+themes: angels,police,
+premiere date: 1995-07-15 (Japan, premiered along with Whisper of the Heart)
+director: Hayao Miyazaki
+production studio: Real Cast Inc.
+
+name: Gintama Season 4 (TV 6/2017)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20160
+ranking: 352
+rating: 7.97
+votes: 49
+genres: comedy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Chizuru Miyawaki
+production studio: unknown
+
+name: Urusei Yatsura: Beautiful Dreamer (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=647
+ranking: 353
+rating: 7.97
+votes: 393
+genres: comedy,drama,psychological,
+themes: aliens,
+premiere date: 1984-02-11 (Japan)
+director: Mamoru Oshii
+production studio: Kitty Films
+
+name: Gintama (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6072
+ranking: 354
+rating: 7.97
+votes: 168
+genres: action,comedy,science fiction,
+themes: aliens,parody,samurai,
+premiere date: unknown
+director: unknown
+production studio: unknown
+
+name: Toward the Terra (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7510
+ranking: 355
+rating: 7.97
+votes: 632
+genres: drama,psychological,science fiction,
+themes: bishounen,esp powers,espers,space,superpowers,
+premiere date: unknown
+director: Osamu Yamasaki
+production studio: Aniplex
+
+name: Hanamonogatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15973
+ranking: 356
+rating: 7.97
+votes: 372
+genres: comedy,drama,supernatural,
+themes: basketball,ghosts,sports,
+premiere date: unknown
+director: Tomoyuki Itamura
+production studio: Aniplex
+
+name: Genshiken (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6909
+ranking: 357
+rating: 7.97
+votes: 1070
+genres: comedy,slice of life,
+themes: otaku,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: unknown
+
+name: Mind Game (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4363
+ranking: 358
+rating: 7.97
+votes: 664
+genres: adventure,drama,psychological,
+themes: u,n,k,n,o,w,n,
+premiere date: 2004-08-07 (Japan)
+director: Masaaki Yuasa
+production studio: Asmik Ace Entertainment, Inc.
+
+name: Mobile Suit Gundam Seed (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=883
+ranking: 359
+rating: 7.97
+votes: 3450
+genres: action,drama,science fiction,
+themes: genetic enhancement,mecha,military,real robot,space,space colonies,tragedy,war,
+premiere date: unknown
+director: Mitsuo Fukuda
+production studio: Asatsu-DK
+
+name: Goku Sayonara Zetsubō Sensei (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10224
+ranking: 360
+rating: 7.96
+votes: 429
+genres: comedy,
+themes: dark comedy,harem,parody,satire,school,suicide,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: unknown
+
+name: Fate/stay night: Heaven's Feel I. presage flower (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16166
+ranking: 361
+rating: 7.96
+votes: 53
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2017-10-14 (Japan)
+director: Tomonori Sudou
+production studio: Aniplex
+
+name: One Piece Film Z (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14258
+ranking: 362
+rating: 7.96
+votes: 173
+genres: action,comedy,drama,
+themes: pirates,
+premiere date: 2012-12-15 (Japan)
+director: Tatsuya Nagamine
+production studio: Chihiro Kameyama
+
+name: City Hunter 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=484
+ranking: 363
+rating: 7.96
+votes: 133
+genres: action,comedy,mystery,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kenji Kodama
+production studio: Shueisha
+
+name: Redline (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6456
+ranking: 364
+rating: 7.96
+votes: 1231
+genres: action,science fiction,tournament,
+themes: aliens,racing,
+premiere date: 2009-08-14 (Locarno International Film Festival)
+director: Takeshi Koike
+production studio: Kiyotaka Ninomiya
+
+name: Baby Steps (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16309
+ranking: 365
+rating: 7.96
+votes: 146
+genres: tournament,
+themes: sports,tennis,
+premiere date: unknown
+director: Masahiko Murata
+production studio: unknown
+
+name: Big Windup! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7421
+ranking: 366
+rating: 7.96
+votes: 646
+genres: comedy,drama,slice of life,tournament,
+themes: baseball,sports,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: Jun Katou
+
+name: K-ON! (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11963
+ranking: 367
+rating: 7.96
+votes: 671
+genres: comedy,slice of life,
+themes: iyashikei,music,
+premiere date: 2011-12-03 (Japan)
+director: Naoko Yamada
+production studio: K-On! Movie Committee
+
+name: Initial D: Second Stage (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1152
+ranking: 368
+rating: 7.95
+votes: 972
+genres: action,drama,tournament,
+themes: auto racing,sports,
+premiere date: unknown
+director: Shin'ichi Masaki
+production studio: Fuji Television Network
+
+name: Daicon films (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=817
+ranking: 369
+rating: 7.95
+votes: 206
+genres: adventure,magic,science fiction,
+themes: superpowers,
+premiere date: unknown
+director: Hiroyuki Yamaga
+production studio: DAICON 3 Jikkou Iinkai
+
+name: InuYasha: The Final Act (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10970
+ranking: 370
+rating: 7.95
+votes: 957
+genres: action,drama,fantasy,romance,
+themes: demons,historical,time travel,youkai,
+premiere date: unknown
+director: Yasunao Aoki
+production studio: Shogakukan-Shueisha Productions
+
+name: Gintama: The Movie
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11152
+ranking: 371
+rating: 7.95
+votes: 230
+genres: action,comedy,drama,
+themes: aliens,parody,samurai,
+premiere date: 2010-04-24 (Japan)
+director: Shinji Takamatsu
+production studio: Aniplex
+
+name: Jormungand Perfect Order (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14729
+ranking: 372
+rating: 7.95
+votes: 501
+genres: action,drama,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Keitaro Motonaga
+production studio: Geneon Universal Entertainment
+
+name: Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10713
+ranking: 373
+rating: 7.95
+votes: 113
+genres: adventure,magic,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Kobun Shizuno
+production studio: unknown
+
+name: (The) Disastrous Life of Saiki K. (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20177
+ranking: 374
+rating: 7.95
+votes: 44
+genres: comedy,slice of life,supernatural,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Hiroaki Sakurai
+production studio: unknown
+
+name: Girls' Last Tour (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19827
+ranking: 375
+rating: 7.95
+votes: 155
+genres: adventure,drama,
+themes: post-apocalpytic,
+premiere date: unknown
+director: Takaharu Ozaki
+production studio: unknown
+
+name: Doukyusei -Classmates- (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16977
+ranking: 376
+rating: 7.95
+votes: 58
+genres: drama,romance,
+themes: Yaoi,
+premiere date: 2016-02-20 (Japan)
+director: Shouko Nakamura
+production studio: unknown
+
+name: Lunar Legend Tsukihime (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2938
+ranking: 377
+rating: 7.95
+votes: 3513
+genres: drama,horror,mystery,romance,supernatural,
+themes: vampires,
+premiere date: unknown
+director: Katsushi Sakurabi
+production studio: Geneon Entertainment, Inc.
+
+name: Zan Sayonara Zetsubō Sensei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10805
+ranking: 378
+rating: 7.95
+votes: 356
+genres: comedy,slice of life,
+themes: dark comedy,harem,parody,satire,school,suicide,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: unknown
+
+name: Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16234
+ranking: 379
+rating: 7.95
+votes: 25
+genres: action,drama,fantasy,horror,psychological,thriller,
+themes: dystopia,military,post-apocalyptic,shapeshifting,superpowers,titans/giants,tragedy,
+premiere date: 2015-06-27 (Japan)
+director: Tetsuro Araki
+production studio: unknown
+
+name: Saga of Tanya the Evil (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18692
+ranking: 380
+rating: 7.95
+votes: 359
+genres: action,drama,magic,
+themes: military,
+premiere date: unknown
+director: Yutaka Uemura
+production studio: unknown
+
+name: Rurouni Kenshin: Reflection (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=310
+ranking: 381
+rating: 7.94
+votes: 2882
+genres: action,drama,romance,
+themes: historical,samurai,
+premiere date: unknown
+director: Kazuhiro Furuhashi
+production studio: SME Visual Works
+
+name: Hanasaku Iroha: Home Sweet Home (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14337
+ranking: 382
+rating: 7.94
+votes: 192
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2013-03-09 (Japan, Ishikawa Prefecture)
+director: Masahiro Ando
+production studio: Bandai Visual
+
+name: Kurenai (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8518
+ranking: 383
+rating: 7.94
+votes: 2258
+genres: action,drama,romance,
+themes: incest,martial arts,school,
+premiere date: unknown
+director: Kou Matsuo
+production studio: Kurenai Production Committee
+
+name: Patema Inverted (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13906
+ranking: 384
+rating: 7.94
+votes: 429
+genres: adventure,drama,science fiction,
+themes: dangers,exploration,parallel universe,upside-down world,
+premiere date: 2013-06-13 (France, Annecy)
+director: Yasuhiro Yoshiura
+production studio: Asmik Ace Entertainment, Inc.
+
+name: (The) Dog of Flanders (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=580
+ranking: 385
+rating: 7.94
+votes: 110
+genres: drama,
+themes: u,n,k,n,o,w,n,
+premiere date: 1997-03-15 (Japan)
+director: Yoshio Kuroda
+production studio: Fuji Pacific Music Publisher
+
+name: (The) Irresponsible Captain Tylor (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=160
+ranking: 386
+rating: 7.94
+votes: 842
+genres: adventure,comedy,science fiction,
+themes: harem,military,space,
+premiere date: unknown
+director: Kōichi Mashimo
+production studio: Akira Takamura
+
+name: Steins;Gate: The Movie - Load Region of Déjà Vu
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13542
+ranking: 387
+rating: 7.94
+votes: 836
+genres: drama,psychological,romance,science fiction,
+themes: time travel,
+premiere date: 2013-04-20 (Japan)
+director: Kanji Wakabayashi
+production studio: Gaku Iwasa
+
+name: Laid-Back Camp (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20010
+ranking: 388
+rating: 7.94
+votes: 144
+genres: comedy,slice of life,
+themes: camping,
+premiere date: unknown
+director: Yoshiaki Kyougoku
+production studio: Hikaru Sakamoto
+
+name: Detective Conan: The Lost Ship in The Sky (movie 14)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11207
+ranking: 389
+rating: 7.94
+votes: 101
+genres: action,drama,mystery,thriller,
+themes: Airship,crime,detective,organized crime,terrorists,thief,virus,
+premiere date: 2010-04-17 (Japan)
+director: Yasuichiro Yamamoto
+production studio: Nippon Television Network
+
+name: Case Closed: The Fourteenth Target (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3757
+ranking: 390
+rating: 7.94
+votes: 338
+genres: adventure,drama,mystery,thriller,
+themes: crime,detective,serial murderer,
+premiere date: 1998-04-18 (Japan)
+director: Kenji Kodama
+production studio: Detective Conan Production Committee
+
+name: Banner of the Stars (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=447
+ranking: 391
+rating: 7.94
+votes: 1365
+genres: action,drama,romance,science fiction,
+themes: military,space,space navy,war,
+premiere date: unknown
+director: Yasuchika Nagaoka
+production studio: Bandai Visual
+
+name: Barefoot Gen (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=924
+ranking: 392
+rating: 7.93
+votes: 436
+genres: drama,
+themes: historical,World War II,
+premiere date: 1983-07-21 (Japan)
+director: Mori Masaki
+production studio: GEN Productions
+
+name: Yona of the Dawn (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16154
+ranking: 393
+rating: 7.93
+votes: 642
+genres: adventure,comedy,drama,fantasy,romance,
+themes: betrayal,bishounen,dragons,historical,love triangle,politics,reincarnation,revenge,royalty,special abilities,tsundere,
+premiere date: unknown
+director: Kazuhiro Yoneda
+production studio: Age Global Networks
+
+name: Revolutionary Girl Utena (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=207
+ranking: 394
+rating: 7.93
+votes: 1462
+genres: drama,magic,psychological,romance,
+themes: Duels,school,
+premiere date: unknown
+director: Kunihiko Ikuhara
+production studio: unknown
+
+name: Kyousougiga (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15509
+ranking: 395
+rating: 7.93
+votes: 335
+genres: comedy,fantasy,science fiction,slice of life,
+themes: chase,family,godesses,gods,monsters,parallel universe,
+premiere date: unknown
+director: Rie Matsumoto
+production studio: unknown
+
+name: Barakamon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16083
+ranking: 396
+rating: 7.93
+votes: 706
+genres: comedy,slice of life,
+themes: calligraphy,country life,
+premiere date: unknown
+director: Masaki Tachibana
+production studio: Atsushi Fukushi
+
+name: Wagnaria!!2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12841
+ranking: 397
+rating: 7.93
+votes: 679
+genres: comedy,romance,slice of life,
+themes: cafe,workplace,
+premiere date: unknown
+director: Atsushi Ootsuki
+production studio: Aniplex
+
+name: Hidamari Sketch × Honeycomb (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13332
+ranking: 398
+rating: 7.93
+votes: 101
+genres: comedy,slice of life,
+themes: iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Children Who Chase Lost Voices (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12141
+ranking: 399
+rating: 7.93
+votes: 831
+genres: adventure,fantasy,romance,
+themes: belonging,journey,
+premiere date: 2011-05-07 (Japan)
+director: Makoto Shinkai
+production studio: CMMMY
+
+name: Death Parade (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16375
+ranking: 400
+rating: 7.93
+votes: 1061
+genres: drama,mystery,psychological,
+themes: death,Heaven & hell,Reincarnation,
+premiere date: unknown
+director: Shinichiro Watanabe
+production studio: Madhouse
+
+name: Ghost in the Shell S.A.C. Solid State Society 3D (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12323
+ranking: 401
+rating: 7.93
+votes: 30
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2011-03-26 (Japan)
+director: Kenji Kamiyama
+production studio: unknown
+
+name: My-HiME (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4155
+ranking: 402
+rating: 7.93
+votes: 3413
+genres: action,drama,magic,romance,
+themes: magical girl,school,
+premiere date: unknown
+director: Masakazu Obara
+production studio: Sunrise
+
+name: Tsukimonogatari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16342
+ranking: 403
+rating: 7.93
+votes: 307
+genres: comedy,supernatural,
+themes: fanservice,vampires,
+premiere date: unknown
+director: Tomoyuki Itamura
+production studio: Aniplex
+
+name: Shigofumi - Letters from the Departed (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8760
+ranking: 404
+rating: 7.93
+votes: 878
+genres: drama,psychological,supernatural,thriller,
+themes: girls with guns,letters,life after death,magical girl,multiple personality,suicide,tragedy,
+premiere date: unknown
+director: Tatsuo Sato
+production studio: Bandai Visual
+
+name: Trigun: Badlands Rumble (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9499
+ranking: 405
+rating: 7.93
+votes: 961
+genres: action,comedy,science fiction,
+themes: gunslinger,western,
+premiere date: 2010-04-02 (United States, Sakura Con)
+director: Satoshi Nishimura
+production studio: Flying Dog
+
+name: One Piece (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=836
+ranking: 406
+rating: 7.93
+votes: 3980
+genres: adventure,comedy,drama,fantasy,
+themes: developing powers,fighting,navy,pirates,slapstick,superpowers,war,
+premiere date: unknown
+director: Hiroaki Miyamoto
+production studio: Asatsu-DK
+
+name: (The) Ancient Magus' Bride: Those Awaiting a Star (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18136
+ranking: 407
+rating: 7.93
+votes: 231
+genres: drama,magic,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Norihiro Naganuma
+production studio: Production I.G
+
+name: Silver Spoon (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15751
+ranking: 408
+rating: 7.92
+votes: 535
+genres: comedy,slice of life,
+themes: agriculture,animal welfarism,equestrianism,farmers,school,
+premiere date: unknown
+director: Kotomi Deai
+production studio: Aniplex
+
+name: INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2391
+ranking: 409
+rating: 7.92
+votes: 889
+genres: adventure,drama,science fiction,
+themes: music,musical,
+premiere date: 2001-08-31 (USA Toonami)
+director: Kazuhisa Takenouchi
+production studio: Toei Animation
+
+name: Sound! Euphonium (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16657
+ranking: 410
+rating: 7.92
+votes: 465
+genres: comedy,drama,
+themes: bands,bishoujo,music,school,yuri,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Kyoto Animation
+
+name: Hidamari Sketch × Hoshimittsu (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11047
+ranking: 411
+rating: 7.92
+votes: 242
+genres: comedy,slice of life,
+themes: art,iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Tokyo Broadcasting System
+
+name: Lucky Star (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7222
+ranking: 412
+rating: 7.92
+votes: 3953
+genres: comedy,slice of life,
+themes: moe,otaku,parody,school,twins,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: Kadokawa Entertainment
+
+name: RahXephon (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=849
+ranking: 413
+rating: 7.92
+votes: 3252
+genres: action,drama,magic,mystery,psychological,romance,science fiction,
+themes: hybrid robot,mecha,military,super robot,
+premiere date: unknown
+director: unknown
+production studio: Asatsu-DK
+
+name: My Teen Romantic Comedy SNAFU TOO! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16329
+ranking: 414
+rating: 7.92
+votes: 572
+genres: comedy,drama,romance,
+themes: school,social psychology,
+premiere date: unknown
+director: Kei Oikawa
+production studio: Janice Williams
+
+name: Tsukigakirei (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19019
+ranking: 415
+rating: 7.92
+votes: 183
+genres: drama,romance,
+themes: coming of age,love rectangle,school,social-networking,
+premiere date: unknown
+director: Seiji Kishi
+production studio: unknown
+
+name: Gurren Lagann the Movie –Childhood's End-
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9601
+ranking: 416
+rating: 7.92
+votes: 531
+genres: action,comedy,drama,science fiction,
+themes: coming of age,fighting,mecha,post-apocalyptic,super robot,
+premiere date: 2008-09-06 (Japan)
+director: Hiroyuki Imaishi
+production studio: Aniplex
+
+name: His and Her Circumstances (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=392
+ranking: 417
+rating: 7.92
+votes: 2756
+genres: comedy,drama,romance,
+themes: high school,school,
+premiere date: unknown
+director: Hideaki Anno
+production studio: GAINAX
+
+name: Berserk: The Golden Age Arc I - The Egg of the King (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12397
+ranking: 418
+rating: 7.91
+votes: 608
+genres: action,fantasy,
+themes: demons,god,middle ages,military,war,
+premiere date: 2012-02-04 (Japan)
+director: Koichi Hatsumi
+production studio: BERSERK FILM PARTNERS
+
+name: Kobato. (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10542
+ranking: 419
+rating: 7.91
+votes: 738
+genres: comedy,drama,magic,romance,
+themes: school,
+premiere date: unknown
+director: Mitsuyuki Masuhara
+production studio: D.N. Dream Partners
+
+name: Vampire Hunter D: Bloodlust (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=238
+ranking: 420
+rating: 7.91
+votes: 2804
+genres: adventure,drama,horror,supernatural,
+themes: monsters,post-apocalyptic,vampire,
+premiere date: 2000-08-25 (Australia [Sydney 2000 Olympic Arts Festival])
+director: Yoshiaki Kawajiri
+production studio: Animate
+
+name: School Rumble: Extra Class (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5957
+ranking: 421
+rating: 7.91
+votes: 1559
+genres: comedy,romance,slice of life,
+themes: love polygon,school,school life,
+premiere date: unknown
+director: Shinji Takamatsu
+production studio: Akihiro Yuasa
+
+name: Nekomonogatari (Black) (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14954
+ranking: 422
+rating: 7.91
+votes: 854
+genres: comedy,drama,psychological,romance,supernatural,
+themes: absurdity,catgirl,ecchi,special abilities,youkai,
+premiere date: unknown
+director: Tomoyuki Itamura
+production studio: Aniplex
+
+name: House of Five Leaves (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11176
+ranking: 423
+rating: 7.90
+votes: 571
+genres: action,drama,
+themes: Historical,Samurai,swordplay,
+premiere date: unknown
+director: Tomomi Mochizuki
+production studio: Dentsu Inc.
+
+name: Attack on Titan: No Regrets (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16278
+ranking: 424
+rating: 7.90
+votes: 136
+genres: action,drama,thriller,
+themes: military,tragedy,
+premiere date: unknown
+director: Tetsuro Araki
+production studio: unknown
+
+name: Glass Mask (TV 2/2005)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5023
+ranking: 425
+rating: 7.90
+votes: 200
+genres: drama,romance,
+themes: acting,theatre,
+premiere date: unknown
+director: Mamoru Hamatsu
+production studio: TMS Entertainment
+
+name: My Love Story!! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16514
+ranking: 426
+rating: 7.90
+votes: 590
+genres: comedy,romance,
+themes: school life,
+premiere date: unknown
+director: Morio Asaka
+production studio: Nippon Television Network
+
+name: Daily Lives of High School Boys (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13743
+ranking: 427
+rating: 7.90
+votes: 794
+genres: comedy,slice of life,
+themes: School,
+premiere date: unknown
+director: Shinji Takamatsu
+production studio: Happinet Pictures
+
+name: Hozuki's Coolheadedness (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19364
+ranking: 428
+rating: 7.90
+votes: 41
+genres: comedy,slice of life,supernatural,
+themes: dark comedy,demons,
+premiere date: unknown
+director: Kazuhiro Yoneda
+production studio: unknown
+
+name: Love, Chunibyo & Other Delusions! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14448
+ranking: 429
+rating: 7.90
+votes: 1449
+genres: comedy,drama,romance,
+themes: bishoujo,delusions,school,school life,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Chu-2byo Production Partners
+
+name: Full Metal Panic! Invisible Victory (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18796
+ranking: 430
+rating: 7.90
+votes: 104
+genres: action,science fiction,
+themes: mecha,military,real robot,
+premiere date: unknown
+director: Katsuichi Nakayama
+production studio: unknown
+
+name: Food Wars! The Third Plate (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20599
+ranking: 431
+rating: 7.90
+votes: 97
+genres: comedy,drama,tournament,
+themes: cooking,ecchi,food,school,
+premiere date: unknown
+director: Yoshitomo Yonetani
+production studio: unknown
+
+name: Ergo Proxy (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5115
+ranking: 432
+rating: 7.90
+votes: 3970
+genres: adventure,drama,mystery,psychological,science fiction,
+themes: android,cyberpunk,post-apocalyptic,
+premiere date: unknown
+director: Shukou Murase
+production studio: Geneon Entertainment Inc.
+
+name: Tenchi Muyo! Ryo-Ohki (OAV 2/1994)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=921
+ranking: 433
+rating: 7.90
+votes: 1033
+genres: adventure,comedy,romance,science fiction,slice of life,
+themes: aliens,harem,
+premiere date: unknown
+director: Kenichi Yatagai
+production studio: Pioneer LDC
+
+name: Master Keaton (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1006
+ranking: 434
+rating: 7.90
+votes: 214
+genres: mystery,slice of life,
+themes: crime,detective,
+premiere date: unknown
+director: unknown
+production studio: Shogakukan-Shueisha Productions
+
+name: Initial D: Third Stage (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1154
+ranking: 435
+rating: 7.90
+votes: 849
+genres: drama,tournament,
+themes: auto racing,sports,
+premiere date: 2001-01-13 (Japan)
+director: Fumitsugu Yamaguchi
+production studio: Tatsumi Yoda
+
+name: Strawberry Marshmallow (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6684
+ranking: 436
+rating: 7.89
+votes: 411
+genres: comedy,slice of life,
+themes: farting,moe,
+premiere date: unknown
+director: Takuya Satō
+production studio: MediaWorks
+
+name: Inuyashiki Last Hero (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19670
+ranking: 437
+rating: 7.89
+votes: 209
+genres: action,psychological,science fiction,thriller,
+themes: android,
+premiere date: unknown
+director: Shuhei Yabuta
+production studio: Aniplex
+
+name: Final Fantasy VII: Advent Children (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3344
+ranking: 438
+rating: 7.89
+votes: 5873
+genres: action,fantasy,science fiction,
+themes: epidemic,fighting,post-apocalyptic,swordplay,
+premiere date: 2005-08-31 (Italy, Venice Film Festival)
+director: Isao Nakajima
+production studio: Square Enix
+
+name: Banner of the Stars III (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4899
+ranking: 439
+rating: 7.89
+votes: 695
+genres: romance,science fiction,
+themes: space,
+premiere date: unknown
+director: Yasuchika Nagaoka
+production studio: Bandai Visual
+
+name: Fullmetal Alchemist: The Movie - Conqueror of Shamballa
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4176
+ranking: 440
+rating: 7.89
+votes: 5652
+genres: adventure,drama,fantasy,
+themes: alchemy,historical,Homunculi,military,war,
+premiere date: 2005-07-23 (Japan)
+director: Seiji Mizushima
+production studio: Anime Film
+
+name: Macross Plus (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=501
+ranking: 441
+rating: 7.89
+votes: 1416
+genres: action,drama,science fiction,
+themes: artificial intelligence,idols,mecha,military,music,real robot,
+premiere date: unknown
+director: Shinichiro Watanabe
+production studio: Bandai Visual
+
+name: Hayate the Combat Butler!! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10662
+ranking: 442
+rating: 7.89
+votes: 760
+genres: action,comedy,romance,slice of life,
+themes: butlers,fanservice,hikikomori,love polygon,maids,otaku,parody,school,school life,tsundere,
+premiere date: unknown
+director: Yoshiaki Iwasaki
+production studio: Shogakukan-Shueisha Productions
+
+name: JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16303
+ranking: 443
+rating: 7.89
+votes: 270
+genres: action,comedy,supernatural,thriller,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Naokatsu Tsuda
+production studio: JoJo's Bizarre Adventure Production Committee
+
+name: Hyōka (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13817
+ranking: 444
+rating: 7.89
+votes: 1257
+genres: drama,mystery,romance,
+themes: literature,moe,school,school life,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: chara-ani.com
+
+name: Ghost in the Shell: Arise (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15096
+ranking: 445
+rating: 7.89
+votes: 287
+genres: action,science fiction,
+themes: cyberpunk,mecha,police,
+premiere date: unknown
+director: Atsushi Takeuchi
+production studio: Hideji Kaneko
+
+name: Initial D: Final Stage (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16073
+ranking: 446
+rating: 7.89
+votes: 83
+genres: tournament,
+themes: auto racing,sports,
+premiere date: unknown
+director: Mitsuo Hashimoto
+production studio: unknown
+
+name: Tekkonkinkreet (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6531
+ranking: 447
+rating: 7.88
+votes: 809
+genres: action,drama,psychological,
+themes: crime,yakuza,
+premiere date: 2006-12-23 (Japan)
+director: Michael Arias
+production studio: Aniplex
+
+name: Tiger & Bunny The Movie -The Rising-
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14819
+ranking: 448
+rating: 7.88
+votes: 68
+genres: science fiction,
+themes: superheroes,superpowers,
+premiere date: 2014-02-08 (Japan)
+director: Yoshitomo Yonetani
+production studio: Asatsu-DK
+
+name: Tari Tari (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14167
+ranking: 449
+rating: 7.88
+votes: 722
+genres: comedy,drama,
+themes: music,school,school life,singing,
+premiere date: unknown
+director: Masakazu Hashimoto
+production studio: Bandai Visual
+
+name: Detective Conan: The Private Eyes' Requiem (movie 10)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6346
+ranking: 450
+rating: 7.88
+votes: 194
+genres: adventure,drama,mystery,thriller,
+themes: detective,organized crime,theme park,
+premiere date: 2006-04-15 (Japan)
+director: Shouji Takizawa
+production studio: Hideyuki Takai
+
+name: Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15596
+ranking: 451
+rating: 7.88
+votes: 45
+genres: slice of life,
+themes: iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: (The) Seven Deadly Sins: Revival of The Commandments (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19885
+ranking: 452
+rating: 7.88
+votes: 69
+genres: adventure,fantasy,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Takeshi Furuta
+production studio: A-1 Pictures
+
+name: Moshidora (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12059
+ranking: 453
+rating: 7.88
+votes: 529
+genres: drama,tournament,
+themes: Baseball,sports,
+premiere date: unknown
+director: Takayuki Hamana
+production studio: NHK
+
+name: Shakugan no Shana (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5943
+ranking: 454
+rating: 7.88
+votes: 4358
+genres: action,drama,romance,supernatural,
+themes: monsters,spirits,superpowers,tsundere,
+premiere date: unknown
+director: Takashi Watanabe
+production studio: Shakugan no Shana Production Committee
+
+name: Hidamari Sketch × Hoshimittsu (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13330
+ranking: 455
+rating: 7.88
+votes: 99
+genres: u,n,k,n,o,w,n,
+themes: iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Hidamari Apartments Administration
+
+name: Little Witch Academia (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14940
+ranking: 456
+rating: 7.88
+votes: 589
+genres: comedy,fantasy,
+themes: absurdity,moe,witches,
+premiere date: unknown
+director: Yoh Yoshinari
+production studio: unknown
+
+name: Rage of Bahamut: Genesis (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15791
+ranking: 457
+rating: 7.88
+votes: 568
+genres: action,fantasy,
+themes: bounty hunters,demons,post-apocalyptic,war,
+premiere date: unknown
+director: Keiichi Satō
+production studio: Cygames
+
+name: (The) Cat Returns (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=868
+ranking: 458
+rating: 7.88
+votes: 2275
+genres: adventure,comedy,fantasy,
+themes: talking animals,
+premiere date: 2002-07-20 (Japan)
+director: Hiroyuki Morita
+production studio: Studio Ghibli
+
+name: White Album 2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15274
+ranking: 459
+rating: 7.88
+votes: 291
+genres: drama,romance,
+themes: high school,love triangle,Music,unrequited love,
+premiere date: unknown
+director: Masaomi Andō
+production studio: AQUAPLUS
+
+name: Kino's Travels: Life Goes On (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4381
+ranking: 460
+rating: 7.88
+votes: 697
+genres: drama,psychological,
+themes: u,n,k,n,o,w,n,
+premiere date: 2005-02-19 (Japan)
+director: Takashi Watanabe
+production studio: Susumu Kudo
+
+name: xxxHOLiC: Shunmuki (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10583
+ranking: 461
+rating: 7.88
+votes: 528
+genres: comedy,mystery,supernatural,
+themes: folklore,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: unknown
+
+name: xxxHOLiC: Rō Adayume (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12056
+ranking: 462
+rating: 7.88
+votes: 215
+genres: supernatural,
+themes: Dreams,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: unknown
+
+name: Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11363
+ranking: 463
+rating: 7.88
+votes: 40
+genres: u,n,k,n,o,w,n,
+themes: u,n,k,n,o,w,n,
+premiere date: 2010-10-30 (Japan)
+director: Rie Matsumoto
+production studio: Asatsu-DK
+
+name: Mobile Suit Gundam: The 08th MS Team (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=24
+ranking: 464
+rating: 7.88
+votes: 1496
+genres: action,drama,romance,science fiction,
+themes: mecha,military,real robot,war,
+premiere date: unknown
+director: Takeyuki Kanda
+production studio: Bandai Visual
+
+name: Ushio & Tora (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17232
+ranking: 465
+rating: 7.88
+votes: 142
+genres: action,drama,supernatural,
+themes: demons,ghosts,youkai,
+premiere date: unknown
+director: Satoshi Nishimura
+production studio: Janice Williams
+
+name: Kamichu! (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5356
+ranking: 466
+rating: 7.87
+votes: 936
+genres: comedy,magic,slice of life,
+themes: gods,iyashikei,moe,school,Shinto,
+premiere date: unknown
+director: Hiroyuki Hata
+production studio: Aniplex
+
+name: Scrapped Princess (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2083
+ranking: 467
+rating: 7.87
+votes: 2814
+genres: adventure,comedy,drama,fantasy,science fiction,
+themes: post-apocalyptic,
+premiere date: unknown
+director: Sōichi Masui
+production studio: BONES
+
+name: Noein - to your other self (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5887
+ranking: 468
+rating: 7.87
+votes: 1973
+genres: adventure,drama,psychological,romance,science fiction,
+themes: parallel universe,quantum physics,time travel,
+premiere date: unknown
+director: Kazuki Akane
+production studio: Bandai Channel
+
+name: Sword Art Online the Movie: Ordinal Scale
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18141
+ranking: 469
+rating: 7.87
+votes: 178
+genres: action,drama,fantasy,science fiction,
+themes: augmented reality,MMORPG,survival game,swordplay,virtual reality,
+premiere date: 2017-02-18 (Germany)
+director: Tomohiko Ito
+production studio: Aniplex
+
+name: A Letter to Momo (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12526
+ranking: 470
+rating: 7.87
+votes: 303
+genres: comedy,drama,magic,
+themes: u,n,k,n,o,w,n,
+premiere date: 2011-09-10 (Canada, Toronto International Film Festival)
+director: Hiroyuki Okiura
+production studio: Bandai Visual
+
+name: Seto no Hanayome (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9694
+ranking: 471
+rating: 7.87
+votes: 480
+genres: comedy,romance,
+themes: harem,mermaid,school,
+premiere date: unknown
+director: Seiji Kishi
+production studio: unknown
+
+name: GATE (TV 2)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17831
+ranking: 472
+rating: 7.87
+votes: 523
+genres: adventure,drama,fantasy,
+themes: fanservice,military,otaku,parallel universe,politics,
+premiere date: unknown
+director: Takahiko Kyōgoku
+production studio: GENCO
+
+name: Little Witch Academia (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18486
+ranking: 473
+rating: 7.87
+votes: 257
+genres: action,magic,
+themes: school,witches,
+premiere date: unknown
+director: Yoh Yoshinari
+production studio: Good Smile Company
+
+name: Shonen Onmyouji (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6703
+ranking: 474
+rating: 7.87
+votes: 1553
+genres: action,comedy,drama,supernatural,
+themes: historical,onmyouji,shikigami,spirits,youkai,
+premiere date: unknown
+director: Kunihiro Mori
+production studio: unknown
+
+name: Hidamari Sketch × 365 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8989
+ranking: 474
+rating: 7.87
+votes: 328
+genres: comedy,slice of life,
+themes: art,iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: Aniplex
+
+name: Full Metal Panic! The Second Raid (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6256
+ranking: 476
+rating: 7.87
+votes: 2336
+genres: comedy,drama,romance,
+themes: military,
+premiere date: unknown
+director: Yasuhiro Takemoto
+production studio: Full Metal Panic! Film Partners
+
+name: Tenchi Muyo! War on Geminar (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10393
+ranking: 477
+rating: 7.87
+votes: 589
+genres: action,comedy,drama,fantasy,romance,science fiction,
+themes: ecchi,fanservice,Harem,mecha,other world,school,school life,
+premiere date: unknown
+director: Koji Yoshikawa
+production studio: AIC
+
+name: Food Wars! The Third Plate (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=19807
+ranking: 478
+rating: 7.87
+votes: 177
+genres: comedy,drama,tournament,
+themes: cooking,ecchi,food,school,
+premiere date: unknown
+director: Yoshitomo Yonetani
+production studio: unknown
+
+name: planetarian (ONA)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18280
+ranking: 479
+rating: 7.87
+votes: 183
+genres: drama,science fiction,
+themes: androids,moe,post-apocalyptic,space,
+premiere date: unknown
+director: Naokatsu Tsuda
+production studio: Asmik Ace, Inc.
+
+name: Zan Sayonara Zetsubō Sensei Bangai-chi (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11478
+ranking: 480
+rating: 7.87
+votes: 156
+genres: comedy,
+themes: dark comedy,parody,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: unknown
+
+name: Queen Millennia (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=487
+ranking: 481
+rating: 7.87
+votes: 36
+genres: science fiction,
+themes: u,n,k,n,o,w,n,
+premiere date: unknown
+director: Nobutaka Nishizawa
+production studio: Toei Animation
+
+name: Gunslinger Girl (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2947
+ranking: 482
+rating: 7.87
+votes: 3629
+genres: action,drama,psychological,science fiction,
+themes: assassins,cyborg,girls with guns,terrorists,
+premiere date: unknown
+director: Morio Asaka
+production studio: Bandai Visual
+
+name: Megalobox (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20565
+ranking: 483
+rating: 7.86
+votes: 137
+genres: drama,science fiction,tournament,
+themes: boxing,future,sports,
+premiere date: unknown
+director: You Moriyama
+production studio: Bandai Namco Arts
+
+name: Another (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13258
+ranking: 484
+rating: 7.86
+votes: 2364
+genres: horror,mystery,psychological,supernatural,
+themes: curse,death,school,
+premiere date: unknown
+director: Tsutomu Mizushima
+production studio: Hiroyasu Asami
+
+name: Detective Conan: The Raven Chaser (movie 13)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10522
+ranking: 485
+rating: 7.86
+votes: 131
+genres: action,drama,mystery,
+themes: detective,organized crime,
+premiere date: 2009-04-18 (Japan)
+director: Shouji Takizawa
+production studio: Nippon Television Network
+
+name: Colorful (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11211
+ranking: 486
+rating: 7.86
+votes: 426
+genres: drama,supernatural,
+themes: rebirth,suicide,
+premiere date: 2010-08-21 (Japan)
+director: Keiichi Hara
+production studio: Atsushi Terada
+
+name: From the New World (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14089
+ranking: 487
+rating: 7.86
+votes: 1207
+genres: adventure,drama,fantasy,horror,mystery,psychological,science fiction,
+themes: dystopia,espers,monsters,post-apocalyptic,sages,Telekinesis,tragedy,
+premiere date: unknown
+director: Masashi Ishihama
+production studio: A-1 Pictures
+
+name: Aura: Koga Maryuin's Last War (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13894
+ranking: 488
+rating: 7.86
+votes: 130
+genres: comedy,drama,romance,
+themes: school,
+premiere date: 2013-04-13 (Japan)
+director: Seiji Kishi
+production studio: AIC A.S.T.A.
+
+name: Waiting in the Summer (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13448
+ranking: 489
+rating: 7.86
+votes: 1101
+genres: comedy,drama,romance,science fiction,
+themes: aliens,fanservice,filmmaking,love polygon,school,
+premiere date: unknown
+director: Tatsuyuki Nagai
+production studio: AT-X
+
+name: Giovanni's Island (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15681
+ranking: 490
+rating: 7.86
+votes: 57
+genres: adventure,drama,
+themes: historical,
+premiere date: 2014-02-22 (Japan)
+director: Mizuho Nishikubo
+production studio: Japan Association of Music Enterprises
+
+name: Akira (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=375
+ranking: 491
+rating: 7.85
+votes: 6353
+genres: action,horror,psychological,science fiction,supernatural,
+themes: cyberpunk,military,post-apocalyptic,psychics,superpowers,
+premiere date: 1988-07-16 (Japan)
+director: Katsuhiro Otomo
+production studio: Akira Committee Company Ltd
+
+name: Blood+ (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5088
+ranking: 492
+rating: 7.85
+votes: 5192
+genres: action,drama,horror,mystery,supernatural,
+themes: monsters,vampires,
+premiere date: unknown
+director: Jun Matsumoto
+production studio: Aniplex
+
+name: Case Closed The Movie: The Time Bombed Skyscraper
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2679
+ranking: 493
+rating: 7.85
+votes: 429
+genres: action,drama,mystery,thriller,
+themes: crime,detective,mad bomber,
+premiere date: 1997-04-19 (Japan)
+director: Kenji Kodama
+production studio: Detective Conan Production Committee
+
+name: Macross Frontier: Sayonara no Tsubasa (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11821
+ranking: 494
+rating: 7.85
+votes: 186
+genres: action,romance,science fiction,
+themes: aliens,love triangle,mecha,music,space,
+premiere date: 2011-02-26 (Japan)
+director: Shoji Kawamori
+production studio: Bandai Visual
+
+name: Macross Frontier: Itsuwari no Utahime (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10930
+ranking: 495
+rating: 7.85
+votes: 245
+genres: action,comedy,drama,romance,science fiction,
+themes: aliens,idols,love triangle,mecha,military,music,real robot,space,
+premiere date: 2009-11-21 (Japan)
+director: Shoji Kawamori
+production studio: 8 bit
+
+name: Aria the Animation (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5504
+ranking: 496
+rating: 7.85
+votes: 1227
+genres: magic,science fiction,slice of life,
+themes: gondolas,iyashikei,
+premiere date: unknown
+director: Junichi Sato
+production studio: ARIA Company
+
+name: Strawberry Marshmallow (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=4823
+ranking: 497
+rating: 7.85
+votes: 1041
+genres: comedy,slice of life,
+themes: troublesome kids,
+premiere date: unknown
+director: Takuya Satō
+production studio: Ichigo Mashimaro Partners
+
+name: (The) Disastrous Life of Saiki K. (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18401
+ranking: 498
+rating: 7.85
+votes: 139
+genres: comedy,slice of life,supernatural,
+themes: espers,psychics,school,special abilities,
+premiere date: unknown
+director: Hiroaki Sakurai
+production studio: unknown
+
+name: Hidamari Sketch × 365 (special)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10758
+ranking: 499
+rating: 7.85
+votes: 166
+genres: comedy,
+themes: iyashikei,
+premiere date: unknown
+director: Akiyuki Simbo
+production studio: unknown
+
+name: Initial D: Fifth Stage (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14572
+ranking: 500
+rating: 7.85
+votes: 137
+genres: tournament,
+themes: auto racing,sports,
+premiere date: unknown
+director: Mitsuo Hashimoto
+production studio: Wedge Link
