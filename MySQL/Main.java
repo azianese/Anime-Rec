@@ -15,8 +15,6 @@ public class Main {
 
   public static void createAnimeTableFile() throws IOException{
     //sets files to read/write from
-    //BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    //BufferedWriter writer = new BufferedWriter(new FileWriter("AnimeTable.txt"));
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
@@ -69,8 +67,10 @@ public class Main {
 
   public static void createGenresTableFile() throws IOException{
     //sets files to read/write from
-    BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    BufferedWriter writer = new BufferedWriter(new FileWriter("GenresTable.txt"));
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("GenresTable.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -93,7 +93,7 @@ public class Main {
       if (line.startsWith("genres")) {
         String[] arr = s.split(",");
         for (int i = 0; i < arr.length; ++i) {
-          s = arr[i].replaceAll(" ", "");
+          s = arr[i].replaceAll(" ", "").toLowerCase();
           if (!set.contains(s)) {
             set.add(s);
             pq.add(s);
@@ -117,8 +117,10 @@ public class Main {
 
   public static void createThemesTableFile() throws IOException{
     //sets files to read/write from
-    BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    BufferedWriter writer = new BufferedWriter(new FileWriter("ThemesTable.txt"));
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("ThemesTable.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -141,7 +143,7 @@ public class Main {
       if (line.startsWith("themes")) {
         String[] arr = s.split(",");
         for (int i = 0; i < arr.length; ++i) {
-          s = arr[i].replaceAll(" ", "");
+          s = arr[i].replaceAll(" ", "").toLowerCase();
           if (!set.contains(s)) {
             set.add(s);
             pq.add(s);
@@ -165,8 +167,10 @@ public class Main {
 
   public static void createDirectorsTableFile() throws IOException{
     //sets files to read/write from
-    BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    BufferedWriter writer = new BufferedWriter(new FileWriter("DirectorsTable.txt"));
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("DirectorsTable.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -209,8 +213,10 @@ public class Main {
 
   public static void createStudiosTableFile() throws IOException{
     //sets files to read/write from
-    BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    BufferedWriter writer = new BufferedWriter(new FileWriter("StudiosTable.txt"));
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("StudiosTable.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
