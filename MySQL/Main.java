@@ -15,8 +15,12 @@ public class Main {
 
   public static void createAnimeTableFile() throws IOException{
     //sets files to read/write from
-    BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
-    BufferedWriter writer = new BufferedWriter(new FileWriter("AnimeTable.txt"));
+    //BufferedReader br = new BufferedReader(new FileReader("AnimeData.txt"));
+    //BufferedWriter writer = new BufferedWriter(new FileWriter("AnimeTable.txt"));
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("AnimeTable.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -33,26 +37,30 @@ public class Main {
       int start = line.indexOf(":") + 2;
       //skips empty lines
       if (start < 2) {
-        writer.newLine();
+        writer.write('\n');
         continue;
       }
       String s = line.substring(start);
       //write relevant data to file
       if (line.startsWith("name")) {
-        writer.write(s + "  ");
+        writer.write(s + "\t");
       }
       else if (line.startsWith("link")) {
-        writer.write(s + "  ");
+        writer.write(s + " \t");
       }
       else if (line.startsWith("rating")) {
-        writer.write(s + "  ");
+        writer.write(s + "\t");
       }
       else if (line.startsWith("votes")) {
-        writer.write(s + "  ");
+        writer.write(s + "\t");
       }
       else if (line.startsWith("premiere date")) {
-        String arr[] = s.split(" ", 2);
-        writer.write(arr[0] + "  ");
+        if (s.equals("unknown"))
+          writer.write("NULL");
+        else {
+          String arr[] = s.split(" ", 2);
+          writer.write(arr[0]); 
+        }
       }
       else
         continue;
@@ -100,7 +108,7 @@ public class Main {
       if (pq.peek() == null) 
         break;
       else
-        writer.newLine();
+        writer.write('\n');
     }
     //closes readers/writers
     br.close();
@@ -148,7 +156,7 @@ public class Main {
       if (pq.peek() == null) 
         break;
       else
-        writer.newLine();
+        writer.write('\n');
     }
     //closes readers/writers
     br.close();
@@ -192,7 +200,7 @@ public class Main {
       if (pq.peek() == null) 
         break;
       else
-        writer.newLine();
+        writer.write('\n');
     }
     //closes readers/writers
     br.close();
@@ -236,7 +244,7 @@ public class Main {
       if (pq.peek() == null) 
         break;
       else
-        writer.newLine();
+        writer.write('\n');
     }
     //closes readers/writers
     br.close();
