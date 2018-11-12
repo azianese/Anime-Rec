@@ -3,6 +3,8 @@ USE nirzj0shn94smawo;
 
 DROP TABLE IF EXISTS anime_genres;
 DROP TABLE IF EXISTS anime_themes;
+DROP TABLE IF EXISTS anime_directors;
+DROP TABLE IF EXISTS anime_studios;
 
 #NVARCHAR is to encompass foreign characters
 DROP TABLE IF EXISTS anime;
@@ -52,15 +54,15 @@ CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_themes` (
 );
 
 DROP TABLE IF EXISTS anime_to_directors;
-CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_themes` (
+CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_directors` (
   `anime` NVARCHAR(90) NOT NULL,
-  `director` VARCHAR(45) NOT NULL
+  `director` NVARCHAR(90) NOT NULL
 );
 
 DROP TABLE IF EXISTS anime_to_studios;
-CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_themes` (
+CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_studios` (
   `anime` NVARCHAR(90) NOT NULL,
-  `studio` VARCHAR(45) NOT NULL
+  `studio` NVARCHAR(90) NOT NULL
 );
 
 LOAD DATA LOCAL INFILE './MySQL/Data/table_anime.txt' INTO TABLE anime (
@@ -76,3 +78,5 @@ LOAD DATA LOCAL INFILE './MySQL/Data/table_genres.txt' INTO TABLE genres (genre)
 LOAD DATA LOCAL INFILE './MySQL/Data/table_themes.txt' INTO TABLE themes (theme);
 LOAD DATA LOCAL INFILE './MySQL/Data/table_anime_to_genres.txt' INTO TABLE anime_to_genres;
 LOAD DATA LOCAL INFILE './MySQL/Data/table_anime_to_themes.txt' INTO TABLE anime_to_themes;
+LOAD DATA LOCAL INFILE './MySQL/Data/table_anime_to_directors.txt' INTO TABLE anime_to_directors;
+LOAD DATA LOCAL INFILE './MySQL/Data/table_anime_to_studios.txt' INTO TABLE anime_to_studios;

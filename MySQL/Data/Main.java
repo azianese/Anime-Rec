@@ -266,14 +266,12 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_genres.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_anime_to_genres.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
-
-    String name = null;
-
     //reads until end of file
+    String name = null;
     while (true) {
       String line = br.readLine();
       if (line == null)
@@ -306,14 +304,12 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_anime_to_themes.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
-
-    String name = null;
-
     //reads until end of file
+    String name = null;
     while (true) {
       String line = br.readLine();
       if (line == null)
@@ -341,19 +337,17 @@ public class Main {
     writer.close();
   }
   
-  public static void createAnimeThemesFile() throws IOException{
+  public static void createAnimeDirectorsFile() throws IOException{
     //sets files to read/write from
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_anime_to_directors.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
-
-    String name = null;
-
     //reads until end of file
+    String name = null;
     while (true) {
       String line = br.readLine();
       if (line == null)
@@ -367,12 +361,8 @@ public class Main {
       //write relevant data to file
       if (line.startsWith("name"))
         name = s;
-      else if (line.startsWith("themes")) {
-        String[] arr = s.split(",");
-        for (int i = 0; i < arr.length; ++i) {
-          s = arr[i].replaceAll(" ", "").toLowerCase();
-          writer.write(name + "\t" + s + "\n");
-        }
+      else if (line.startsWith("director")) {
+        writer.write(name + "\t" + s + "\n");
       }
       else
         continue;
@@ -381,19 +371,17 @@ public class Main {
     writer.close();
   }
   
-  public static void createAnimeThemesFile() throws IOException{
+  public static void createAnimeStudiosFile() throws IOException{
     //sets files to read/write from
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_anime_to_studios.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
-
-    String name = null;
-
     //reads until end of file
+    String name = null;
     while (true) {
       String line = br.readLine();
       if (line == null)
@@ -407,12 +395,8 @@ public class Main {
       //write relevant data to file
       if (line.startsWith("name"))
         name = s;
-      else if (line.startsWith("themes")) {
-        String[] arr = s.split(",");
-        for (int i = 0; i < arr.length; ++i) {
-          s = arr[i].replaceAll(" ", "").toLowerCase();
-          writer.write(name + "\t" + s + "\n");
-        }
+      else if (line.startsWith("production studio")) {
+        writer.write(name + "\t" + s + "\n");
       }
       else
         continue;
