@@ -9,6 +9,10 @@ public class Main {
     createThemesTableFile();
     createDirectorsTableFile();
     createStudiosTableFile();
+    createAnimeGenresFile();
+    createAnimeThemesFile();
+    createAnimeDirectorsFile();
+    createAnimeStudiosFile();
   }
 
   /////////////// HELPER METHODS ///////////////
@@ -18,7 +22,7 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("AnimeTable.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_anime.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -70,7 +74,7 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("GenresTable.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_genres.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -120,7 +124,7 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("ThemesTable.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_themes.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -170,7 +174,7 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("DirectorsTable.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_directors.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -216,7 +220,7 @@ public class Main {
     Reader reader = new InputStreamReader(
       new FileInputStream("AnimeData.txt"), "UTF-8");
     BufferedReader br = new BufferedReader(reader);
-    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("StudiosTable.txt"),"UTF-8");
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("table_studios.txt"),"UTF-8");
     //skips the first 3 useless lines in the AnimeData file
     for (int i = 0; i < 3; ++i)
       br.readLine();
@@ -253,6 +257,166 @@ public class Main {
         writer.write('\n');
     }
     //closes readers/writers
+    br.close();
+    writer.close();
+  }
+  
+    public static void createAnimeGenresFile() throws IOException{
+    //sets files to read/write from
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_genres.txt"),"UTF-8");
+    //skips the first 3 useless lines in the AnimeData file
+    for (int i = 0; i < 3; ++i)
+      br.readLine();
+
+    String name = null;
+
+    //reads until end of file
+    while (true) {
+      String line = br.readLine();
+      if (line == null)
+        break;
+      //creates string without the data identifier prefix
+      int start = line.indexOf(":") + 2;
+      //skips empty lines
+      if (start < 2)
+        continue;
+      String s = line.substring(start);
+      //write relevant data to file
+      if (line.startsWith("name"))
+        name = s;
+      else if (line.startsWith("genres")) {
+        String[] arr = s.split(",");
+        for (int i = 0; i < arr.length; ++i) {
+          s = arr[i].replaceAll(" ", "").toLowerCase();
+          writer.write(name + "\t" + s + "\n");
+        }
+      }
+      else
+        continue;
+    }
+    br.close();
+    writer.close();
+  }
+  
+    public static void createAnimeThemesFile() throws IOException{
+    //sets files to read/write from
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    //skips the first 3 useless lines in the AnimeData file
+    for (int i = 0; i < 3; ++i)
+      br.readLine();
+
+    String name = null;
+
+    //reads until end of file
+    while (true) {
+      String line = br.readLine();
+      if (line == null)
+        break;
+      //creates string without the data identifier prefix
+      int start = line.indexOf(":") + 2;
+      //skips empty lines
+      if (start < 2)
+        continue;
+      String s = line.substring(start);
+      //write relevant data to file
+      if (line.startsWith("name"))
+        name = s;
+      else if (line.startsWith("themes")) {
+        String[] arr = s.split(",");
+        for (int i = 0; i < arr.length; ++i) {
+          s = arr[i].replaceAll(" ", "").toLowerCase();
+          writer.write(name + "\t" + s + "\n");
+        }
+      }
+      else
+        continue;
+    }
+    br.close();
+    writer.close();
+  }
+  
+  public static void createAnimeThemesFile() throws IOException{
+    //sets files to read/write from
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    //skips the first 3 useless lines in the AnimeData file
+    for (int i = 0; i < 3; ++i)
+      br.readLine();
+
+    String name = null;
+
+    //reads until end of file
+    while (true) {
+      String line = br.readLine();
+      if (line == null)
+        break;
+      //creates string without the data identifier prefix
+      int start = line.indexOf(":") + 2;
+      //skips empty lines
+      if (start < 2)
+        continue;
+      String s = line.substring(start);
+      //write relevant data to file
+      if (line.startsWith("name"))
+        name = s;
+      else if (line.startsWith("themes")) {
+        String[] arr = s.split(",");
+        for (int i = 0; i < arr.length; ++i) {
+          s = arr[i].replaceAll(" ", "").toLowerCase();
+          writer.write(name + "\t" + s + "\n");
+        }
+      }
+      else
+        continue;
+    }
+    br.close();
+    writer.close();
+  }
+  
+  public static void createAnimeThemesFile() throws IOException{
+    //sets files to read/write from
+    Reader reader = new InputStreamReader(
+      new FileInputStream("AnimeData.txt"), "UTF-8");
+    BufferedReader br = new BufferedReader(reader);
+    OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("anime_to_themes.txt"),"UTF-8");
+    //skips the first 3 useless lines in the AnimeData file
+    for (int i = 0; i < 3; ++i)
+      br.readLine();
+
+    String name = null;
+
+    //reads until end of file
+    while (true) {
+      String line = br.readLine();
+      if (line == null)
+        break;
+      //creates string without the data identifier prefix
+      int start = line.indexOf(":") + 2;
+      //skips empty lines
+      if (start < 2)
+        continue;
+      String s = line.substring(start);
+      //write relevant data to file
+      if (line.startsWith("name"))
+        name = s;
+      else if (line.startsWith("themes")) {
+        String[] arr = s.split(",");
+        for (int i = 0; i < arr.length; ++i) {
+          s = arr[i].replaceAll(" ", "").toLowerCase();
+          writer.write(name + "\t" + s + "\n");
+        }
+      }
+      else
+        continue;
+    }
     br.close();
     writer.close();
   }
