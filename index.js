@@ -25,12 +25,19 @@ app.use('/images', express.static('images'));
 app.get('/', function (req, res) {
   res.render('index');
 });
+
 //serve specified pages
 app.get('/:page', function (req, res) {
   res.render(req.params.page);
 });
 
+//gets data from the rec page
+app.post('/rec', urlencodedParser, function (req, res) {
+  console.log(req.body);
+  res.render('rec', {data: req.body});
+});
 
+/*
 //gets data from the custom_rec page
 app.post('/custom_rec', urlencodedParser, function (req, res) {
   console.log(req.body);
@@ -42,6 +49,8 @@ app.post('/compare_rec', urlencodedParser, function (req, res) {
   console.log(req.body);
   res.render('compare_rec', {data: req.body});
 });
+*/
+
 
 //sets ports that the server will lisen to
 const host = '0.0.0.0';
