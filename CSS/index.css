@@ -10,7 +10,7 @@
   height: auto;
   min-height: 100vh;
   background-image: url('../images/VQaJKNO.png');
-  background-size: cover;
+  background-size: 100% 100%;
   /*align-items: center;*/
 }
 
@@ -32,6 +32,7 @@ p {
 }
 
 input[type=text] {
+  padding-left: 12px;
   text-align: left;
   width: 85vw;
   height: 50px;
