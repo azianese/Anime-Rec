@@ -20,8 +20,12 @@
         <input type='text' placeholder=""><br>
 
         <div class='type1'>
+          <!--
+Rating Weight:<br>
+<input type='range' min='0' max='10' value='10' name='ratingWeight'><br>
+-->
           How many recommendations do you want (0-500)?:<br>
-          <input type='number' min='1' max='500' value='10' name='numRecs'><br>
+          <input type='number' min='1' max='500' value='500' name='numRecs'><br>
         </div>
 
         <div class='type2' id='years'>
@@ -40,18 +44,38 @@
           <input type='number' min='0' max='999999' value='999999' name='maxVotes'><br>
         </div>
 
-        <div class='type2' id='genres_themes'>
+        <div class='type2' id='genres'>
+          <!--
+Genres Weight:<br>
+<input type='range' min='0' max='10' value='3' name='genresWeight'><br>
+-->
           Genres (separate by comma):<br>
           <input type='text' autocomplete='on' name='genres'><br>
-          
+        </div>
+
+        <div class='type1' id='themes'>
+          <!--
+Themes Weight:<br>
+<input type='range' min='0' max='10' value='3' name='themesWeight'><br>
+-->
           Themes (separate by comma):<br>
           <input type='text' autocomplete='on' name='themes'><br>
         </div>
 
-        <div class='type1' id='director_studio'>
+        <div class='type2' id='director'>
+          <!--
+Director Weight:<br>
+<input type='range' min='0' max='10' value='3' name='directorWeight'><br>
+-->
           Director:<br>
           <input type='text' autocomplete='on' name='director'><br>
+        </div>
 
+        <div class='type1' id='studio'>
+          <!--
+Studio Weight:<br>
+<input type='range' min='0' max='10' value='3' name='studioWeight'><br>
+-->
           Studio:<br>
           <input type='text' autocomplete='on' name='studio'><br>
         </div>
