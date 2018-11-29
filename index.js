@@ -51,24 +51,19 @@ app.get('/:page', function (req, res) {
 });
 //submits data to the rec page
 app.post('/rec', urlencodedParser, function (req, res) {
+  console.log('--------------------request body:');
   console.log(req.body);
+  console.log('--------------------end body:');
   res.render('rec', {data: req.body});
-  //variables for data
-  var numRecs = req.body.numRecs;
-  var minYear = req.body.minYar;
-  var maxYear = req.body.maxYear;
-  var minVotes = req.body.minVotes;
-  var maxVotes = req.body.maxVotes;
-  var director = req.body.director;
-  var studio = req.body.studio;
-  //splits genres and themes into arrays
-  var genres = req.body.genres.split(",").map(function(item) {return item.trim()});
-  genres = genres.filter(function (genre) {return genre != ''});
-  var themes = req.body.themes.split(",").map(function(item) {return item.trim()});
-  themes = themes.filter(function (theme) {return theme != ''});
+  //create object to hold parameters
+  var params = req.body;
+  //split user input for genre and themes by comma. delete while spaces.
+  var genres = params.genres.split(",").map(function(item) {return item.trim()});
+  params.genres = genres.filter(function (genre) {return genre != ''});
+  var themes = params.themes.split(",").map(function(item) {return item.trim()});
+  params.themes = themes.filter(function (theme) {return theme != ''});
 
-  //initial query string for the db
-  var dataQuery = 'SELECT * FROM anime';
+  //promise for basic anime data (name, link, rating, votes, date)
   var dataPromise = new Promise((resolve, reject) => {
     connection.query(dataQuery, function (err, result) {
       if (err) reject(err);
@@ -76,55 +71,96 @@ app.post('/rec', urlencodedParser, function (req, res) {
     })
   });
 
-  dataPromise.then((result) => {
-    console.log(result);
-    var animePRomises = [];
-    for (var i = 0; i < result.length; ++i) {
-      var currAnime = result[i];
-      //console.log(currAnime.anime);
-      var currPromise = getData(currAnime.anime);
-      currPromise.then(function(data){
-        var animeDirector = data[0][0].director;
-        var animeStudio = data[1][0].studio;
-        var animeGenres = [];
-        for (var i = 0; i < data[2].length; ++i)
-          animeGenres.push(data[2][i].genre);
-        var animeThemes = []
-        for (var i = 0; i < data[3].length; ++i)
-          animeThemes.push(data[3][i].theme);
-        var animeObject = new Anime(currAnime.anime, currAnime.rating, currAnime.votes, currAnime.date, animeDirector, animeStudio, animeGenres, animeThemes);
-        console.log(animeObject);
-      });
+  //array of anime promises
+  var animePromises = [];
+  dataPromise.then(result => {
+    for (var i = 0; i < 2/*result.length*/; ++i) {
+      //console.log(result[i]);
+      var anime = createAnime(result[i]);
+      console.log(anime);
     }
-  });
-});//end rec page submission code
+    //console.log(result[i]);
+    /*
+      animePromises.push(new Promise((resolve, reject) => {
+        getData(result[i]).then
+        (createAnime).then
+        (data => setScore(params, data)).then
+        (data => {
+          //console.log(data);
+          resolve(data);
+        });
+      }));
+    }
+    Promise.all(animePromises).then(object => {
+      console.log(JSON.stringify(object));
+    });
+    */
+  })
+});
 
-//////////////////// QUERY ANIME DATA ////////////////////
-
+//////////////////// HELPER FUNCTIONS ////////////////////
+/*
 function getData(anime) {
+  //console.log(anime);
+  var name = anime.anime;
   var promises = [];
-  promises.push(getDirector(anime));
-  promises.push(getStudio(anime));
-  promises.push(getGenres(anime));
-  promises.push(getThemes(anime));
+  promises.push(anime.anime);
+  promises.push(anime.rating);
+  promises.push(anime.votes);
+  promises.push(anime.date);
+  promises.push(anime.director);
+  promises.push(anime.studio);
+  promises.push(anime.genres);
+  promises.push(anime.themes);
   return Promise.all(promises);
 }
-function getDirector(anime){
-  return new Promise((resolve, reject) => {
-    connection.query(directorQuery, anime, function (err, result) {
-      if (err) reject(err);
-      else resolve(result);
-    });
+*/
+function createAnime(data) {
+  data.genres = data.genres.split(",");
+  data.themes = data.themes.split(",");
+  return new Anime(data);
+  /*
+  var params = [];
+  params['name'] = data[0];
+  params['rating'] = data[1];
+  params['votes'] = data[2];
+  params['date'] = data[3];
+  params['director'] = data[4];
+  params['studio'] = data[5];
+  var genres = data[6].split(",");
+  params['genres'] = genres;
+  var themes = data[7].split(",");
+  params['themes'] = themes;
+  var newAnime = new Anime(params);
+  console.log(newAnime.genres);
+  */
+  /*
+  //console.log(data);
+  return new Promise(function(resolve, reject) {
+    var params = [];
+    params['name'] = data[0];
+    params['rating'] = data[1];
+    params['votes'] = data[2];
+    params['date'] = data[3];
+    params['director'] = data[4];
+    params['studio'] = data[5];
+    params['genres'] = data[6];
+    params['themes'] = data[7];
+    resolve(new Anime(params));
+  });
+  */
+}
+
+function setScore(params, anime) {
+  //console.log(anime);
+  return new Promise(function(resolve, reject) {
+    //anime.calcScore(params);
+    resolve(anime);
   });
 }
-function getStudio(anime) {
-  return new Promise((resolve, reject) => {
-    connection.query(studioQuery, anime, function (err, result) {
-      if (err) reject(err);
-      else resolve(result);
-    });
-  });
-}
+
+//////////////////// HELPER FUNCTIONS TO GET ANIME DATA ////////////////////
+/*
 function getGenres(anime) {
   return new Promise((resolve, reject) => {
     connection.query(genreQuery, anime, function (err, result) {
@@ -141,14 +177,24 @@ function getThemes(anime) {
     });
   })
 }
-var directorQuery = 'SELECT directors.director FROM directors ' +
-    'INNER JOIN anime_directors ON directors.id = anime_directors.director_id ' +
-    'INNER JOIN anime ON anime.id = anime_directors.anime_id ' +
-    'WHERE anime.anime = ?';
-var studioQuery = 'SELECT studios.studio FROM studios ' +
-    'INNER JOIN anime_studios ON studios.id = anime_studios.studio_id ' +
-    'INNER JOIN anime ON anime.id = anime_studios.anime_id ' +
-    'WHERE anime.anime = ?';
+*/
+
+var dataQuery = 'SELECT anime.*, directors.director, studios.studio, '+
+    'GROUP_CONCAT(DISTINCT genres.genre) AS genres, '+
+    'GROUP_CONCAT(DISTINCT themes.theme) AS themes '+
+    'FROM anime '+
+    'INNER JOIN anime_directors ON anime.id = anime_directors.anime_id '+
+    'INNER JOIN directors ON directors.id = anime_directors.director_id '+
+    'INNER JOIN anime_studios ON anime.id = anime_studios.anime_id '+
+    'INNER JOIN studios ON studios.id = anime_studios.studio_id '+
+    'INNER JOIN anime_genres ON anime.id = anime_genres.anime_id '+
+    'INNER JOIN genres ON genres.id = anime_genres.genre_id '+
+    'INNER JOIN anime_themes ON anime.id = anime_themes.anime_id '+
+    'INNER JOIN themes ON themes.id = anime_themes.theme_id '+
+    'GROUP BY anime.anime '+
+    'ORDER BY anime.id';
+
+/*
 var genreQuery = 'SELECT genres.genre FROM genres ' +
     'INNER JOIN anime_genres ON anime_genres.genre_id = genres.id ' +
     'INNER JOIN anime ON anime.id = anime_genres.anime_id ' +
@@ -157,47 +203,77 @@ var themeQuery = 'SELECT themes.theme FROM themes ' +
     'INNER JOIN anime_themes ON anime_themes.theme_id = themes.id ' +
     'INNER JOIN anime ON anime.id = anime_themes.anime_id ' +
     'WHERE anime.anime = ?';
-
+*/
 //////////////////// ANIME CLASS ////////////////////
 
+//anime object class
 class Anime {
-  constructor(name, rating, votes, date, director, studio, genres, themes) {
-    this.name = name;
-    this.rating = rating;
-    this.votes = votes;
-    this.date = date;
-    this.director = director;
-    this.studio = studio;
-    this.genres = genres;
-    this.themes = themes;
+
+  //class constructor
+  constructor(params) {
+    this.name = params.anime;
+    this.rating = params.rating;
+    this.votes = params.votes;
+    this.date = params.date;
+    this.director = params.director;
+    this.studio = params.studio;
+    this.genres = params.genres;
+    this.themes = params.themes;
+    this.score = 0;
   }
 
-  determineScore(min_votes, max_votes, min_year, max_year, genres, themes, director, studio) {
-    if (!isInRange(min_votes, max_votes, min_year, max_year)) {
-      return -1;
+  //calculates an anime's score based on parameters
+  calcScore(params) {
+    //returns -1 if the anime does not fit requirments
+    if (!this.isInRange(params.min_votes, params.max_votes, 
+                        params.min_year, params.max_year)) {
+      this.score = -1;
+      return;
     }
-    var score = 0;
-
+    //starts with the base anime rating in the score calculation
+    this.score += this.rating;
+    //adds a score of 5 to anime with the right director/studio
+    if (this.director.toLowerCase() == params.director.toLowerCase())
+      this.score += 5;
+    if (this.studio.toLowerCase() == params.studio.toLowerCase())
+      this.score += 5;
+    //sets weight divider for each genre/theme
+    var len = params.genres.length + params.themes.length;
+    //sets anime object genres to lowercase for comparison
+    for (var i = 0; i < this.genres.length; ++i) 
+      this.genres[i] = this.genres[i].toLowerCase();
+    //calculate genres score
+    for (var i = 0; i < params.genres.length; ++i) {
+      if (this.genres.includes(params.genres[i].toLowerCase())) {
+        this.score += (10/len);
+      }
+    }
+    //sets anime object themes to lowercase for comparison
+    for (var i = 0; i < this.themes.length; ++i)
+      this.themes[i] = this.themes[i].toLowerCase();
+    //calculate themes score
+    for (var i = 0; i < params.themes.length; ++i) {
+      if (this.themes.includes(params.themes[i].toLowerCase())) {
+        this.score += (10/len);
+      }
+    }
   }
 
+  //helper function to check if an anime fits between vote and year parameters
   isInRange(min_votes, max_votes, min_year, max_year) {
-    if (this.votes < min_votes || this.votes > max_votes) {
+    var date = (new Date(this.date)).getFullYear();;
+    if (this.votes < min_votes || this.votes > max_votes) 
       return false;
-    }
-    if (this.date == null) {
+    //temporary solution: allow NaN dates to filter through
+    if (isNaN(date)) 
       return true
-    }
-    if (this.date < min_year || this.date < max_year) {
+    if (this.date < min_year || this.date < max_year)
       return false;
-    }
     return true;
   }
 }
 
-
 //////////////////// TEST AREA ////////////////////
-
-
 
 
 //////////////////// OLD CODE ////////////////////
