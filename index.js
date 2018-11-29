@@ -39,7 +39,7 @@ app.listen(port, host, function(){
 var favicon = require('serve-favicon');
 app.use(favicon('favicon.ico'));
 
-//////////////////// FUNCTIONALITY ////////////////////
+//////////////////// GENERAL FUNCTIONALITY ////////////////////
 
 //sets index as the default page
 app.get('/', function (req, res) {
@@ -49,15 +49,15 @@ app.get('/', function (req, res) {
 app.get('/:page', function (req, res) {
   res.render(req.params.page);
 });
-//submits data to the rec page
+
+//////////////////// REC PAGE ////////////////////
 app.post('/rec', urlencodedParser, function (req, res) {
-  console.log('--------------------request body:');
-  console.log(req.body);
-  console.log('--------------------end body:');
+  //temporary line for testing
   res.render('rec', {data: req.body});
+  
   //create object to hold parameters
+  //split user input for genre and themes by comma. delete white spaces.
   var params = req.body;
-  //split user input for genre and themes by comma. delete while spaces.
   var genres = params.genres.split(",").map(function(item) {return item.trim()});
   params.genres = genres.filter(function (genre) {return genre != ''});
   var themes = params.themes.split(",").map(function(item) {return item.trim()});
@@ -71,114 +71,28 @@ app.post('/rec', urlencodedParser, function (req, res) {
     })
   });
 
-  //array of anime promises
-  var animePromises = [];
+  //work with data
+  var animeArray = [];
   dataPromise.then(result => {
-    for (var i = 0; i < 2/*result.length*/; ++i) {
-      //console.log(result[i]);
-      var anime = createAnime(result[i]);
-      console.log(anime);
+    for (var i = 0; i < result.length; ++i) {
+      var anime = createAnime(result[i], params);
+      anime.calcScore(params);
+      animeArray.push(anime);
     }
-    //console.log(result[i]);
-    /*
-      animePromises.push(new Promise((resolve, reject) => {
-        getData(result[i]).then
-        (createAnime).then
-        (data => setScore(params, data)).then
-        (data => {
-          //console.log(data);
-          resolve(data);
-        });
-      }));
-    }
-    Promise.all(animePromises).then(object => {
-      console.log(JSON.stringify(object));
-    });
-    */
+    console.log(animeArray[499]);
   })
 });
 
-//////////////////// HELPER FUNCTIONS ////////////////////
-/*
-function getData(anime) {
-  //console.log(anime);
-  var name = anime.anime;
-  var promises = [];
-  promises.push(anime.anime);
-  promises.push(anime.rating);
-  promises.push(anime.votes);
-  promises.push(anime.date);
-  promises.push(anime.director);
-  promises.push(anime.studio);
-  promises.push(anime.genres);
-  promises.push(anime.themes);
-  return Promise.all(promises);
-}
-*/
+//////////////////// HELPER ////////////////////
+
+//Helper function to create an Anime object based on data input
 function createAnime(data) {
   data.genres = data.genres.split(",");
   data.themes = data.themes.split(",");
   return new Anime(data);
-  /*
-  var params = [];
-  params['name'] = data[0];
-  params['rating'] = data[1];
-  params['votes'] = data[2];
-  params['date'] = data[3];
-  params['director'] = data[4];
-  params['studio'] = data[5];
-  var genres = data[6].split(",");
-  params['genres'] = genres;
-  var themes = data[7].split(",");
-  params['themes'] = themes;
-  var newAnime = new Anime(params);
-  console.log(newAnime.genres);
-  */
-  /*
-  //console.log(data);
-  return new Promise(function(resolve, reject) {
-    var params = [];
-    params['name'] = data[0];
-    params['rating'] = data[1];
-    params['votes'] = data[2];
-    params['date'] = data[3];
-    params['director'] = data[4];
-    params['studio'] = data[5];
-    params['genres'] = data[6];
-    params['themes'] = data[7];
-    resolve(new Anime(params));
-  });
-  */
 }
 
-function setScore(params, anime) {
-  //console.log(anime);
-  return new Promise(function(resolve, reject) {
-    //anime.calcScore(params);
-    resolve(anime);
-  });
-}
-
-//////////////////// HELPER FUNCTIONS TO GET ANIME DATA ////////////////////
-/*
-function getGenres(anime) {
-  return new Promise((resolve, reject) => {
-    connection.query(genreQuery, anime, function (err, result) {
-      if (err) reject(err);
-      else resolve(result);
-    });
-  })
-}
-function getThemes(anime) {
-  return new Promise((resolve, reject) => {
-    connection.query(themeQuery, anime, function (err, result) {
-      if (err) reject(err);
-      else resolve(result);
-    });
-  })
-}
-*/
-
+//Query to get anime data
 var dataQuery = 'SELECT anime.*, directors.director, studios.studio, '+
     'GROUP_CONCAT(DISTINCT genres.genre) AS genres, '+
     'GROUP_CONCAT(DISTINCT themes.theme) AS themes '+
@@ -194,21 +108,10 @@ var dataQuery = 'SELECT anime.*, directors.director, studios.studio, '+
     'GROUP BY anime.anime '+
     'ORDER BY anime.id';
 
-/*
-var genreQuery = 'SELECT genres.genre FROM genres ' +
-    'INNER JOIN anime_genres ON anime_genres.genre_id = genres.id ' +
-    'INNER JOIN anime ON anime.id = anime_genres.anime_id ' +
-    'WHERE anime.anime = ?';
-var themeQuery = 'SELECT themes.theme FROM themes ' +
-    'INNER JOIN anime_themes ON anime_themes.theme_id = themes.id ' +
-    'INNER JOIN anime ON anime.id = anime_themes.anime_id ' +
-    'WHERE anime.anime = ?';
-*/
 //////////////////// ANIME CLASS ////////////////////
 
-//anime object class
+//Anime object class
 class Anime {
-
   //class constructor
   constructor(params) {
     this.name = params.anime;
@@ -221,8 +124,7 @@ class Anime {
     this.themes = params.themes;
     this.score = 0;
   }
-
-  //calculates an anime's score based on parameters
+  //calculates and sets the calling anime object's score based on parameters
   calcScore(params) {
     //returns -1 if the anime does not fit requirments
     if (!this.isInRange(params.min_votes, params.max_votes, 
@@ -258,7 +160,6 @@ class Anime {
       }
     }
   }
-
   //helper function to check if an anime fits between vote and year parameters
   isInRange(min_votes, max_votes, min_year, max_year) {
     var date = (new Date(this.date)).getFullYear();;
@@ -278,35 +179,3 @@ class Anime {
 
 //////////////////// OLD CODE ////////////////////
 
-//create a variable for the server
-//var server = require('http').Server(app)//
-
-//avoid favicon.ico requests
-//app.get('/favicon.ico', (req, res) => res.status(204));
-
-/*
-//loads the http module into a variable
-var http = require('http');
-//loads the fs module to read and write files
-var fs = require('fs');
-//creates a server
-var server = http.createServer(function(req, res) {
-  //lets the client know the data is text/html
-  res.writeHead(200, {'Content-Type': 'text/html'});
-  //reads index.html file (potentially in multiple buffers)
-  var readStream = fs.createReadStream(__dirname + '/index.html', 'utf8');
-  //pipes the buffer data to the response
-  readStream.pipe(res);
-});
-//sets the default page to the homepage
-app.get('/', function(req, res) {
-  res.sendFile(__dirname +  '/index.html');
-});
-//sets the page depending on the page specified
-app.get('/:page', function(req, res) {
-  res.sendFile(__dirname + '/' + req.params.page + '.html');
-});
-//server listens on port 3000
-server.listen(3000);
-console.log('now listening on port 3000');
-*/
