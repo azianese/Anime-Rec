@@ -1,8 +1,8 @@
 //////////////////// VARIABLES ////////////////////
 
-//use express
-var express = require('express');
 //variable to use express
+var express = require('express');
+//use express
 var app = express();
 //use the body-parser middleware to handle post data
 var bodyParser = require('body-parser');
