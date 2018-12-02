@@ -1,22 +1,42 @@
-//variable to use express
-var express = require('express');
-//use express
-var app = express();
-//create a mySQL connection
-var mysql = require('mysql');
-var connection = mysql.createConnection({
-  host: 'lyl3nln24eqcxxot.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-  user: 'ywbcssm5p26emy7n',
-  password: 'e5pefjwpos1k1i17',
-  port: '3306',
-  database: 'nirzj0shn94smawo'
-});
-connection.connect(function(err) {
-  if (err) throw err;
-  console.log('Connected to mysql database.');
-});
+var db = require("./db.js");
 
-//////////////////// HELPER ////////////////////
+module.exports.getAniArray = function(req) {
+  return new Promise((resolve, reject) => {
+    //create object to hold parameters
+    //split user input for genre and themes by comma. delete white spaces.
+    var params = req.body;
+    var genres = params.genres.split(",").map(function(item) {return item.trim()});
+    params.genres = genres.filter(function (genre) {return genre != ''});
+    var themes = params.themes.split(",").map(function(item) {return item.trim()});
+    params.themes = themes.filter(function (theme) {return theme != ''});
+
+    //promise for basic anime data (name, link, rating, votes, date)
+    var dataPromise = new Promise((resolve, reject) => {
+      db.getConnection.then(mysql => {
+        mysql.query(db.dataQuery, function (err, result) {
+          if (err) reject(err);
+          else resolve(result);
+        })
+      })
+    })
+
+    //work with data
+    var animeArray = [];
+    dataPromise.then(result => {
+      for (var i = 0; i < result.length; ++i) {
+        var anime = createAnime(result[i], params);
+        anime.calcScore(params);
+        animeArray.push(anime);
+      }
+
+      if (animeArray.length == 0) {
+        console.log("something went wrong filling anime promise array");
+        reject();
+      }
+      else resolve(animeArray);
+    })
+  })
+}
 
 //Helper function to create an Anime object based on data input
 function createAnime(data) {
@@ -24,24 +44,6 @@ function createAnime(data) {
   data.themes = data.themes.split(",");
   return new Anime(data);
 }
-
-//Query to get anime data
-var dataQuery = 'SELECT anime.*, directors.director, studios.studio, '+
-    'GROUP_CONCAT(DISTINCT genres.genre) AS genres, '+
-    'GROUP_CONCAT(DISTINCT themes.theme) AS themes '+
-    'FROM anime '+
-    'INNER JOIN anime_directors ON anime.id = anime_directors.anime_id '+
-    'INNER JOIN directors ON directors.id = anime_directors.director_id '+
-    'INNER JOIN anime_studios ON anime.id = anime_studios.anime_id '+
-    'INNER JOIN studios ON studios.id = anime_studios.studio_id '+
-    'INNER JOIN anime_genres ON anime.id = anime_genres.anime_id '+
-    'INNER JOIN genres ON genres.id = anime_genres.genre_id '+
-    'INNER JOIN anime_themes ON anime.id = anime_themes.anime_id '+
-    'INNER JOIN themes ON themes.id = anime_themes.theme_id '+
-    'GROUP BY anime.anime '+
-    'ORDER BY anime.id';
-
-//////////////////// ANIME CLASS ////////////////////
 
 //Anime object class
 class Anime {
