@@ -24,10 +24,6 @@ app.use(favicon('./images/favicon.ico'));
 app.use('/CSS', express.static('CSS'));
 app.use('/images', express.static('images'));
 
-//sets up the mysql database connection
-//var db = require("./javascript/db.js");
-var animeClass = require("./javascript/anime.js");
-
 //////////////////// GENERAL FUNCTIONALITY ////////////////////
 
 //sets index as the default page
@@ -41,17 +37,19 @@ app.get('/:page', function (req, res) {
 
 //////////////////// REC PAGE ////////////////////
 app.post('/rec', urlencodedParser, function (req, res) {
-  //temporary line for testing
-  res.render('rec', {data: req.body});
-  var animeFile = require("./javascript/anime.js");
-  var aniRecs = animeFile.getAniArray(req);
-  aniRecs.then(data => {
-    console.log(data[499]);
+  //res.render('rec', {data: req.body});
+  var recFile = require("./javascript/page_rec.js");
+  var recPromise = recFile.getRecs(req);
+  recPromise.then(aniRecs => {
+    var aniArray = [];
+    //console.log("size: " + aniRecs.size());
+    console.log("req.numRecs: " + req.body.numRecs);
+    for (var i = 0; i < req.body.numRecs; ++i) {
+      //console.log("peek: " + aniRecs.peek());
+      aniArray.push(aniRecs.pop());
+      //console.log(aniArray[aniArray.length-1]);
+    }
+    //console.log("length: " + aniArray.length);
+    res.render('rec', {data: aniArray});
   })
 });
-
-//////////////////// TEST AREA ////////////////////
-
-
-//////////////////// OLD CODE ////////////////////
-

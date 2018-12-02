@@ -30,8 +30,7 @@ module.exports.getAniArray = function(req) {
       }
 
       if (animeArray.length == 0) {
-        console.log("something went wrong filling anime promise array");
-        reject();
+        reject("anime promise array could not be filled. File: anime.js");
       }
       else resolve(animeArray);
     })

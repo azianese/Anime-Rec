@@ -15,15 +15,25 @@
 
   <body>
     <div id='body'>
-      <p><%= data.numRecs %></p>
-      <p><%= data.minYear %></p>
-      <p><%= data.maxYear %></p>
-      <p><%= data.minVotes %></p>
-      <p><%= data.maxVotes %></p>
-      <p><%= data.genres %></p>
-      <p><%= data.themes %></p>
-      <p><%= data.director %></p>
-      <p><%= data.studio %></p>
+      <!--
+<p><#%= data.numRecs %></p>
+<p><#%= data.minYear %></p>
+<p><#%= data.maxYear %></p>
+<p><#%= data.minVotes %></p>
+<p><#%= data.maxVotes %></p>
+<p><#%= data.genres %></p>
+<p><#%= data.themes %></p>
+<p><#%= data.director %></p>
+<p><#%= data.studio %></p>
+-->
+      <table>
+        <% for(var i=0; i < data.length; i++) { %>
+        <tr>
+          <td><%= data[i].name %></td>
+          <td><%= data[i].score %></td>
+        </tr>
+        <% } %>
+      </table>
     </div>
   </body>
 </html>

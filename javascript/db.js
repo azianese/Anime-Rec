@@ -12,10 +12,10 @@ module.exports.getConnection = new Promise((resolve, reject) => {
   pool.getConnection(function(err, res) {
     if (err) {
       console.log("error establishing connection to MySQL database: ")
-      reject();
+      reject(err);
     }
     else {
-      console.log("established connection to MySQL database");
+      //console.log("established connection to MySQL database");
       resolve(res);
     }
   });
