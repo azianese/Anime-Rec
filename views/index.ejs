@@ -11,7 +11,60 @@
     <title>Anime recommender</title>
     <!--Stylesheets-->
     <link rel="stylesheet" href="css/index.css">
+    <!--For the title font-->
     <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
+    <!--Include jquery autocomplete library-->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+    <!--script required for autocomplete-->
+    <!--http://jqueryui.com/autocomplete/#multiple-->
+    <script>
+      $(function() {
+        var dataArray = <%- JSON.stringify(data) %>;
+        console.log(dataArray);
+        $( "#searchBox" )
+        // don't navigate away from the field on tab when selecting an item
+          .on( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+          .autocomplete({
+          minLength: 0,
+          source: function( request, response ) {
+            // delegate back to autocomplete, but extract the last term
+            response( $.ui.autocomplete.filter(
+              dataArray, extractLast( request.term ) ) );
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        function split(val) {
+          return val.split(',');
+        }
+        function extractLast(term) {
+          return split(term).pop().trim();
+        };
+      })
+    </script>
+
   </head>
 
   <body>
@@ -21,21 +74,9 @@
       </div>
       <!--<a href='https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=best_bayesian&n=500' class="button" style='text-decoration: none'>Anime List</a>-->
       <div id='search'>
-        <input type='text' placeholder=''>
+        <input type='text' id='searchBox'>
       </div>
       <a href="/search" class="button" style='text-decoration: none'>Search</a>
-
-
-      <!--Make sure the form has the autocomplete function switched off:-->
-      <!--
-      <form autocomplete="off" action="/action_page.php">
-        <div class="autocomplete" style="width:300px;">
-          <input id="myInput" type="text" name="myCountry" placeholder="TEST">
-        </div>
-        <input type="submit">
-      </form>-->
-
-      
     </div>
   </body>
 </html>

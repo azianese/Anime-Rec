@@ -36,3 +36,6 @@ module.exports.dataQuery = 'SELECT anime.*, directors.director, studios.studio, 
     'INNER JOIN themes ON themes.id = anime_themes.theme_id '+
     'GROUP BY anime.anime '+
     'ORDER BY anime.id';
+
+//Query to get anime names
+module.exports.nameQuery = 'SELECT anime FROM anime'

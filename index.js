@@ -26,10 +26,43 @@ app.use('/images', express.static('images'));
 
 //////////////////// GENERAL FUNCTIONALITY ////////////////////
 
+
+
+
+
+var jsdom = require("jsdom");
+const { JSDOM } = jsdom;
+const { window } = new JSDOM();
+const { document } = (new JSDOM('')).window;
+global.document = document;
+var $ = jQuery = require('jquery')(window);
+
+
+/*
+app.get('/aniNames', function (req, res) {
+  var indexFile = require('./serverJS/page_index.js');
+  var promise = indexFile.getTitleArray();
+  promise.then(aniNames => {
+    console.log(aniNames);
+    res.send(aniNames);
+  })
+});*/
+
+
+
 //sets index as the default page
 app.get('/', function (req, res) {
-  res.render('index');
+  //res.render('index');
+  var indexFile = require('./serverJS/page_index.js');
+  var promise = indexFile.getTitleArray();
+  promise.then(aniNames => {
+    //console.log(aniNames);
+    res.render('index', {data: aniNames});
+    //res.render('index', {data: JSON.stringify(aniNames)});
+    //res.render('index', {data: JSON.stringify(JSON.stringify(aniNames))});
+  })
 });
+
 //serve specified pages
 app.get('/:page', function (req, res) {
   res.render(req.params.page);
@@ -38,7 +71,7 @@ app.get('/:page', function (req, res) {
 //////////////////// REC PAGE ////////////////////
 app.post('/rec', urlencodedParser, function (req, res) {
   //res.render('rec', {data: req.body});
-  var recFile = require("./javascript/page_rec.js");
+  var recFile = require("./serverJS/page_rec.js");
   var recPromise = recFile.getRecs(req);
   recPromise.then(aniRecs => {
     var aniArray = [];
