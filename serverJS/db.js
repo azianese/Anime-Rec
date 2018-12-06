@@ -39,3 +39,15 @@ module.exports.dataQuery = 'SELECT anime.*, directors.director, studios.studio, 
 
 //Query to get anime names
 module.exports.nameQuery = 'SELECT anime FROM anime'
+
+//Query to get anime directors
+module.exports.directorQuery = 'SELECT director FROM directors'
+
+//Query to get anime studios
+module.exports.studioQuery = 'SELECT studio FROM studios'
+
+//Query to get anime genres
+module.exports.genreQuery = 'SELECT genre FROM genres'
+
+//Query to get anime themes
+module.exports.themeQuery = 'SELECT theme FROM themes'

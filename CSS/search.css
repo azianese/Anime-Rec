@@ -1,32 +1,60 @@
-.type1 {
-  padding-top: 10px;
-  background-color: lightgrey;
-  padding-bottom: 10px;
+/*************** General ***************/
+
+/* Add a background color and some padding around the form */
+body {
+  /* font styling */
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  /* center align text elements */
+  text-align: center;
+  /* ensures content isn't too close to edges */
+  padding: 30px;
+  /* background */
+  background-image: url('../images/file1.png');
+  background-size: cover;
 }
 
-.type2 {
-  padding-top: 10px;
-  background-color: white;
-  padding-bottom: 10px;
+/* gets rid of input focus */
+*:focus {
+  outline:none;
 }
 
-#years {
+/*************** Input ***************/
 
+/* Style inputs with type="text", select elements and textareas */
+input {
+  width: 100%; /* Full width */
+  max-width: 500px;
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 10px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 24px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
-#votes {
+.ui-autocomplete {
+  max-height: 200px;
+  max-width: 72vw;
+  overflow-y: scroll;
+  /* prevent horizontal scrollbar */
+  overflow-x: hidden;
+  /* add padding to account for vertical scrollbar */
+  padding-right: 0px;
+} 
 
+/* gets rid of input focus */
+*:focus {
+  outline:none;
 }
 
-#genres_themes {
-
-}
-
-#director_studio {
-
-}
+/*************** Button ***************/
 
 .button {
+  padding: 0px;
+
   width: 225px;
   height: 75px;
   border-radius: 37px;
@@ -66,3 +94,19 @@
   border: solid 1px #72bdf4;
   box-shadow: inset 0 10px 15px 0 #50aaf3; 
 }
+
+/*************** Old Code ***************/
+
+/*
+.type1 {
+padding-top: 10px;
+background-color: lightgrey;
+padding-bottom: 10px;
+}
+
+.type2 {
+padding-top: 10px;
+background-color: white;
+padding-bottom: 10px;
+}
+*/

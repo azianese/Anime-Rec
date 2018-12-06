@@ -10,10 +10,17 @@
     <title>Anime recommender</title>
     <!--Stylesheets-->
     <link rel="stylesheet" href="css/search.css">
+    <!--For the title font-->
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
+    <!--Include jquery autocomplete library-->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   </head>
 
   <body>
-    <div id='body'>
+    <div class="container">
 
       <form id="search-form" method="POST" action="/rec">
         Form based on:<br>
@@ -42,23 +49,191 @@
 
         <div class='type2' id='genres_themes'>
           Genres (separate by comma):<br>
-          <input type='text' autocomplete='on' name='genres'><br>
-          
+          <input type='text' id='genreSearch' name='genres'><br>
+
           Themes (separate by comma):<br>
-          <input type='text' autocomplete='on' name='themes'><br>
+          <input type='text' id='themeSearch' name='themes'><br>
         </div>
 
         <div class='type1' id='director_studio'>
           Director:<br>
-          <input type='text' autocomplete='on' name='director'><br>
+          <input type='text' id='directorSearch' name='director'><br>
 
           Studio:<br>
-          <input type='text' autocomplete='on' name='studio'><br>
+          <input type='text' id='studioSearch' name='studio'><br>
         </div>
 
         <input class='button' type='submit' value='Submit'>
       </form>
 
     </div>
+
+    <!---------------------- AUTOCOMPLETE SCRIPTS ---------------------->
+    <script>
+      ////////// DIRECTOR //////////
+      $(function() {
+        var dataArray = <%- JSON.stringify(data[0]) %>;
+        $( "#directorSearch" )
+        // don't navigate away from the field on tab when selecting an item
+          .on( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+          .autocomplete({
+          minLength: 0,
+          source: function( request, response ) {
+            // delegate back to autocomplete, but extract the last term
+            response( $.ui.autocomplete.filter(
+              dataArray, extractLast( request.term ) ) );
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        function split(val) {
+          return val.split(',');
+        }
+        function extractLast(term) {
+          return split(term).pop().trim();
+        };
+      })
+      ////////// STUDIO //////////
+      $(function() {
+        var dataArray = <%- JSON.stringify(data[1]) %>;
+        $( "#studioSearch" )
+        // don't navigate away from the field on tab when selecting an item
+          .on( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+          .autocomplete({
+          minLength: 0,
+          source: function( request, response ) {
+            // delegate back to autocomplete, but extract the last term
+            response( $.ui.autocomplete.filter(
+              dataArray, extractLast( request.term ) ) );
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        function split(val) {
+          return val.split(',');
+        }
+        function extractLast(term) {
+          return split(term).pop().trim();
+        };
+      })
+      ////////// GENRE //////////
+      $(function() {
+        var dataArray = <%- JSON.stringify(data[2]) %>;
+        $( "#genreSearch" )
+        // don't navigate away from the field on tab when selecting an item
+          .on( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+          .autocomplete({
+          minLength: 0,
+          source: function( request, response ) {
+            // delegate back to autocomplete, but extract the last term
+            response( $.ui.autocomplete.filter(
+              dataArray, extractLast( request.term ) ) );
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        function split(val) {
+          return val.split(',');
+        }
+        function extractLast(term) {
+          return split(term).pop().trim();
+        };
+      })
+      ////////// THEME //////////
+      $(function() {
+        var dataArray = <%- JSON.stringify(data[3]) %>;
+        $( "#themeSearch" )
+        // don't navigate away from the field on tab when selecting an item
+          .on( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+          .autocomplete({
+          minLength: 0,
+          source: function( request, response ) {
+            // delegate back to autocomplete, but extract the last term
+            response( $.ui.autocomplete.filter(
+              dataArray, extractLast( request.term ) ) );
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.value );
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        function split(val) {
+          return val.split(',');
+        }
+        function extractLast(term) {
+          return split(term).pop().trim();
+        };
+      })
+    </script>
   </body>
 </html>

@@ -24,12 +24,7 @@ app.use(favicon('./images/favicon.ico'));
 app.use('/CSS', express.static('CSS'));
 app.use('/images', express.static('images'));
 
-//////////////////// GENERAL FUNCTIONALITY ////////////////////
-
-
-
-
-
+//enable jQuery
 var jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 const { window } = new JSDOM();
@@ -37,52 +32,73 @@ const { document } = (new JSDOM('')).window;
 global.document = document;
 var $ = jQuery = require('jquery')(window);
 
+//////////////////// GENERAL FUNCTIONALITY ////////////////////
 
-/*
-app.get('/aniNames', function (req, res) {
-  var indexFile = require('./serverJS/page_index.js');
-  var promise = indexFile.getTitleArray();
-  promise.then(aniNames => {
-    console.log(aniNames);
-    res.send(aniNames);
-  })
-});*/
-
-
-
+//////////////////// Index Page ////////////////////
 //sets index as the default page
 app.get('/', function (req, res) {
-  //res.render('index');
   var indexFile = require('./serverJS/page_index.js');
   var promise = indexFile.getTitleArray();
   promise.then(aniNames => {
-    //console.log(aniNames);
     res.render('index', {data: aniNames});
-    //res.render('index', {data: JSON.stringify(aniNames)});
-    //res.render('index', {data: JSON.stringify(JSON.stringify(aniNames))});
   })
 });
+
+
+
+
+app.get('/search', function (req, res) {
+  var searchFile = require('./serverJS/page_search.js');
+  var dataPromises = [];
+  var promise1 = 
+  dataPromises.push(new Promise ((resolve, reject) => {
+    var promise = searchFile.getDirectorArray();
+    promise.then(directors => {
+      resolve(directors);
+    })
+  }));
+  dataPromises.push(new Promise ((resolve, reject) => {
+    var promise = searchFile.getStudioArray();
+    promise.then(studios => {
+      resolve(studios);
+    })
+  }));
+  dataPromises.push(new Promise ((resolve, reject) => {
+    var promise = searchFile.getGenreArray();
+    promise.then(genres => {
+      resolve(genres);
+    })
+  }));
+  dataPromises.push(new Promise ((resolve, reject) => {
+    var promise = searchFile.getThemeArray();
+    promise.then(themes => {
+      resolve(themes);
+    })
+  }));
+  Promise.all(dataPromises).then(data => {
+    res.render('search', {data: data});
+  })
+});
+
+
+
 
 //serve specified pages
 app.get('/:page', function (req, res) {
   res.render(req.params.page);
 });
 
-//////////////////// REC PAGE ////////////////////
+//////////////////// Rec Page ////////////////////
 app.post('/rec', urlencodedParser, function (req, res) {
   //res.render('rec', {data: req.body});
   var recFile = require("./serverJS/page_rec.js");
   var recPromise = recFile.getRecs(req);
   recPromise.then(aniRecs => {
     var aniArray = [];
-    //console.log("size: " + aniRecs.size());
     console.log("req.numRecs: " + req.body.numRecs);
     for (var i = 0; i < req.body.numRecs; ++i) {
-      //console.log("peek: " + aniRecs.peek());
       aniArray.push(aniRecs.pop());
-      //console.log(aniArray[aniArray.length-1]);
     }
-    //console.log("length: " + aniArray.length);
     res.render('rec', {data: aniArray});
   })
 });
