@@ -24,11 +24,11 @@
 
       <form id="search-form" method="POST" action="/rec">
         Form based on:<br>
-        <input type='text' placeholder=""><br>
+        <input type='text' placeholder="" value='<%= data.formTitles %>'><br>
 
         <div class='type1'>
-          How many recommendations do you want (0-500)?:<br>
-          <input type='number' min='1' max='500' value='10' name='numRecs'><br>
+          How many recommendations do you want?:<br>
+          <input type='number' min='1' max='500' value='10' name='numRecs' placeholder='0-500'><br>
         </div>
 
         <div class='type2' id='years'>
@@ -48,19 +48,19 @@
         </div>
 
         <div class='type2' id='genres_themes'>
-          Genres (separate by comma):<br>
-          <input type='text' id='genreSearch' name='genres'><br>
+          Genres:<br>
+          <input type='text' id='genreSearch' name='genres' placeholder='Separate genres by coma...' value='<%= data.formGenres %>'><br>
 
-          Themes (separate by comma):<br>
-          <input type='text' id='themeSearch' name='themes'><br>
+          Themes:<br>
+          <input type='text' id='themeSearch' name='themes' placeholder='Separate themes by coma...' value='<%= data.formThemes %>'><br>
         </div>
 
         <div class='type1' id='director_studio'>
-          Director:<br>
-          <input type='text' id='directorSearch' name='director'><br>
+          Directors:<br>
+          <input type='text' id='directorSearch' name='director' placeholder='Separate directors by coma...' value='<%= data.formDirectors %>'><br>
 
-          Studio:<br>
-          <input type='text' id='studioSearch' name='studio'><br>
+          Studios:<br>
+          <input type='text' id='studioSearch' name='studio' placeholder='Separate studios by coma...' value='<%= data.formStudios %>'><br>
         </div>
 
         <input class='button' type='submit' value='Submit'>
@@ -71,8 +71,8 @@
     <!---------------------- AUTOCOMPLETE SCRIPTS ---------------------->
     <script>
       ////////// DIRECTOR //////////
-      $(function() {
-        var dataArray = <%- JSON.stringify(data[0]) %>;
+      $(function() {        
+        var dataArray = <%- JSON.stringify(data.directors) %>;
         $( "#directorSearch" )
         // don't navigate away from the field on tab when selecting an item
           .on( "keydown", function( event ) {
@@ -105,7 +105,7 @@
           }
         })
         function split(val) {
-          return val.split(',');
+          return val.split(",").map(item => item.trim());
         }
         function extractLast(term) {
           return split(term).pop().trim();
@@ -113,7 +113,7 @@
       })
       ////////// STUDIO //////////
       $(function() {
-        var dataArray = <%- JSON.stringify(data[1]) %>;
+        var dataArray = <%- JSON.stringify(data.studios) %>;
         $( "#studioSearch" )
         // don't navigate away from the field on tab when selecting an item
           .on( "keydown", function( event ) {
@@ -146,7 +146,7 @@
           }
         })
         function split(val) {
-          return val.split(',');
+          return val.split(",").map(item => item.trim());
         }
         function extractLast(term) {
           return split(term).pop().trim();
@@ -154,7 +154,7 @@
       })
       ////////// GENRE //////////
       $(function() {
-        var dataArray = <%- JSON.stringify(data[2]) %>;
+        var dataArray = <%- JSON.stringify(data.genres) %>;
         $( "#genreSearch" )
         // don't navigate away from the field on tab when selecting an item
           .on( "keydown", function( event ) {
@@ -187,7 +187,7 @@
           }
         })
         function split(val) {
-          return val.split(',');
+          return val.split(",").map(item => item.trim());
         }
         function extractLast(term) {
           return split(term).pop().trim();
@@ -195,7 +195,7 @@
       })
       ////////// THEME //////////
       $(function() {
-        var dataArray = <%- JSON.stringify(data[3]) %>;
+        var dataArray = <%- JSON.stringify(data.themes) %>;
         $( "#themeSearch" )
         // don't navigate away from the field on tab when selecting an item
           .on( "keydown", function( event ) {
@@ -228,7 +228,7 @@
           }
         })
         function split(val) {
-          return val.split(',');
+          return val.split(",").map(item => item.trim());
         }
         function extractLast(term) {
           return split(term).pop().trim();

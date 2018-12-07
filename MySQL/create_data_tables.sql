@@ -10,67 +10,73 @@ DROP TABLE IF EXISTS anime_studios;
 DROP TABLE IF EXISTS anime;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `anime` NVARCHAR(90) NOT NULL,
-  `link` VARCHAR(90) NOT NULL,
+  `title` NVARCHAR(255) NOT NULL,
+  `link` VARCHAR(255) NOT NULL,
+  `altTitle` NVARCHAR(255),
   `rating` FLOAT NOT NULL,
   `votes` INT NOT NULL,
-  `date` DATE NULL
+  `date` DATE NULL,
+  `plot` TEXT,
+  `img` VARCHAR(255)
 );
 
 DROP TABLE IF EXISTS directors;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`directors` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `director` NVARCHAR(90) NOT NULL
+  `director` NVARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS studios;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`studios` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `studio` NVARCHAR(90) NOT NULL
+  `studio` NVARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS genres;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`genres` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `genre` VARCHAR(45) NOT NULL
+  `genre` VARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS themes;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`themes` (
   `id` INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `theme` VARCHAR(45) NOT NULL
+  `theme` VARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS anime_to_genres;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_genres` (
-  `anime` NVARCHAR(90) NOT NULL,
-  `genre` VARCHAR(45) NOT NULL
+  `anime` NVARCHAR(255) NOT NULL,
+  `genre` VARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS anime_to_themes;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_themes` (
-  `anime` NVARCHAR(90) NOT NULL,
-  `theme` VARCHAR(45) NOT NULL
+  `anime` NVARCHAR(255) NOT NULL,
+  `theme` VARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS anime_to_directors;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_directors` (
-  `anime` NVARCHAR(90) NOT NULL,
-  `director` NVARCHAR(90) NOT NULL
+  `anime` NVARCHAR(255) NOT NULL,
+  `director` NVARCHAR(255) NOT NULL
 );
 
 DROP TABLE IF EXISTS anime_to_studios;
 CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime_to_studios` (
-  `anime` NVARCHAR(90) NOT NULL,
-  `studio` NVARCHAR(90) NOT NULL
+  `anime` NVARCHAR(255) NOT NULL,
+  `studio` NVARCHAR(255) NOT NULL
 );
 
 LOAD DATA LOCAL INFILE './MySQL/Data/table_anime.txt' INTO TABLE anime (
-    anime,
-    link,
-    rating,
-    votes,
-    date
+  title,
+  link,
+  altTitle,
+  rating,
+  votes,
+  date,
+  plot,
+  img
 );
 LOAD DATA LOCAL INFILE './MySQL/Data/table_directors.txt' INTO TABLE directors (director);
 LOAD DATA LOCAL INFILE './MySQL/Data/table_studios.txt' INTO TABLE studios (studio);

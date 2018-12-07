@@ -73,15 +73,17 @@ Death Note (TV)	justice
 Death Note (TV)	magicbook
 Death Note (TV)	police
 Death Note (TV)	shinigami
-Maria Watches Over Us 3rd Season (OAV)	shoujo-ai
 Made in Abyss (TV)	exploration
 Made in Abyss (TV)	post-apocalyptic
 Made in Abyss (TV)	robots
+Maria Watches Over Us 3rd Season (OAV)	shoujo-ai
 Maria Watches Over Us Season 2: Printemps (TV)	shoujo-ai
 Maria Watches Over Us Season 2: Printemps (TV)	yuri
-anohana: The Flower We Saw That Day (TV)	ghosts
-anohana: The Flower We Saw That Day (TV)	growingup
-anohana: The Flower We Saw That Day (TV)	lovetriangle
+Gintama' (TV 2/2011)	aliens
+Gintama' (TV 2/2011)	harem
+Gintama' (TV 2/2011)	parody
+Gintama' (TV 2/2011)	samurai
+Gintama' (TV 2/2011)	space
 Code Geass: Lelouch of the Rebellion (TV)	alternatehistory
 Code Geass: Lelouch of the Rebellion (TV)	immortality
 Code Geass: Lelouch of the Rebellion (TV)	mecha
@@ -93,13 +95,11 @@ Code Geass: Lelouch of the Rebellion (TV)	school
 Code Geass: Lelouch of the Rebellion (TV)	strategicminds
 Code Geass: Lelouch of the Rebellion (TV)	terrorism
 Code Geass: Lelouch of the Rebellion (TV)	war
-Gintama' (TV 2/2011)	aliens
-Gintama' (TV 2/2011)	harem
-Gintama' (TV 2/2011)	parody
-Gintama' (TV 2/2011)	samurai
-Gintama' (TV 2/2011)	space
 Descending Stories: Showa Genroku Rakugo Shinju (TV)	historical
 Descending Stories: Showa Genroku Rakugo Shinju (TV)	rakugo
+anohana: The Flower We Saw That Day (TV)	ghosts
+anohana: The Flower We Saw That Day (TV)	growingup
+anohana: The Flower We Saw That Day (TV)	lovetriangle
 Maria Watches Over Us 4th Season (TV)	shoujo-ai
 Gintama' (TV 3/2012)	aliens
 Gintama' (TV 3/2012)	historical
@@ -127,10 +127,6 @@ Grave of the Fireflies (movie)	historical
 Grave of the Fireflies (movie)	tragedy
 Grave of the Fireflies (movie)	war
 Grave of the Fireflies (movie)	worldwarii
-Cross Game (TV)	baseball
-Cross Game (TV)	school
-Cross Game (TV)	sports
-Cross Game (TV)	tsundere
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	android
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	crime
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	cyberpunk
@@ -138,6 +134,10 @@ Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	military
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	police
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	politics
 Ghost in the Shell: Stand Alone Complex 2nd GIG (TV)	virtualreality
+Cross Game (TV)	baseball
+Cross Game (TV)	school
+Cross Game (TV)	sports
+Cross Game (TV)	tsundere
 Summer Wars (movie)	computers
 Summer Wars (movie)	family
 Summer Wars (movie)	social-networking
@@ -145,6 +145,11 @@ Summer Wars (movie)	technology
 Summer Wars (movie)	virtualreality
 Fighting Spirit (TV)	boxing
 Fighting Spirit (TV)	sports
+Fullmetal Alchemist (TV)	alchemy
+Fullmetal Alchemist (TV)	homunculi
+Fullmetal Alchemist (TV)	military
+Fullmetal Alchemist (TV)	steampunk
+Fullmetal Alchemist (TV)	tragedy
 Hunter × Hunter (TV 2011)	bountyhunters
 Hunter × Hunter (TV 2011)	coming-of-age
 Hunter × Hunter (TV 2011)	developingpowers
@@ -152,15 +157,12 @@ Hunter × Hunter (TV 2011)	gore
 Hunter × Hunter (TV 2011)	organizedcrime
 Hunter × Hunter (TV 2011)	specialabilities
 Hunter × Hunter (TV 2011)	survivalgame
-Fullmetal Alchemist (TV)	alchemy
-Fullmetal Alchemist (TV)	homunculi
-Fullmetal Alchemist (TV)	military
-Fullmetal Alchemist (TV)	steampunk
-Fullmetal Alchemist (TV)	tragedy
 Nodame Cantabile (TV)	college
 Nodame Cantabile (TV)	music
 (The) Girl Who Leapt Through Time (movie)	school
 (The) Girl Who Leapt Through Time (movie)	timetravel
+Nausicaä of the Valley of the Wind (movie)	giantinsects
+Nausicaä of the Valley of the Wind (movie)	post-apocalyptic
 5 Centimeters Per Second (movie)	u
 5 Centimeters Per Second (movie)	n
 5 Centimeters Per Second (movie)	k
@@ -168,8 +170,6 @@ Nodame Cantabile (TV)	music
 5 Centimeters Per Second (movie)	o
 5 Centimeters Per Second (movie)	w
 5 Centimeters Per Second (movie)	n
-Nausicaä of the Valley of the Wind (movie)	giantinsects
-Nausicaä of the Valley of the Wind (movie)	post-apocalyptic
 Gurren Lagann (TV)	burningmanlypassion
 Gurren Lagann (TV)	mecha
 Gurren Lagann (TV)	post-apocalyptic
@@ -188,25 +188,17 @@ Baccano! (TV)	crime
 Baccano! (TV)	historical
 Baccano! (TV)	immortality
 Baccano! (TV)	mafia
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	u
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	n
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	k
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	n
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	o
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	w
-Gekijōban Gintama Kanketsu-hen: Yorozuya yo Eien Nare (movie)	n
 Natsume's Book of Friends (TV 4)	folklore
 Natsume's Book of Friends (TV 4)	spirits
 Honey and Clover II (TV)	finearts
 Honey and Clover II (TV)	unrequitedlove
-Star Blazers 2199 (TV)	battleships
-Star Blazers 2199 (TV)	conspiracy
-Star Blazers 2199 (TV)	military
-Star Blazers 2199 (TV)	space
-Star Blazers 2199 (TV)	spacenavy
-Star Blazers 2199 (TV)	spaceopera
-Star Blazers 2199 (TV)	spaceships
-Star Blazers 2199 (TV)	war
+Gintama: The Final Movie	u
+Gintama: The Final Movie	n
+Gintama: The Final Movie	k
+Gintama: The Final Movie	n
+Gintama: The Final Movie	o
+Gintama: The Final Movie	w
+Gintama: The Final Movie	n
 Hajime no Ippo: New Challenger (TV)	boxing
 Kanon (TV 2/2006)	moe
 Kanon (TV 2/2006)	school
@@ -216,12 +208,20 @@ GTO: Great Teacher Onizuka (TV)	troublesomekids
 Kino's Journey (TV)	parables
 Kino's Journey (TV)	tragedy
 Kino's Journey (TV)	traveling
+Star Blazers 2199 (TV)	battleships
+Star Blazers 2199 (TV)	conspiracy
+Star Blazers 2199 (TV)	military
+Star Blazers 2199 (TV)	space
+Star Blazers 2199 (TV)	spacenavy
+Star Blazers 2199 (TV)	spaceopera
+Star Blazers 2199 (TV)	spaceships
+Star Blazers 2199 (TV)	war
+Howl's Moving Castle (movie)	sorcery
+Howl's Moving Castle (movie)	wizards
 Time of Eve (ONA)	androids
 Time of Eve (ONA)	café
 Time of Eve (ONA)	roboethics
 Time of Eve (ONA)	robots
-Howl's Moving Castle (movie)	sorcery
-Howl's Moving Castle (movie)	wizards
 Puella Magi Madoka Magica (TV)	darkfantasy
 Puella Magi Madoka Magica (TV)	death
 Puella Magi Madoka Magica (TV)	fighting
@@ -236,24 +236,24 @@ Mushishi Tokubetsu-hen: Hihamukage (special)	n
 Mushishi Tokubetsu-hen: Hihamukage (special)	o
 Mushishi Tokubetsu-hen: Hihamukage (special)	w
 Mushishi Tokubetsu-hen: Hihamukage (special)	n
-Time of Eve (movie)	androids
-Time of Eve (movie)	café
-Time of Eve (movie)	robots
 Natsume's Book of Friends (TV 2)	folklore
 Natsume's Book of Friends (TV 2)	iyashikei
 Natsume's Book of Friends (TV 2)	spirits
+Millennium Actress (movie)	historical
+Time of Eve (movie)	androids
+Time of Eve (movie)	café
+Time of Eve (movie)	robots
 Monogatari Series Second Season (TV)	harem
 Monogatari Series Second Season (TV)	vampires
 Monogatari Series Second Season (TV)	youkai
-Millennium Actress (movie)	historical
 Kaleido Star (TV)	acrobatics
 Kaleido Star (TV)	gymnastics
-Natsume's Book of Friends (TV 3)	spirits
-Natsume's Book of Friends (TV 3)	youkai
+Mononoke (TV)	demons
 Kids on the Slope (TV)	comingofage
 Kids on the Slope (TV)	friendship
 Kids on the Slope (TV)	music
-Mononoke (TV)	demons
+Natsume's Book of Friends (TV 3)	spirits
+Natsume's Book of Friends (TV 3)	youkai
 (The) Melancholy of Haruhi Suzumiya (TV)	school
 Gankutsuou: The Count of Monte Cristo (TV)	futuristic
 Gankutsuou: The Count of Monte Cristo (TV)	revenge
@@ -271,10 +271,6 @@ NANA (TV)	punkrock
 NANA (TV)	relationships
 Looking Up At The Half-Moon (TV)	hospital
 Looking Up At The Half-Moon (TV)	tragedy
-March comes in like a lion (TV 2)	depression
-March comes in like a lion (TV 2)	family
-March comes in like a lion (TV 2)	shogi
-March comes in like a lion (TV 2)	shougi
 Castle in the Sky (movie)	lostcity
 Castle in the Sky (movie)	steampunk
 Whisper of the Heart (movie)	growingup
@@ -284,6 +280,9 @@ Your Lie in April (TV)	poeticinternalmonologue
 Your Lie in April (TV)	prodigy
 Your Lie in April (TV)	school
 Your Lie in April (TV)	trauma
+Samurai Champloo (TV)	historical
+Samurai Champloo (TV)	samurai
+Samurai Champloo (TV)	swordplay
 Ouran High School Host Club (TV)	bishounen
 Ouran High School Host Club (TV)	crossdressing
 Ouran High School Host Club (TV)	hostclub
@@ -291,19 +290,24 @@ Ouran High School Host Club (TV)	maleharem
 Ouran High School Host Club (TV)	parody
 Ouran High School Host Club (TV)	school
 Ouran High School Host Club (TV)	schoollife
-Samurai Champloo (TV)	historical
-Samurai Champloo (TV)	samurai
-Samurai Champloo (TV)	swordplay
+A Place Further Than the Universe (TV)	antarctica
+A Place Further Than the Universe (TV)	highschool
+(The) Beast Player Erin (TV)	beast
+(The) Beast Player Erin (TV)	magicalcreatures
+(The) Beast Player Erin (TV)	politics
+(The) Beast Player Erin (TV)	tragedy
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	aliens
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	fighting
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	mecha
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	space
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	superrobot
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	superpowers
-(The) Beast Player Erin (TV)	beast
-(The) Beast Player Erin (TV)	magicalcreatures
-(The) Beast Player Erin (TV)	politics
-(The) Beast Player Erin (TV)	tragedy
+March comes in like a lion (TV 2)	depression
+March comes in like a lion (TV 2)	family
+March comes in like a lion (TV 2)	shogi
+March comes in like a lion (TV 2)	shougi
+Haikyu!! Second Season (TV)	sports
+Haikyu!! Second Season (TV)	volleyball
 Ghost in the Shell: Stand Alone Complex (TV)	android
 Ghost in the Shell: Stand Alone Complex (TV)	cyberpunk
 Ghost in the Shell: Stand Alone Complex (TV)	cyborg
@@ -318,6 +322,16 @@ Aria the Origination (TV)	futuristic
 Aria the Origination (TV)	gondolas
 Aria the Origination (TV)	iyashikei
 Aria the Origination (TV)	moe
+Spice and Wolf II (TV)	economics
+Spice and Wolf II (TV)	folklore
+Spice and Wolf II (TV)	love
+Spice and Wolf II (TV)	merchants
+Moribito - Guardian of the Spirit (TV)	assassins
+Moribito - Guardian of the Spirit (TV)	femalebodyguard
+Moribito - Guardian of the Spirit (TV)	fugitives
+Moribito - Guardian of the Spirit (TV)	spirits
+Haikyu!! (TV 3)	sports
+Haikyu!! (TV 3)	volleyball
 Angel Beats! (TV)	amnesia
 Angel Beats! (TV)	death
 Angel Beats! (TV)	fighting
@@ -329,24 +343,6 @@ Angel Beats! (TV)	music
 Angel Beats! (TV)	school
 Angel Beats! (TV)	tragedy
 Angel Beats! (TV)	tragicpast
-Spice and Wolf II (TV)	economics
-Spice and Wolf II (TV)	folklore
-Spice and Wolf II (TV)	love
-Spice and Wolf II (TV)	merchants
-A Place Further Than the Universe (TV)	antarctica
-A Place Further Than the Universe (TV)	highschool
-Moribito - Guardian of the Spirit (TV)	assassins
-Moribito - Guardian of the Spirit (TV)	femalebodyguard
-Moribito - Guardian of the Spirit (TV)	fugitives
-Moribito - Guardian of the Spirit (TV)	spirits
-Haikyu!! Second Season (TV)	sports
-Haikyu!! Second Season (TV)	volleyball
-Re:ZERO -Starting Life in Another World- (TV)	butterflyeffect
-Re:ZERO -Starting Life in Another World- (TV)	death
-Re:ZERO -Starting Life in Another World- (TV)	gore
-Re:ZERO -Starting Life in Another World- (TV)	otherworld
-Re:ZERO -Starting Life in Another World- (TV)	paralleluniverse
-Re:ZERO -Starting Life in Another World- (TV)	tragedy
 ef: a tale of melodies (TV)	abuse
 ef: a tale of melodies (TV)	connectedlives
 ef: a tale of melodies (TV)	death
@@ -355,10 +351,15 @@ ef: a tale of melodies (TV)	orphans
 ef: a tale of melodies (TV)	siblings
 ef: a tale of melodies (TV)	tragedy
 ef: a tale of melodies (TV)	tragicpast
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	u
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	k
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	o
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	w
+Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
 ef: a tale of memories (TV)	amnesia
 ef: a tale of memories (TV)	lovetriangle
-Haikyu!! (TV 3)	sports
-Haikyu!! (TV 3)	volleyball
 Black Lagoon: The Second Barrage (TV)	crime
 Black Lagoon: The Second Barrage (TV)	girlswithguns
 Black Lagoon: The Second Barrage (TV)	mafia
@@ -370,23 +371,14 @@ Welcome to the NHK (TV)	hikikomori
 Welcome to the NHK (TV)	neet
 Welcome to the NHK (TV)	otaku
 Welcome to the NHK (TV)	satire
-Legend of the Galactic Heroes: Overture to a New War (movie)	military
-Legend of the Galactic Heroes: Overture to a New War (movie)	space
-My Hero Academia (TV 2)	developingpowers
-My Hero Academia (TV 2)	schoollife
-My Hero Academia (TV 2)	specialabilities
-My Hero Academia (TV 2)	superheroes
-My Hero Academia (TV 2)	superpowers
-Sword of the Stranger (movie)	historical
-Sword of the Stranger (movie)	samurai
+Re:ZERO -Starting Life in Another World- (TV)	butterflyeffect
+Re:ZERO -Starting Life in Another World- (TV)	death
+Re:ZERO -Starting Life in Another World- (TV)	gore
+Re:ZERO -Starting Life in Another World- (TV)	otherworld
+Re:ZERO -Starting Life in Another World- (TV)	paralleluniverse
+Re:ZERO -Starting Life in Another World- (TV)	tragedy
 Honey and Clover (TV)	finearts
 Honey and Clover (TV)	unrequitedlove
-Haibane Renmei (TV)	angels
-Haibane Renmei (TV)	iyashikei
-Haibane Renmei (TV)	redemption
-(The) Twelve Kingdoms (TV)	demons
-(The) Twelve Kingdoms (TV)	otherworld
-(The) Twelve Kingdoms (TV)	politics
 (The) Tale of the Princess Kaguya (movie)	comingofage
 (The) Tale of the Princess Kaguya (movie)	family
 (The) Tale of the Princess Kaguya (movie)	folklore
@@ -394,20 +386,29 @@ Haibane Renmei (TV)	redemption
 (The) Tale of the Princess Kaguya (movie)	mythology
 (The) Tale of the Princess Kaguya (movie)	parenting
 (The) Tale of the Princess Kaguya (movie)	tragedy
+Sword of the Stranger (movie)	historical
+Sword of the Stranger (movie)	samurai
+Legend of the Galactic Heroes: Overture to a New War (movie)	military
+Legend of the Galactic Heroes: Overture to a New War (movie)	space
+Haibane Renmei (TV)	angels
+Haibane Renmei (TV)	iyashikei
+Haibane Renmei (TV)	redemption
+My Hero Academia (TV 2)	developingpowers
+My Hero Academia (TV 2)	schoollife
+My Hero Academia (TV 2)	specialabilities
+My Hero Academia (TV 2)	superheroes
+My Hero Academia (TV 2)	superpowers
 Hunter X Hunter (OAV)	assassins
 Hunter X Hunter (OAV)	organizedcrime
 Hunter X Hunter (OAV)	revenge
 Hunter X Hunter (OAV)	specialabilities
+(The) Twelve Kingdoms (TV)	demons
+(The) Twelve Kingdoms (TV)	otherworld
+(The) Twelve Kingdoms (TV)	politics
 Cowboy Bebop: The Movie	bountyhunters
 Cowboy Bebop: The Movie	space
 Cowboy Bebop: The Movie	terrorists
-Maquia - When the Promised Flower Blooms (movie)	u
-Maquia - When the Promised Flower Blooms (movie)	n
-Maquia - When the Promised Flower Blooms (movie)	k
-Maquia - When the Promised Flower Blooms (movie)	n
-Maquia - When the Promised Flower Blooms (movie)	o
-Maquia - When the Promised Flower Blooms (movie)	w
-Maquia - When the Promised Flower Blooms (movie)	n
+Tokyo Godfathers (movie)	parenting
 Toradora! (TV)	comingofage
 Toradora! (TV)	family
 Toradora! (TV)	growingup
@@ -417,59 +418,38 @@ Toradora! (TV)	school
 Toradora! (TV)	schoollife
 Toradora! (TV)	tsundere
 Toradora! (TV)	unrequitedlove
-Tokyo Godfathers (movie)	parenting
 Romeo × Juliet (TV)	revenge
 Romeo × Juliet (TV)	star-crossedlove
 Romeo × Juliet (TV)	tragedy
-Shōwa Genroku Rakugo Shinjū (TV)	historical
-Shōwa Genroku Rakugo Shinjū (TV)	rakugo
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	u
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	k
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	o
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	w
-Mushishi: Zoku-Shō: Suzu no Shizuku (movie)	n
+Maison Ikkoku (TV)	boardinghouse
 Major (TV)	baseball
 Major (TV)	sports
-(The) Garden of Words (movie)	age-gaprelationship
+Shōwa Genroku Rakugo Shinjū (TV)	historical
+Shōwa Genroku Rakugo Shinjū (TV)	rakugo
 Evangelion: 1.0 You Are (Not) Alone (movie)	aliens
 Evangelion: 1.0 You Are (Not) Alone (movie)	mecha
 Evangelion: 1.0 You Are (Not) Alone (movie)	military
 Evangelion: 1.0 You Are (Not) Alone (movie)	post-apocalyptic
 Evangelion: 1.0 You Are (Not) Alone (movie)	realrobot
-Maison Ikkoku (TV)	boardinghouse
-Shirobako (TV)	animationindustry
-Owarimonogatari (specials)	u
-Owarimonogatari (specials)	n
-Owarimonogatari (specials)	k
-Owarimonogatari (specials)	n
-Owarimonogatari (specials)	o
-Owarimonogatari (specials)	w
-Owarimonogatari (specials)	n
 Hellsing Ultimate (OAV)	gore
 Hellsing Ultimate (OAV)	nazis
 Hellsing Ultimate (OAV)	religion
 Hellsing Ultimate (OAV)	vampires
+Shirobako (TV)	animationindustry
+Chihayafuru (TV)	cardgames
+Chihayafuru (TV)	karuta
+Tsubasa Tokyo Revelations (OAV)	otherworlds
 Katanagatari (TV)	chanbara
 Katanagatari (TV)	historical
 Katanagatari (TV)	martialarts
 Katanagatari (TV)	ninja
 Katanagatari (TV)	swords
 Katanagatari (TV)	swordsman
-Tsubasa Tokyo Revelations (OAV)	otherworlds
-Chihayafuru (TV)	cardgames
-Chihayafuru (TV)	karuta
-Full Metal Panic! The Second Raid (TV)	mecha
-Full Metal Panic! The Second Raid (TV)	military
-Full Metal Panic! The Second Raid (TV)	realrobot
 Mobile Suit Gundam UC (OAV)	mecha
 Mobile Suit Gundam UC (OAV)	military
 Mobile Suit Gundam UC (OAV)	realrobot
 Mobile Suit Gundam UC (OAV)	war
-Hunter X Hunter (TV)	assassins
-Hunter X Hunter (TV)	revenge
-Hunter X Hunter (TV)	specialabilities
+(The) Garden of Words (movie)	age-gaprelationship
 Gintama. (TV 5/2017)	u
 Gintama. (TV 5/2017)	n
 Gintama. (TV 5/2017)	k
@@ -477,10 +457,9 @@ Gintama. (TV 5/2017)	n
 Gintama. (TV 5/2017)	o
 Gintama. (TV 5/2017)	w
 Gintama. (TV 5/2017)	n
-ERASED (TV)	assassins
-ERASED (TV)	butterflyeffect
-ERASED (TV)	timetravel
-ERASED (TV)	tragedy
+Full Metal Panic! The Second Raid (TV)	mecha
+Full Metal Panic! The Second Raid (TV)	military
+Full Metal Panic! The Second Raid (TV)	realrobot
 My Hero Academia (TV 3)	u
 My Hero Academia (TV 3)	n
 My Hero Academia (TV 3)	k
@@ -488,14 +467,31 @@ My Hero Academia (TV 3)	n
 My Hero Academia (TV 3)	o
 My Hero Academia (TV 3)	w
 My Hero Academia (TV 3)	n
+Lupin the Third: Part 5 (TV)	u
+Lupin the Third: Part 5 (TV)	n
+Lupin the Third: Part 5 (TV)	k
+Lupin the Third: Part 5 (TV)	n
+Lupin the Third: Part 5 (TV)	o
+Lupin the Third: Part 5 (TV)	w
+Lupin the Third: Part 5 (TV)	n
+Hunter X Hunter (TV)	assassins
+Hunter X Hunter (TV)	revenge
+Hunter X Hunter (TV)	specialabilities
 Fate/Zero (TV 2)	fighting
 Fate/Zero (TV 2)	gore
 Fate/Zero (TV 2)	legendarywarriors
 Fate/Zero (TV 2)	tragedy
-BECK: Mongolian Chop Squad (TV)	highschool
-BECK: Mongolian Chop Squad (TV)	music
 Kimi ni Todoke - From Me to You (TV)	school
 Kimi ni Todoke - From Me to You (TV)	schoollife
+BECK: Mongolian Chop Squad (TV)	highschool
+BECK: Mongolian Chop Squad (TV)	music
+ERASED (TV)	assassins
+ERASED (TV)	butterflyeffect
+ERASED (TV)	timetravel
+ERASED (TV)	tragedy
+Den-noh Coil (TV)	augmentedreality
+Den-noh Coil (TV)	computers
+Den-noh Coil (TV)	technology
 (La) Maison en Petits Cubes (movie)	u
 (La) Maison en Petits Cubes (movie)	n
 (La) Maison en Petits Cubes (movie)	k
@@ -503,9 +499,10 @@ Kimi ni Todoke - From Me to You (TV)	schoollife
 (La) Maison en Petits Cubes (movie)	o
 (La) Maison en Petits Cubes (movie)	w
 (La) Maison en Petits Cubes (movie)	n
-Den-noh Coil (TV)	augmentedreality
-Den-noh Coil (TV)	computers
-Den-noh Coil (TV)	technology
+Bakuman. 2 (TV)	manga
+Bakuman. 2 (TV)	mangaká
+One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	pirates
+One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	superpowers
 Attack on Titan (TV 2/2017)	dystopia
 Attack on Titan (TV 2/2017)	military
 Attack on Titan (TV 2/2017)	post-apocalyptic
@@ -513,13 +510,18 @@ Attack on Titan (TV 2/2017)	shapeshifting
 Attack on Titan (TV 2/2017)	superpowers
 Attack on Titan (TV 2/2017)	titans/giants
 Attack on Titan (TV 2/2017)	tragedy
-Bakuman. 2 (TV)	manga
-Bakuman. 2 (TV)	mangaká
 Natsume's Book of Friends (TV)	folklore
 Natsume's Book of Friends (TV)	iyashikei
 Natsume's Book of Friends (TV)	spirits
 Natsume's Book of Friends (TV)	youkai
 Nodame Cantabile: Paris (TV)	music
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	u
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	k
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	o
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	w
+JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
 Berserk (TV)	bloodshed
 Berserk (TV)	demons
 Berserk (TV)	medieval
@@ -528,13 +530,13 @@ Berserk (TV)	sword-fights
 Berserk (TV)	swordplay
 Berserk (TV)	war
 Brave King GaoGaiGar Final (OAV)	mecha
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	u
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	k
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	o
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	w
-JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	n
+Owarimonogatari (specials)	u
+Owarimonogatari (specials)	n
+Owarimonogatari (specials)	k
+Owarimonogatari (specials)	n
+Owarimonogatari (specials)	o
+Owarimonogatari (specials)	w
+Owarimonogatari (specials)	n
 Kaiba (TV)	u
 Kaiba (TV)	n
 Kaiba (TV)	k
@@ -542,71 +544,23 @@ Kaiba (TV)	n
 Kaiba (TV)	o
 Kaiba (TV)	w
 Kaiba (TV)	n
-Ashita no Joe 2 (TV)	boxing
-Ashita no Joe 2 (TV)	sports
 Ping Pong (TV)	comingofage
 Ping Pong (TV)	pingpong
 Ping Pong (TV)	sports
-One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	pirates
-One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	superpowers
 Princess Tutu (TV)	ballet
 Princess Tutu (TV)	fairytales
 Princess Tutu (TV)	magicalgirl
 Conan, the Boy in Future (TV)	post-apocalyptic
 Conan, the Boy in Future (TV)	12
-Natsume Yūjin-Chō Roku (TV 6)	u
-Natsume Yūjin-Chō Roku (TV 6)	n
-Natsume Yūjin-Chō Roku (TV 6)	k
-Natsume Yūjin-Chō Roku (TV 6)	n
-Natsume Yūjin-Chō Roku (TV 6)	o
-Natsume Yūjin-Chō Roku (TV 6)	w
-Natsume Yūjin-Chō Roku (TV 6)	n
 Hotarubi no Mori e (movie)	spirits
-Full Metal Panic? Fumoffu (TV)	mecha
-Full Metal Panic? Fumoffu (TV)	military
-Full Metal Panic? Fumoffu (TV)	school
-Full Metal Panic? Fumoffu (TV)	schoollife
 Azumanga Daioh (TV)	growingup
 Azumanga Daioh (TV)	iyashikei
 Azumanga Daioh (TV)	school
 Azumanga Daioh (TV)	schoollife
-Eden of the East (TV)	amnesia
-Eden of the East (TV)	neet
-Eden of the East (TV)	politicalfiction
-Eden of the East (TV)	politics
-Eden of the East (TV)	social-networking
-Eden of the East (TV)	society
-Nodame Cantabile: Finale (TV)	music
-Haikyu!! (TV)	sport
-Haikyu!! (TV)	volleyball
-(The) Rose of Versailles (TV)	crossdressing
-(The) Rose of Versailles (TV)	historical
-(The) Rose of Versailles (TV)	politics
-(The) Rose of Versailles (TV)	royalty
-Hunter X Hunter: G I Final (OAV)	developingpowers
-Hunter X Hunter: G I Final (OAV)	survivalgame
-Hunter X Hunter: G I Final (OAV)	virtualreality
-Yuri!!! on Ice (TV)	ice-skating
-Yuri!!! on Ice (TV)	shounen-ai
-Yuri!!! on Ice (TV)	sports
-Assassination Classroom (TV 2)	aliens
-Assassination Classroom (TV 2)	assassins
-Assassination Classroom (TV 2)	school
-Berserk: The Golden Age Arc III - The Advent (movie)	u
-Berserk: The Golden Age Arc III - The Advent (movie)	n
-Berserk: The Golden Age Arc III - The Advent (movie)	k
-Berserk: The Golden Age Arc III - The Advent (movie)	n
-Berserk: The Golden Age Arc III - The Advent (movie)	o
-Berserk: The Golden Age Arc III - The Advent (movie)	w
-Berserk: The Golden Age Arc III - The Advent (movie)	n
-Kimi ni Todoke 2nd Season (TV)	school
-Girls und Panzer der Film (movie)	u
-Girls und Panzer der Film (movie)	n
-Girls und Panzer der Film (movie)	k
-Girls und Panzer der Film (movie)	n
-Girls und Panzer der Film (movie)	o
-Girls und Panzer der Film (movie)	w
-Girls und Panzer der Film (movie)	n
+Full Metal Panic? Fumoffu (TV)	mecha
+Full Metal Panic? Fumoffu (TV)	military
+Full Metal Panic? Fumoffu (TV)	school
+Full Metal Panic? Fumoffu (TV)	schoollife
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	u
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	n
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	k
@@ -614,61 +568,101 @@ Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	n
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	o
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	w
 Mushishi Zoku-Shō Tokubetsu-hen: Odoro no Michi (special)	n
+(The) Rose of Versailles (TV)	crossdressing
+(The) Rose of Versailles (TV)	historical
+(The) Rose of Versailles (TV)	politics
+(The) Rose of Versailles (TV)	royalty
+Nodame Cantabile: Finale (TV)	music
+Eden of the East (TV)	amnesia
+Eden of the East (TV)	neet
+Eden of the East (TV)	politicalfiction
+Eden of the East (TV)	politics
+Eden of the East (TV)	social-networking
+Eden of the East (TV)	society
+Hunter X Hunter: G I Final (OAV)	developingpowers
+Hunter X Hunter: G I Final (OAV)	survivalgame
+Hunter X Hunter: G I Final (OAV)	virtualreality
+Haikyu!! (TV)	sport
+Haikyu!! (TV)	volleyball
+Maquia - When the Promised Flower Blooms (movie)	u
+Maquia - When the Promised Flower Blooms (movie)	n
+Maquia - When the Promised Flower Blooms (movie)	k
+Maquia - When the Promised Flower Blooms (movie)	n
+Maquia - When the Promised Flower Blooms (movie)	o
+Maquia - When the Promised Flower Blooms (movie)	w
+Maquia - When the Promised Flower Blooms (movie)	n
+Natsume Yūjin-Chō Roku (TV 6)	u
+Natsume Yūjin-Chō Roku (TV 6)	n
+Natsume Yūjin-Chō Roku (TV 6)	k
+Natsume Yūjin-Chō Roku (TV 6)	n
+Natsume Yūjin-Chō Roku (TV 6)	o
+Natsume Yūjin-Chō Roku (TV 6)	w
+Natsume Yūjin-Chō Roku (TV 6)	n
+Yuri!!! on Ice (TV)	ice-skating
+Yuri!!! on Ice (TV)	shounen-ai
+Yuri!!! on Ice (TV)	sports
+Girls und Panzer der Film (movie)	u
+Girls und Panzer der Film (movie)	n
+Girls und Panzer der Film (movie)	k
+Girls und Panzer der Film (movie)	n
+Girls und Panzer der Film (movie)	o
+Girls und Panzer der Film (movie)	w
+Girls und Panzer der Film (movie)	n
+Kimi ni Todoke 2nd Season (TV)	school
+Assassination Classroom (TV 2)	aliens
+Assassination Classroom (TV 2)	assassins
+Assassination Classroom (TV 2)	school
 Trigun (TV)	post-apocalyptic
 Trigun (TV)	spacewestern
 Trigun (TV)	western
+Mob Psycho 100 (TV)	espers
+Mob Psycho 100 (TV)	specialabilities
+Mob Psycho 100 (TV)	superpowers
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	comingofage
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	family
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	friends
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	hotsprings
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	cyberpunk
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	police
-Mob Psycho 100 (TV)	espers
-Mob Psycho 100 (TV)	specialabilities
-Mob Psycho 100 (TV)	superpowers
-Paprika (movie)	dreams
-Spice and Wolf (TV)	economics
-Spice and Wolf (TV)	trading
-Spice and Wolf (TV)	wolfgirls
 Violet Evergarden (TV)	livingdolls
 Violet Evergarden (TV)	military
 Violet Evergarden (TV)	steampunk
 Violet Evergarden (TV)	tragicpast
 Violet Evergarden (TV)	war
+Spice and Wolf (TV)	economics
+Spice and Wolf (TV)	trading
+Spice and Wolf (TV)	wolfgirls
+Paprika (movie)	dreams
+Magnetic Rose (movie)	cyberpunk
+Magnetic Rose (movie)	ghosts
 School Rumble: 2nd Semester (TV)	lovepolygon
 School Rumble: 2nd Semester (TV)	parodies
 School Rumble: 2nd Semester (TV)	school
 School Rumble: 2nd Semester (TV)	schoollife
-Magnetic Rose (movie)	cyberpunk
-Magnetic Rose (movie)	ghosts
 R.O.D -The TV-	conspiracies
 R.O.D -The TV-	secretagents
 R.O.D -The TV-	superpowers
-Gungrave (TV)	mafia
-Gungrave (TV)	revenge
-Gungrave (TV)	tragedy
+Berserk: The Golden Age Arc III - The Advent (movie)	u
+Berserk: The Golden Age Arc III - The Advent (movie)	n
+Berserk: The Golden Age Arc III - The Advent (movie)	k
+Berserk: The Golden Age Arc III - The Advent (movie)	n
+Berserk: The Golden Age Arc III - The Advent (movie)	o
+Berserk: The Golden Age Arc III - The Advent (movie)	w
+Berserk: The Golden Age Arc III - The Advent (movie)	n
+Ashita no Joe 2 (TV)	boxing
+Ashita no Joe 2 (TV)	sports
 Sound! Euphonium 2 (TV)	bands
 Sound! Euphonium 2 (TV)	school
-Last Exile (TV)	flyingbattleship
-Last Exile (TV)	steampunk
 (The) Eccentric Family 2 (TV)	family
 (The) Eccentric Family 2 (TV)	folklore
 (The) Eccentric Family 2 (TV)	genderswitch
 (The) Eccentric Family 2 (TV)	shapeshifting
 (The) Eccentric Family 2 (TV)	youkai
-Land of the Lustrous (TV)	u
-Land of the Lustrous (TV)	n
-Land of the Lustrous (TV)	k
-Land of the Lustrous (TV)	n
-Land of the Lustrous (TV)	o
-Land of the Lustrous (TV)	w
-Land of the Lustrous (TV)	n
-When Marnie Was There (movie)	growingup
-Rurouni Kenshin (TV)	historical
-Rurouni Kenshin (TV)	martialarts
-Rurouni Kenshin (TV)	politics
-Rurouni Kenshin (TV)	samurai
-Rurouni Kenshin (TV)	swordplay
+Gungrave (TV)	mafia
+Gungrave (TV)	revenge
+Gungrave (TV)	tragedy
+Last Exile (TV)	flyingbattleship
+Last Exile (TV)	steampunk
 Bakuman. 3 (TV)	u
 Bakuman. 3 (TV)	n
 Bakuman. 3 (TV)	k
@@ -676,19 +670,40 @@ Bakuman. 3 (TV)	n
 Bakuman. 3 (TV)	o
 Bakuman. 3 (TV)	w
 Bakuman. 3 (TV)	n
-Comedy (OAV)	historical
-Comedy (OAV)	war
-Natsume Yūjin-Chō Go (TV 5)	spirits
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	historical
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	military
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	space
+Rurouni Kenshin (TV)	historical
+Rurouni Kenshin (TV)	martialarts
+Rurouni Kenshin (TV)	politics
+Rurouni Kenshin (TV)	samurai
+Rurouni Kenshin (TV)	swordplay
+Comedy (OAV)	historical
+Comedy (OAV)	war
+When Marnie Was There (movie)	growingup
 Skip Beat! (TV)	acting
 Skip Beat! (TV)	idols
 Skip Beat! (TV)	innerdemons
 Skip Beat! (TV)	revenge
 Skip Beat! (TV)	stardom
+Land of the Lustrous (TV)	u
+Land of the Lustrous (TV)	n
+Land of the Lustrous (TV)	k
+Land of the Lustrous (TV)	n
+Land of the Lustrous (TV)	o
+Land of the Lustrous (TV)	w
+Land of the Lustrous (TV)	n
+Natsume Yūjin-Chō Go (TV 5)	spirits
 xxxHOLiC: Kei (TV)	folklore
 xxxHOLiC: Kei (TV)	spirits
+Attack on Titan (TV)	dystopia
+Attack on Titan (TV)	military
+Attack on Titan (TV)	post-apocalyptic
+Attack on Titan (TV)	shapeshifting
+Attack on Titan (TV)	superpowers
+Attack on Titan (TV)	titans/giants
+Attack on Titan (TV)	tragedy
+Neon Genesis Evangelion: The End of Evangelion (movie)	mecha
 Bakemonogatari (TV)	absurdity
 Bakemonogatari (TV)	darkcomedy
 Bakemonogatari (TV)	ecchi
@@ -698,43 +713,22 @@ Bakemonogatari (TV)	magicandoccult
 Bakemonogatari (TV)	spirits
 Bakemonogatari (TV)	vampires
 Bakemonogatari (TV)	youkai
-Neon Genesis Evangelion: The End of Evangelion (movie)	mecha
-Attack on Titan (TV)	dystopia
-Attack on Titan (TV)	military
-Attack on Titan (TV)	post-apocalyptic
-Attack on Titan (TV)	shapeshifting
-Attack on Titan (TV)	superpowers
-Attack on Titan (TV)	titans/giants
-Attack on Titan (TV)	tragedy
+In This Corner of the World (movie)	historical
+In This Corner of the World (movie)	worldwarii
+Master Keaton (OAV)	military
+Master Keaton (OAV)	police
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	aliens
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	lovetriangle
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	mecha
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	military
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	musical
 (The) Super Dimension Fortress Macross: Do You Remember Love? (movie)	space
-In This Corner of the World (movie)	historical
-In This Corner of the World (movie)	worldwarii
-Master Keaton (OAV)	military
-Master Keaton (OAV)	police
 Kiki's Delivery Service (movie)	growingup
 Kiki's Delivery Service (movie)	witches
 Hunter X Hunter: Greed Island (OAV)	developingpowers
 Hunter X Hunter: Greed Island (OAV)	survivalgame
 Hunter X Hunter: Greed Island (OAV)	virtualreality
 Romeo and the Black Brothers (TV)	historical
-Hajime no Ippo - Champion Road (special)	boxing
-Hajime no Ippo - Champion Road (special)	sports
-No Game, No Life Zero (movie)	u
-No Game, No Life Zero (movie)	n
-No Game, No Life Zero (movie)	k
-No Game, No Life Zero (movie)	n
-No Game, No Life Zero (movie)	o
-No Game, No Life Zero (movie)	w
-No Game, No Life Zero (movie)	n
-Gintama (TV)	aliens
-Gintama (TV)	historical
-Gintama (TV)	parody
-Gintama (TV)	samurai
 (The) Super Dimension Fortress Macross (TV)	aliens
 (The) Super Dimension Fortress Macross (TV)	giants
 (The) Super Dimension Fortress Macross (TV)	lovetriangle
@@ -745,18 +739,22 @@ Gintama (TV)	samurai
 (The) Super Dimension Fortress Macross (TV)	spacebattles
 (The) Super Dimension Fortress Macross (TV)	spacenavy
 (The) Super Dimension Fortress Macross (TV)	war
-Tiger & Bunny (TV)	fighting
-Tiger & Bunny (TV)	secretidentity
-Tiger & Bunny (TV)	superhero
-Tiger & Bunny (TV)	superpowers
+Hajime no Ippo - Champion Road (special)	boxing
+Hajime no Ippo - Champion Road (special)	sports
+Gintama (TV)	aliens
+Gintama (TV)	historical
+Gintama (TV)	parody
+Gintama (TV)	samurai
+(The) Boy and The Beast (movie)	beast
+(The) Boy and The Beast (movie)	fighting
+(The) Boy and The Beast (movie)	paralleluniverse
+One Outs (TV)	baseball
+One Outs (TV)	sports
 Black Lagoon (TV)	crime
 Black Lagoon (TV)	girlswithguns
 Black Lagoon (TV)	mafia
 Black Lagoon (TV)	mercenaries
 Black Lagoon (TV)	pirates
-Fate/stay night: Unlimited Blade Works (TV)	fighting
-Fate/stay night: Unlimited Blade Works (TV)	legendarywarriors
-Fate/stay night: Unlimited Blade Works (TV)	school
 Neon Genesis Evangelion (TV)	angst
 Neon Genesis Evangelion (TV)	hybridrobot
 Neon Genesis Evangelion (TV)	mecha
@@ -764,20 +762,43 @@ Neon Genesis Evangelion (TV)	military
 Neon Genesis Evangelion (TV)	post-apocalyptic
 Neon Genesis Evangelion (TV)	superrobot
 Neon Genesis Evangelion (TV)	tragedy
-One Outs (TV)	baseball
-One Outs (TV)	sports
+Tiger & Bunny (TV)	fighting
+Tiger & Bunny (TV)	secretidentity
+Tiger & Bunny (TV)	superhero
+Tiger & Bunny (TV)	superpowers
 Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	cyberpunk
 Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	terrorism
-(The) Anthem of the Heart (movie)	growingup
-(The) Anthem of the Heart (movie)	school
-(The) Anthem of the Heart (movie)	tragicpast
-(The) Boy and The Beast (movie)	beast
-(The) Boy and The Beast (movie)	fighting
-(The) Boy and The Beast (movie)	paralleluniverse
+No Game, No Life Zero (movie)	u
+No Game, No Life Zero (movie)	n
+No Game, No Life Zero (movie)	k
+No Game, No Life Zero (movie)	n
+No Game, No Life Zero (movie)	o
+No Game, No Life Zero (movie)	w
+No Game, No Life Zero (movie)	n
+Fate/stay night: Unlimited Blade Works (TV)	fighting
+Fate/stay night: Unlimited Blade Works (TV)	legendarywarriors
+Fate/stay night: Unlimited Blade Works (TV)	school
 Food Wars! Shokugeki no Soma (TV)	cooking
 Food Wars! Shokugeki no Soma (TV)	ecchi
 Food Wars! Shokugeki no Soma (TV)	food
 Food Wars! Shokugeki no Soma (TV)	school
+(The) Anthem of the Heart (movie)	growingup
+(The) Anthem of the Heart (movie)	school
+(The) Anthem of the Heart (movie)	tragicpast
+Fate/Zero (TV)	fighting
+Fate/Zero (TV)	legendarywarriors
+Fate/Zero (TV)	spirits
+Macross Frontier (TV)	aliens
+Macross Frontier (TV)	idols
+Macross Frontier (TV)	lovetriangle
+Macross Frontier (TV)	mecha
+Macross Frontier (TV)	military
+Macross Frontier (TV)	music
+Macross Frontier (TV)	space
+Mobile Suit Gundam 00 Second Season (TV)	mecha
+Mobile Suit Gundam 00 Second Season (TV)	military
+Mobile Suit Gundam 00 Second Season (TV)	realrobot
+Mobile Suit Gundam 00 Second Season (TV)	war
 Darker than Black (TV)	assassins
 Darker than Black (TV)	conspiracy
 Darker than Black (TV)	crime
@@ -787,20 +808,8 @@ Darker than Black (TV)	neo-noir
 Darker than Black (TV)	police
 Darker than Black (TV)	superhuman
 Darker than Black (TV)	superpowers
-Macross Frontier (TV)	aliens
-Macross Frontier (TV)	idols
-Macross Frontier (TV)	lovetriangle
-Macross Frontier (TV)	mecha
-Macross Frontier (TV)	military
-Macross Frontier (TV)	music
-Macross Frontier (TV)	space
-Fate/Zero (TV)	fighting
-Fate/Zero (TV)	legendarywarriors
-Fate/Zero (TV)	spirits
-Mobile Suit Gundam 00 Second Season (TV)	mecha
-Mobile Suit Gundam 00 Second Season (TV)	military
-Mobile Suit Gundam 00 Second Season (TV)	realrobot
-Mobile Suit Gundam 00 Second Season (TV)	war
+Nichijou - My Ordinary Life (TV)	absurdity
+Nichijou - My Ordinary Life (TV)	schoollife
 Space Brothers (TV)	astronaut
 Space Brothers (TV)	brothers
 Space Brothers (TV)	childhooddream
@@ -809,27 +818,40 @@ Space Brothers (TV)	mature
 Space Brothers (TV)	nasa
 Space Brothers (TV)	space
 Space Brothers (TV)	technology
-Hinamatsuri (TV)	espers
-Hinamatsuri (TV)	specialabilities
-Hinamatsuri (TV)	yakuza
-Monthly Girls' Nozaki-kun (TV)	manga
-Monthly Girls' Nozaki-kun (TV)	school
 Gosick (TV)	alternatehistory
 Gosick (TV)	detective
 Gosick (TV)	folklore
 Gosick (TV)	gothiclolita
 Gosick (TV)	occult
 Gosick (TV)	war
-Nichijou - My Ordinary Life (TV)	absurdity
-Nichijou - My Ordinary Life (TV)	schoollife
-Welcome to THE SPACE SHOW (movie)	aliens
-Welcome to THE SPACE SHOW (movie)	space
-Denpa teki na Kanojo (OAV)	crime
-Denpa teki na Kanojo (OAV)	death
-Denpa teki na Kanojo (OAV)	yandere
+One Punch Man (TV)	cyborg
+One Punch Man (TV)	fighting
+One Punch Man (TV)	gore
+One Punch Man (TV)	parody
+One Punch Man (TV)	superhero
 Lupin III: The Castle of Cagliostro (movie)	crime
 Lupin III: The Castle of Cagliostro (movie)	thief
 Aria the Avvenire (OAV)	iyashikei
+Denpa teki na Kanojo (OAV)	crime
+Denpa teki na Kanojo (OAV)	death
+Denpa teki na Kanojo (OAV)	yandere
+Welcome to THE SPACE SHOW (movie)	aliens
+Welcome to THE SPACE SHOW (movie)	space
+My Hero Academia (TV)	developingpowers
+My Hero Academia (TV)	schoollife
+My Hero Academia (TV)	specialabilities
+My Hero Academia (TV)	superheroes
+My Hero Academia (TV)	superpowers
+Nobody's Boy Remi (TV)	historical
+Nobody's Boy Remi (TV)	moe
+Emma: A Victorian Romance Second Act (TV)	historical
+Monthly Girls' Nozaki-kun (TV)	manga
+Monthly Girls' Nozaki-kun (TV)	school
+Kizumonogatari Part 3: Reiketsu (movie)	ecchi
+Kizumonogatari Part 3: Reiketsu (movie)	fanservice
+Kizumonogatari Part 3: Reiketsu (movie)	gore
+Kizumonogatari Part 3: Reiketsu (movie)	harem
+Kizumonogatari Part 3: Reiketsu (movie)	vampire
 Elfen Lied (TV)	amnesia
 Elfen Lied (TV)	ecchi
 Elfen Lied (TV)	gore
@@ -837,21 +859,9 @@ Elfen Lied (TV)	multiplepersonality
 Elfen Lied (TV)	mutants
 Elfen Lied (TV)	superpowers
 Elfen Lied (TV)	tragedy
-One Punch Man (TV)	cyborg
-One Punch Man (TV)	fighting
-One Punch Man (TV)	gore
-One Punch Man (TV)	parody
-One Punch Man (TV)	superhero
-Emma: A Victorian Romance Second Act (TV)	historical
-Nobody's Boy Remi (TV)	historical
-Nobody's Boy Remi (TV)	moe
 Wolf's Rain (OAV)	apocalyptic
 Wolf's Rain (OAV)	tragedy
 Wolf's Rain (OAV)	wolves
-Rainbow - Nisha Rokubō no Shichinin (TV)	abuse
-Rainbow - Nisha Rokubō no Shichinin (TV)	boxing
-Rainbow - Nisha Rokubō no Shichinin (TV)	delinquents
-Rainbow - Nisha Rokubō no Shichinin (TV)	prison
 No Game, No Life (TV)	alternateworld
 No Game, No Life (TV)	ecchi
 No Game, No Life (TV)	fanservice
@@ -861,11 +871,10 @@ No Game, No Life (TV)	hikikomori
 No Game, No Life (TV)	neet
 No Game, No Life (TV)	parody
 No Game, No Life (TV)	strategicminds
-My Hero Academia (TV)	developingpowers
-My Hero Academia (TV)	schoollife
-My Hero Academia (TV)	specialabilities
-My Hero Academia (TV)	superheroes
-My Hero Academia (TV)	superpowers
+Rainbow - Nisha Rokubō no Shichinin (TV)	abuse
+Rainbow - Nisha Rokubō no Shichinin (TV)	boxing
+Rainbow - Nisha Rokubō no Shichinin (TV)	delinquents
+Rainbow - Nisha Rokubō no Shichinin (TV)	prison
 Junjō Romantica 2 (TV)	bishounen
 Junjō Romantica 2 (TV)	insecuritiesinarelationship
 Junjō Romantica 2 (TV)	intense
@@ -876,22 +885,15 @@ Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	cyberpunk
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	police
 Magical Girl Lyrical Nanoha the Movie 2nd A's	magicalgirl
 Magical Girl Lyrical Nanoha the Movie 2nd A's	superpower
+Tokyo Magnitude 8.0 (TV)	disaster
+Tokyo Magnitude 8.0 (TV)	earthquake
+Tokyo Magnitude 8.0 (TV)	tragedy
 Eureka Seven (TV)	aliens
 Eureka Seven (TV)	fighting
 Eureka Seven (TV)	growingup
 Eureka Seven (TV)	mecha
 Eureka Seven (TV)	military
 Eureka Seven (TV)	realrobot
-Tokyo Magnitude 8.0 (TV)	disaster
-Tokyo Magnitude 8.0 (TV)	earthquake
-Tokyo Magnitude 8.0 (TV)	tragedy
-Kill la Kill (TV)	absurdity
-Kill la Kill (TV)	ecchi
-Kill la Kill (TV)	fanservice
-Kill la Kill (TV)	fighting
-Kill la Kill (TV)	schoolwar
-Kizumonogatari Part 1: Tekketsu (movie)	harem
-Kizumonogatari Part 1: Tekketsu (movie)	vampire
 School Rumble (TV)	bishoujo
 School Rumble (TV)	lovepolygon
 School Rumble (TV)	parody
@@ -903,41 +905,6 @@ Parasyte -the maxim- (TV)	crime
 Parasyte -the maxim- (TV)	fighting
 Parasyte -the maxim- (TV)	gore
 Parasyte -the maxim- (TV)	tragedy
-Ghost in the Shell (movie)	cyberpunk
-Ghost in the Shell (movie)	cyborg
-Ghost in the Shell (movie)	police
-Now and Then, Here and There (TV)	anotherworld
-Now and Then, Here and There (TV)	military
-Now and Then, Here and There (TV)	post-apocalyptic
-Now and Then, Here and There (TV)	war
-Wagnaria!!3 (TV)	cafe
-Wagnaria!!3 (TV)	workplace
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	u
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	k
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	o
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	w
-Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
-Puella Magi Madoka Magica the Movie Part 2: Eternal	death
-Puella Magi Madoka Magica the Movie Part 2: Eternal	fighting
-Puella Magi Madoka Magica the Movie Part 2: Eternal	girlswithguns
-Puella Magi Madoka Magica the Movie Part 2: Eternal	magicalgirls
-Puella Magi Madoka Magica the Movie Part 2: Eternal	tragedy
-Puella Magi Madoka Magica the Movie Part 2: Eternal	witches
-planetarian: Hoshi no Hito (movie)	u
-planetarian: Hoshi no Hito (movie)	n
-planetarian: Hoshi no Hito (movie)	k
-planetarian: Hoshi no Hito (movie)	n
-planetarian: Hoshi no Hito (movie)	o
-planetarian: Hoshi no Hito (movie)	w
-planetarian: Hoshi no Hito (movie)	n
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	death
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	fighting
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	girlswithguns
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	magicalgirls
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	tragedy
-Puella Magi Madoka Magica the Movie Part 1: Beginnings	witches
 Kizumonogatari Part 2: Nekketsu (movie)	u
 Kizumonogatari Part 2: Nekketsu (movie)	n
 Kizumonogatari Part 2: Nekketsu (movie)	k
@@ -945,18 +912,73 @@ Kizumonogatari Part 2: Nekketsu (movie)	n
 Kizumonogatari Part 2: Nekketsu (movie)	o
 Kizumonogatari Part 2: Nekketsu (movie)	w
 Kizumonogatari Part 2: Nekketsu (movie)	n
-Kizumonogatari Part 3: Reiketsu (movie)	ecchi
-Kizumonogatari Part 3: Reiketsu (movie)	fanservice
-Kizumonogatari Part 3: Reiketsu (movie)	gore
-Kizumonogatari Part 3: Reiketsu (movie)	harem
-Kizumonogatari Part 3: Reiketsu (movie)	vampire
-Porco Rosso (movie)	aircraft
-Porco Rosso (movie)	historical
+planetarian: Hoshi no Hito (movie)	u
+planetarian: Hoshi no Hito (movie)	n
+planetarian: Hoshi no Hito (movie)	k
+planetarian: Hoshi no Hito (movie)	n
+planetarian: Hoshi no Hito (movie)	o
+planetarian: Hoshi no Hito (movie)	w
+planetarian: Hoshi no Hito (movie)	n
+Hinamatsuri (TV)	espers
+Hinamatsuri (TV)	specialabilities
+Hinamatsuri (TV)	yakuza
+Ghost in the Shell (movie)	cyberpunk
+Ghost in the Shell (movie)	cyborg
+Ghost in the Shell (movie)	police
+Now and Then, Here and There (TV)	anotherworld
+Now and Then, Here and There (TV)	military
+Now and Then, Here and There (TV)	post-apocalyptic
+Now and Then, Here and There (TV)	war
+Puella Magi Madoka Magica the Movie Part 2: Eternal	death
+Puella Magi Madoka Magica the Movie Part 2: Eternal	fighting
+Puella Magi Madoka Magica the Movie Part 2: Eternal	girlswithguns
+Puella Magi Madoka Magica the Movie Part 2: Eternal	magicalgirls
+Puella Magi Madoka Magica the Movie Part 2: Eternal	tragedy
+Puella Magi Madoka Magica the Movie Part 2: Eternal	witches
+Kill la Kill (TV)	absurdity
+Kill la Kill (TV)	ecchi
+Kill la Kill (TV)	fanservice
+Kill la Kill (TV)	fighting
+Kill la Kill (TV)	schoolwar
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	u
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	k
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	o
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	w
+Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
+Wagnaria!!3 (TV)	cafe
+Wagnaria!!3 (TV)	workplace
+Kizumonogatari Part 1: Tekketsu (movie)	harem
+Kizumonogatari Part 1: Tekketsu (movie)	vampire
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	death
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	fighting
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	girlswithguns
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	magicalgirls
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	tragedy
+Puella Magi Madoka Magica the Movie Part 1: Beginnings	witches
+Puella Magi Madoka Magica The Movie Part 3: Rebellion	fighting
+Puella Magi Madoka Magica The Movie Part 3: Rebellion	girlswithguns
+Puella Magi Madoka Magica The Movie Part 3: Rebellion	magicalgirls
+Puella Magi Madoka Magica The Movie Part 3: Rebellion	tragedy
+Puella Magi Madoka Magica The Movie Part 3: Rebellion	witches
 Kimagure Orange Road: The Movie	lovetriangle
 Lovely Complex (TV)	kansai-ben
 Lovely Complex (TV)	love
 Lovely Complex (TV)	school
 Lovely Complex (TV)	schoollife
+Porco Rosso (movie)	aircraft
+Porco Rosso (movie)	historical
+Hikaru No Go: New Year Special	games
+Hikaru No Go: New Year Special	sports
+Mobile Suit Gundam - The Movie Trilogy	mecha
+Mobile Suit Gundam - The Movie Trilogy	military
+Mobile Suit Gundam - The Movie Trilogy	realrobot
+Mobile Suit Gundam - The Movie Trilogy	space
+Mobile Suit Gundam - The Movie Trilogy	spacecolonies
+Mobile Suit Gundam - The Movie Trilogy	spacenavy
+Hajime no Ippo - Mashiba vs. Kimura (OAV)	boxing
+Hajime no Ippo - Mashiba vs. Kimura (OAV)	sports
 (The) Place Promised in Our Early Days (movie)	u
 (The) Place Promised in Our Early Days (movie)	n
 (The) Place Promised in Our Early Days (movie)	k
@@ -964,46 +986,21 @@ Lovely Complex (TV)	schoollife
 (The) Place Promised in Our Early Days (movie)	o
 (The) Place Promised in Our Early Days (movie)	w
 (The) Place Promised in Our Early Days (movie)	n
-Hikaru No Go: New Year Special	games
-Hikaru No Go: New Year Special	sports
 Cardcaptor Sakura Movie 2: The Sealed Card	magicalgirl
-Hajime no Ippo - Mashiba vs. Kimura (OAV)	boxing
-Hajime no Ippo - Mashiba vs. Kimura (OAV)	sports
 Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights (OAV)	military
 Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights (OAV)	space
-Detroit Metal City (OAV)	music
-Detroit Metal City (OAV)	stardom
-Mobile Suit Gundam - The Movie Trilogy	mecha
-Mobile Suit Gundam - The Movie Trilogy	military
-Mobile Suit Gundam - The Movie Trilogy	realrobot
-Mobile Suit Gundam - The Movie Trilogy	space
-Mobile Suit Gundam - The Movie Trilogy	spacecolonies
-Mobile Suit Gundam - The Movie Trilogy	spacenavy
 (The) Wind Rises (movie)	historical
 (The) Wind Rises (movie)	worldwarii
-Puella Magi Madoka Magica The Movie Part 3: Rebellion	fighting
-Puella Magi Madoka Magica The Movie Part 3: Rebellion	girlswithguns
-Puella Magi Madoka Magica The Movie Part 3: Rebellion	magicalgirls
-Puella Magi Madoka Magica The Movie Part 3: Rebellion	tragedy
-Puella Magi Madoka Magica The Movie Part 3: Rebellion	witches
-Strawberry Panic! (TV)	yuri
+Detroit Metal City (OAV)	music
+Detroit Metal City (OAV)	stardom
 (The) Slayers Next (TV)	demons
 (The) Slayers Next (TV)	fighting
 (The) Slayers Next (TV)	monsters
 (The) Slayers Next (TV)	swordandsorcery
-One Piece Film Strong World (movie 10)	pirates
-One Piece Film Strong World (movie 10)	superpowers
 KenIchi the Mightiest Disciple (TV)	developingpowers
 KenIchi the Mightiest Disciple (TV)	ecchi
 KenIchi the Mightiest Disciple (TV)	martialarts
-Princess Jellyfish (TV)	crossdressing
-Princess Jellyfish (TV)	fashion
-Princess Jellyfish (TV)	otaku
-Princess Jellyfish (TV)	parody
-Bamboo Blade (TV)	kendo
-Bamboo Blade (TV)	moe
-Bamboo Blade (TV)	sports
-(The) Ancient Magus' Bride (TV)	specialabilities
+Strawberry Panic! (TV)	yuri
 ReLIFE (OAV)	u
 ReLIFE (OAV)	n
 ReLIFE (OAV)	k
@@ -1011,19 +1008,27 @@ ReLIFE (OAV)	n
 ReLIFE (OAV)	o
 ReLIFE (OAV)	w
 ReLIFE (OAV)	n
+Princess Jellyfish (TV)	crossdressing
+Princess Jellyfish (TV)	fashion
+Princess Jellyfish (TV)	otaku
+Princess Jellyfish (TV)	parody
+Bamboo Blade (TV)	kendo
+Bamboo Blade (TV)	moe
+Bamboo Blade (TV)	sports
 Initial D: Fourth Stage (TV)	autoracing
 Initial D: Fourth Stage (TV)	sports
+One Piece Film Strong World (movie 10)	pirates
+One Piece Film Strong World (movie 10)	superpowers
 Mobile Suit Gundam 00 (TV)	mecha
 Mobile Suit Gundam 00 (TV)	military
 Mobile Suit Gundam 00 (TV)	spacebattles
 Mobile Suit Gundam 00 (TV)	war
-Owarimonogatari (TV)	u
-Owarimonogatari (TV)	n
-Owarimonogatari (TV)	k
-Owarimonogatari (TV)	n
-Owarimonogatari (TV)	o
-Owarimonogatari (TV)	w
-Owarimonogatari (TV)	n
+Food Wars! The Second Plate (TV)	cooking
+Food Wars! The Second Plate (TV)	ecchi
+Food Wars! The Second Plate (TV)	food
+Food Wars! The Second Plate (TV)	school
+Bakuman. (TV)	manga
+Bakuman. (TV)	school
 Silver Spoon (TV)	agriculture
 Silver Spoon (TV)	animalwelfarism
 Silver Spoon (TV)	farmers
@@ -1031,14 +1036,25 @@ Silver Spoon (TV)	school
 Hikaru no Go (TV)	games
 Hikaru no Go (TV)	school
 Hikaru no Go (TV)	sports
+Owarimonogatari (TV)	u
+Owarimonogatari (TV)	n
+Owarimonogatari (TV)	k
+Owarimonogatari (TV)	n
+Owarimonogatari (TV)	o
+Owarimonogatari (TV)	w
+Owarimonogatari (TV)	n
 Hajime no Ippo Rising (TV)	boxing
 Hajime no Ippo Rising (TV)	sports
-Bakuman. (TV)	manga
-Bakuman. (TV)	school
-ReLIFE (TV)	bullying
-ReLIFE (TV)	highschool
 Banner of the Stars II (TV)	military
 Banner of the Stars II (TV)	space
+ReLIFE (TV)	bullying
+ReLIFE (TV)	highschool
+Treasure Island (TV)	historical
+Gunbuster (OAV)	fanservice
+Gunbuster (OAV)	mecha
+Gunbuster (OAV)	military
+Gunbuster (OAV)	spacenavy
+Gunbuster (OAV)	superrobot
 Higurashi no Naku Koroni Kai (TV)	conspiracy
 Higurashi no Naku Koroni Kai (TV)	death
 Higurashi no Naku Koroni Kai (TV)	goddesses
@@ -1046,39 +1062,27 @@ Higurashi no Naku Koroni Kai (TV)	harem
 Higurashi no Naku Koroni Kai (TV)	revenge
 Higurashi no Naku Koroni Kai (TV)	timetravel
 Higurashi no Naku Koroni Kai (TV)	tragedy
-Gunbuster (OAV)	fanservice
-Gunbuster (OAV)	mecha
-Gunbuster (OAV)	military
-Gunbuster (OAV)	spacenavy
-Gunbuster (OAV)	superrobot
 Case Closed: The Phantom of Baker Street (movie)	detective
 Case Closed: The Phantom of Baker Street (movie)	serialmurderer
 Case Closed: The Phantom of Baker Street (movie)	sherlockholmes
 Case Closed: The Phantom of Baker Street (movie)	survivalgame
-Miss Kobayashi's Dragon Maid (TV)	dragons
-Miss Kobayashi's Dragon Maid (TV)	maids
-Miss Kobayashi's Dragon Maid (TV)	monstergirls
+Samurai 7 (TV)	mecha
+Samurai 7 (TV)	samurai
 Voices of a Distant Star (OAV)	mecha
 Voices of a Distant Star (OAV)	military
 Voices of a Distant Star (OAV)	space
-Samurai 7 (TV)	mecha
-Samurai 7 (TV)	samurai
 A Lull in the Sea (TV)	parody
 A Lull in the Sea (TV)	post-apocalyptic
 A Lull in the Sea (TV)	sea-dwellingpeople
 A Lull in the Sea (TV)	underwaterworld
 A Lull in the Sea (TV)	unrequitedlove
+Slam Dunk (TV)	basketball
+Slam Dunk (TV)	sports
 Doraemon the Movie: Nobita and the Steel Troops: The New Age	aliens
 Doraemon the Movie: Nobita and the Steel Troops: The New Age	alternateworld
 Doraemon the Movie: Nobita and the Steel Troops: The New Age	mecha
 Doraemon the Movie: Nobita and the Steel Troops: The New Age	robots
 Doraemon the Movie: Nobita and the Steel Troops: The New Age	talkinganimal
-Food Wars! The Second Plate (TV)	cooking
-Food Wars! The Second Plate (TV)	ecchi
-Food Wars! The Second Plate (TV)	food
-Food Wars! The Second Plate (TV)	school
-Slam Dunk (TV)	basketball
-Slam Dunk (TV)	sports
 Full Moon o Sagashite (TV)	idols
 Full Moon o Sagashite (TV)	magicalgirl
 Full Moon o Sagashite (TV)	music
@@ -1091,22 +1095,30 @@ Mobile Suit Zeta Gundam (TV)	spacebattles
 Mobile Suit Zeta Gundam (TV)	spacecolonies
 Mobile Suit Zeta Gundam (TV)	spacenavy
 Mobile Suit Zeta Gundam (TV)	war
-Case Closed: Captured in Her Eyes (movie)	amnesia
-Case Closed: Captured in Her Eyes (movie)	crime
-Case Closed: Captured in Her Eyes (movie)	detective
-Case Closed: Captured in Her Eyes (movie)	police
-Sayonara, Zetsubou-Sensei (TV)	darkcomedy
-Sayonara, Zetsubou-Sensei (TV)	harem
-Sayonara, Zetsubou-Sensei (TV)	parody
-Sayonara, Zetsubou-Sensei (TV)	satire
-Sayonara, Zetsubou-Sensei (TV)	school
-Sayonara, Zetsubou-Sensei (TV)	suicide
 Psycho-Pass (TV)	crime
 Psycho-Pass (TV)	cyberpunk
 Psycho-Pass (TV)	dystopia
 Psycho-Pass (TV)	future
 Psycho-Pass (TV)	gore
 Psycho-Pass (TV)	police
+Sayonara, Zetsubou-Sensei (TV)	darkcomedy
+Sayonara, Zetsubou-Sensei (TV)	harem
+Sayonara, Zetsubou-Sensei (TV)	parody
+Sayonara, Zetsubou-Sensei (TV)	satire
+Sayonara, Zetsubou-Sensei (TV)	school
+Sayonara, Zetsubou-Sensei (TV)	suicide
+FLCL (OAV)	aliens
+FLCL (OAV)	comingofage
+FLCL (OAV)	parody
+(The) Story of Saiunkoku Second Series (TV 2)	bishounen
+(The) Story of Saiunkoku Second Series (TV 2)	historical
+(The) Story of Saiunkoku Second Series (TV 2)	maleharem
+(The) Story of Saiunkoku Second Series (TV 2)	politics
+(The) Ancient Magus' Bride (TV)	specialabilities
+Case Closed: Captured in Her Eyes (movie)	amnesia
+Case Closed: Captured in Her Eyes (movie)	crime
+Case Closed: Captured in Her Eyes (movie)	detective
+Case Closed: Captured in Her Eyes (movie)	police
 Case Closed: The Last Magician of the Century (movie)	crime
 Case Closed: The Last Magician of the Century (movie)	detective
 Case Closed: The Last Magician of the Century (movie)	thief
@@ -1117,15 +1129,14 @@ Case Closed: The Last Magician of the Century (movie)	thief
 (The) Secret World of Arrietty (movie)	o
 (The) Secret World of Arrietty (movie)	w
 (The) Secret World of Arrietty (movie)	n
-(The) Story of Saiunkoku Second Series (TV 2)	bishounen
-(The) Story of Saiunkoku Second Series (TV 2)	historical
-(The) Story of Saiunkoku Second Series (TV 2)	maleharem
-(The) Story of Saiunkoku Second Series (TV 2)	politics
-FLCL (OAV)	aliens
-FLCL (OAV)	comingofage
-FLCL (OAV)	parody
-Treasure Island (TV)	historical
 Genshiken (TV)	otaku
+Miss Kobayashi's Dragon Maid (TV)	dragons
+Miss Kobayashi's Dragon Maid (TV)	maids
+Miss Kobayashi's Dragon Maid (TV)	monstergirls
+Touch (TV)	baseball
+Touch (TV)	school
+Touch (TV)	sports
+Touch (TV)	tragedy
 Kyo kara Maoh! 3rd Series (TV)	alternateworld
 Kyo kara Maoh! 3rd Series (TV)	demons
 Kyo kara Maoh! 3rd Series (TV)	medieval
@@ -1134,12 +1145,7 @@ Kyo kara Maoh! 3rd Series (TV)	royalty
 Black Lagoon: Roberta's Blood Trail (OAV)	crimeorganizations
 Black Lagoon: Roberta's Blood Trail (OAV)	girlswithguns
 Black Lagoon: Roberta's Blood Trail (OAV)	revenge
-Touch (TV)	baseball
-Touch (TV)	school
-Touch (TV)	sports
-Touch (TV)	tragedy
-Case Closed: Countdown to Heaven (movie)	crime
-Case Closed: Countdown to Heaven (movie)	detective
+Genshiken 2 (TV)	otaku
 Log Horizon (TV)	evolvingworld
 Log Horizon (TV)	guilds
 Log Horizon (TV)	mmorpg
@@ -1148,15 +1154,12 @@ Log Horizon (TV)	rebuildingsociety
 Log Horizon (TV)	strategicbattles
 Log Horizon (TV)	strategicminds
 Log Horizon (TV)	virtualreality
-Genshiken 2 (TV)	otaku
 Big Windup! Season 2 (TV)	baseball
 Big Windup! Season 2 (TV)	sports
-(The) Garden of Sinners/recalled out summer (movie)	harem
-(The) Garden of Sinners/recalled out summer (movie)	multiplepersonality
+Case Closed: Countdown to Heaven (movie)	crime
+Case Closed: Countdown to Heaven (movie)	detective
 Kaleido Star: Legend of Phoenix - Layla Hamilton Story (OAV)	acrobatics
 Kaleido Star: Legend of Phoenix - Layla Hamilton Story (OAV)	gymnastics
-Aria - The Natural (TV)	gondolas
-Aria - The Natural (TV)	iyashikei
 Saint Seiya: The Hades Chapter - Sanctuary (OAV)	u
 Saint Seiya: The Hades Chapter - Sanctuary (OAV)	n
 Saint Seiya: The Hades Chapter - Sanctuary (OAV)	k
@@ -1169,6 +1172,8 @@ Junjō Romantica (TV)	intense
 Junjō Romantica (TV)	sexualassault
 Junjō Romantica (TV)	shounen-ai
 Junjō Romantica (TV)	yaoi
+Aria - The Natural (TV)	gondolas
+Aria - The Natural (TV)	iyashikei
 Claymore (TV)	femalewarriors
 Claymore (TV)	medieval
 Claymore (TV)	monsters
@@ -1181,6 +1186,13 @@ Zoku Sayonara Zetsubō Sensei (TV)	parody
 Zoku Sayonara Zetsubō Sensei (TV)	satire
 Zoku Sayonara Zetsubō Sensei (TV)	school
 Zoku Sayonara Zetsubō Sensei (TV)	suicide
+Non Non Biyori Repeat (TV)	iyashikei
+Non Non Biyori Repeat (TV)	schoollife
+Giant Robo (OAV)	fighting
+Giant Robo (OAV)	mecha
+Giant Robo (OAV)	superhumans
+Legend of the Galactic Heroes: Spiral Labyrinth (OAV)	military
+Legend of the Galactic Heroes: Spiral Labyrinth (OAV)	space
 Nisemonogatari (TV)	absurdity
 Nisemonogatari (TV)	ecchi
 Nisemonogatari (TV)	family
@@ -1189,26 +1201,14 @@ Nisemonogatari (TV)	harem
 Nisemonogatari (TV)	love
 Nisemonogatari (TV)	vampires
 Nisemonogatari (TV)	youkai
-Aggressive Retsuko (ONA)	music
-Aggressive Retsuko (ONA)	office
-Aggressive Retsuko (ONA)	talkinganimals
-Aggressive Retsuko (ONA)	work
-Legend of the Galactic Heroes: Spiral Labyrinth (OAV)	military
-Legend of the Galactic Heroes: Spiral Labyrinth (OAV)	space
-Giant Robo (OAV)	fighting
-Giant Robo (OAV)	mecha
-Giant Robo (OAV)	superhumans
-Non Non Biyori Repeat (TV)	iyashikei
-Non Non Biyori Repeat (TV)	schoollife
+Ace of Diamond: Second Season (TV)	baseball
+Ace of Diamond: Second Season (TV)	sports
 Fruits Basket (TV)	bishounen
 Fruits Basket (TV)	chinesezodiac
 Fruits Basket (TV)	family
 Fruits Basket (TV)	kindness
 Fruits Basket (TV)	school
-Black Butler: Book of Murder (OAV)	bishounen
-Black Butler: Book of Murder (OAV)	darkcomedy
-Black Butler: Book of Murder (OAV)	demons
-Black Butler: Book of Murder (OAV)	historical
+From Up On Poppy Hill (movie)	school
 Perfect Blue (movie)	idols
 Perfect Blue (movie)	stalkers
 Perfect Blue (movie)	stardom
@@ -1218,7 +1218,9 @@ When They Cry - Higurashi (TV)	gore
 When They Cry - Higurashi (TV)	moe
 When They Cry - Higurashi (TV)	revenge
 When They Cry - Higurashi (TV)	tragedy
-From Up On Poppy Hill (movie)	school
+Kimagure Orange Road (TV)	espers
+Kimagure Orange Road (TV)	lovetriangle
+Kimagure Orange Road (TV)	superpowers
 Birdy the Mighty Decode:02 (TV)	u
 Birdy the Mighty Decode:02 (TV)	n
 Birdy the Mighty Decode:02 (TV)	k
@@ -1226,31 +1228,16 @@ Birdy the Mighty Decode:02 (TV)	n
 Birdy the Mighty Decode:02 (TV)	o
 Birdy the Mighty Decode:02 (TV)	w
 Birdy the Mighty Decode:02 (TV)	n
-Kimagure Orange Road (TV)	espers
-Kimagure Orange Road (TV)	lovetriangle
-Kimagure Orange Road (TV)	superpowers
-Penguindrum (TV)	conspiracy
-Penguindrum (TV)	destiny
-Penguindrum (TV)	penguins
-Penguindrum (TV)	resurrection
-Penguindrum (TV)	tragedy
 Soul Eater (TV)	humanweapons
 Soul Eater (TV)	school
 Soul Eater (TV)	shinigami
 Soul Eater (TV)	superpowers
 Soul Eater (TV)	witches
-Hanada Shōnen-shi (TV)	ghosts
-Full Metal Panic! (TV)	mecha
-Full Metal Panic! (TV)	military
-Full Metal Panic! (TV)	realrobot
-Full Metal Panic! (TV)	school
-Full Metal Panic! (TV)	terrorists
-Haré+Guu Deluxe (OAV)	parody
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	mecha
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	military
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	politics
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	space
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	war
+Penguindrum (TV)	conspiracy
+Penguindrum (TV)	destiny
+Penguindrum (TV)	penguins
+Penguindrum (TV)	resurrection
+Penguindrum (TV)	tragedy
 Baby Blue (movie)	u
 Baby Blue (movie)	n
 Baby Blue (movie)	k
@@ -1258,9 +1245,13 @@ Baby Blue (movie)	n
 Baby Blue (movie)	o
 Baby Blue (movie)	w
 Baby Blue (movie)	n
-Emma: A Victorian Romance (TV)	england
-Emma: A Victorian Romance (TV)	historical
-Emma: A Victorian Romance (TV)	historical(england)
+Hanada Shōnen-shi (TV)	ghosts
+Full Metal Panic! (TV)	mecha
+Full Metal Panic! (TV)	military
+Full Metal Panic! (TV)	realrobot
+Full Metal Panic! (TV)	school
+Full Metal Panic! (TV)	terrorists
+Haré+Guu Deluxe (OAV)	parody
 xxxHOLiC: Rō (OAV)	u
 xxxHOLiC: Rō (OAV)	n
 xxxHOLiC: Rō (OAV)	k
@@ -1268,10 +1259,15 @@ xxxHOLiC: Rō (OAV)	n
 xxxHOLiC: Rō (OAV)	o
 xxxHOLiC: Rō (OAV)	w
 xxxHOLiC: Rō (OAV)	n
+Emma: A Victorian Romance (TV)	england
+Emma: A Victorian Romance (TV)	historical
+Emma: A Victorian Romance (TV)	historical(england)
 Macross Zero (OAV)	mecha
 Macross Zero (OAV)	military
 Macross Zero (OAV)	music
 Macross Zero (OAV)	realrobot
+(The) Garden of Sinners/recalled out summer (movie)	harem
+(The) Garden of Sinners/recalled out summer (movie)	multiplepersonality
 Space Battleship Yamato 2199 (movie)	u
 Space Battleship Yamato 2199 (movie)	n
 Space Battleship Yamato 2199 (movie)	k
@@ -1279,6 +1275,14 @@ Space Battleship Yamato 2199 (movie)	n
 Space Battleship Yamato 2199 (movie)	o
 Space Battleship Yamato 2199 (movie)	w
 Space Battleship Yamato 2199 (movie)	n
+Mobile Suit Gundam: The Origin (OAV)	mecha
+Mobile Suit Gundam: The Origin (OAV)	politics
+Mobile Suit Gundam: The Origin (OAV)	realrobot
+(The) Tatami Galaxy (TV)	absurdity
+Chihayafuru 2 (TV)	cardgames
+Chihayafuru 2 (TV)	cardgameskarutasports
+Chihayafuru 2 (TV)	karuta
+Chihayafuru 2 (TV)	sports
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	developingpowers
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	fighting
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	navy
@@ -1286,17 +1290,15 @@ One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	pirate
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	slapstick
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	superpowers
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	war
-Chihayafuru 2 (TV)	cardgames
-Chihayafuru 2 (TV)	cardgameskarutasports
-Chihayafuru 2 (TV)	karuta
-Chihayafuru 2 (TV)	sports
-Magical Girl Lyrical Nanoha A's (TV)	magicalgirl
-Ace of Diamond: Second Season (TV)	baseball
-Ace of Diamond: Second Season (TV)	sports
 Tamayura: Sotsugyō Shashin (movie series)	iyashikei
-(The) Tatami Galaxy (TV)	absurdity
 (The) Vision of Escaflowne (TV)	mecha
 (The) Vision of Escaflowne (TV)	otherworld
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	mecha
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	military
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	politics
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	space
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	war
+Magical Girl Lyrical Nanoha A's (TV)	magicalgirl
 Fairy Tail Zero (TV)	u
 Fairy Tail Zero (TV)	n
 Fairy Tail Zero (TV)	k
@@ -1304,13 +1306,20 @@ Fairy Tail Zero (TV)	n
 Fairy Tail Zero (TV)	o
 Fairy Tail Zero (TV)	w
 Fairy Tail Zero (TV)	n
-Read or Die (OAV)	secretagents
-Read or Die (OAV)	superpowers
 (The) Eccentric Family (TV)	family
 (The) Eccentric Family (TV)	folklore
 (The) Eccentric Family (TV)	genderswitch
 (The) Eccentric Family (TV)	shapeshifting
 (The) Eccentric Family (TV)	youkai
+Read or Die (OAV)	secretagents
+Read or Die (OAV)	superpowers
+Fate/stay night: Heaven's Feel I. presage flower (movie)	u
+Fate/stay night: Heaven's Feel I. presage flower (movie)	n
+Fate/stay night: Heaven's Feel I. presage flower (movie)	k
+Fate/stay night: Heaven's Feel I. presage flower (movie)	n
+Fate/stay night: Heaven's Feel I. presage flower (movie)	o
+Fate/stay night: Heaven's Feel I. presage flower (movie)	w
+Fate/stay night: Heaven's Feel I. presage flower (movie)	n
 Durarara!! (TV)	comingofage
 Durarara!! (TV)	conspiracy
 Durarara!! (TV)	crime
@@ -1325,10 +1334,6 @@ Broken Blade (movie series)	military
 Broken Blade (movie series)	politics
 Broken Blade (movie series)	tragedy
 Broken Blade (movie series)	war
-Ga-Rei-Zero (TV)	demons
-Ga-Rei-Zero (TV)	gore
-Ga-Rei-Zero (TV)	tragedy
-Ga-Rei-Zero (TV)	youkai
 Yu Yu Hakusho: Ghost Files (TV)	demons
 Yu Yu Hakusho: Ghost Files (TV)	detective
 Yu Yu Hakusho: Ghost Files (TV)	fighting
@@ -1340,35 +1345,22 @@ Yu Yu Hakusho: Ghost Files (TV)	youkai
 Fate/stay night: Unlimited Blade Works (TV 2)	fighting
 Fate/stay night: Unlimited Blade Works (TV 2)	legendarywarriors
 Fate/stay night: Unlimited Blade Works (TV 2)	school
+Ga-Rei-Zero (TV)	demons
+Ga-Rei-Zero (TV)	gore
+Ga-Rei-Zero (TV)	tragedy
+Ga-Rei-Zero (TV)	youkai
 Macross Plus Movie Edition	mecha
 Macross Plus Movie Edition	military
+(The) Disastrous Life of Saiki K. (TV 2)	u
+(The) Disastrous Life of Saiki K. (TV 2)	n
+(The) Disastrous Life of Saiki K. (TV 2)	k
+(The) Disastrous Life of Saiki K. (TV 2)	n
+(The) Disastrous Life of Saiki K. (TV 2)	o
+(The) Disastrous Life of Saiki K. (TV 2)	w
+(The) Disastrous Life of Saiki K. (TV 2)	n
 Kaiji (TV)	gambling
 Kaiji (TV)	survivalgame
 Kaiji (TV)	yakuza
-(The) Story of Saiunkoku (TV)	bishounen
-(The) Story of Saiunkoku (TV)	feminism
-(The) Story of Saiunkoku (TV)	historical
-(The) Story of Saiunkoku (TV)	maleharem
-(The) Story of Saiunkoku (TV)	politics
-Tsubasa: Spring Thunder (OAV)	otherworlds
-Tsubasa: Spring Thunder (OAV)	sorcery
-Mobile Suit Gundam: The Origin (OAV)	mecha
-Mobile Suit Gundam: The Origin (OAV)	politics
-Mobile Suit Gundam: The Origin (OAV)	realrobot
-Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)	iyashikei
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	u
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	k
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	o
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	w
-KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
-Crest of the Stars (TV)	military
-Crest of the Stars (TV)	space
-Crest of the Stars (TV)	spacenavy
-Crest of the Stars (TV)	war
-On Your Mark (movie)	angels
-On Your Mark (movie)	police
 Gintama Season 4 (TV 6/2017)	u
 Gintama Season 4 (TV 6/2017)	n
 Gintama Season 4 (TV 6/2017)	k
@@ -1376,26 +1368,36 @@ Gintama Season 4 (TV 6/2017)	n
 Gintama Season 4 (TV 6/2017)	o
 Gintama Season 4 (TV 6/2017)	w
 Gintama Season 4 (TV 6/2017)	n
+Black Butler: Book of Murder (OAV)	bishounen
+Black Butler: Book of Murder (OAV)	darkcomedy
+Black Butler: Book of Murder (OAV)	demons
+Black Butler: Book of Murder (OAV)	historical
+Tsubasa: Spring Thunder (OAV)	otherworlds
+Tsubasa: Spring Thunder (OAV)	sorcery
+(The) Story of Saiunkoku (TV)	bishounen
+(The) Story of Saiunkoku (TV)	feminism
+(The) Story of Saiunkoku (TV)	historical
+(The) Story of Saiunkoku (TV)	maleharem
+(The) Story of Saiunkoku (TV)	politics
+Crest of the Stars (TV)	military
+Crest of the Stars (TV)	space
+Crest of the Stars (TV)	spacenavy
+Crest of the Stars (TV)	war
 Urusei Yatsura: Beautiful Dreamer (movie)	aliens
 Gintama (OAV)	aliens
 Gintama (OAV)	parody
 Gintama (OAV)	samurai
+On Your Mark (movie)	angels
+On Your Mark (movie)	police
+Hanamonogatari (TV)	basketball
+Hanamonogatari (TV)	ghosts
+Hanamonogatari (TV)	sports
 Toward the Terra (TV)	bishounen
 Toward the Terra (TV)	esppowers
 Toward the Terra (TV)	espers
 Toward the Terra (TV)	space
 Toward the Terra (TV)	superpowers
-Hanamonogatari (TV)	basketball
-Hanamonogatari (TV)	ghosts
-Hanamonogatari (TV)	sports
 Genshiken (OAV)	otaku
-Mind Game (movie)	u
-Mind Game (movie)	n
-Mind Game (movie)	k
-Mind Game (movie)	n
-Mind Game (movie)	o
-Mind Game (movie)	w
-Mind Game (movie)	n
 Mobile Suit Gundam Seed (TV)	geneticenhancement
 Mobile Suit Gundam Seed (TV)	mecha
 Mobile Suit Gundam Seed (TV)	military
@@ -1404,20 +1406,32 @@ Mobile Suit Gundam Seed (TV)	space
 Mobile Suit Gundam Seed (TV)	spacecolonies
 Mobile Suit Gundam Seed (TV)	tragedy
 Mobile Suit Gundam Seed (TV)	war
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	u
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	k
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	o
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	w
+KONOSUBA - God's blessing on this wonderful world! 2 (TV)	n
+Mind Game (movie)	u
+Mind Game (movie)	n
+Mind Game (movie)	k
+Mind Game (movie)	n
+Mind Game (movie)	o
+Mind Game (movie)	w
+Mind Game (movie)	n
 Goku Sayonara Zetsubō Sensei (OAV)	darkcomedy
 Goku Sayonara Zetsubō Sensei (OAV)	harem
 Goku Sayonara Zetsubō Sensei (OAV)	parody
 Goku Sayonara Zetsubō Sensei (OAV)	satire
 Goku Sayonara Zetsubō Sensei (OAV)	school
 Goku Sayonara Zetsubō Sensei (OAV)	suicide
-Fate/stay night: Heaven's Feel I. presage flower (movie)	u
-Fate/stay night: Heaven's Feel I. presage flower (movie)	n
-Fate/stay night: Heaven's Feel I. presage flower (movie)	k
-Fate/stay night: Heaven's Feel I. presage flower (movie)	n
-Fate/stay night: Heaven's Feel I. presage flower (movie)	o
-Fate/stay night: Heaven's Feel I. presage flower (movie)	w
-Fate/stay night: Heaven's Feel I. presage flower (movie)	n
-One Piece Film Z (movie)	pirates
+Daicon films (special)	superpowers
+Saga of Tanya the Evil (TV)	military
+Baby Steps (TV 2)	sports
+Baby Steps (TV 2)	tennis
+Redline (movie)	aliens
+Redline (movie)	racing
 City Hunter 2 (TV)	u
 City Hunter 2 (TV)	n
 City Hunter 2 (TV)	k
@@ -1425,24 +1439,10 @@ City Hunter 2 (TV)	n
 City Hunter 2 (TV)	o
 City Hunter 2 (TV)	w
 City Hunter 2 (TV)	n
-Redline (movie)	aliens
-Redline (movie)	racing
-Baby Steps (TV 2)	sports
-Baby Steps (TV 2)	tennis
 Big Windup! (TV)	baseball
 Big Windup! (TV)	sports
-K-ON! (movie)	iyashikei
-K-ON! (movie)	music
 Initial D: Second Stage (TV)	autoracing
 Initial D: Second Stage (TV)	sports
-Daicon films (special)	superpowers
-InuYasha: The Final Act (TV)	demons
-InuYasha: The Final Act (TV)	historical
-InuYasha: The Final Act (TV)	timetravel
-InuYasha: The Final Act (TV)	youkai
-Gintama: The Movie	aliens
-Gintama: The Movie	parody
-Gintama: The Movie	samurai
 Jormungand Perfect Order (TV)	u
 Jormungand Perfect Order (TV)	n
 Jormungand Perfect Order (TV)	k
@@ -1450,6 +1450,20 @@ Jormungand Perfect Order (TV)	n
 Jormungand Perfect Order (TV)	o
 Jormungand Perfect Order (TV)	w
 Jormungand Perfect Order (TV)	n
+K-ON! (movie)	iyashikei
+K-ON! (movie)	music
+InuYasha: The Final Act (TV)	demons
+InuYasha: The Final Act (TV)	historical
+InuYasha: The Final Act (TV)	timetravel
+InuYasha: The Final Act (TV)	youkai
+One Piece Film Z (movie)	pirates
+(The) Dog of Flanders (movie)	u
+(The) Dog of Flanders (movie)	n
+(The) Dog of Flanders (movie)	k
+(The) Dog of Flanders (movie)	n
+(The) Dog of Flanders (movie)	o
+(The) Dog of Flanders (movie)	w
+(The) Dog of Flanders (movie)	n
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	u
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	n
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	k
@@ -1457,15 +1471,11 @@ Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	n
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	o
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	w
 Mahō Sensei Negima!: Mō Hitotsu no Sekai (OAV)	n
-(The) Disastrous Life of Saiki K. (TV 2)	u
-(The) Disastrous Life of Saiki K. (TV 2)	n
-(The) Disastrous Life of Saiki K. (TV 2)	k
-(The) Disastrous Life of Saiki K. (TV 2)	n
-(The) Disastrous Life of Saiki K. (TV 2)	o
-(The) Disastrous Life of Saiki K. (TV 2)	w
-(The) Disastrous Life of Saiki K. (TV 2)	n
-Girls' Last Tour (TV)	post-apocalpytic
-Doukyusei -Classmates- (movie)	yaoi
+Gintama: The Movie	aliens
+Gintama: The Movie	parody
+Gintama: The Movie	samurai
+Hozuki's Coolheadedness (TV 2)	darkcomedy
+Hozuki's Coolheadedness (TV 2)	demons
 Lunar Legend Tsukihime (TV)	vampires
 Zan Sayonara Zetsubō Sensei (TV)	darkcomedy
 Zan Sayonara Zetsubō Sensei (TV)	harem
@@ -1473,16 +1483,9 @@ Zan Sayonara Zetsubō Sensei (TV)	parody
 Zan Sayonara Zetsubō Sensei (TV)	satire
 Zan Sayonara Zetsubō Sensei (TV)	school
 Zan Sayonara Zetsubō Sensei (TV)	suicide
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	dystopia
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	military
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	post-apocalyptic
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	shapeshifting
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	superpowers
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	titans/giants
-Attack on Titan Part 2 – Jiyuu no Tsubasa (movie)	tragedy
-Saga of Tanya the Evil (TV)	military
 Rurouni Kenshin: Reflection (OAV)	historical
 Rurouni Kenshin: Reflection (OAV)	samurai
+Steins;Gate: The Movie - Load Region of Déjà Vu	timetravel
 Hanasaku Iroha: Home Sweet Home (movie)	u
 Hanasaku Iroha: Home Sweet Home (movie)	n
 Hanasaku Iroha: Home Sweet Home (movie)	k
@@ -1493,38 +1496,53 @@ Hanasaku Iroha: Home Sweet Home (movie)	n
 Kurenai (TV)	incest
 Kurenai (TV)	martialarts
 Kurenai (TV)	school
+Death Parade (TV)	death
+Death Parade (TV)	heaven&hell
+Death Parade (TV)	reincarnation
+Kyousougiga (TV)	chase
+Kyousougiga (TV)	family
+Kyousougiga (TV)	godesses
+Kyousougiga (TV)	gods
+Kyousougiga (TV)	monsters
+Kyousougiga (TV)	paralleluniverse
+Barakamon (TV)	calligraphy
+Barakamon (TV)	countrylife
+Aggretsuko (ONA)	music
+Aggretsuko (ONA)	office
+Aggretsuko (ONA)	talkinganimals
+Aggretsuko (ONA)	work
+(The) Irresponsible Captain Tylor (TV)	harem
+(The) Irresponsible Captain Tylor (TV)	military
+(The) Irresponsible Captain Tylor (TV)	space
 Patema Inverted (movie)	dangers
 Patema Inverted (movie)	exploration
 Patema Inverted (movie)	paralleluniverse
 Patema Inverted (movie)	upside-downworld
-(The) Dog of Flanders (movie)	u
-(The) Dog of Flanders (movie)	n
-(The) Dog of Flanders (movie)	k
-(The) Dog of Flanders (movie)	n
-(The) Dog of Flanders (movie)	o
-(The) Dog of Flanders (movie)	w
-(The) Dog of Flanders (movie)	n
-(The) Irresponsible Captain Tylor (TV)	harem
-(The) Irresponsible Captain Tylor (TV)	military
-(The) Irresponsible Captain Tylor (TV)	space
-Steins;Gate: The Movie - Load Region of Déjà Vu	timetravel
-Laid-Back Camp (TV)	camping
-Detective Conan: The Lost Ship in The Sky (movie 14)	airship
-Detective Conan: The Lost Ship in The Sky (movie 14)	crime
-Detective Conan: The Lost Ship in The Sky (movie 14)	detective
-Detective Conan: The Lost Ship in The Sky (movie 14)	organizedcrime
-Detective Conan: The Lost Ship in The Sky (movie 14)	terrorists
-Detective Conan: The Lost Ship in The Sky (movie 14)	thief
-Detective Conan: The Lost Ship in The Sky (movie 14)	virus
-Case Closed: The Fourteenth Target (movie)	crime
-Case Closed: The Fourteenth Target (movie)	detective
-Case Closed: The Fourteenth Target (movie)	serialmurderer
+Revolutionary Girl Utena (TV)	duels
+Revolutionary Girl Utena (TV)	school
 Banner of the Stars (TV)	military
 Banner of the Stars (TV)	space
 Banner of the Stars (TV)	spacenavy
 Banner of the Stars (TV)	war
+Hidamari Sketch × Honeycomb (TV)	iyashikei
 Barefoot Gen (movie)	historical
 Barefoot Gen (movie)	worldwarii
+Wagnaria!!2 (TV)	cafe
+Wagnaria!!2 (TV)	workplace
+Children Who Chase Lost Voices (movie)	belonging
+Children Who Chase Lost Voices (movie)	journey
+Case Closed: The Fourteenth Target (movie)	crime
+Case Closed: The Fourteenth Target (movie)	detective
+Case Closed: The Fourteenth Target (movie)	serialmurderer
+My-HiME (TV)	magicalgirl
+My-HiME (TV)	school
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	u
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	k
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	o
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	w
+Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
 Yona of the Dawn (TV)	betrayal
 Yona of the Dawn (TV)	bishounen
 Yona of the Dawn (TV)	dragons
@@ -1536,35 +1554,27 @@ Yona of the Dawn (TV)	revenge
 Yona of the Dawn (TV)	royalty
 Yona of the Dawn (TV)	specialabilities
 Yona of the Dawn (TV)	tsundere
-Revolutionary Girl Utena (TV)	duels
-Revolutionary Girl Utena (TV)	school
-Kyousougiga (TV)	chase
-Kyousougiga (TV)	family
-Kyousougiga (TV)	godesses
-Kyousougiga (TV)	gods
-Kyousougiga (TV)	monsters
-Kyousougiga (TV)	paralleluniverse
-Barakamon (TV)	calligraphy
-Barakamon (TV)	countrylife
-Wagnaria!!2 (TV)	cafe
-Wagnaria!!2 (TV)	workplace
-Hidamari Sketch × Honeycomb (TV)	iyashikei
-Children Who Chase Lost Voices (movie)	belonging
-Children Who Chase Lost Voices (movie)	journey
-Death Parade (TV)	death
-Death Parade (TV)	heaven&hell
-Death Parade (TV)	reincarnation
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	u
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	k
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	o
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	w
-Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
-My-HiME (TV)	magicalgirl
-My-HiME (TV)	school
-Tsukimonogatari (TV)	fanservice
-Tsukimonogatari (TV)	vampires
+Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)	iyashikei
+Detective Conan: The Lost Ship in The Sky (movie 14)	airship
+Detective Conan: The Lost Ship in The Sky (movie 14)	crime
+Detective Conan: The Lost Ship in The Sky (movie 14)	detective
+Detective Conan: The Lost Ship in The Sky (movie 14)	organizedcrime
+Detective Conan: The Lost Ship in The Sky (movie 14)	terrorists
+Detective Conan: The Lost Ship in The Sky (movie 14)	thief
+Detective Conan: The Lost Ship in The Sky (movie 14)	virus
+Sound! Euphonium (TV)	bands
+Sound! Euphonium (TV)	bishoujo
+Sound! Euphonium (TV)	music
+Sound! Euphonium (TV)	school
+Sound! Euphonium (TV)	yuri
+Mirai (movie)	time-travel
+One Piece (TV)	developingpowers
+One Piece (TV)	fighting
+One Piece (TV)	navy
+One Piece (TV)	pirates
+One Piece (TV)	slapstick
+One Piece (TV)	superpowers
+One Piece (TV)	war
 Shigofumi - Letters from the Departed (TV)	girlswithguns
 Shigofumi - Letters from the Departed (TV)	letters
 Shigofumi - Letters from the Departed (TV)	lifeafterdeath
@@ -1574,123 +1584,117 @@ Shigofumi - Letters from the Departed (TV)	suicide
 Shigofumi - Letters from the Departed (TV)	tragedy
 Trigun: Badlands Rumble (movie)	gunslinger
 Trigun: Badlands Rumble (movie)	western
-One Piece (TV)	developingpowers
-One Piece (TV)	fighting
-One Piece (TV)	navy
-One Piece (TV)	pirates
-One Piece (TV)	slapstick
-One Piece (TV)	superpowers
-One Piece (TV)	war
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	u
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	k
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	o
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	w
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
-Silver Spoon (TV 2)	agriculture
-Silver Spoon (TV 2)	animalwelfarism
-Silver Spoon (TV 2)	equestrianism
-Silver Spoon (TV 2)	farmers
-Silver Spoon (TV 2)	school
-INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem (movie)	music
-INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem (movie)	musical
-Sound! Euphonium (TV)	bands
-Sound! Euphonium (TV)	bishoujo
-Sound! Euphonium (TV)	music
-Sound! Euphonium (TV)	school
-Sound! Euphonium (TV)	yuri
-Hidamari Sketch × Hoshimittsu (TV)	art
-Hidamari Sketch × Hoshimittsu (TV)	iyashikei
 Lucky Star (TV)	moe
 Lucky Star (TV)	otaku
 Lucky Star (TV)	parody
 Lucky Star (TV)	school
 Lucky Star (TV)	twins
+Hidamari Sketch × Hoshimittsu (TV)	art
+Hidamari Sketch × Hoshimittsu (TV)	iyashikei
+INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem (movie)	music
+INTERSTELLA 5555: The 5tory of the 5ecret 5tar 5ystem (movie)	musical
+Silver Spoon (TV 2)	agriculture
+Silver Spoon (TV 2)	animalwelfarism
+Silver Spoon (TV 2)	equestrianism
+Silver Spoon (TV 2)	farmers
+Silver Spoon (TV 2)	school
 RahXephon (TV)	hybridrobot
 RahXephon (TV)	mecha
 RahXephon (TV)	military
 RahXephon (TV)	superrobot
-My Teen Romantic Comedy SNAFU TOO! (TV)	school
-My Teen Romantic Comedy SNAFU TOO! (TV)	socialpsychology
-Tsukigakirei (TV)	comingofage
-Tsukigakirei (TV)	loverectangle
-Tsukigakirei (TV)	school
-Tsukigakirei (TV)	social-networking
 Gurren Lagann the Movie –Childhood's End-	comingofage
 Gurren Lagann the Movie –Childhood's End-	fighting
 Gurren Lagann the Movie –Childhood's End-	mecha
 Gurren Lagann the Movie –Childhood's End-	post-apocalyptic
 Gurren Lagann the Movie –Childhood's End-	superrobot
+My Teen Romantic Comedy SNAFU TOO! (TV)	school
+My Teen Romantic Comedy SNAFU TOO! (TV)	socialpsychology
+Tsukimonogatari (TV)	fanservice
+Tsukimonogatari (TV)	vampires
 His and Her Circumstances (TV)	highschool
 His and Her Circumstances (TV)	school
+Tsukigakirei (TV)	comingofage
+Tsukigakirei (TV)	loverectangle
+Tsukigakirei (TV)	school
+Tsukigakirei (TV)	social-networking
+Girls' Last Tour (TV)	post-apocalpytic
+Kobato. (TV)	school
+Vampire Hunter D: Bloodlust (movie)	monsters
+Vampire Hunter D: Bloodlust (movie)	post-apocalyptic
+Vampire Hunter D: Bloodlust (movie)	vampire
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	demons
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	god
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	middleages
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	military
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	war
-Kobato. (TV)	school
-Vampire Hunter D: Bloodlust (movie)	monsters
-Vampire Hunter D: Bloodlust (movie)	post-apocalyptic
-Vampire Hunter D: Bloodlust (movie)	vampire
+Doukyusei -Classmates- (movie)	yaoi
+House of Five Leaves (TV)	historical
+House of Five Leaves (TV)	samurai
+House of Five Leaves (TV)	swordplay
 School Rumble: Extra Class (OAV)	lovepolygon
 School Rumble: Extra Class (OAV)	school
 School Rumble: Extra Class (OAV)	schoollife
+Laid-Back Camp (TV)	camping
 Nekomonogatari (Black) (TV)	absurdity
 Nekomonogatari (Black) (TV)	catgirl
 Nekomonogatari (Black) (TV)	ecchi
 Nekomonogatari (Black) (TV)	specialabilities
 Nekomonogatari (Black) (TV)	youkai
-House of Five Leaves (TV)	historical
-House of Five Leaves (TV)	samurai
-House of Five Leaves (TV)	swordplay
-Attack on Titan: No Regrets (OAV)	military
-Attack on Titan: No Regrets (OAV)	tragedy
+My Love Story!! (TV)	schoollife
 Glass Mask (TV 2/2005)	acting
 Glass Mask (TV 2/2005)	theatre
-My Love Story!! (TV)	schoollife
-Daily Lives of High School Boys (TV)	school
-Hozuki's Coolheadedness (TV 2)	darkcomedy
-Hozuki's Coolheadedness (TV 2)	demons
-Love, Chunibyo & Other Delusions! (TV)	bishoujo
-Love, Chunibyo & Other Delusions! (TV)	delusions
-Love, Chunibyo & Other Delusions! (TV)	school
-Love, Chunibyo & Other Delusions! (TV)	schoollife
-Full Metal Panic! Invisible Victory (TV)	mecha
-Full Metal Panic! Invisible Victory (TV)	military
-Full Metal Panic! Invisible Victory (TV)	realrobot
-Food Wars! The Third Plate (TV 2)	cooking
-Food Wars! The Third Plate (TV 2)	ecchi
-Food Wars! The Third Plate (TV 2)	food
-Food Wars! The Third Plate (TV 2)	school
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	u
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	k
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	o
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	w
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
+Food Wars! The Third Plate (TV)	cooking
+Food Wars! The Third Plate (TV)	ecchi
+Food Wars! The Third Plate (TV)	food
+Food Wars! The Third Plate (TV)	school
 Ergo Proxy (TV)	android
 Ergo Proxy (TV)	cyberpunk
 Ergo Proxy (TV)	post-apocalyptic
 Tenchi Muyo! Ryo-Ohki (OAV 2/1994)	aliens
 Tenchi Muyo! Ryo-Ohki (OAV 2/1994)	harem
-Master Keaton (TV)	crime
-Master Keaton (TV)	detective
-Initial D: Third Stage (movie)	autoracing
-Initial D: Third Stage (movie)	sports
+Ghost in the Shell: Arise (OAV)	cyberpunk
+Ghost in the Shell: Arise (OAV)	mecha
+Ghost in the Shell: Arise (OAV)	police
+Love, Chunibyo & Other Delusions! (TV)	bishoujo
+Love, Chunibyo & Other Delusions! (TV)	delusions
+Love, Chunibyo & Other Delusions! (TV)	school
+Love, Chunibyo & Other Delusions! (TV)	schoollife
 Strawberry Marshmallow (OAV)	farting
 Strawberry Marshmallow (OAV)	moe
-Inuyashiki Last Hero (TV)	android
+Initial D: Third Stage (movie)	autoracing
+Initial D: Third Stage (movie)	sports
+Master Keaton (TV)	crime
+Master Keaton (TV)	detective
+Banner of the Stars III (OAV)	space
 Final Fantasy VII: Advent Children (movie)	epidemic
 Final Fantasy VII: Advent Children (movie)	fighting
 Final Fantasy VII: Advent Children (movie)	post-apocalyptic
 Final Fantasy VII: Advent Children (movie)	swordplay
-Banner of the Stars III (OAV)	space
-Fullmetal Alchemist: The Movie - Conqueror of Shamballa	alchemy
-Fullmetal Alchemist: The Movie - Conqueror of Shamballa	historical
-Fullmetal Alchemist: The Movie - Conqueror of Shamballa	homunculi
-Fullmetal Alchemist: The Movie - Conqueror of Shamballa	military
-Fullmetal Alchemist: The Movie - Conqueror of Shamballa	war
 Macross Plus (OAV)	artificialintelligence
 Macross Plus (OAV)	idols
 Macross Plus (OAV)	mecha
 Macross Plus (OAV)	military
 Macross Plus (OAV)	music
 Macross Plus (OAV)	realrobot
+Fullmetal Alchemist: The Movie - Conqueror of Shamballa	alchemy
+Fullmetal Alchemist: The Movie - Conqueror of Shamballa	historical
+Fullmetal Alchemist: The Movie - Conqueror of Shamballa	homunculi
+Fullmetal Alchemist: The Movie - Conqueror of Shamballa	military
+Fullmetal Alchemist: The Movie - Conqueror of Shamballa	war
+Night is Short, Walk On Girl (movie)	u
+Night is Short, Walk On Girl (movie)	n
+Night is Short, Walk On Girl (movie)	k
+Night is Short, Walk On Girl (movie)	n
+Night is Short, Walk On Girl (movie)	o
+Night is Short, Walk On Girl (movie)	w
+Night is Short, Walk On Girl (movie)	n
 Hayate the Combat Butler!! (TV)	butlers
 Hayate the Combat Butler!! (TV)	fanservice
 Hayate the Combat Butler!! (TV)	hikikomori
@@ -1701,97 +1705,53 @@ Hayate the Combat Butler!! (TV)	parody
 Hayate the Combat Butler!! (TV)	school
 Hayate the Combat Butler!! (TV)	schoollife
 Hayate the Combat Butler!! (TV)	tsundere
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	u
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	k
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	o
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	w
-JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
+Daily Lives of High School Boys (TV)	school
+Attack on Titan: No Regrets (OAV)	military
+Attack on Titan: No Regrets (OAV)	tragedy
+(The) Disastrous Life of Saiki K. (TV)	espers
+(The) Disastrous Life of Saiki K. (TV)	psychics
+(The) Disastrous Life of Saiki K. (TV)	school
+(The) Disastrous Life of Saiki K. (TV)	specialabilities
+Initial D: Final Stage (TV)	autoracing
+Initial D: Final Stage (TV)	sports
+Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)	iyashikei
+Tekkonkinkreet (movie)	crime
+Tekkonkinkreet (movie)	yakuza
 Hyōka (TV)	literature
 Hyōka (TV)	moe
 Hyōka (TV)	school
 Hyōka (TV)	schoollife
-Ghost in the Shell: Arise (OAV)	cyberpunk
-Ghost in the Shell: Arise (OAV)	mecha
-Ghost in the Shell: Arise (OAV)	police
-Initial D: Final Stage (TV)	autoracing
-Initial D: Final Stage (TV)	sports
-Tekkonkinkreet (movie)	crime
-Tekkonkinkreet (movie)	yakuza
-Tiger & Bunny The Movie -The Rising-	superheroes
-Tiger & Bunny The Movie -The Rising-	superpowers
 Tari Tari (TV)	music
 Tari Tari (TV)	school
 Tari Tari (TV)	schoollife
 Tari Tari (TV)	singing
-Detective Conan: The Private Eyes' Requiem (movie 10)	detective
-Detective Conan: The Private Eyes' Requiem (movie 10)	organizedcrime
-Detective Conan: The Private Eyes' Requiem (movie 10)	themepark
-Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)	iyashikei
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	u
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	k
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	o
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	w
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
+Little Witch Academia (movie)	absurdity
+Little Witch Academia (movie)	moe
+Little Witch Academia (movie)	witches
 Moshidora (TV)	baseball
 Moshidora (TV)	sports
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	u
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	k
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	o
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	w
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	n
 Shakugan no Shana (TV)	monsters
 Shakugan no Shana (TV)	spirits
 Shakugan no Shana (TV)	superpowers
 Shakugan no Shana (TV)	tsundere
-Hidamari Sketch × Hoshimittsu (special)	iyashikei
-Little Witch Academia (movie)	absurdity
-Little Witch Academia (movie)	moe
-Little Witch Academia (movie)	witches
-Rage of Bahamut: Genesis (TV)	bountyhunters
-Rage of Bahamut: Genesis (TV)	demons
-Rage of Bahamut: Genesis (TV)	post-apocalyptic
-Rage of Bahamut: Genesis (TV)	war
-(The) Cat Returns (movie)	talkinganimals
-White Album 2 (TV)	highschool
-White Album 2 (TV)	lovetriangle
-White Album 2 (TV)	music
-White Album 2 (TV)	unrequitedlove
-Kino's Travels: Life Goes On (movie)	u
-Kino's Travels: Life Goes On (movie)	n
-Kino's Travels: Life Goes On (movie)	k
-Kino's Travels: Life Goes On (movie)	n
-Kino's Travels: Life Goes On (movie)	o
-Kino's Travels: Life Goes On (movie)	w
-Kino's Travels: Life Goes On (movie)	n
-xxxHOLiC: Shunmuki (OAV)	folklore
-xxxHOLiC: Rō Adayume (OAV)	dreams
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	u
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	k
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	o
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	w
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
-Mobile Suit Gundam: The 08th MS Team (OAV)	mecha
-Mobile Suit Gundam: The 08th MS Team (OAV)	military
-Mobile Suit Gundam: The 08th MS Team (OAV)	realrobot
-Mobile Suit Gundam: The 08th MS Team (OAV)	war
-Ushio & Tora (TV 2)	demons
-Ushio & Tora (TV 2)	ghosts
-Ushio & Tora (TV 2)	youkai
-Kamichu! (TV)	gods
-Kamichu! (TV)	iyashikei
-Kamichu! (TV)	moe
-Kamichu! (TV)	school
-Kamichu! (TV)	shinto
-Scrapped Princess (TV)	post-apocalyptic
-Noein - to your other self (TV)	paralleluniverse
-Noein - to your other self (TV)	quantumphysics
-Noein - to your other self (TV)	timetravel
-Sword Art Online the Movie: Ordinal Scale	augmentedreality
-Sword Art Online the Movie: Ordinal Scale	mmorpg
-Sword Art Online the Movie: Ordinal Scale	survivalgame
-Sword Art Online the Movie: Ordinal Scale	swordplay
-Sword Art Online the Movie: Ordinal Scale	virtualreality
+Attack on Titan (TV 3/2018)	dystopia
+Attack on Titan (TV 3/2018)	military
+Attack on Titan (TV 3/2018)	post-apocalyptic
+Attack on Titan (TV 3/2018)	shapeshifting
+Attack on Titan (TV 3/2018)	superpowers
+Attack on Titan (TV 3/2018)	titans/giants
+Attack on Titan (TV 3/2018)	tragedy
+Food Wars! The Third Plate (TV 2)	cooking
+Food Wars! The Third Plate (TV 2)	ecchi
+Food Wars! The Third Plate (TV 2)	food
+Food Wars! The Third Plate (TV 2)	school
 A Letter to Momo (movie)	u
 A Letter to Momo (movie)	n
 A Letter to Momo (movie)	k
@@ -1799,23 +1759,59 @@ A Letter to Momo (movie)	n
 A Letter to Momo (movie)	o
 A Letter to Momo (movie)	w
 A Letter to Momo (movie)	n
-Seto no Hanayome (OAV)	harem
-Seto no Hanayome (OAV)	mermaid
-Seto no Hanayome (OAV)	school
+Rage of Bahamut: Genesis (TV)	bountyhunters
+Rage of Bahamut: Genesis (TV)	demons
+Rage of Bahamut: Genesis (TV)	post-apocalyptic
+Rage of Bahamut: Genesis (TV)	war
+(The) Cat Returns (movie)	talkinganimals
+xxxHOLiC: Shunmuki (OAV)	folklore
+xxxHOLiC: Rō Adayume (OAV)	dreams
+Kino's Travels: Life Goes On (movie)	u
+Kino's Travels: Life Goes On (movie)	n
+Kino's Travels: Life Goes On (movie)	k
+Kino's Travels: Life Goes On (movie)	n
+Kino's Travels: Life Goes On (movie)	o
+Kino's Travels: Life Goes On (movie)	w
+Kino's Travels: Life Goes On (movie)	n
+Detective Conan: The Private Eyes' Requiem (movie 10)	detective
+Detective Conan: The Private Eyes' Requiem (movie 10)	organizedcrime
+Detective Conan: The Private Eyes' Requiem (movie 10)	themepark
 GATE (TV 2)	fanservice
 GATE (TV 2)	military
 GATE (TV 2)	otaku
 GATE (TV 2)	paralleluniverse
 GATE (TV 2)	politics
-Little Witch Academia (TV)	school
-Little Witch Academia (TV)	witches
+Mobile Suit Gundam: The 08th MS Team (OAV)	mecha
+Mobile Suit Gundam: The 08th MS Team (OAV)	military
+Mobile Suit Gundam: The 08th MS Team (OAV)	realrobot
+Mobile Suit Gundam: The 08th MS Team (OAV)	war
+Zan Sayonara Zetsubō Sensei Bangai-chi (OAV)	darkcomedy
+Zan Sayonara Zetsubō Sensei Bangai-chi (OAV)	parody
+Kamichu! (TV)	gods
+Kamichu! (TV)	iyashikei
+Kamichu! (TV)	moe
+Kamichu! (TV)	school
+Kamichu! (TV)	shinto
+Hidamari Sketch × Hoshimittsu (special)	iyashikei
+Noein - to your other self (TV)	paralleluniverse
+Noein - to your other self (TV)	quantumphysics
+Noein - to your other self (TV)	timetravel
+Hōzuki no Reitetsu (OAV)	u
+Hōzuki no Reitetsu (OAV)	n
+Hōzuki no Reitetsu (OAV)	k
+Hōzuki no Reitetsu (OAV)	n
+Hōzuki no Reitetsu (OAV)	o
+Hōzuki no Reitetsu (OAV)	w
+Hōzuki no Reitetsu (OAV)	n
+Seto no Hanayome (OAV)	harem
+Seto no Hanayome (OAV)	mermaid
+Seto no Hanayome (OAV)	school
 Shonen Onmyouji (TV)	historical
 Shonen Onmyouji (TV)	onmyouji
 Shonen Onmyouji (TV)	shikigami
 Shonen Onmyouji (TV)	spirits
 Shonen Onmyouji (TV)	youkai
-Hidamari Sketch × 365 (TV)	art
-Hidamari Sketch × 365 (TV)	iyashikei
+Scrapped Princess (TV)	post-apocalyptic
 Full Metal Panic! The Second Raid (OAV)	military
 Tenchi Muyo! War on Geminar (OAV)	ecchi
 Tenchi Muyo! War on Geminar (OAV)	fanservice
@@ -1824,37 +1820,52 @@ Tenchi Muyo! War on Geminar (OAV)	mecha
 Tenchi Muyo! War on Geminar (OAV)	otherworld
 Tenchi Muyo! War on Geminar (OAV)	school
 Tenchi Muyo! War on Geminar (OAV)	schoollife
-Food Wars! The Third Plate (TV)	cooking
-Food Wars! The Third Plate (TV)	ecchi
-Food Wars! The Third Plate (TV)	food
-Food Wars! The Third Plate (TV)	school
-planetarian (ONA)	androids
-planetarian (ONA)	moe
-planetarian (ONA)	post-apocalyptic
-planetarian (ONA)	space
-Zan Sayonara Zetsubō Sensei Bangai-chi (OAV)	darkcomedy
-Zan Sayonara Zetsubō Sensei Bangai-chi (OAV)	parody
-Queen Millennia (TV)	u
-Queen Millennia (TV)	n
-Queen Millennia (TV)	k
-Queen Millennia (TV)	n
-Queen Millennia (TV)	o
-Queen Millennia (TV)	w
-Queen Millennia (TV)	n
+White Album 2 (TV)	highschool
+White Album 2 (TV)	lovetriangle
+White Album 2 (TV)	music
+White Album 2 (TV)	unrequitedlove
+Tiger & Bunny The Movie -The Rising-	superheroes
+Tiger & Bunny The Movie -The Rising-	superpowers
+Ushio & Tora (TV 2)	demons
+Ushio & Tora (TV 2)	ghosts
+Ushio & Tora (TV 2)	youkai
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	u
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	k
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	o
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	w
+JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	n
+Hidamari Sketch × 365 (TV)	art
+Hidamari Sketch × 365 (TV)	iyashikei
 Gunslinger Girl (TV)	assassins
 Gunslinger Girl (TV)	cyborg
 Gunslinger Girl (TV)	girlswithguns
 Gunslinger Girl (TV)	terrorists
+Little Witch Academia (TV)	school
+Little Witch Academia (TV)	witches
+Giovanni's Island (movie)	historical
+Colorful (movie)	rebirth
+Colorful (movie)	suicide
+Steins;Gate 0 (TV)	amnesia
+Steins;Gate 0 (TV)	butterflyeffect
+Steins;Gate 0 (TV)	conspiracy
+Steins;Gate 0 (TV)	technology
+Steins;Gate 0 (TV)	timetravel
+Steins;Gate 0 (TV)	tragedy
 Megalobox (TV)	boxing
 Megalobox (TV)	future
 Megalobox (TV)	sports
+Akira (movie)	cyberpunk
+Akira (movie)	military
+Akira (movie)	post-apocalyptic
+Akira (movie)	psychics
+Akira (movie)	superpowers
 Another (TV)	curse
 Another (TV)	death
 Another (TV)	school
 Detective Conan: The Raven Chaser (movie 13)	detective
 Detective Conan: The Raven Chaser (movie 13)	organizedcrime
-Colorful (movie)	rebirth
-Colorful (movie)	suicide
 From the New World (TV)	dystopia
 From the New World (TV)	espers
 From the New World (TV)	monsters
@@ -1862,43 +1873,54 @@ From the New World (TV)	post-apocalyptic
 From the New World (TV)	sages
 From the New World (TV)	telekinesis
 From the New World (TV)	tragedy
-Aura: Koga Maryuin's Last War (movie)	school
+Blood+ (TV)	monsters
+Blood+ (TV)	vampires
+Lupin the Third: Jigen's Gravestone (movie)	assassins
+Lupin the Third: Jigen's Gravestone (movie)	conspiracy
+Lupin the Third: Jigen's Gravestone (movie)	crime
+Lupin the Third: Jigen's Gravestone (movie)	fanservice
+Lupin the Third: Jigen's Gravestone (movie)	thief
 Waiting in the Summer (TV)	aliens
 Waiting in the Summer (TV)	fanservice
 Waiting in the Summer (TV)	filmmaking
 Waiting in the Summer (TV)	lovepolygon
 Waiting in the Summer (TV)	school
-Giovanni's Island (movie)	historical
-Akira (movie)	cyberpunk
-Akira (movie)	military
-Akira (movie)	post-apocalyptic
-Akira (movie)	psychics
-Akira (movie)	superpowers
-Blood+ (TV)	monsters
-Blood+ (TV)	vampires
+Strawberry Marshmallow (TV)	troublesomekids
+Queen Millennia (TV)	u
+Queen Millennia (TV)	n
+Queen Millennia (TV)	k
+Queen Millennia (TV)	n
+Queen Millennia (TV)	o
+Queen Millennia (TV)	w
+Queen Millennia (TV)	n
+Inuyashiki Last Hero (TV)	android
 Case Closed The Movie: The Time Bombed Skyscraper	crime
 Case Closed The Movie: The Time Bombed Skyscraper	detective
 Case Closed The Movie: The Time Bombed Skyscraper	madbomber
-Macross Frontier: Sayonara no Tsubasa (movie)	aliens
-Macross Frontier: Sayonara no Tsubasa (movie)	lovetriangle
-Macross Frontier: Sayonara no Tsubasa (movie)	mecha
-Macross Frontier: Sayonara no Tsubasa (movie)	music
-Macross Frontier: Sayonara no Tsubasa (movie)	space
-Macross Frontier: Itsuwari no Utahime (movie)	aliens
-Macross Frontier: Itsuwari no Utahime (movie)	idols
-Macross Frontier: Itsuwari no Utahime (movie)	lovetriangle
-Macross Frontier: Itsuwari no Utahime (movie)	mecha
-Macross Frontier: Itsuwari no Utahime (movie)	military
-Macross Frontier: Itsuwari no Utahime (movie)	music
-Macross Frontier: Itsuwari no Utahime (movie)	realrobot
-Macross Frontier: Itsuwari no Utahime (movie)	space
-Aria the Animation (TV)	gondolas
-Aria the Animation (TV)	iyashikei
-Strawberry Marshmallow (TV)	troublesomekids
-(The) Disastrous Life of Saiki K. (TV)	espers
-(The) Disastrous Life of Saiki K. (TV)	psychics
-(The) Disastrous Life of Saiki K. (TV)	school
-(The) Disastrous Life of Saiki K. (TV)	specialabilities
-Hidamari Sketch × 365 (special)	iyashikei
-Initial D: Fifth Stage (TV)	autoracing
-Initial D: Fifth Stage (TV)	sports
+Fairy Tail (TV 2/2014)	developingpowers
+Fairy Tail (TV 2/2014)	dragons
+Fairy Tail (TV 2/2014)	ecchi
+Fairy Tail (TV 2/2014)	fanservice
+Fairy Tail (TV 2/2014)	fighting
+Fairy Tail (TV 2/2014)	friendship
+Fairy Tail (TV 2/2014)	guilds
+Fairy Tail (TV 2/2014)	mages
+Fairy Tail (TV 2/2014)	magicalcreatures
+Fairy Tail (TV 2/2014)	savingtheworld
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	u
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	k
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	o
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	w
+(The) Seven Deadly Sins: Revival of The Commandments (TV)	n
+Fullmetal Alchemist: Brotherhood (OAV)	u
+Fullmetal Alchemist: Brotherhood (OAV)	n
+Fullmetal Alchemist: Brotherhood (OAV)	k
+Fullmetal Alchemist: Brotherhood (OAV)	n
+Fullmetal Alchemist: Brotherhood (OAV)	o
+Fullmetal Alchemist: Brotherhood (OAV)	w
+Fullmetal Alchemist: Brotherhood (OAV)	n
+Full Metal Panic! Invisible Victory (TV)	mecha
+Full Metal Panic! Invisible Victory (TV)	military
+Full Metal Panic! Invisible Victory (TV)	realrobot

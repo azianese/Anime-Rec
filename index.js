@@ -1,9 +1,9 @@
 //////////////////// SETUP ////////////////////
 
 //variable to use express
-var express = require('express');
+const express = require('express');
 //use express
-var app = express();
+const app = express();
 //sets ports that the server will lisen to
 const host = '0.0.0.0';
 const port = process.env.PORT || 5000;
@@ -13,24 +13,20 @@ app.listen(port, host, function(){
 //tells express to use ejs as the view/template engine
 app.set('view engine', 'ejs');
 //use the body-parser middleware to handle post data
-var bodyParser = require('body-parser');
+const bodyParser = require('body-parser');
 //create application/x-www-form-urlencoded parser
-var urlencodedParser = bodyParser.urlencoded({ extended: false });
+const urlencodedParser = bodyParser.urlencoded({ extended: false });
 
 //provide favicon ico
-var favicon = require('serve-favicon');
+const favicon = require('serve-favicon');
 app.use(favicon('./images/favicon.ico'));
 //use express as middleware to serve static pages
 app.use('/CSS', express.static('CSS'));
 app.use('/images', express.static('images'));
 
 //enable jQuery
-var jsdom = require("jsdom");
-const { JSDOM } = jsdom;
-const { window } = new JSDOM();
-const { document } = (new JSDOM('')).window;
-global.document = document;
-var $ = jQuery = require('jquery')(window);
+const jsdom = require('./serverJS/jsdom.js');
+const $ = jsdom.jQuery;
 
 //////////////////// GENERAL FUNCTIONALITY ////////////////////
 
@@ -40,52 +36,17 @@ app.get('/', function (req, res) {
   var indexFile = require('./serverJS/page_index.js');
   var promise = indexFile.getTitleArray();
   promise.then(aniNames => {
-    res.render('index', {data: aniNames});
+    res.render('page1_index', {data: aniNames});
   })
 });
 
-
-
-
-app.get('/search', function (req, res) {
+//////////////////// Search Page ////////////////////
+app.post('/search', urlencodedParser, function (req, res) {
   var searchFile = require('./serverJS/page_search.js');
-  var dataPromises = [];
-  var promise1 = 
-  dataPromises.push(new Promise ((resolve, reject) => {
-    var promise = searchFile.getDirectorArray();
-    promise.then(directors => {
-      resolve(directors);
-    })
-  }));
-  dataPromises.push(new Promise ((resolve, reject) => {
-    var promise = searchFile.getStudioArray();
-    promise.then(studios => {
-      resolve(studios);
-    })
-  }));
-  dataPromises.push(new Promise ((resolve, reject) => {
-    var promise = searchFile.getGenreArray();
-    promise.then(genres => {
-      resolve(genres);
-    })
-  }));
-  dataPromises.push(new Promise ((resolve, reject) => {
-    var promise = searchFile.getThemeArray();
-    promise.then(themes => {
-      resolve(themes);
-    })
-  }));
-  Promise.all(dataPromises).then(data => {
-    res.render('search', {data: data});
+  var searchPromise = searchFile.getData(req.body);
+  searchPromise.then(pageData => {
+    res.render('page2_search', {data: pageData});
   })
-});
-
-
-
-
-//serve specified pages
-app.get('/:page', function (req, res) {
-  res.render(req.params.page);
 });
 
 //////////////////// Rec Page ////////////////////
@@ -95,10 +56,19 @@ app.post('/rec', urlencodedParser, function (req, res) {
   var recPromise = recFile.getRecs(req);
   recPromise.then(aniRecs => {
     var aniArray = [];
-    console.log("req.numRecs: " + req.body.numRecs);
+    //console.log("req.numRecs: " + req.body.numRecs);
     for (var i = 0; i < req.body.numRecs; ++i) {
       aniArray.push(aniRecs.pop());
     }
-    res.render('rec', {data: aniArray});
+    res.render('page3_rec', {data: aniArray});
   })
 });
+
+//////////////////// Other Pages ////////////////////
+
+/*
+//serve specified pages
+app.get('/:page', function (req, res) {
+  res.render(req.params.page);
+});
+*/

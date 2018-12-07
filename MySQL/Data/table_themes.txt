@@ -191,6 +191,7 @@ loverectangle
 lovetriangle
 madbomber
 mafia
+mages
 magicalcreatures
 magicalgirl
 magicalgirls
@@ -276,6 +277,7 @@ royalty
 sages
 samurai
 satire
+savingtheworld
 school
 schoollife
 schoolwar
@@ -344,6 +346,7 @@ terrorists
 theatre
 themepark
 thief
+time-travel
 timetravel
 titans/giants
 trading

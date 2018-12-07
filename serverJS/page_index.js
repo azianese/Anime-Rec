@@ -1,4 +1,4 @@
-var db = require("./db.js");
+const db = require("./db.js");
 
 module.exports.getTitleArray = function() {
   return new Promise((resolve, reject) => {
@@ -15,7 +15,7 @@ module.exports.getTitleArray = function() {
     dataPromise.then(result => {
       var array = [];
       for (var i = 0; i < result.length; ++i) {
-        array.push(result[i].anime);
+        array.push(result[i].title);
       }
       if (array.length == 0) {
         reject("anime titles could not be found");

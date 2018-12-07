@@ -1,4 +1,4 @@
-var db = require("./db.js");
+const db = require("./db.js");
 
 module.exports.getAniArray = function(req) {
   return new Promise((resolve, reject) => {

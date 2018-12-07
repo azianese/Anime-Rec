@@ -1,0 +1,224 @@
+ANIME DATA TAKEN FROM ANIMENEWSNETWORK.COM
+
+
+name: your name. (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171
+ranking: 1
+rating: 9.12
+votes: 900
+genres: comedy,drama,romance,supernatural,
+themes: amnesia,body switch,natural disaster,tragedy,
+premiere date: 2016-07-03 (World Premiere, Anime Expo, Los Angeles, CA, USA)
+director: Makoto Shinkai
+production studio: Amuse
+plot: Mitsuha Miyamizu is a high school student in the rural countryside of Japan. Taki Tachibana is a teenager living in Tokyo. As a comet approaches Earth, their dreams and lives start getting entangled. One day Mitsuha wakes up as Taki. Taki one day wakes up as Mitsuha. For a few days they sporadically switch bodies until one afternoon they lose complete contact.
+img: https://www.animenewsnetwork.com/images/encyc/A18171-2027952771.1458839140.jpg
+altTitle: Kimi no Na wa. (Japanese)
+
+name: Fullmetal Alchemist: Brotherhood (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216
+ranking: 2
+rating: 9.10
+votes: 5704
+genres: adventure,comedy,drama,fantasy,thriller,
+themes: alchemy,conspiracy,Homunculi,military,steampunk,tragedy,
+premiere date: unknown
+director: Yasuhiro Irie
+production studio: Aniplex
+plot: Two brothers lose their mother to an incurable disease. With the power of "alchemy", they use taboo knowledge to resurrect her. The process fails, and as a toll for using this type of alchemy, the older brother, Edward Elric loses his left leg while the younger brother, Alphonse Elric loses his entire body. To save his brother, Edward sacrifices his right arm and is able to affix his brother's soul to a suit of armor. With the help of a family friend, Edward receives metal limbs - "automail" - to replace his lost ones. With that, Edward vows to search for the Philosopher's Stone to return the brothers to their original bodies, even if it means becoming a "State Alchemist", one who uses his/her alchemy for the military.
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/90/key_art_fullmetal_alchemist_brotherhood.jpg
+altTitle: 鋼の錬金術師 FULLMETAL ALCHEMIST (Japanese)
+
+name: Steins;Gate (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11770
+ranking: 3
+rating: 9.07
+votes: 4579
+genres: adventure,comedy,drama,mystery,psychological,romance,science fiction,thriller,
+themes: butterfly effect,conspiracy,technology,Time travel,tragedy,
+premiere date: unknown
+director: Hiroshi Hamasaki
+production studio: Katsuharu Nagata
+plot: Rintaro Okabe is a self-proclaimed "mad scientist" who believes that an international organization is conspiring to reshape the world according to its own interests. He and his friend Itaru Hashida inadvertently create a gadget able to send messages to the past. The discovery and experimentation of this instrument become the catalyst of fundamental alterations to the present. Oblivious of the consequences of their actions, Rintaro and his friends end up creating modifications of grievous proportions. He must then try to find a way to return as close as possible to the original timeline in order to save his precious lab members.
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/489/steinsgate_banner_1.jpg
+altTitle: シュタインズ・ゲート (Japanese)
+
+name: Clannad After Story (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9701
+ranking: 4
+rating: 9.05
+votes: 5156
+genres: comedy,drama,psychological,romance,supernatural,
+themes: bishoujo,coming of age,entering adulthood,family,moe,parenting,tragedy,
+premiere date: unknown
+director: Tatsuya Ishihara
+production studio: Tokyo Broadcasting System
+plot: Life continues on for Tomoya. A few months have passed since he confessed his love to Nagisa. Now entering the second semester, he continues to meet a variety of different people, expanding his own world in the process. As well, Tomoya and Nagisa's relationship begins to enter a level of intimacy unlike before. Through his relationship with Nagisa, and his various encounters, Tomoya begins to understand the meaning and importance of family. Unfortunately, as Tomoya and Nagisa begin their own family together, they are faced with many hardships and challenges along the way.
+img: https://www.animenewsnetwork.com/images/encyc/A9701-6.jpg
+altTitle: クラナド アフターストーリー (Japanese)
+
+name: Rurouni Kenshin: Trust & Betrayal (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=210
+ranking: 5
+rating: 8.97
+votes: 6634
+genres: action,drama,romance,
+themes: historical,revenge,samurai,tragedy,
+premiere date: unknown
+director: Kazuhiro Furuhashi
+production studio: Aniplex
+plot: Taken by slavers when he was a child, Himura Kenshin is rescued only when an encounter with bandits kills off everyone but him. He is found by a master of the Divine Justice School of Swordmanship, a school so deadly that to train in it means death for either the master or student—there can only be one master. Taken by the master, Kenshin is trained in this school, only to leave before finishing so that he may join the Meiji Restoration and help prevent further tragedies like his own. Thus is born the Battousai, the greatest strength of the Ishin Patriots, a boy of 15 who kills for the sake of building a new, better world. One night, he comes across a mysterious woman, Tomoe. He must hide with her when the revolution stumbles. They marry for appearances, but soon fall in love. Tomoe has another reason to be with Kenshin, one she regrets but cannot stop. Revenge must be satisfied, and only blood can do that.
+img: https://www.animenewsnetwork.com/images/encyc/A210-762993323.1447170085.jpg
+altTitle: Rurouni Kenshin - Meiji Kenkaku Romantan - Tsuioku Hen (Japanese)
+
+name: Code Geass: Lelouch of the Rebellion R2 (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173
+ranking: 6
+rating: 8.93
+votes: 7802
+genres: action,drama,magic,psychological,science fiction,
+themes: alternate history,conspiracy,immortality,mecha,military,mind control,politics,real robot,revenge,strategic minds,terrorism,tragedy,war,
+premiere date: unknown
+director: Goro Taniguchi
+production studio: Bandai Co., Ltd.
+plot: It's been one year since the failure of the Black Rebellion and the supposed death of Zero. Britannia has assigned Area 11 a "correctional education" status, where Elevens are made an example of by brute force, to try to prevent any future uprisings and suppress rebellious thoughts. Unsuspecting high school student Lelouch, oblivious to his rebellious past as Zero, stumbles upon a scheme on his life and the life of a mysterious woman known as C.C., who reveals to him his forgotten purpose and his "true" self. Destroying his assailants and declaring himself Zero once again, Lelouch sets out to finish what he started.
+img: https://www.animenewsnetwork.com/images/encyc/A9173-48.jpg
+altTitle: Code Geass: Hangyaku no Lelouch R2 (Japanese)
+
+name: Spirited Away (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=377
+ranking: 7
+rating: 8.92
+votes: 10486
+genres: adventure,drama,fantasy,
+themes: spirits,
+premiere date: 2001-07-20 (Japan)
+director: Hayao Miyazaki
+production studio: Studio Ghibli
+plot: On their way to their new home, a young girl, Chihiro, and her parents stumble into what appears to be an abandoned theme park. But all is not as it seems, as the theme park is a bath-house for the spirits, and not a place where humans are welcome. Chihiro must fend for herself and rescue her parents, as they have been turned to pigs as punishment for eating the food meant for the gods.
+img: https://www.animenewsnetwork.com/thumbnails/fit200x200/encyc/A377-13.jpg
+altTitle: Sen to Chihiro no Kamikakushi (Japanese)
+
+name: A Silent Voice (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16661
+ranking: 8
+rating: 8.90
+votes: 369
+genres: comedy,drama,psychological,romance,
+themes: bullying,School life,suicide,
+premiere date: 2016-09-17 (Japan)
+director: Naoko Yamada
+production studio: ABC Animation
+plot: A deaf elementary school girl, Shoko Nishimiya, upon transferring, meets a boy named Shoya Ishida in her new class. Shoya, who is not deaf, leads the class in bullying Shoko, because she is deaf. As the bullying continues, the class starts to bully Shoya for bullying Shoko. After graduating from elementary school, Shoko and Shoya do not speak to each other… until later, when Shoya, tormented over his past, decides he must see Shoko once more. Shoya wants to make amends for what he did in elementary school and be Shoko's friend. (from manga)
+img: https://www.animenewsnetwork.com/images/encyc/A16661-2687411350.1468084265.jpg
+altTitle: Eiga Koe no Katachi (Japanese)
+
+name: Cowboy Bebop (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13
+ranking: 9
+rating: 8.90
+votes: 12169
+genres: action,drama,science fiction,
+themes: bounty hunters,space,space western,
+premiere date: unknown
+director: Melissa Williamson
+production studio: Bandai Visual
+plot: Spike Spiegel, a bounty Hunter with a dark past, lives on bounty to bounty, barely making it each time, or not making it at all. His partners Jet Black, Faye Valentine, Ed and Ein the dog all help him in his adventures from planet to planet.
+img: https://www.animenewsnetwork.com/thumbnails/fit200x200/encyc/A13-15.jpg
+altTitle: カウボーイビバップ (Japanese)
+
+name: Mushishi: The Next Chapter (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=15895
+ranking: 10
+rating: 8.89
+votes: 490
+genres: adventure,drama,mystery,psychological,supernatural,
+themes: folklore,iyashikei,mythology,nature,spirits,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: Atsushi Suzuki
+plot: Mushi; the life-blood of nature. They exist everywhere in various forms: micro-organisms, fungi, bodies of water. Sometimes, they're even mistaken to be plants, animals, or spirits. But regardless of their appearance, they exist, nonetheless, living the only way they know how. At times, their actions can cause strange or unexplainable phenomena. Enter Ginko, the Mushishi (mushi master), as he continues encountering, studying, and dealing with the mysterious mushi along his journey into the unknown.
+img: https://www.animenewsnetwork.com/images/encyc/A15895-2834457359.1394934609.jpg
+altTitle: Mushishi: Zoku-Shō (Japanese)
+
+name: Princess Mononoke (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=197
+ranking: 11
+rating: 8.86
+votes: 9784
+genres: adventure,drama,fantasy,
+themes: deforestation,forest spirit,spirits,
+premiere date: 1997-07-12 (Japan)
+director: Hayao Miyazaki
+production studio: Dentsu Inc.
+plot: While fighting to save his village from the attack of a demon-god, Ashitaka comes in contact with it and is inflicted with a deadly curse. In his search for a cure he is forced to leave his village forever and journey to the forest inhabited by animal gods. There he finds himself in the middle of a war between the forest gods and a village led by Lady Eboshi.
+img: https://www.animenewsnetwork.com/images/encyc/A197-2019705247.1416985830.jpg
+altTitle: Mononoke Hime (Japanese)
+
+name: (The) Disappearance of Haruhi Suzumiya (movie)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11120
+ranking: 12
+rating: 8.86
+votes: 2767
+genres: drama,magic,mystery,psychological,science fiction,
+themes: alternate reality,high school,time travel,
+premiere date: 2010-02-06 (Japan)
+director: Yasuhiro Takemoto
+production studio: Kadokawa Pictures
+plot: It is mid-december, and SOS Brigade chief Haruhi Suzumiya announces that the Brigade is going to hold a Christmas party in their clubroom, with Japanese hotpot for dinner. The brigade members Kyon, Yuki Nagato, Mikuru Asahina and Itsuki Koizumi start preparing everything for the party, such as costumes and decorations. But a couple of days later, Kyon arrives at school only to find that Haruhi is missing. Not only that, but Mikuru claims she has never known Kyon before, Koizumi is also missing, and Yuki has become the sole member of the literature club. The SOS Brigade seems to have never existed, nor has Haruhi Suzumiya. No one in the school has ever heard about her… except for Kyon.
+img: https://www.animenewsnetwork.com/images/encyc/A11120-13.1393515270.jpg
+altTitle: Suzumiya Haruhi no Shōshitsu (Japanese)
+
+name: (The) Legend of the Galactic Heroes (OAV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1786
+ranking: 13
+rating: 8.82
+votes: 702
+genres: drama,science fiction,
+themes: military,politics,space,space battles,space navy,war,
+premiere date: unknown
+director: Noboru Ishiguro
+production studio: K Factory
+plot: For decades, the Galactic Empire has been locked in an interstellar war with the Free Planets Alliance, a conflict that involves thousands of spaceships and millions of soldiers on both sides. Two new commanders enter the conflict with great hopes: Imperial Admiral Reinhard von Lohengramm and the FPA's Yang Wen-Li. As they deal with superiors and subordinates, maneuver through complicated political arrangements, plot strategies, and win battles, each will be tested, and ultimately, changed, by the reality of war.
+img: https://www.animenewsnetwork.com/thumbnails/fit200x200/encyc/A1786-8.jpg
+altTitle: Ginga Eiyū Densetsu (Japanese)
+
+name: Mushi-Shi (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=5923
+ranking: 14
+rating: 8.79
+votes: 4974
+genres: adventure,mystery,psychological,slice of life,supernatural,
+themes: folklore,iyashikei,mythology,nature,spirits,
+premiere date: unknown
+director: Hiroshi Nagahama
+production studio: avex entertainment
+plot: They are neither plants nor animals. They differ from other forms of life such as the micro-organisms and the fungi. Instead they resemble the primeval body of life and are generally known as "Mushi". Their existence and appearance are unknown to many and only a limited number of humans are aware of them. Ginko is a "Mushi-shi" who travels around to investigate and find out more about the "Mushi". In the process, he also lends a helping hand to people who face problems with supernatural occurances which may be related to the "Mushi".
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/509/key_art_mushi_shi.jpg
+altTitle: 蟲師 (Japanese)
+
+name: Death Note (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592
+ranking: 15
+rating: 8.78
+votes: 12835
+genres: drama,mystery,psychological,supernatural,thriller,
+themes: crime,death,detective,justice,Magic Book,police,shinigami,
+premiere date: unknown
+director: Tetsuro Araki
+production studio: D.N. Dream Partners
+plot: Yagami Light is an ace student with great prospects, who's bored out of his mind. One day he finds the "Death Note": a notebook from the realm of the Death Gods, with the power to kill people in any way he desires. With the Death Note in hand, Light decides to create his perfect world, without crime or criminals. However, when criminals start dropping dead one by one, the authorites send the legendary detective L to track down the killer, and a battle of wits, deception and logic ensues...
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/19/key_art_death_note.jpg
+altTitle: デスノート (Japanese)
+
+name: Made in Abyss (TV)
+link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18952
+ranking: 16
+rating: 8.77
+votes: 481
+genres: adventure,drama,fantasy,psychological,science fiction,
+themes: exploration,post-apocalyptic,robots,
+premiere date: unknown
+director: Masayuki Kojima
+production studio: Crystal Ruiz
+plot: An enormous pit and cave system called the "Abyss" is the only unexplored place in the world. Strange and wonderful creatures reside in its depths, and it is full of precious relics that current humans are unable to make. The mysteries of the Abyss fascinate humans, and they head down to explore. The adventurers who venture into pit are known as "Cave Raiders." A little orphan girl named Rico lives in the town of Ōsu on the edge of the Abyss. Her dream is to become a Cave Raider like her mother and solve the mysteries of the cave system. One day, Rico starts exploring the caves and discovers a robot who resembles a human boy. (from manga)

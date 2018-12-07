@@ -1,5 +1,5 @@
-var animeFile = require("./anime.js");
-var pq = require("./PriorityQueue.js");
+const animeFile = require("./anime.js");
+const pq = require("./PriorityQueue.js");
 
 module.exports.getRecs = function(req) {
   return new Promise((resolve, reject) => {

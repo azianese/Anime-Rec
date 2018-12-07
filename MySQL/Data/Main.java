@@ -50,6 +50,12 @@ public class Main {
       else if (line.startsWith("link")) {
         writer.write(s + " \t");
       }
+      else if (line.startsWith("altTitle")) {
+        if (s.equals("unknown"))
+          writer.write("NULL" + "\t");
+        else 
+          writer.write(s + "\t");
+      }
       else if (line.startsWith("rating")) {
         writer.write(s + "\t");
       }
@@ -58,11 +64,23 @@ public class Main {
       }
       else if (line.startsWith("premiere date")) {
         if (s.equals("unknown"))
-          writer.write("NULL");
+          writer.write("NULL" + "\t");
         else {
           String arr[] = s.split(" ", 2);
-          writer.write(arr[0]); 
+          writer.write(arr[0] + "\t"); 
         }
+      }
+      else if (line.startsWith("plot")) {
+        if (s.equals("unknown"))
+          writer.write("NULL" + "\t");
+        else 
+          writer.write(s + "\t");
+      }
+      else if (line.startsWith("img")) {
+        if (s.equals("unknown"))
+          writer.write("NULL" + "\t");
+        else 
+          writer.write(s + "\t");
       }
       else
         continue;

@@ -1,9 +1,9 @@
 USE nirzj0shn94smawo;
 
-DROP TABLE IF EXISTS anime_to_genres;
-DROP TABLE IF EXISTS anime_to_themes;
 DROP TABLE IF EXISTS anime_to_directors;
 DROP TABLE IF EXISTS anime_to_studios;
+DROP TABLE IF EXISTS anime_to_genres;
+DROP TABLE IF EXISTS anime_to_themes;
 
 DROP TABLE IF EXISTS anime_directors;
 DROP TABLE IF EXISTS anime_studios;

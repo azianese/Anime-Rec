@@ -16,6 +16,11 @@
   /*align-items: center;*/
 }
 
+/* gets rid of input focus */
+*:focus {
+  outline:none;
+}
+
 /*************** Title ***************/
 
 p {
@@ -56,7 +61,7 @@ input[type=text] {
 
 /*************** Button ***************/
 
-a.button {
+.button {
   width: 225px;
   height: 75px;
   border-radius: 37px;
@@ -82,7 +87,7 @@ a.button {
   /*box-shadow: inset 0 0 0 1px #bfe4fc;*/
 }
 
-a.button:hover {
+.button:hover {
   background: #6bb9f7;
   background: -webkit-gradient(linear, 0 0, 0 bottom, from(#6bb9f7), to(#9fd6fa));
   background: -moz-linear-gradient(#6bb9f7, #9fd6fa);
@@ -92,7 +97,7 @@ a.button:hover {
   /*box-shadow: inset 0 0 0 1px #bfe4fc;*/
 }
 
-a.button:active {
+.button:active {
   background: #6bb9f7;
   background: -webkit-gradient(linear, 0 0, 0 bottom, from(#6bb9f7), to(#9fd6fa));
   background: -moz-linear-gradient(#6bb9f7, #9fd6fa);
