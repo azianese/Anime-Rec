@@ -56,7 +56,6 @@ app.post('/rec', urlencodedParser, function (req, res) {
   var recPromise = recFile.getRecs(req);
   recPromise.then(aniRecs => {
     var aniArray = [];
-    //console.log("req.numRecs: " + req.body.numRecs);
     for (var i = 0; i < req.body.numRecs; ++i) {
       aniArray.push(aniRecs.pop());
     }

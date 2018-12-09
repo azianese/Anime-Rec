@@ -1,0 +1,16 @@
+body {
+  font-size: 16px;
+  grid-template-columns: repeat(1, 1fr);
+}
+
+.suggestion a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+img {
+  max-height: 40vh;
+  max-width: 90vw;
+}

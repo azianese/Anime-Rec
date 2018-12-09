@@ -9,7 +9,6 @@ module.exports.getAniArray = function(req) {
     params.genres = genres.filter(function (genre) {return genre != ''});
     var themes = params.themes.split(",").map(function(item) {return item.trim()});
     params.themes = themes.filter(function (theme) {return theme != ''});
-
     //promise for basic anime data (name, link, rating, votes, date)
     var dataPromise = new Promise((resolve, reject) => {
       db.getConnection.then(mysql => {
@@ -19,16 +18,14 @@ module.exports.getAniArray = function(req) {
         })
       })
     })
-
     //work with data
     var animeArray = [];
     dataPromise.then(result => {
       for (var i = 0; i < result.length; ++i) {
-        var anime = createAnime(result[i], params);
+        var anime = createAnime(result[i]);
         anime.calcScore(params);
         animeArray.push(anime);
       }
-
       if (animeArray.length == 0) {
         reject("anime promise array could not be filled. File: anime.js");
       }
@@ -48,10 +45,17 @@ function createAnime(data) {
 class Anime {
   //class constructor
   constructor(params) {
-    this.name = params.anime;
+    this.title = params.title;
+    this.link = params.link;
+    this.altTitle = params.altTitle;
+    
     this.rating = params.rating;
     this.votes = params.votes;
     this.date = params.date;
+    
+    this.plot = params.plot;
+    this.img = params.img;
+    
     this.director = params.director;
     this.studio = params.studio;
     this.genres = params.genres;
@@ -67,11 +71,20 @@ class Anime {
       return;
     }
     //starts with the base anime rating in the score calculation
-    this.score += this.rating;
-    //adds a score of 5 to anime with the right director/studio
-    if (this.director.toLowerCase() == params.director.toLowerCase())
+    this.score += this.rating;    
+    //creates a director array from input. sets lowercase to all directors
+    var directorArray = params.directors.split(",").map(item => item.trim());
+    for (var i = 0; i < directorArray.length; ++i) 
+      directorArray[i] = directorArray[i].toLowerCase();
+    //adds 5 if the anime has the right director
+    if (directorArray.includes(this.director.toLowerCase()))
       this.score += 5;
-    if (this.studio.toLowerCase() == params.studio.toLowerCase())
+    //create a studio array from input. sets lowercase to all studios
+    var studioArray = params.studios.split(",").map(item => item.trim());
+    for (var i = 0; i < studioArray.length; ++i) 
+      studioArray[i] = studioArray[i].toLowerCase();
+    //adds 5 if the anime has the right studio
+    if (studioArray.includes(this.studio.toLowerCase()))
       this.score += 5;
     //sets weight divider for each genre/theme
     var len = params.genres.length + params.themes.length;

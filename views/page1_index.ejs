@@ -21,21 +21,13 @@
 
   <body>
     <div id='body'>
+      <!--<a href='https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=best_bayesian&n=500' class="button" style='text-decoration: none'>Anime List</a>-->
       <div>
         <p id='title'>AniRec</p>
       </div>
-      <!--<a href='https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=best_bayesian&n=500' class="button" style='text-decoration: none'>Anime List</a>-->
-
-      <!--
-<div id='search'>
-<input type='text' id='searchBox'>
-</div>
-<a href="/search" class="button" style='text-decoration: none'>Search</a>
--->
-
       <form id="search-form" method="POST" action="/search">
         <div id='search'>
-          <input type='text' id='searchBox' name='titles'>
+          <input type='text' id='searchBox' name='titles' placeholder=''>
         </div>
         <input class='button' type='submit' value='Submit'>
       </form>
