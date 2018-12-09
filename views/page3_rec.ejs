@@ -15,11 +15,6 @@
 
   <body>
     <div id='topnav'>
-      <!--<form action='/'>
-<button type='submit' id='home-button'>
-<img src='../images/home.jpg' alt='home' id='home-image'>
-</button>
-</form>-->
       <ul>
         <li><a href='/'>Home</a></li>
         <li>
@@ -31,7 +26,6 @@
     <div id='all-suggestions'>
       <% for(var i=0; i < data.length; i++) { %>
       <% if(data[i].score > 0) { %>
-      <% console.log('data score: ' + data[i].score) %>
       <div class='suggestion'>
         <div>
           <a href='<%= data[i].link %>' target="_blank">
