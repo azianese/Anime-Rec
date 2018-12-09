@@ -65,8 +65,8 @@ class Anime {
   //calculates and sets the calling anime object's score based on parameters
   calcScore(params) {
     //returns -1 if the anime does not fit requirments
-    if (!this.isInRange(params.min_votes, params.max_votes, 
-                        params.min_year, params.max_year)) {
+    if (!this.isInRange(params.minVotes, params.maxVotes, 
+                        params.minYear, params.maxYear)) {
       this.score = -1;
       return;
     }
@@ -109,14 +109,14 @@ class Anime {
   }
   //helper function to check if an anime fits between vote and year parameters
   isInRange(min_votes, max_votes, min_year, max_year) {
-    var date = (new Date(this.date)).getFullYear();;
-    if (this.votes < min_votes || this.votes > max_votes) 
-      return false;
+    var year = (new Date(this.date)).getFullYear();
     //temporary solution: allow NaN dates to filter through
-    if (isNaN(date)) 
+    if (isNaN(year)) 
       return true
-    if (this.date < min_year || this.date < max_year)
+    if (year < min_year || year > max_year)
       return false;
     return true;
+    if (this.votes < min_votes || this.votes > max_votes) 
+      return false;
   }
 }

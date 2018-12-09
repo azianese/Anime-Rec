@@ -20,53 +20,31 @@
   </head>
 
   <body>
-    <div class="container">
+    <form id="search-form" method="POST" action="/rec">
 
-      <form id="search-form" method="POST" action="/rec">
-        Form based on:<br>
-        <input type='text' placeholder="" value='<%= data.formTitles %>'><br>
+        How many recommendations do you want?:<br>
+        <input type='number' min='1' max='500' value='10' name='numRecs' placeholder='0-500'><br>
 
-        <div class='type1'>
-          How many recommendations do you want?:<br>
-          <input type='number' min='1' max='500' value='10' name='numRecs' placeholder='0-500'><br>
-        </div>
+        Min Year:<br>
+        <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='0' name='minYear'><br>
 
-        <div class='type2' id='years'>
-          Min Year:<br>
-          <input type='number' min='0' max='9999' value='0' name='minYear'><br>
+        Max Year:<br>
+        <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='2018' name='maxYear'><br>
 
-          Max Year:<br>
-          <input type='number' min='0' max='9999' value='2018' name='maxYear'><br>
-        </div>
+        Add Genres:<br>
+        <input type='text' id='genreSearch' name='genres' placeholder='Separate genres by coma...' value='<%= data.formGenres %>'><br>
 
-        <div class='type1' id='votes'>
-          Min Votes:<br>
-          <input type='number' min='0' max='999999' value='0' name='minVotes'><br>
+        Add Themes:<br>
+        <input type='text' id='themeSearch' name='themes' placeholder='Separate themes by coma...' value='<%= data.formThemes %>'><br>
 
-          Max Votes:<br>
-          <input type='number' min='0' max='999999' value='999999' name='maxVotes'><br>
-        </div>
+        Add Directors:<br>
+        <input type='text' id='directorSearch' name='directors' placeholder='Separate directors by coma...' value='<%= data.formDirectors %>'><br>
 
-        <div class='type2' id='genres_themes'>
-          Genres:<br>
-          <input type='text' id='genreSearch' name='genres' placeholder='Separate genres by coma...' value='<%= data.formGenres %>'><br>
+        Add Studios:<br>
+        <input type='text' id='studioSearch' name='studios' placeholder='Separate studios by coma...' value='<%= data.formStudios %>'><br>
 
-          Themes:<br>
-          <input type='text' id='themeSearch' name='themes' placeholder='Separate themes by coma...' value='<%= data.formThemes %>'><br>
-        </div>
-
-        <div class='type1' id='director_studio'>
-          Directors:<br>
-          <input type='text' id='directorSearch' name='directors' placeholder='Separate directors by coma...' value='<%= data.formDirectors %>'><br>
-
-          Studios:<br>
-          <input type='text' id='studioSearch' name='studios' placeholder='Separate studios by coma...' value='<%= data.formStudios %>'><br>
-        </div>
-
-        <input class='button' type='submit' value='Submit'>
-      </form>
-
-    </div>
+      <input class='button' type='submit' value='Submit'>
+    </form>
 
     <!---------------------- AUTOCOMPLETE SCRIPTS ---------------------->
     <script>
@@ -237,3 +215,23 @@
     </script>
   </body>
 </html>
+
+<!---------------------- Extra, potential elements ---------------------->
+
+<!--
+Form based on:<br>
+
+<% for(var i = 0; i < data.titleArray.length; ++i) { %>
+<div class='titles'><%= data.titleArray[i] %><br></div>
+<% } %>
+<br>
+-->
+<!--<input type='text' placeholder="" value='<%= data.formTitles %>'><br>-->
+
+<!--<div class='type1' id='votes'>
+Min Votes:<br>
+<input type='number' min='0' max='999999' value='0' name='minVotes'><br>
+
+Max Votes:<br>
+<input type='number' min='0' max='999999' value='999999' name='maxVotes'><br>
+</div>-->

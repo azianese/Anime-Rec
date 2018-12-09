@@ -1,3 +1,5 @@
+/*************** General ***************/
+
 * {
   margin: 0px;
   padding: 0px;
@@ -6,15 +8,9 @@
 body {
   font-size: 16px;
   grid-template-columns: repeat(1, 1fr);  
-  
 }
 
-/*
-#home-image {
-  max-width: 50px;
-  max-height: 50px;
-}
-*/
+/*************** Top Navigator Div ***************/
 
 #topnav {
   padding-bottom:40px;
@@ -43,11 +39,20 @@ li a:hover {
   background-color: #111;
 }
 
+/*************** Suggestion Div ***************/
 
-
+#all-suggestions {
+  text-align: center;
+}
 
 .suggestion {
+  max-width: 800px;
   padding: 15px;
+  margin: auto;
+}
+
+p {
+  text-align: left;
 }
 
 .suggestion a {
@@ -61,10 +66,14 @@ li a:hover {
   color: #663366;
 }
 
-
-
 img {
   max-height: 40vh;
   max-width: 90vw;
   padding-top: 5px;
 }
+/*
+@media screen and (max-width: 90vw) {
+  img {
+    max-width: 90vw;
+  }
+}*/

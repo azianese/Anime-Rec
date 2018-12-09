@@ -55,6 +55,7 @@ module.exports.getData = function(param) {
       // Data to prefill form
       var titleArray = param.titles.split(",").map(item => item.trim())
       titleArray.remove('');
+      response.titleArray = titleArray;
       response.formTitles = createStringFromArray(titleArray)
       response.formDirectors = createStringFromArray(formData.directors);
       response.formStudios = createStringFromArray(formData.studios);
@@ -89,7 +90,7 @@ module.exports.getData = function(param) {
           break;
         response.themes.push(data[i].themes);
       }
-      
+
       //send data back to client
       resolve(response);
     })
@@ -142,8 +143,26 @@ function getThemes(data) {
 
 //////////////////// OTHER HELPER FUNCTIONS ////////////////////
 
-// Helper function to one string from an array of strings
+// Helper function to create one string from an array of strings
+// with commas at the end
 function createStringFromArray(array) {
+  if (array.length == 0)
+    return '';
+  var string = '';
+  /*
+  for (var i = 1; i < array.length; ++i) {
+    string = string.concat(', ' + array[i]);
+  }
+  */
+  for (var i = 0; i < array.length; ++i) {
+    string = string.concat(array[i] + ', ');
+  }
+  return string;
+}
+/*
+// Helper function to create one string from an array of strings
+// with no comma at the end
+function createStringFromArray2(array) {
   if (array.length == 0)
     return '';
   var string = array[0];
@@ -152,15 +171,15 @@ function createStringFromArray(array) {
   }
   return string;
 }
-
+*/
 // Helper function to remove blank elements from an array input
 Array.prototype.remove = function() {
-    var what, a = arguments, L = a.length, ax;
-    while (L && this.length) {
-        what = a[--L];
-        while ((ax = this.indexOf(what)) !== -1) {
-            this.splice(ax, 1);
-        }
+  var what, a = arguments, L = a.length, ax;
+  while (L && this.length) {
+    what = a[--L];
+    while ((ax = this.indexOf(what)) !== -1) {
+      this.splice(ax, 1);
     }
-    return this;
+  }
+  return this;
 };
