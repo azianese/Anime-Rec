@@ -1,16 +1,70 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   font-size: 16px;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(1, 1fr);  
+  
+}
+
+/*
+#home-image {
+  max-width: 50px;
+  max-height: 50px;
+}
+*/
+
+#topnav {
+  padding-bottom:40px;
+}
+
+ul {
+  position: fixed;
+  width: 100%;
+  list-style-type: none;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+
+
+.suggestion {
+  padding: 15px;
 }
 
 .suggestion a {
   text-decoration: none;
   font-size: 20px;
-  color: black;
+  color: #3366BB;
   font-weight: bold;
 }
+
+.suggestion a:visited {
+  color: #663366;
+}
+
+
 
 img {
   max-height: 40vh;
   max-width: 90vw;
+  padding-top: 5px;
 }

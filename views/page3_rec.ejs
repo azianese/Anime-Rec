@@ -14,7 +14,19 @@
   </head>
 
   <body>
-    <div id='body'>
+      <div id='topnav'>
+<!--<form action='/'>
+<button type='submit' id='home-button'>
+<img src='../images/home.jpg' alt='home' id='home-image'>
+</button>
+</form>-->
+        <ul>
+          <li><a href='/'>Home</a></li>
+          <li>
+            <a href='https://www.animenewsnetwork.com/' target='_blank'>Data Source</a>
+          </li>
+        </ul>
+      </div>
 
       <% for(var i=0; i < data.length; i++) { %>
       <div class='suggestion'>
@@ -27,7 +39,5 @@
         <p><%= data[i].plot %></p>
       </div>
       <% } %>
-
-    </div>
   </body>
 </html>
