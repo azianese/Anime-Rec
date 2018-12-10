@@ -3,12 +3,17 @@ const db = require("./db.js");
 module.exports.getAniArray = function(req) {
   return new Promise((resolve, reject) => {
     //create object to hold parameters
-    //split user input for genre and themes by comma. delete white spaces.
     var params = req.body;
+    //split user input for genre and themes by comma. delete white spaces.
     var genres = params.genres.split(",").map(function(item) {return item.trim()});
     params.genres = genres.filter(function (genre) {return genre != ''});
     var themes = params.themes.split(",").map(function(item) {return item.trim()});
     params.themes = themes.filter(function (theme) {return theme != ''});
+    //split user input for directors and studios by comma. delete white spaces.
+    var directors = params.directors.split(",").map(function(item) {return item.trim()});
+    params.directors = directors.filter(function (director) {return director != ''});
+    var studios = params.studios.split(",").map(function(item) {return item.trim()});
+    params.studios = studios.filter(function (studio) {return studio != ''});
     //promise for basic anime data (name, link, rating, votes, date)
     var dataPromise = new Promise((resolve, reject) => {
       db.getConnection.then(mysql => {
@@ -73,14 +78,14 @@ class Anime {
     //starts with the base anime rating in the score calculation
     this.score += this.rating;    
     //creates a director array from input. sets lowercase to all directors
-    var directorArray = params.directors.split(",").map(item => item.trim());
+    var directorArray = params.directors;
     for (var i = 0; i < directorArray.length; ++i) 
       directorArray[i] = directorArray[i].toLowerCase();
     //adds 5 if the anime has the right director
-    if (directorArray.includes(this.director.toLowerCase()))
+    if (directorArray.includes(this.director.toLowerCase())) 
       this.score += 5;
     //create a studio array from input. sets lowercase to all studios
-    var studioArray = params.studios.split(",").map(item => item.trim());
+    var studioArray = params.studios;
     for (var i = 0; i < studioArray.length; ++i) 
       studioArray[i] = studioArray[i].toLowerCase();
     //adds 5 if the anime has the right studio

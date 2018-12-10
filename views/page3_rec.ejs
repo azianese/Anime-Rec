@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <!--Page Metadata-->
     <meta charset="UTF-8">
@@ -18,12 +17,14 @@
       <ul>
         <li><a href='/'>Home</a></li>
         <li>
-          <a href='https://www.animenewsnetwork.com/' target='_blank'>Data Source</a>
+          <a href='https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=best_bayesian&n=500' target='_blank'>Data Source</a>
         </li>
       </ul>
     </div>
 
     <div id='all-suggestions'>
+      <% params = data.params; %>
+      <% data = data.aniArray; %>
       <% for(var i=0; i < data.length; i++) { %>
       <% if(data[i].score > 0) { %>
       <div class='suggestion'>
@@ -36,6 +37,33 @@
         <p><%= data[i].plot %></p>
       </div>
       <% } %>
+      <% } %>
+    </div>
+    
+    <div id='parameters'>
+      <br><strong>ALL DATA BELONGS TO:</strong><br>
+      <a href='https://animenewsnetwork.com'>animenewsnetwork.com</a><br>
+      <br><strong>NUMBER OF RECOMMENDATIONS:</strong><br>
+      <%= params.numRecs %><br>
+      <strong>MINIMUM YEAR:</strong><br>
+      <%= params.minYear %><br>
+      <strong>MAXIMUM YEAR:</strong><br>
+      <%= params.maxYear %><br>
+      <br><strong>GENRES:</strong><br>
+      <% for(var i = 0; i < params.genres.length; ++i) { %>
+        <%= params.genres[i] %><br>
+      <% } %>
+      <br><strong>THEMES:</strong><br>
+      <% for(var i = 0; i < params.genres.length; ++i) { %>
+        <%= params.themes[i] %><br>
+      <% } %>
+      <br><strong>DIRECTORS:</strong><br>
+      <% for(var i = 0; i < params.directors.length; ++i) { %>
+        <%= params.directors[i] %><br>
+      <% } %>
+      <br><strong>STUDIOS:</strong><br>
+      <% for(var i = 0; i < params.studios.length; ++i) { %>
+        <%= params.studios[i] %><br>
       <% } %>
     </div>
   </body>

@@ -59,7 +59,10 @@ app.post('/rec', urlencodedParser, function (req, res) {
     for (var i = 0; i < req.body.numRecs; ++i) {
       aniArray.push(aniRecs.pop());
     }
-    res.render('page3_rec', {data: aniArray});
+    var data = {};    
+    data.aniArray = aniArray;
+    data.params = req.body;
+    res.render('page3_rec', {data: data});
   })
 });
 
