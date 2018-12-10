@@ -1,35 +1,33 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!--Page Metadata-->
+    <!-- Page Metadata -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Sam Wang"> 
     <meta name="description" content="anime recommender">
     <meta name="keywords" content="anime, recommender, suggestions, anime recommender">
     <title>Anime recommender</title>
-    <!--Stylesheets-->
-    <link rel="stylesheet" href="css/search.css">
-    <!--For the title font-->
+    <!-- For the title font -->
     <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
-
-    <!--Include jquery autocomplete library-->
+    <!-- Include jquery autocomplete library -->
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- Include jQuery/Bootstrap dropdown library -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Custom Stylesheets -->
+    <link rel="stylesheet" href="css/search.css">
   </head>
 
   <body>
-    <form id="search-form" method="POST" action="/rec">
 
+    <div id='wrapper'>
+      <form id="search-form" method="POST" action="/rec">
+        <!-- Basic Search Options -->
         How many recommendations do you want?:<br>
         <input type='number' min='1' max='500' value='10' name='numRecs' placeholder='0-500'><br>
-
-        Min Year:<br>
-        <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='0' name='minYear'><br>
-
-        Max Year:<br>
-        <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='2018' name='maxYear'><br>
 
         Add Genres:<br>
         <input type='text' id='genreSearch' name='genres' placeholder='Separate genres by coma...' value='<%= data.formGenres %>'><br>
@@ -37,14 +35,26 @@
         Add Themes:<br>
         <input type='text' id='themeSearch' name='themes' placeholder='Separate themes by coma...' value='<%= data.formThemes %>'><br>
 
-        Add Directors:<br>
-        <input type='text' id='directorSearch' name='directors' placeholder='Separate directors by coma...' value='<%= data.formDirectors %>'><br>
+        <!-- Advanced Search Oprions -->
+        <button type="button" id='drop-down-button' class="btn btn-info" data-toggle="collapse" data-target="#advanced-search">Advanced Search</button>
 
-        Add Studios:<br>
-        <input type='text' id='studioSearch' name='studios' placeholder='Separate studios by coma...' value='<%= data.formStudios %>'><br>
+        <div id='advanced-search' class='collapse'>
+          Min Year:<br>
+          <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='0' name='minYear'><br>
 
-      <input class='button' type='submit' value='Submit'>
-    </form>
+          Max Year:<br>
+          <input type='number' min='0' max='<%= (new Date()).getFullYear() %>' value='2018' name='maxYear'><br>
+
+          Add Directors:<br>
+          <input type='text' id='directorSearch' name='directors' placeholder='Separate directors by coma...' value='<%= data.formDirectors %>'><br>
+
+          Add Studios:<br>
+          <input type='text' id='studioSearch' name='studios' placeholder='Separate studios by coma...' value='<%= data.formStudios %>'><br>
+        </div>
+
+        <input class='button' type='submit' value='Submit'>
+      </form>
+    </div>
 
     <!---------------------- AUTOCOMPLETE SCRIPTS ---------------------->
     <script>

@@ -5,25 +5,37 @@
   outline:none;
 }
 
-/* Add a background color and some padding around the form */
+html {
+  height: 100%;
+}
+
 body {
-  /* font styling */
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  /* center align text elements */
-  text-align: center;
-  /* ensures content isn't too close to edges */
-  padding: 30px;
-  /* background */
-  background-image: url('../images/file1.png');
-  background-size: cover;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 /*************** Input ***************/
 
+#wrapper {
+  background-image: url('../images/file1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+#search-form {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input {
+  color: black;
+  font-weight: normal;
   width: 100%; /* Full width */
   max-width: 500px;
   padding: 12px; /* Some padding */  
@@ -32,7 +44,6 @@ input {
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 6px; /* Add a top margin */
   margin-bottom: 24px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
 }
 
 .ui-autocomplete {
@@ -44,6 +55,16 @@ input {
   /* add padding to account for vertical scrollbar */
   padding-right: 0px;
 } 
+
+#drop-down-button {
+  margin-bottom: 10px;
+  background-color: transparent;
+  border-width: medium;
+}
+
+#advanced-search {
+  margin-top: 10px;
+}
 
 /*************** Button ***************/
 
@@ -95,8 +116,8 @@ input {
 
 /*
 .titles {
-  color: #d0d7e8;
-  font-size: 16px;
+color: #d0d7e8;
+font-size: 16px;
 }
 
 .type1 {

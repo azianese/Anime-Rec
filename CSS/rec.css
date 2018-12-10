@@ -13,7 +13,7 @@ body {
 /*************** Top Navigator Div ***************/
 
 #topnav {
-  padding-bottom:40px;
+  padding-bottom:65px;
 }
 
 ul {
@@ -29,26 +29,27 @@ li {
 
 li a {
   display: block;
-  color: white;
   text-align: center;
   padding: 14px 20px;
+  color: white;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: #111;
+  color: white;
+  text-decoration: none;
 }
 
 /*************** Suggestion Div ***************/
 
-#all-suggestions {
+#suggestions {
   text-align: center;
 }
 
 .suggestion {
   max-width: 800px;
   padding: 15px;
-  margin: auto;
 }
 
 p {
@@ -70,10 +71,17 @@ img {
   max-height: 40vh;
   max-width: 90vw;
   padding-top: 5px;
+  padding-bottom: 5px;
 }
 
-/*************** Parameters Div ***************/
+/*************** End Section Div ***************/
 
-#parameters {
+#end-section {
   text-align: center;
+  margin-bottom: 15px;
+}
+
+#data-button {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
