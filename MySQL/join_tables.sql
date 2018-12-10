@@ -1,21 +1,21 @@
 DROP TABLE IF EXISTS anime_directors;
 CREATE TABLE anime_directors (
 	id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    director_id INT UNSIGNED NOT NULL,
     anime_id INT UNSIGNED NOT NULL,
-    FOREIGN KEY (director_id) REFERENCES directors(id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    director_id INT UNSIGNED NOT NULL,
     FOREIGN KEY (anime_id) REFERENCES anime(id) ON DELETE RESTRICT ON UPDATE CASCADE,
-    UNIQUE (director_id, anime_id)
+    FOREIGN KEY (director_id) REFERENCES directors(id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    UNIQUE (anime_id, director_id)
 );
 
 DROP TABLE IF EXISTS anime_studios;
 CREATE TABLE anime_studios (
 	id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    studio_id INT UNSIGNED NOT NULL,
     anime_id INT UNSIGNED NOT NULL,
-    FOREIGN KEY (studio_id) REFERENCES studios(id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    studio_id INT UNSIGNED NOT NULL,
     FOREIGN KEY (anime_id) REFERENCES anime(id) ON DELETE RESTRICT ON UPDATE CASCADE,
-    UNIQUE (studio_id, anime_id)
+    FOREIGN KEY (studio_id) REFERENCES studios(id) ON DELETE RESTRICT ON UPDATE CASCADE,
+    UNIQUE (anime_id, studio_id)
 );
 
 DROP TABLE IF EXISTS anime_genres;
@@ -38,14 +38,14 @@ CREATE TABLE anime_themes (
     UNIQUE (anime_id, theme_id)
 );
 
-INSERT IGNORE INTO anime_directors (director_id, anime_id)
+INSERT IGNORE INTO anime_directors (anime_id, director_id)
 SELECT anime.id AS anime_id, directors.id AS director_id
 FROM anime_to_directors
 INNER JOIN anime ON anime_to_directors.anime = anime.title
 INNER JOIN directors ON anime_to_directors.director = directors.director;
 DROP TABLE anime_to_directors;
 
-INSERT IGNORE INTO anime_studios (studio_id, anime_id)
+INSERT IGNORE INTO anime_studios (anime_id, studio_id)
 SELECT anime.id AS anime_id, studios.id AS studio_id
 FROM anime_to_studios
 INNER JOIN anime ON anime_to_studios.anime = anime.title

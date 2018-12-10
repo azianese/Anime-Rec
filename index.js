@@ -51,17 +51,9 @@ app.post('/search', urlencodedParser, function (req, res) {
 
 //////////////////// Rec Page ////////////////////
 app.post('/rec', urlencodedParser, function (req, res) {
-  //res.render('rec', {data: req.body});
-  var recFile = require("./serverJS/page_rec.js");
-  var recPromise = recFile.getRecs(req);
-  recPromise.then(aniRecs => {
-    var aniArray = [];
-    for (var i = 0; i < req.body.numRecs; ++i) {
-      aniArray.push(aniRecs.pop());
-    }
-    var data = {};    
-    data.aniArray = aniArray;
-    data.params = req.body;
+  var recFile = require("./serverJS/page_rec.js");    
+  var recPromise = recFile.getData(req);
+  recPromise.then(data => {
     res.render('page3_rec', {data: data});
   })
 });

@@ -17,15 +17,13 @@ module.exports.getData = function(param) {
     var aniData = new Promise((res, rej) => {
       db.getConnection.then(mysql=> {
         var titleArray = param.titles.split(",").map(item => item.trim());
-        var query = db.buildSearchQuery(titleArray);
-        //console.log(query);
+        var query = db.buildSearchQuery(titleArray);        
         if (query == null)
           res("");
         else {
           mysql.query(query, function (error, result) {
             if (error) reject("page_search.js: " + error);
             else {
-              //console.log(result);
               res(result);
             }
           })
@@ -97,7 +95,7 @@ module.exports.getData = function(param) {
   })
 }
 
-//////////////////// HELPER FUNCTION TO RETURN NON-REPEATING DATA ////////////////////
+//////////////////// HELPER FUNCTIONS TO RETURN NON-REPEATING DATA ////////////////////
 
 function getDirectors(data) {
   var array = [];
@@ -159,19 +157,7 @@ function createStringFromArray(array) {
   }
   return string;
 }
-/*
-// Helper function to create one string from an array of strings
-// with no comma at the end
-function createStringFromArray2(array) {
-  if (array.length == 0)
-    return '';
-  var string = array[0];
-  for (var i = 1; i < array.length; ++i) {
-    string = string.concat(', ' + array[i]);
-  }
-  return string;
-}
-*/
+
 // Helper function to remove blank elements from an array input
 Array.prototype.remove = function() {
   var what, a = arguments, L = a.length, ax;

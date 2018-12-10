@@ -70,13 +70,6 @@ class Anime {
   //calculates and sets the calling anime object's score based on parameters
   calcScore(params) {
     //returns -1 if the anime does not fit requirments
-    
-    if (this.title == '(The) Garden of Sinners/recalled out summer (movie)') {
-      console.log(params.maxYear);
-      console.log(this.date);
-    }
-    
-    
     if (!this.isInRange(params.minVotes, params.maxVotes, 
                         params.minYear, params.maxYear)) {
       this.score = -1;
