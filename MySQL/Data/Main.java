@@ -67,7 +67,13 @@ public class Main {
           writer.write("NULL" + "\t");
         else {
           String arr[] = s.split(" ", 2);
-          writer.write(arr[0] + "\t"); 
+          s = arr[0];
+          if (s.length() < 7) 
+            writer.write(s + "-01-01" + "\t");
+          else if (s.length() <= 10) 
+            writer.write(s + "-01" + "\t");
+          else
+            writer.write(arr[0] + "\t"); 
         }
       }
       else if (line.startsWith("plot")) {

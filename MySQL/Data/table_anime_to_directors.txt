@@ -16,12 +16,12 @@ Death Note (TV)	Tetsuro Araki
 Made in Abyss (TV)	Masayuki Kojima
 Maria Watches Over Us 3rd Season (OAV)	Yukihiro Matsushita
 Maria Watches Over Us Season 2: Printemps (TV)	Yukihiro Matsushita
-Gintama' (TV 2/2011)	Yoichi Fujita
+Gintama' (TV 2/2011)	Yōichi Fujita
 Code Geass: Lelouch of the Rebellion (TV)	Goro Taniguchi
 Descending Stories: Showa Genroku Rakugo Shinju (TV)	Mamoru Hatakeyama
 anohana: The Flower We Saw That Day (TV)	Tatsuyuki Nagai
 Maria Watches Over Us 4th Season (TV)	Toshiyuki Kato
-Gintama' (TV 3/2012)	Yoichi Fujita
+Gintama' (TV 3/2012)	Yōichi Fujita
 Gintama (TV 4/2015)	Chizuru Miyawaki
 Bunny Drop (TV)	Kanta Kamei
 Evangelion: 2.0 You Can (Not) Advance (movie)	Kazuya Tsurumaki
@@ -39,12 +39,12 @@ Nausicaä of the Valley of the Wind (movie)	Hayao Miyazaki
 5 Centimeters Per Second (movie)	Makoto Shinkai
 Gurren Lagann (TV)	Hiroyuki Imaishi
 (The) Garden of Sinners (movie series)	Ei Aoki
-Wolf Children (movie)	Mamoru Hosoda
 My Neighbor Totoro (movie)	Hayao Miyazaki
+Wolf Children (movie)	Mamoru Hosoda
 Baccano! (TV)	Takahiro Ōmori
 Natsume's Book of Friends (TV 4)	Takahiro Ōmori
 Honey and Clover II (TV)	Tatsuyuki Nagai
-Gintama: The Final Movie	Yoichi Fujita
+Gintama: The Final Movie	Yōichi Fujita
 Hajime no Ippo: New Challenger (TV)	Jun Shishido
 Kanon (TV 2/2006)	Tatsuya Ishihara
 GTO: Great Teacher Onizuka (TV)	Noriyuki Abe
@@ -73,10 +73,10 @@ Whisper of the Heart (movie)	Yoshifumi Kondō
 Your Lie in April (TV)	Kyōhei Ishiguro
 Samurai Champloo (TV)	Shinichiro Watanabe
 Ouran High School Host Club (TV)	Takuya Igarashi
-A Place Further Than the Universe (TV)	Atsuko Ishizuka
 (The) Beast Player Erin (TV)	Takayuki Hamana
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	Hiroyuki Imaishi
 March comes in like a lion (TV 2)	Akiyuki Simbo
+A Place Further Than the Universe (TV)	Atsuko Ishizuka
 Haikyu!! Second Season (TV)	Susumu Mitsunaka
 Ghost in the Shell: Stand Alone Complex (TV)	Kenji Kamiyama
 Maria Watches Over Us (TV)	Yukihiro Matsushita
@@ -94,9 +94,9 @@ Re:ZERO -Starting Life in Another World- (TV)	Masaharu Watanabe
 Honey and Clover (TV)	Kenichi Kasai
 (The) Tale of the Princess Kaguya (movie)	Isao Takahata
 Sword of the Stranger (movie)	Masahiro Ando
+My Hero Academia (TV 2)	Kenji Nagasaki
 Legend of the Galactic Heroes: Overture to a New War (movie)	Keizō Shimizu
 Haibane Renmei (TV)	Hiroshi Negishi
-My Hero Academia (TV 2)	Kenji Nagasaki
 Hunter X Hunter (OAV)	Satoshi Saga
 (The) Twelve Kingdoms (TV)	Tsuneo Kobayashi
 Cowboy Bebop: The Movie	Hiroyuki Okiura
@@ -114,28 +114,28 @@ Tsubasa Tokyo Revelations (OAV)	Shunsuke Tada
 Katanagatari (TV)	Keitaro Motonaga
 Mobile Suit Gundam UC (OAV)	Kazuhiro Furuhashi
 (The) Garden of Words (movie)	Makoto Shinkai
-Gintama. (TV 5/2017)	Chizuru Miyawaki
-Full Metal Panic! The Second Raid (TV)	Yasuhiro Takemoto
 My Hero Academia (TV 3)	Kenji Nagasaki
+Full Metal Panic! The Second Raid (TV)	Yasuhiro Takemoto
+Gintama. (TV 5/2017)	Chizuru Miyawaki
 Lupin the Third: Part 5 (TV)	Yuichiro Yano
 Hunter X Hunter (TV)	Miyadah Awda
 Fate/Zero (TV 2)	Ei Aoki
+ERASED (TV)	Tomohiko Ito
 Kimi ni Todoke - From Me to You (TV)	Hiro Kaburagi
 BECK: Mongolian Chop Squad (TV)	Osamu Kobayashi
-ERASED (TV)	Tomohiko Ito
 Den-noh Coil (TV)	Mitsuo Iso
 (La) Maison en Petits Cubes (movie)	Kunio Katō
 Bakuman. 2 (TV)	Kenichi Kasai
-One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	Katsumi Tokoro
 Attack on Titan (TV 2/2017)	Masashi Koizuka
+One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	Katsumi Tokoro
 Natsume's Book of Friends (TV)	Takahiro Ōmori
 Nodame Cantabile: Paris (TV)	Chiaki Kon
 JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	Naokatsu Tsuda
 Berserk (TV)	Michael Sinterniklaas
 Brave King GaoGaiGar Final (OAV)	Yoshitomo Kometani
-Owarimonogatari (specials)	Tomoyuki Itamura
 Kaiba (TV)	Masaaki Yuasa
 Ping Pong (TV)	Masaaki Yuasa
+Owarimonogatari (specials)	Tomoyuki Itamura
 Princess Tutu (TV)	Kiyoko Sayama
 Conan, the Boy in Future (TV)	unknown
 Hotarubi no Mori e (movie)	Takahiro Ōmori
@@ -152,12 +152,12 @@ Natsume Yūjin-Chō Roku (TV 6)	Kotomi Deai
 Yuri!!! on Ice (TV)	Sayo Yamamoto
 Girls und Panzer der Film (movie)	Tsutomu Mizushima
 Kimi ni Todoke 2nd Season (TV)	Hiro Kaburagi
+Violet Evergarden (TV)	Taichi Ishidate
 Assassination Classroom (TV 2)	Seiji Kishi
 Trigun (TV)	Satoshi Nishimura
 Mob Psycho 100 (TV)	Yuzuru Tachikawa
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	Masahiro Ando
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	Kenji Kamiyama
-Violet Evergarden (TV)	Taichi Ishidate
 Spice and Wolf (TV)	Takeo Takahashi
 Paprika (movie)	Satoshi Kon
 Magnetic Rose (movie)	Koji Morimoto
@@ -166,17 +166,17 @@ R.O.D -The TV-	Koji Masunari
 Berserk: The Golden Age Arc III - The Advent (movie)	Toshiyuki Kubooka
 Ashita no Joe 2 (TV)	Osamu Dezaki
 Sound! Euphonium 2 (TV)	Tatsuya Ishihara
+Bakuman. 3 (TV)	Kenichi Kasai
 (The) Eccentric Family 2 (TV)	Masayuki Yoshihara
 Gungrave (TV)	Toshiyuki Tsuru
 Last Exile (TV)	Koichi Chigira
-Bakuman. 3 (TV)	Kenichi Kasai
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	Noboru Ishiguro
 Rurouni Kenshin (TV)	Kazuhiro Furuhashi
 Comedy (OAV)	Kazuto Nakazawa
 When Marnie Was There (movie)	Hiromasa Yonebayashi
 Skip Beat! (TV)	Kiyoko Sayama
-Land of the Lustrous (TV)	Takahiko Kyōgoku
 Natsume Yūjin-Chō Go (TV 5)	Kotomi Deai
+Land of the Lustrous (TV)	Takahiko Kyōgoku
 xxxHOLiC: Kei (TV)	Tsutomu Mizushima
 Attack on Titan (TV)	Tetsuro Araki
 Neon Genesis Evangelion: The End of Evangelion (movie)	Hideaki Anno
@@ -193,11 +193,11 @@ Gintama (TV)	Shinji Takamatsu
 (The) Boy and The Beast (movie)	Mamoru Hosoda
 One Outs (TV)	Yuzo Sato
 Black Lagoon (TV)	Sunao Katabuchi
-Neon Genesis Evangelion (TV)	Hideaki Anno
 Tiger & Bunny (TV)	Keiichi Satō
-Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	Kenji Kamiyama
-No Game, No Life Zero (movie)	Atsuko Ishizuka
 Fate/stay night: Unlimited Blade Works (TV)	Takahiro Miura
+Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	Kenji Kamiyama
+Neon Genesis Evangelion (TV)	Hideaki Anno
+No Game, No Life Zero (movie)	Atsuko Ishizuka
 Food Wars! Shokugeki no Soma (TV)	Yoshitomo Yonetani
 (The) Anthem of the Heart (movie)	Tatsuyuki Nagai
 Fate/Zero (TV)	Ei Aoki
@@ -210,25 +210,24 @@ Gosick (TV)	Hitoshi Nanba
 One Punch Man (TV)	Shingo Natsume
 Lupin III: The Castle of Cagliostro (movie)	Hayao Miyazaki
 Aria the Avvenire (OAV)	Junichi Sato
+My Hero Academia (TV)	Kenji Nagasaki
 Denpa teki na Kanojo (OAV)	Mamoru Kanbe
 Welcome to THE SPACE SHOW (movie)	Koji Masunari
-My Hero Academia (TV)	Kenji Nagasaki
 Nobody's Boy Remi (TV)	Osamu Dezaki
 Emma: A Victorian Romance Second Act (TV)	Tsuneo Kobayashi
 Monthly Girls' Nozaki-kun (TV)	Mitsue Yamazaki
-Kizumonogatari Part 3: Reiketsu (movie)	Tatsuya Oishi
 Elfen Lied (TV)	Mamoru Kanbe
 Wolf's Rain (OAV)	Tensai Okamura
 No Game, No Life (TV)	Atsuko Ishizuka
 Rainbow - Nisha Rokubō no Shichinin (TV)	Hiroshi Koujina
-Junjō Romantica 2 (TV)	Chiaki Kon
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	Kenji Kamiyama
+Kizumonogatari Part 3: Reiketsu (movie)	Tatsuya Oishi
+Junjō Romantica 2 (TV)	Chiaki Kon
 Magical Girl Lyrical Nanoha the Movie 2nd A's	Keizou Kusakawa
 Tokyo Magnitude 8.0 (TV)	Masaki Tachibana
 Eureka Seven (TV)	Kazuya Murata
 School Rumble (TV)	Shinji Takamatsu
 Parasyte -the maxim- (TV)	Kenichi Shimizu
-Kizumonogatari Part 2: Nekketsu (movie)	Tatsuya Oishi
 planetarian: Hoshi no Hito (movie)	Naokatsu Tsuda
 Hinamatsuri (TV)	Kei Oikawa
 Ghost in the Shell (movie)	Mamoru Oshii
@@ -237,11 +236,12 @@ Puella Magi Madoka Magica the Movie Part 2: Eternal	Yukihiro Miyamoto
 Kill la Kill (TV)	Hiroyuki Imaishi
 Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	Toshiyuki Kubooka
 Wagnaria!!3 (TV)	Yumi Kamakura
-Kizumonogatari Part 1: Tekketsu (movie)	Tatsuya Oishi
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	Yukihiro Miyamoto
+Kizumonogatari Part 2: Nekketsu (movie)	Tatsuya Oishi
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	Yukihiro Miyamoto
-Kimagure Orange Road: The Movie	Tomomi Mochizuki
 Lovely Complex (TV)	unknown
+Kimagure Orange Road: The Movie	Tomomi Mochizuki
+Kizumonogatari Part 1: Tekketsu (movie)	Tatsuya Oishi
 Porco Rosso (movie)	Hayao Miyazaki
 Hikaru No Go: New Year Special	Tetsuya Endo
 Mobile Suit Gundam - The Movie Trilogy	Ryoji Fujiwara
@@ -252,14 +252,15 @@ Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights
 (The) Wind Rises (movie)	Hayao Miyazaki
 Detroit Metal City (OAV)	Hiroshi Nagahama
 (The) Slayers Next (TV)	Heisaku Wada
+ReLIFE (OAV)	Tomochi Kosaka
 KenIchi the Mightiest Disciple (TV)	Hajime Kamegaki
 Strawberry Panic! (TV)	Masayuki Sakoi
-ReLIFE (OAV)	Tomochi Kosaka
-Princess Jellyfish (TV)	Takahiro Ōmori
+Treasure Island (TV)	Osamu Dezaki
 Bamboo Blade (TV)	Hisashi Saito
+Princess Jellyfish (TV)	Takahiro Ōmori
 Initial D: Fourth Stage (TV)	Shinji Kofukada
-One Piece Film Strong World (movie 10)	Munehisa Sakai
 Mobile Suit Gundam 00 (TV)	Seiji Mizushima
+One Piece Film Strong World (movie 10)	Munehisa Sakai
 Food Wars! The Second Plate (TV)	Yoshitomo Yonetani
 Bakuman. (TV)	Kenichi Kasai
 Silver Spoon (TV)	Tomohiko Ito
@@ -268,9 +269,8 @@ Owarimonogatari (TV)	Tomoyuki Itamura
 Hajime no Ippo Rising (TV)	Jun Shishido
 Banner of the Stars II (TV)	Yasuchika Nagaoka
 ReLIFE (TV)	Tomochi Kosaka
-Treasure Island (TV)	Osamu Dezaki
-Gunbuster (OAV)	Hideaki Anno
 Higurashi no Naku Koroni Kai (TV)	Chiaki Kon
+Gunbuster (OAV)	Hideaki Anno
 Case Closed: The Phantom of Baker Street (movie)	Kenji Kodama
 Samurai 7 (TV)	Toshifumi Takizawa
 Voices of a Distant Star (OAV)	Makoto Shinkai
@@ -283,11 +283,11 @@ Psycho-Pass (TV)	Naoyoshi Shiotani
 Sayonara, Zetsubou-Sensei (TV)	Akiyuki Simbo
 FLCL (OAV)	Kazuya Tsurumaki
 (The) Story of Saiunkoku Second Series (TV 2)	Jun Shishido
-(The) Ancient Magus' Bride (TV)	Norihiro Naganuma
 Case Closed: Captured in Her Eyes (movie)	Kenji Kodama
 Case Closed: The Last Magician of the Century (movie)	Kenji Kodama
 (The) Secret World of Arrietty (movie)	Hiromasa Yonebayashi
 Genshiken (TV)	Takashi Ikehata
+(The) Ancient Magus' Bride (TV)	Norihiro Naganuma
 Miss Kobayashi's Dragon Maid (TV)	Yasuhiro Takemoto
 Touch (TV)	unknown
 Kyo kara Maoh! 3rd Series (TV)	Junji Nishimura
@@ -324,35 +324,35 @@ Emma: A Victorian Romance (TV)	Tsuneo Kobayashi
 Macross Zero (OAV)	Shoji Kawamori
 (The) Garden of Sinners/recalled out summer (movie)	Tomonori Sudou
 Space Battleship Yamato 2199 (movie)	Yutaka Izubuchi
+Chihayafuru 2 (TV)	Morio Asaka
 Mobile Suit Gundam: The Origin (OAV)	Takashi Imanishi
 (The) Tatami Galaxy (TV)	Masaaki Yuasa
-Chihayafuru 2 (TV)	Morio Asaka
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	Naoyuki Itou
 Tamayura: Sotsugyō Shashin (movie series)	Junichi Sato
 (The) Vision of Escaflowne (TV)	Kazuki Akane
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	Tatsuyuki Nagai
 Magical Girl Lyrical Nanoha A's (TV)	Keizou Kusakawa
 Fairy Tail Zero (TV)	unknown
 (The) Eccentric Family (TV)	Masayuki Yoshihara
 Read or Die (OAV)	Koji Masunari
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	Tatsuyuki Nagai
 Fate/stay night: Heaven's Feel I. presage flower (movie)	Tomonori Sudou
 Durarara!! (TV)	Takahiro Ōmori
 Broken Blade (movie series)	Nobuyoshi Habara
-Yu Yu Hakusho: Ghost Files (TV)	Noriyuki Abe
 Fate/stay night: Unlimited Blade Works (TV 2)	Takahiro Miura
+Yu Yu Hakusho: Ghost Files (TV)	Noriyuki Abe
 Ga-Rei-Zero (TV)	Ei Aoki
 Macross Plus Movie Edition	unknown
 (The) Disastrous Life of Saiki K. (TV 2)	Hiroaki Sakurai
-Kaiji (TV)	Yuzo Sato
 Gintama Season 4 (TV 6/2017)	Chizuru Miyawaki
+Kaiji (TV)	Yuzo Sato
 Black Butler: Book of Murder (OAV)	Noriyuki Abe
 Tsubasa: Spring Thunder (OAV)	Shunsuke Tada
 (The) Story of Saiunkoku (TV)	Jun Shishido
 Crest of the Stars (TV)	Yasuchika Nagaoka
 Urusei Yatsura: Beautiful Dreamer (movie)	Mamoru Oshii
 Gintama (OAV)	unknown
-On Your Mark (movie)	Hayao Miyazaki
 Hanamonogatari (TV)	Tomoyuki Itamura
+On Your Mark (movie)	Hayao Miyazaki
 Toward the Terra (TV)	Osamu Yamasaki
 Genshiken (OAV)	Tsutomu Mizushima
 Mobile Suit Gundam Seed (TV)	Mitsuo Fukuda
@@ -383,23 +383,22 @@ Kurenai (TV)	Kou Matsuo
 Death Parade (TV)	Shinichiro Watanabe
 Kyousougiga (TV)	Rie Matsumoto
 Barakamon (TV)	Masaki Tachibana
-Aggretsuko (ONA)	Rarecho
 (The) Irresponsible Captain Tylor (TV)	Kōichi Mashimo
+Aggretsuko (ONA)	Rarecho
 Patema Inverted (movie)	Yasuhiro Yoshiura
 Revolutionary Girl Utena (TV)	Kunihiko Ikuhara
 Banner of the Stars (TV)	Yasuchika Nagaoka
 Hidamari Sketch × Honeycomb (TV)	Akiyuki Simbo
-Barefoot Gen (movie)	Mori Masaki
 Wagnaria!!2 (TV)	Atsushi Ootsuki
 Children Who Chase Lost Voices (movie)	Makoto Shinkai
 Case Closed: The Fourteenth Target (movie)	Kenji Kodama
+Barefoot Gen (movie)	Mori Masaki
 My-HiME (TV)	Masakazu Obara
 Ghost in the Shell S.A.C. Solid State Society 3D (movie)	Kenji Kamiyama
-Yona of the Dawn (TV)	Kazuhiro Yoneda
 Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)	Takahiro Ōmori
 Detective Conan: The Lost Ship in The Sky (movie 14)	Yasuichiro Yamamoto
+Yona of the Dawn (TV)	Kazuhiro Yoneda
 Sound! Euphonium (TV)	Tatsuya Ishihara
-Mirai (movie)	Mamoru Hosoda
 One Piece (TV)	Hiroaki Miyamoto
 Shigofumi - Letters from the Departed (TV)	Tatsuo Sato
 Trigun: Badlands Rumble (movie)	Satoshi Nishimura
@@ -412,20 +411,22 @@ Gurren Lagann the Movie –Childhood's End-	Hiroyuki Imaishi
 My Teen Romantic Comedy SNAFU TOO! (TV)	Kei Oikawa
 Tsukimonogatari (TV)	Tomoyuki Itamura
 His and Her Circumstances (TV)	Hideaki Anno
-Tsukigakirei (TV)	Seiji Kishi
 Girls' Last Tour (TV)	Takaharu Ozaki
 Kobato. (TV)	Mitsuyuki Masuhara
-Vampire Hunter D: Bloodlust (movie)	Yoshiaki Kawajiri
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	Koichi Hatsumi
 Doukyusei -Classmates- (movie)	Shouko Nakamura
+Vampire Hunter D: Bloodlust (movie)	Yoshiaki Kawajiri
 House of Five Leaves (TV)	Tomomi Mochizuki
-School Rumble: Extra Class (OAV)	Shinji Takamatsu
 Laid-Back Camp (TV)	Yoshiaki Kyougoku
-Nekomonogatari (Black) (TV)	Tomoyuki Itamura
-My Love Story!! (TV)	Morio Asaka
-Glass Mask (TV 2/2005)	Mamoru Hamatsu
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	Rie Matsumoto
+School Rumble: Extra Class (OAV)	Shinji Takamatsu
+Tsukigakirei (TV)	Seiji Kishi
 Food Wars! The Third Plate (TV)	Yoshitomo Yonetani
+My Love Story!! (TV)	Morio Asaka
+Nekomonogatari (Black) (TV)	Tomoyuki Itamura
+Mirai (movie)	Mamoru Hosoda
+Glass Mask (TV 2/2005)	Mamoru Hamatsu
+Night is Short, Walk On Girl (movie)	Masaaki Yuasa
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	Rie Matsumoto
 Ergo Proxy (TV)	Shukou Murase
 Tenchi Muyo! Ryo-Ohki (OAV 2/1994)	Kenichi Yatagai
 Ghost in the Shell: Arise (OAV)	Atsushi Takeuchi
@@ -437,24 +438,22 @@ Banner of the Stars III (OAV)	Yasuchika Nagaoka
 Final Fantasy VII: Advent Children (movie)	Isao Nakajima
 Macross Plus (OAV)	Shinichiro Watanabe
 Fullmetal Alchemist: The Movie - Conqueror of Shamballa	Seiji Mizushima
-Night is Short, Walk On Girl (movie)	Masaaki Yuasa
+Food Wars! The Third Plate (TV 2)	Yoshitomo Yonetani
 Hayate the Combat Butler!! (TV)	Yoshiaki Iwasaki
 Daily Lives of High School Boys (TV)	Shinji Takamatsu
-Attack on Titan: No Regrets (OAV)	Tetsuro Araki
 (The) Disastrous Life of Saiki K. (TV)	Hiroaki Sakurai
-Initial D: Final Stage (TV)	Mitsuo Hashimoto
+Hyōka (TV)	Yasuhiro Takemoto
 Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)	Akiyuki Simbo
 Tekkonkinkreet (movie)	Michael Arias
-Hyōka (TV)	Yasuhiro Takemoto
+Initial D: Final Stage (TV)	Mitsuo Hashimoto
 Tari Tari (TV)	Masakazu Hashimoto
 Little Witch Academia (movie)	Yoh Yoshinari
 Moshidora (TV)	Takayuki Hamana
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	Norihiro Naganuma
 Shakugan no Shana (TV)	Takashi Watanabe
-Attack on Titan (TV 3/2018)	Masashi Koizuka
-Food Wars! The Third Plate (TV 2)	Yoshitomo Yonetani
 A Letter to Momo (movie)	Hiroyuki Okiura
 Rage of Bahamut: Genesis (TV)	Keiichi Satō
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	Norihiro Naganuma
+Attack on Titan (TV 3/2018)	Masashi Koizuka
 (The) Cat Returns (movie)	Hiroyuki Morita
 xxxHOLiC: Shunmuki (OAV)	Tsutomu Mizushima
 xxxHOLiC: Rō Adayume (OAV)	Tsutomu Mizushima
@@ -470,23 +469,24 @@ Hōzuki no Reitetsu (OAV)	Hiro Kaburagi
 Seto no Hanayome (OAV)	Seiji Kishi
 Shonen Onmyouji (TV)	Kunihiro Mori
 Scrapped Princess (TV)	Sōichi Masui
-Full Metal Panic! The Second Raid (OAV)	Yasuhiro Takemoto
 Tenchi Muyo! War on Geminar (OAV)	Koji Yoshikawa
+Full Metal Panic! The Second Raid (OAV)	Yasuhiro Takemoto
 White Album 2 (TV)	Masaomi Andō
 Tiger & Bunny The Movie -The Rising-	Yoshitomo Yonetani
 Ushio & Tora (TV 2)	Satoshi Nishimura
 JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	Naokatsu Tsuda
 Hidamari Sketch × 365 (TV)	Akiyuki Simbo
+Attack on Titan: No Regrets (OAV)	Tetsuro Araki
 Gunslinger Girl (TV)	Morio Asaka
-Little Witch Academia (TV)	Yoh Yoshinari
+Megalobox (TV)	You Moriyama
 Giovanni's Island (movie)	Mizuho Nishikubo
+Little Witch Academia (TV)	Yoh Yoshinari
 Colorful (movie)	Keiichi Hara
 Steins;Gate 0 (TV)	Kenichi Kawamura
-Megalobox (TV)	You Moriyama
 Akira (movie)	Katsuhiro Otomo
 Another (TV)	Tsutomu Mizushima
-Detective Conan: The Raven Chaser (movie 13)	Shouji Takizawa
 From the New World (TV)	Masashi Ishihama
+Detective Conan: The Raven Chaser (movie 13)	Shouji Takizawa
 Blood+ (TV)	Jun Matsumoto
 Lupin the Third: Jigen's Gravestone (movie)	Takeshi Koike
 Waiting in the Summer (TV)	Tatsuyuki Nagai
@@ -495,6 +495,6 @@ Queen Millennia (TV)	Nobutaka Nishizawa
 Inuyashiki Last Hero (TV)	Shuhei Yabuta
 Case Closed The Movie: The Time Bombed Skyscraper	Kenji Kodama
 Fairy Tail (TV 2/2014)	Shinji Ishihira
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	Takeshi Furuta
 Fullmetal Alchemist: Brotherhood (OAV)	Yasuhiro Irie
 Full Metal Panic! Invisible Victory (TV)	Katsuichi Nakayama
+Detective Conan: Magician of the Silver Sky (movie)	Shouji Takizawa

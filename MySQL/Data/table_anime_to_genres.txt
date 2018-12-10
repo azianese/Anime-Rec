@@ -149,12 +149,12 @@ Gurren Lagann (TV)	sciencefiction
 (The) Garden of Sinners (movie series)	magic
 (The) Garden of Sinners (movie series)	psychological
 (The) Garden of Sinners (movie series)	romance
-Wolf Children (movie)	drama
-Wolf Children (movie)	romance
-Wolf Children (movie)	supernatural
 My Neighbor Totoro (movie)	adventure
 My Neighbor Totoro (movie)	comedy
 My Neighbor Totoro (movie)	supernatural
+Wolf Children (movie)	drama
+Wolf Children (movie)	romance
+Wolf Children (movie)	supernatural
 Baccano! (TV)	action
 Baccano! (TV)	comedy
 Baccano! (TV)	horror
@@ -260,9 +260,6 @@ Samurai Champloo (TV)	drama
 Ouran High School Host Club (TV)	comedy
 Ouran High School Host Club (TV)	romance
 Ouran High School Host Club (TV)	sliceoflife
-A Place Further Than the Universe (TV)	adventure
-A Place Further Than the Universe (TV)	comedy
-A Place Further Than the Universe (TV)	drama
 (The) Beast Player Erin (TV)	adventure
 (The) Beast Player Erin (TV)	drama
 (The) Beast Player Erin (TV)	fantasy
@@ -273,6 +270,9 @@ Gurren Lagann the Movie – The Lights in the Sky Are Stars	sciencefiction
 March comes in like a lion (TV 2)	comedy
 March comes in like a lion (TV 2)	drama
 March comes in like a lion (TV 2)	tournament
+A Place Further Than the Universe (TV)	adventure
+A Place Further Than the Universe (TV)	comedy
+A Place Further Than the Universe (TV)	drama
 Haikyu!! Second Season (TV)	comedy
 Haikyu!! Second Season (TV)	drama
 Haikyu!! Second Season (TV)	tournament
@@ -331,17 +331,17 @@ Honey and Clover (TV)	sliceoflife
 (The) Tale of the Princess Kaguya (movie)	supernatural
 Sword of the Stranger (movie)	action
 Sword of the Stranger (movie)	drama
+My Hero Academia (TV 2)	action
+My Hero Academia (TV 2)	comedy
+My Hero Academia (TV 2)	drama
+My Hero Academia (TV 2)	sciencefiction
+My Hero Academia (TV 2)	tournament
 Legend of the Galactic Heroes: Overture to a New War (movie)	drama
 Legend of the Galactic Heroes: Overture to a New War (movie)	sciencefiction
 Haibane Renmei (TV)	drama
 Haibane Renmei (TV)	fantasy
 Haibane Renmei (TV)	mystery
 Haibane Renmei (TV)	psychological
-My Hero Academia (TV 2)	action
-My Hero Academia (TV 2)	comedy
-My Hero Academia (TV 2)	drama
-My Hero Academia (TV 2)	sciencefiction
-My Hero Academia (TV 2)	tournament
 Hunter X Hunter (OAV)	adventure
 Hunter X Hunter (OAV)	drama
 Hunter X Hunter (OAV)	fantasy
@@ -390,12 +390,12 @@ Mobile Suit Gundam UC (OAV)	drama
 Mobile Suit Gundam UC (OAV)	sciencefiction
 (The) Garden of Words (movie)	drama
 (The) Garden of Words (movie)	romance
-Gintama. (TV 5/2017)	comedy
+My Hero Academia (TV 3)	action
 Full Metal Panic! The Second Raid (TV)	action
 Full Metal Panic! The Second Raid (TV)	drama
 Full Metal Panic! The Second Raid (TV)	romance
 Full Metal Panic! The Second Raid (TV)	sciencefiction
-My Hero Academia (TV 3)	action
+Gintama. (TV 5/2017)	comedy
 Lupin the Third: Part 5 (TV)	u
 Lupin the Third: Part 5 (TV)	n
 Lupin the Third: Part 5 (TV)	k
@@ -412,14 +412,14 @@ Fate/Zero (TV 2)	drama
 Fate/Zero (TV 2)	magic
 Fate/Zero (TV 2)	psychological
 Fate/Zero (TV 2)	thriller
-Kimi ni Todoke - From Me to You (TV)	comedy
-Kimi ni Todoke - From Me to You (TV)	drama
-Kimi ni Todoke - From Me to You (TV)	romance
-BECK: Mongolian Chop Squad (TV)	drama
 ERASED (TV)	drama
 ERASED (TV)	mystery
 ERASED (TV)	psychological
 ERASED (TV)	thriller
+Kimi ni Todoke - From Me to You (TV)	comedy
+Kimi ni Todoke - From Me to You (TV)	drama
+Kimi ni Todoke - From Me to You (TV)	romance
+BECK: Mongolian Chop Squad (TV)	drama
 Den-noh Coil (TV)	adventure
 Den-noh Coil (TV)	drama
 Den-noh Coil (TV)	mystery
@@ -427,13 +427,13 @@ Den-noh Coil (TV)	sciencefiction
 (La) Maison en Petits Cubes (movie)	drama
 Bakuman. 2 (TV)	comedy
 Bakuman. 2 (TV)	drama
-One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	drama
 Attack on Titan (TV 2/2017)	action
 Attack on Titan (TV 2/2017)	drama
 Attack on Titan (TV 2/2017)	fantasy
 Attack on Titan (TV 2/2017)	horror
 Attack on Titan (TV 2/2017)	psychological
 Attack on Titan (TV 2/2017)	thriller
+One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	drama
 Natsume's Book of Friends (TV)	sliceoflife
 Natsume's Book of Friends (TV)	supernatural
 Nodame Cantabile: Paris (TV)	comedy
@@ -449,13 +449,6 @@ Brave King GaoGaiGar Final (OAV)	action
 Brave King GaoGaiGar Final (OAV)	adventure
 Brave King GaoGaiGar Final (OAV)	drama
 Brave King GaoGaiGar Final (OAV)	sciencefiction
-Owarimonogatari (specials)	u
-Owarimonogatari (specials)	n
-Owarimonogatari (specials)	k
-Owarimonogatari (specials)	n
-Owarimonogatari (specials)	o
-Owarimonogatari (specials)	w
-Owarimonogatari (specials)	n
 Kaiba (TV)	adventure
 Kaiba (TV)	drama
 Kaiba (TV)	fantasy
@@ -465,6 +458,13 @@ Kaiba (TV)	sciencefiction
 Ping Pong (TV)	psychological
 Ping Pong (TV)	sliceoflife
 Ping Pong (TV)	tournament
+Owarimonogatari (specials)	u
+Owarimonogatari (specials)	n
+Owarimonogatari (specials)	k
+Owarimonogatari (specials)	n
+Owarimonogatari (specials)	o
+Owarimonogatari (specials)	w
+Owarimonogatari (specials)	n
 Princess Tutu (TV)	drama
 Princess Tutu (TV)	magic
 Princess Tutu (TV)	psychological
@@ -522,6 +522,9 @@ Girls und Panzer der Film (movie)	n
 Kimi ni Todoke 2nd Season (TV)	comedy
 Kimi ni Todoke 2nd Season (TV)	drama
 Kimi ni Todoke 2nd Season (TV)	romance
+Violet Evergarden (TV)	drama
+Violet Evergarden (TV)	fantasy
+Violet Evergarden (TV)	sciencefiction
 Assassination Classroom (TV 2)	action
 Assassination Classroom (TV 2)	comedy
 Assassination Classroom (TV 2)	drama
@@ -539,9 +542,6 @@ Hanasaku Iroha - Blossoms for Tomorrow (TV)	romance
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	action
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	mystery
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	sciencefiction
-Violet Evergarden (TV)	drama
-Violet Evergarden (TV)	fantasy
-Violet Evergarden (TV)	sciencefiction
 Spice and Wolf (TV)	adventure
 Spice and Wolf (TV)	drama
 Spice and Wolf (TV)	fantasy
@@ -572,6 +572,7 @@ Ashita no Joe 2 (TV)	o
 Ashita no Joe 2 (TV)	w
 Ashita no Joe 2 (TV)	n
 Sound! Euphonium 2 (TV)	drama
+Bakuman. 3 (TV)	drama
 (The) Eccentric Family 2 (TV)	comedy
 (The) Eccentric Family 2 (TV)	drama
 (The) Eccentric Family 2 (TV)	fantasy
@@ -583,7 +584,6 @@ Last Exile (TV)	adventure
 Last Exile (TV)	drama
 Last Exile (TV)	fantasy
 Last Exile (TV)	sciencefiction
-Bakuman. 3 (TV)	drama
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	sciencefiction
 Rurouni Kenshin (TV)	action
 Rurouni Kenshin (TV)	comedy
@@ -596,12 +596,12 @@ When Marnie Was There (movie)	psychological
 Skip Beat! (TV)	comedy
 Skip Beat! (TV)	drama
 Skip Beat! (TV)	romance
+Natsume Yūjin-Chō Go (TV 5)	drama
+Natsume Yūjin-Chō Go (TV 5)	supernatural
 Land of the Lustrous (TV)	action
 Land of the Lustrous (TV)	drama
 Land of the Lustrous (TV)	fantasy
 Land of the Lustrous (TV)	mystery
-Natsume Yūjin-Chō Go (TV 5)	drama
-Natsume Yūjin-Chō Go (TV 5)	supernatural
 xxxHOLiC: Kei (TV)	comedy
 xxxHOLiC: Kei (TV)	drama
 xxxHOLiC: Kei (TV)	horror
@@ -660,16 +660,19 @@ One Outs (TV)	psychological
 One Outs (TV)	tournament
 Black Lagoon (TV)	action
 Black Lagoon (TV)	drama
-Neon Genesis Evangelion (TV)	action
-Neon Genesis Evangelion (TV)	drama
-Neon Genesis Evangelion (TV)	psychological
-Neon Genesis Evangelion (TV)	sciencefiction
 Tiger & Bunny (TV)	action
 Tiger & Bunny (TV)	comedy
 Tiger & Bunny (TV)	drama
 Tiger & Bunny (TV)	sciencefiction
+Fate/stay night: Unlimited Blade Works (TV)	action
+Fate/stay night: Unlimited Blade Works (TV)	drama
+Fate/stay night: Unlimited Blade Works (TV)	supernatural
 Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	action
 Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	sciencefiction
+Neon Genesis Evangelion (TV)	action
+Neon Genesis Evangelion (TV)	drama
+Neon Genesis Evangelion (TV)	psychological
+Neon Genesis Evangelion (TV)	sciencefiction
 No Game, No Life Zero (movie)	u
 No Game, No Life Zero (movie)	n
 No Game, No Life Zero (movie)	k
@@ -677,9 +680,6 @@ No Game, No Life Zero (movie)	n
 No Game, No Life Zero (movie)	o
 No Game, No Life Zero (movie)	w
 No Game, No Life Zero (movie)	n
-Fate/stay night: Unlimited Blade Works (TV)	action
-Fate/stay night: Unlimited Blade Works (TV)	drama
-Fate/stay night: Unlimited Blade Works (TV)	supernatural
 Food Wars! Shokugeki no Soma (TV)	comedy
 Food Wars! Shokugeki no Soma (TV)	drama
 Food Wars! Shokugeki no Soma (TV)	tournament
@@ -715,15 +715,15 @@ One Punch Man (TV)	comedy
 Lupin III: The Castle of Cagliostro (movie)	adventure
 Lupin III: The Castle of Cagliostro (movie)	comedy
 Aria the Avvenire (OAV)	sliceoflife
+My Hero Academia (TV)	action
+My Hero Academia (TV)	comedy
+My Hero Academia (TV)	drama
+My Hero Academia (TV)	sciencefiction
 Denpa teki na Kanojo (OAV)	drama
 Denpa teki na Kanojo (OAV)	horror
 Denpa teki na Kanojo (OAV)	psychological
 Welcome to THE SPACE SHOW (movie)	adventure
 Welcome to THE SPACE SHOW (movie)	sciencefiction
-My Hero Academia (TV)	action
-My Hero Academia (TV)	comedy
-My Hero Academia (TV)	drama
-My Hero Academia (TV)	sciencefiction
 Nobody's Boy Remi (TV)	adventure
 Nobody's Boy Remi (TV)	drama
 Nobody's Boy Remi (TV)	sliceoflife
@@ -731,10 +731,6 @@ Emma: A Victorian Romance Second Act (TV)	drama
 Emma: A Victorian Romance Second Act (TV)	romance
 Monthly Girls' Nozaki-kun (TV)	comedy
 Monthly Girls' Nozaki-kun (TV)	romance
-Kizumonogatari Part 3: Reiketsu (movie)	action
-Kizumonogatari Part 3: Reiketsu (movie)	mystery
-Kizumonogatari Part 3: Reiketsu (movie)	romance
-Kizumonogatari Part 3: Reiketsu (movie)	supernatural
 Elfen Lied (TV)	action
 Elfen Lied (TV)	drama
 Elfen Lied (TV)	horror
@@ -750,15 +746,19 @@ Rainbow - Nisha Rokubō no Shichinin (TV)	drama
 Rainbow - Nisha Rokubō no Shichinin (TV)	horror
 Rainbow - Nisha Rokubō no Shichinin (TV)	romance
 Rainbow - Nisha Rokubō no Shichinin (TV)	thriller
-Junjō Romantica 2 (TV)	comedy
-Junjō Romantica 2 (TV)	drama
-Junjō Romantica 2 (TV)	erotica
-Junjō Romantica 2 (TV)	romance
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	action
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	drama
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	mystery
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	psychological
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	sciencefiction
+Kizumonogatari Part 3: Reiketsu (movie)	action
+Kizumonogatari Part 3: Reiketsu (movie)	mystery
+Kizumonogatari Part 3: Reiketsu (movie)	romance
+Kizumonogatari Part 3: Reiketsu (movie)	supernatural
+Junjō Romantica 2 (TV)	comedy
+Junjō Romantica 2 (TV)	drama
+Junjō Romantica 2 (TV)	erotica
+Junjō Romantica 2 (TV)	romance
 Magical Girl Lyrical Nanoha the Movie 2nd A's	action
 Magical Girl Lyrical Nanoha the Movie 2nd A's	comedy
 Magical Girl Lyrical Nanoha the Movie 2nd A's	drama
@@ -777,13 +777,6 @@ Parasyte -the maxim- (TV)	horror
 Parasyte -the maxim- (TV)	psychological
 Parasyte -the maxim- (TV)	romance
 Parasyte -the maxim- (TV)	sciencefiction
-Kizumonogatari Part 2: Nekketsu (movie)	u
-Kizumonogatari Part 2: Nekketsu (movie)	n
-Kizumonogatari Part 2: Nekketsu (movie)	k
-Kizumonogatari Part 2: Nekketsu (movie)	n
-Kizumonogatari Part 2: Nekketsu (movie)	o
-Kizumonogatari Part 2: Nekketsu (movie)	w
-Kizumonogatari Part 2: Nekketsu (movie)	n
 planetarian: Hoshi no Hito (movie)	u
 planetarian: Hoshi no Hito (movie)	n
 planetarian: Hoshi no Hito (movie)	k
@@ -820,25 +813,32 @@ Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	n
 Wagnaria!!3 (TV)	comedy
 Wagnaria!!3 (TV)	romance
 Wagnaria!!3 (TV)	sliceoflife
-Kizumonogatari Part 1: Tekketsu (movie)	action
-Kizumonogatari Part 1: Tekketsu (movie)	mystery
-Kizumonogatari Part 1: Tekketsu (movie)	romance
-Kizumonogatari Part 1: Tekketsu (movie)	supernatural
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	action
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	drama
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	magic
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	psychological
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	thriller
+Kizumonogatari Part 2: Nekketsu (movie)	u
+Kizumonogatari Part 2: Nekketsu (movie)	n
+Kizumonogatari Part 2: Nekketsu (movie)	k
+Kizumonogatari Part 2: Nekketsu (movie)	n
+Kizumonogatari Part 2: Nekketsu (movie)	o
+Kizumonogatari Part 2: Nekketsu (movie)	w
+Kizumonogatari Part 2: Nekketsu (movie)	n
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	action
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	drama
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	magic
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	psychological
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	thriller
-Kimagure Orange Road: The Movie	drama
-Kimagure Orange Road: The Movie	romance
 Lovely Complex (TV)	comedy
 Lovely Complex (TV)	drama
 Lovely Complex (TV)	romance
+Kimagure Orange Road: The Movie	drama
+Kimagure Orange Road: The Movie	romance
+Kizumonogatari Part 1: Tekketsu (movie)	action
+Kizumonogatari Part 1: Tekketsu (movie)	mystery
+Kizumonogatari Part 1: Tekketsu (movie)	romance
+Kizumonogatari Part 1: Tekketsu (movie)	supernatural
 Porco Rosso (movie)	adventure
 Porco Rosso (movie)	comedy
 Hikaru No Go: New Year Special	comedy
@@ -863,12 +863,6 @@ Detroit Metal City (OAV)	comedy
 (The) Slayers Next (TV)	adventure
 (The) Slayers Next (TV)	comedy
 (The) Slayers Next (TV)	fantasy
-KenIchi the Mightiest Disciple (TV)	action
-KenIchi the Mightiest Disciple (TV)	comedy
-KenIchi the Mightiest Disciple (TV)	romance
-KenIchi the Mightiest Disciple (TV)	tournament
-Strawberry Panic! (TV)	drama
-Strawberry Panic! (TV)	romance
 ReLIFE (OAV)	u
 ReLIFE (OAV)	n
 ReLIFE (OAV)	k
@@ -876,19 +870,29 @@ ReLIFE (OAV)	n
 ReLIFE (OAV)	o
 ReLIFE (OAV)	w
 ReLIFE (OAV)	n
-Princess Jellyfish (TV)	comedy
-Princess Jellyfish (TV)	romance
+KenIchi the Mightiest Disciple (TV)	action
+KenIchi the Mightiest Disciple (TV)	comedy
+KenIchi the Mightiest Disciple (TV)	romance
+KenIchi the Mightiest Disciple (TV)	tournament
+Strawberry Panic! (TV)	drama
+Strawberry Panic! (TV)	romance
+Treasure Island (TV)	adventure
+Treasure Island (TV)	drama
+Treasure Island (TV)	mystery
+Treasure Island (TV)	supernatural
 Bamboo Blade (TV)	comedy
 Bamboo Blade (TV)	sliceoflife
 Bamboo Blade (TV)	tournament
+Princess Jellyfish (TV)	comedy
+Princess Jellyfish (TV)	romance
 Initial D: Fourth Stage (TV)	drama
 Initial D: Fourth Stage (TV)	tournament
-One Piece Film Strong World (movie 10)	action
-One Piece Film Strong World (movie 10)	comedy
-One Piece Film Strong World (movie 10)	fantasy
 Mobile Suit Gundam 00 (TV)	action
 Mobile Suit Gundam 00 (TV)	drama
 Mobile Suit Gundam 00 (TV)	sciencefiction
+One Piece Film Strong World (movie 10)	action
+One Piece Film Strong World (movie 10)	comedy
+One Piece Film Strong World (movie 10)	fantasy
 Food Wars! The Second Plate (TV)	comedy
 Food Wars! The Second Plate (TV)	drama
 Food Wars! The Second Plate (TV)	tournament
@@ -912,19 +916,15 @@ Banner of the Stars II (TV)	sciencefiction
 ReLIFE (TV)	comedy
 ReLIFE (TV)	drama
 ReLIFE (TV)	romance
-Treasure Island (TV)	adventure
-Treasure Island (TV)	drama
-Treasure Island (TV)	mystery
-Treasure Island (TV)	supernatural
-Gunbuster (OAV)	adventure
-Gunbuster (OAV)	drama
-Gunbuster (OAV)	sciencefiction
 Higurashi no Naku Koroni Kai (TV)	drama
 Higurashi no Naku Koroni Kai (TV)	horror
 Higurashi no Naku Koroni Kai (TV)	mystery
 Higurashi no Naku Koroni Kai (TV)	psychological
 Higurashi no Naku Koroni Kai (TV)	supernatural
 Higurashi no Naku Koroni Kai (TV)	thriller
+Gunbuster (OAV)	adventure
+Gunbuster (OAV)	drama
+Gunbuster (OAV)	sciencefiction
 Case Closed: The Phantom of Baker Street (movie)	adventure
 Case Closed: The Phantom of Baker Street (movie)	drama
 Case Closed: The Phantom of Baker Street (movie)	mystery
@@ -966,9 +966,6 @@ FLCL (OAV)	sciencefiction
 (The) Story of Saiunkoku Second Series (TV 2)	drama
 (The) Story of Saiunkoku Second Series (TV 2)	romance
 (The) Story of Saiunkoku Second Series (TV 2)	supernatural
-(The) Ancient Magus' Bride (TV)	drama
-(The) Ancient Magus' Bride (TV)	magic
-(The) Ancient Magus' Bride (TV)	romance
 Case Closed: Captured in Her Eyes (movie)	action
 Case Closed: Captured in Her Eyes (movie)	drama
 Case Closed: Captured in Her Eyes (movie)	mystery
@@ -979,6 +976,9 @@ Case Closed: The Last Magician of the Century (movie)	mystery
 (The) Secret World of Arrietty (movie)	drama
 Genshiken (TV)	comedy
 Genshiken (TV)	sliceoflife
+(The) Ancient Magus' Bride (TV)	drama
+(The) Ancient Magus' Bride (TV)	magic
+(The) Ancient Magus' Bride (TV)	romance
 Miss Kobayashi's Dragon Maid (TV)	comedy
 Miss Kobayashi's Dragon Maid (TV)	fantasy
 Miss Kobayashi's Dragon Maid (TV)	sliceoflife
@@ -1088,15 +1088,15 @@ Macross Zero (OAV)	sciencefiction
 (The) Garden of Sinners/recalled out summer (movie)	mystery
 (The) Garden of Sinners/recalled out summer (movie)	psychological
 Space Battleship Yamato 2199 (movie)	sciencefiction
+Chihayafuru 2 (TV)	comedy
+Chihayafuru 2 (TV)	drama
+Chihayafuru 2 (TV)	romance
 Mobile Suit Gundam: The Origin (OAV)	action
 Mobile Suit Gundam: The Origin (OAV)	drama
 Mobile Suit Gundam: The Origin (OAV)	sciencefiction
 (The) Tatami Galaxy (TV)	comedy
 (The) Tatami Galaxy (TV)	drama
 (The) Tatami Galaxy (TV)	psychological
-Chihayafuru 2 (TV)	comedy
-Chihayafuru 2 (TV)	drama
-Chihayafuru 2 (TV)	romance
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	action
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	comedy
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	drama
@@ -1107,9 +1107,6 @@ Tamayura: Sotsugyō Shashin (movie series)	sliceoflife
 (The) Vision of Escaflowne (TV)	fantasy
 (The) Vision of Escaflowne (TV)	romance
 (The) Vision of Escaflowne (TV)	sciencefiction
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	action
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	drama
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	sciencefiction
 Magical Girl Lyrical Nanoha A's (TV)	action
 Magical Girl Lyrical Nanoha A's (TV)	drama
 Magical Girl Lyrical Nanoha A's (TV)	magic
@@ -1122,6 +1119,9 @@ Read or Die (OAV)	action
 Read or Die (OAV)	drama
 Read or Die (OAV)	mystery
 Read or Die (OAV)	sciencefiction
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	action
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	drama
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	sciencefiction
 Fate/stay night: Heaven's Feel I. presage flower (movie)	u
 Fate/stay night: Heaven's Feel I. presage flower (movie)	n
 Fate/stay night: Heaven's Feel I. presage flower (movie)	k
@@ -1139,14 +1139,14 @@ Broken Blade (movie series)	action
 Broken Blade (movie series)	drama
 Broken Blade (movie series)	fantasy
 Broken Blade (movie series)	sciencefiction
+Fate/stay night: Unlimited Blade Works (TV 2)	action
+Fate/stay night: Unlimited Blade Works (TV 2)	drama
+Fate/stay night: Unlimited Blade Works (TV 2)	supernatural
 Yu Yu Hakusho: Ghost Files (TV)	action
 Yu Yu Hakusho: Ghost Files (TV)	comedy
 Yu Yu Hakusho: Ghost Files (TV)	drama
 Yu Yu Hakusho: Ghost Files (TV)	supernatural
 Yu Yu Hakusho: Ghost Files (TV)	tournament
-Fate/stay night: Unlimited Blade Works (TV 2)	action
-Fate/stay night: Unlimited Blade Works (TV 2)	drama
-Fate/stay night: Unlimited Blade Works (TV 2)	supernatural
 Ga-Rei-Zero (TV)	action
 Ga-Rei-Zero (TV)	drama
 Ga-Rei-Zero (TV)	horror
@@ -1157,9 +1157,9 @@ Macross Plus Movie Edition	sciencefiction
 (The) Disastrous Life of Saiki K. (TV 2)	comedy
 (The) Disastrous Life of Saiki K. (TV 2)	sliceoflife
 (The) Disastrous Life of Saiki K. (TV 2)	supernatural
+Gintama Season 4 (TV 6/2017)	comedy
 Kaiji (TV)	action
 Kaiji (TV)	psychological
-Gintama Season 4 (TV 6/2017)	comedy
 Black Butler: Book of Murder (OAV)	mystery
 Black Butler: Book of Murder (OAV)	supernatural
 Tsubasa: Spring Thunder (OAV)	action
@@ -1179,11 +1179,11 @@ Urusei Yatsura: Beautiful Dreamer (movie)	psychological
 Gintama (OAV)	action
 Gintama (OAV)	comedy
 Gintama (OAV)	sciencefiction
-On Your Mark (movie)	action
-On Your Mark (movie)	sciencefiction
 Hanamonogatari (TV)	comedy
 Hanamonogatari (TV)	drama
 Hanamonogatari (TV)	supernatural
+On Your Mark (movie)	action
+On Your Mark (movie)	sciencefiction
 Toward the Terra (TV)	drama
 Toward the Terra (TV)	psychological
 Toward the Terra (TV)	sciencefiction
@@ -1270,10 +1270,10 @@ Kyousougiga (TV)	sciencefiction
 Kyousougiga (TV)	sliceoflife
 Barakamon (TV)	comedy
 Barakamon (TV)	sliceoflife
-Aggretsuko (ONA)	comedy
 (The) Irresponsible Captain Tylor (TV)	adventure
 (The) Irresponsible Captain Tylor (TV)	comedy
 (The) Irresponsible Captain Tylor (TV)	sciencefiction
+Aggretsuko (ONA)	comedy
 Patema Inverted (movie)	adventure
 Patema Inverted (movie)	drama
 Patema Inverted (movie)	sciencefiction
@@ -1287,7 +1287,6 @@ Banner of the Stars (TV)	romance
 Banner of the Stars (TV)	sciencefiction
 Hidamari Sketch × Honeycomb (TV)	comedy
 Hidamari Sketch × Honeycomb (TV)	sliceoflife
-Barefoot Gen (movie)	drama
 Wagnaria!!2 (TV)	comedy
 Wagnaria!!2 (TV)	romance
 Wagnaria!!2 (TV)	sliceoflife
@@ -1298,6 +1297,7 @@ Case Closed: The Fourteenth Target (movie)	adventure
 Case Closed: The Fourteenth Target (movie)	drama
 Case Closed: The Fourteenth Target (movie)	mystery
 Case Closed: The Fourteenth Target (movie)	thriller
+Barefoot Gen (movie)	drama
 My-HiME (TV)	action
 My-HiME (TV)	drama
 My-HiME (TV)	magic
@@ -1309,19 +1309,18 @@ Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
 Ghost in the Shell S.A.C. Solid State Society 3D (movie)	o
 Ghost in the Shell S.A.C. Solid State Society 3D (movie)	w
 Ghost in the Shell S.A.C. Solid State Society 3D (movie)	n
-Yona of the Dawn (TV)	adventure
-Yona of the Dawn (TV)	comedy
-Yona of the Dawn (TV)	drama
-Yona of the Dawn (TV)	fantasy
-Yona of the Dawn (TV)	romance
 Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)	sliceoflife
 Detective Conan: The Lost Ship in The Sky (movie 14)	action
 Detective Conan: The Lost Ship in The Sky (movie 14)	drama
 Detective Conan: The Lost Ship in The Sky (movie 14)	mystery
 Detective Conan: The Lost Ship in The Sky (movie 14)	thriller
+Yona of the Dawn (TV)	adventure
+Yona of the Dawn (TV)	comedy
+Yona of the Dawn (TV)	drama
+Yona of the Dawn (TV)	fantasy
+Yona of the Dawn (TV)	romance
 Sound! Euphonium (TV)	comedy
 Sound! Euphonium (TV)	drama
-Mirai (movie)	drama
 One Piece (TV)	adventure
 One Piece (TV)	comedy
 One Piece (TV)	drama
@@ -1361,38 +1360,44 @@ Tsukimonogatari (TV)	supernatural
 His and Her Circumstances (TV)	comedy
 His and Her Circumstances (TV)	drama
 His and Her Circumstances (TV)	romance
-Tsukigakirei (TV)	drama
-Tsukigakirei (TV)	romance
 Girls' Last Tour (TV)	adventure
 Girls' Last Tour (TV)	drama
 Kobato. (TV)	comedy
 Kobato. (TV)	drama
 Kobato. (TV)	magic
 Kobato. (TV)	romance
-Vampire Hunter D: Bloodlust (movie)	adventure
-Vampire Hunter D: Bloodlust (movie)	drama
-Vampire Hunter D: Bloodlust (movie)	horror
-Vampire Hunter D: Bloodlust (movie)	supernatural
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	action
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	fantasy
 Doukyusei -Classmates- (movie)	drama
 Doukyusei -Classmates- (movie)	romance
+Vampire Hunter D: Bloodlust (movie)	adventure
+Vampire Hunter D: Bloodlust (movie)	drama
+Vampire Hunter D: Bloodlust (movie)	horror
+Vampire Hunter D: Bloodlust (movie)	supernatural
 House of Five Leaves (TV)	action
 House of Five Leaves (TV)	drama
+Laid-Back Camp (TV)	comedy
+Laid-Back Camp (TV)	sliceoflife
 School Rumble: Extra Class (OAV)	comedy
 School Rumble: Extra Class (OAV)	romance
 School Rumble: Extra Class (OAV)	sliceoflife
-Laid-Back Camp (TV)	comedy
-Laid-Back Camp (TV)	sliceoflife
+Tsukigakirei (TV)	drama
+Tsukigakirei (TV)	romance
+Food Wars! The Third Plate (TV)	comedy
+Food Wars! The Third Plate (TV)	drama
+Food Wars! The Third Plate (TV)	tournament
+My Love Story!! (TV)	comedy
+My Love Story!! (TV)	romance
 Nekomonogatari (Black) (TV)	comedy
 Nekomonogatari (Black) (TV)	drama
 Nekomonogatari (Black) (TV)	psychological
 Nekomonogatari (Black) (TV)	romance
 Nekomonogatari (Black) (TV)	supernatural
-My Love Story!! (TV)	comedy
-My Love Story!! (TV)	romance
+Mirai (movie)	drama
 Glass Mask (TV 2/2005)	drama
 Glass Mask (TV 2/2005)	romance
+Night is Short, Walk On Girl (movie)	comedy
+Night is Short, Walk On Girl (movie)	romance
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	u
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	k
@@ -1400,9 +1405,6 @@ Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	o
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	w
 Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	n
-Food Wars! The Third Plate (TV)	comedy
-Food Wars! The Third Plate (TV)	drama
-Food Wars! The Third Plate (TV)	tournament
 Ergo Proxy (TV)	adventure
 Ergo Proxy (TV)	drama
 Ergo Proxy (TV)	mystery
@@ -1435,54 +1437,49 @@ Macross Plus (OAV)	sciencefiction
 Fullmetal Alchemist: The Movie - Conqueror of Shamballa	adventure
 Fullmetal Alchemist: The Movie - Conqueror of Shamballa	drama
 Fullmetal Alchemist: The Movie - Conqueror of Shamballa	fantasy
-Night is Short, Walk On Girl (movie)	comedy
-Night is Short, Walk On Girl (movie)	romance
+Food Wars! The Third Plate (TV 2)	comedy
+Food Wars! The Third Plate (TV 2)	drama
+Food Wars! The Third Plate (TV 2)	tournament
 Hayate the Combat Butler!! (TV)	action
 Hayate the Combat Butler!! (TV)	comedy
 Hayate the Combat Butler!! (TV)	romance
 Hayate the Combat Butler!! (TV)	sliceoflife
 Daily Lives of High School Boys (TV)	comedy
 Daily Lives of High School Boys (TV)	sliceoflife
-Attack on Titan: No Regrets (OAV)	action
-Attack on Titan: No Regrets (OAV)	drama
-Attack on Titan: No Regrets (OAV)	thriller
 (The) Disastrous Life of Saiki K. (TV)	comedy
 (The) Disastrous Life of Saiki K. (TV)	sliceoflife
 (The) Disastrous Life of Saiki K. (TV)	supernatural
-Initial D: Final Stage (TV)	tournament
+Hyōka (TV)	drama
+Hyōka (TV)	mystery
+Hyōka (TV)	romance
 Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)	sliceoflife
 Tekkonkinkreet (movie)	action
 Tekkonkinkreet (movie)	drama
 Tekkonkinkreet (movie)	psychological
-Hyōka (TV)	drama
-Hyōka (TV)	mystery
-Hyōka (TV)	romance
+Initial D: Final Stage (TV)	tournament
 Tari Tari (TV)	comedy
 Tari Tari (TV)	drama
 Little Witch Academia (movie)	comedy
 Little Witch Academia (movie)	fantasy
 Moshidora (TV)	drama
 Moshidora (TV)	tournament
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	drama
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	magic
 Shakugan no Shana (TV)	action
 Shakugan no Shana (TV)	drama
 Shakugan no Shana (TV)	romance
 Shakugan no Shana (TV)	supernatural
+A Letter to Momo (movie)	comedy
+A Letter to Momo (movie)	drama
+A Letter to Momo (movie)	magic
+Rage of Bahamut: Genesis (TV)	action
+Rage of Bahamut: Genesis (TV)	fantasy
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	drama
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	magic
 Attack on Titan (TV 3/2018)	action
 Attack on Titan (TV 3/2018)	drama
 Attack on Titan (TV 3/2018)	fantasy
 Attack on Titan (TV 3/2018)	horror
 Attack on Titan (TV 3/2018)	psychological
 Attack on Titan (TV 3/2018)	thriller
-Food Wars! The Third Plate (TV 2)	comedy
-Food Wars! The Third Plate (TV 2)	drama
-Food Wars! The Third Plate (TV 2)	tournament
-A Letter to Momo (movie)	comedy
-A Letter to Momo (movie)	drama
-A Letter to Momo (movie)	magic
-Rage of Bahamut: Genesis (TV)	action
-Rage of Bahamut: Genesis (TV)	fantasy
 (The) Cat Returns (movie)	adventure
 (The) Cat Returns (movie)	comedy
 (The) Cat Returns (movie)	fantasy
@@ -1532,15 +1529,15 @@ Scrapped Princess (TV)	comedy
 Scrapped Princess (TV)	drama
 Scrapped Princess (TV)	fantasy
 Scrapped Princess (TV)	sciencefiction
-Full Metal Panic! The Second Raid (OAV)	comedy
-Full Metal Panic! The Second Raid (OAV)	drama
-Full Metal Panic! The Second Raid (OAV)	romance
 Tenchi Muyo! War on Geminar (OAV)	action
 Tenchi Muyo! War on Geminar (OAV)	comedy
 Tenchi Muyo! War on Geminar (OAV)	drama
 Tenchi Muyo! War on Geminar (OAV)	fantasy
 Tenchi Muyo! War on Geminar (OAV)	romance
 Tenchi Muyo! War on Geminar (OAV)	sciencefiction
+Full Metal Panic! The Second Raid (OAV)	comedy
+Full Metal Panic! The Second Raid (OAV)	drama
+Full Metal Panic! The Second Raid (OAV)	romance
 White Album 2 (TV)	drama
 White Album 2 (TV)	romance
 Tiger & Bunny The Movie -The Rising-	sciencefiction
@@ -1553,14 +1550,20 @@ JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	supernatural
 JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	thriller
 Hidamari Sketch × 365 (TV)	comedy
 Hidamari Sketch × 365 (TV)	sliceoflife
+Attack on Titan: No Regrets (OAV)	action
+Attack on Titan: No Regrets (OAV)	drama
+Attack on Titan: No Regrets (OAV)	thriller
 Gunslinger Girl (TV)	action
 Gunslinger Girl (TV)	drama
 Gunslinger Girl (TV)	psychological
 Gunslinger Girl (TV)	sciencefiction
-Little Witch Academia (TV)	adventure
-Little Witch Academia (TV)	magic
+Megalobox (TV)	drama
+Megalobox (TV)	sciencefiction
+Megalobox (TV)	tournament
 Giovanni's Island (movie)	adventure
 Giovanni's Island (movie)	drama
+Little Witch Academia (TV)	adventure
+Little Witch Academia (TV)	magic
 Colorful (movie)	drama
 Colorful (movie)	supernatural
 Steins;Gate 0 (TV)	drama
@@ -1569,9 +1572,6 @@ Steins;Gate 0 (TV)	psychological
 Steins;Gate 0 (TV)	romance
 Steins;Gate 0 (TV)	sciencefiction
 Steins;Gate 0 (TV)	thriller
-Megalobox (TV)	drama
-Megalobox (TV)	sciencefiction
-Megalobox (TV)	tournament
 Akira (movie)	action
 Akira (movie)	horror
 Akira (movie)	psychological
@@ -1581,9 +1581,6 @@ Another (TV)	horror
 Another (TV)	mystery
 Another (TV)	psychological
 Another (TV)	supernatural
-Detective Conan: The Raven Chaser (movie 13)	action
-Detective Conan: The Raven Chaser (movie 13)	drama
-Detective Conan: The Raven Chaser (movie 13)	mystery
 From the New World (TV)	adventure
 From the New World (TV)	drama
 From the New World (TV)	fantasy
@@ -1591,6 +1588,9 @@ From the New World (TV)	horror
 From the New World (TV)	mystery
 From the New World (TV)	psychological
 From the New World (TV)	sciencefiction
+Detective Conan: The Raven Chaser (movie 13)	action
+Detective Conan: The Raven Chaser (movie 13)	drama
+Detective Conan: The Raven Chaser (movie 13)	mystery
 Blood+ (TV)	action
 Blood+ (TV)	drama
 Blood+ (TV)	horror
@@ -1616,8 +1616,6 @@ Fairy Tail (TV 2/2014)	adventure
 Fairy Tail (TV 2/2014)	comedy
 Fairy Tail (TV 2/2014)	drama
 Fairy Tail (TV 2/2014)	fantasy
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	adventure
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	fantasy
 Fullmetal Alchemist: Brotherhood (OAV)	u
 Fullmetal Alchemist: Brotherhood (OAV)	n
 Fullmetal Alchemist: Brotherhood (OAV)	k
@@ -1627,3 +1625,6 @@ Fullmetal Alchemist: Brotherhood (OAV)	w
 Fullmetal Alchemist: Brotherhood (OAV)	n
 Full Metal Panic! Invisible Victory (TV)	action
 Full Metal Panic! Invisible Victory (TV)	sciencefiction
+Detective Conan: Magician of the Silver Sky (movie)	action
+Detective Conan: Magician of the Silver Sky (movie)	drama
+Detective Conan: Magician of the Silver Sky (movie)	mystery

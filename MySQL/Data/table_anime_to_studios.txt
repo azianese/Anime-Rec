@@ -39,8 +39,8 @@ Nausicaä of the Valley of the Wind (movie)	Toru Hara
 5 Centimeters Per Second (movie)	CoMix Wave Films
 Gurren Lagann (TV)	Aniplex
 (The) Garden of Sinners (movie series)	Aniplex
-Wolf Children (movie)	Fumihiro Hirai
 My Neighbor Totoro (movie)	Studio Ghibli
+Wolf Children (movie)	Fumihiro Hirai
 Baccano! (TV)	Aniplex
 Natsume's Book of Friends (TV 4)	NAS
 Honey and Clover II (TV)	Kouichi Uchida
@@ -73,10 +73,10 @@ Whisper of the Heart (movie)	Shueisha
 Your Lie in April (TV)	Aniplex
 Samurai Champloo (TV)	Barnum Studio
 Ouran High School Host Club (TV)	BONES
-A Place Further Than the Universe (TV)	AT-X
 (The) Beast Player Erin (TV)	NHK Enterprises
 Gurren Lagann the Movie – The Lights in the Sky Are Stars	Aniplex
 March comes in like a lion (TV 2)	Aniplex
+A Place Further Than the Universe (TV)	AT-X
 Haikyu!! Second Season (TV)	Crystal Ruiz
 Ghost in the Shell: Stand Alone Complex (TV)	Animax
 Maria Watches Over Us (TV)	d-rights
@@ -94,9 +94,9 @@ Re:ZERO -Starting Life in Another World- (TV)	Media Factory
 Honey and Clover (TV)	Kouichi Uchida
 (The) Tale of the Princess Kaguya (movie)	Koji Hoshino
 Sword of the Stranger (movie)	unknown
+My Hero Academia (TV 2)	Toho Animation
 Legend of the Galactic Heroes: Overture to a New War (movie)	SUNTORY
 Haibane Renmei (TV)	Akihiro Yuasa
-My Hero Academia (TV 2)	Toho Animation
 Hunter X Hunter (OAV)	Hunter x Hunter OVA Production Committee
 (The) Twelve Kingdoms (TV)	Nep 21
 Cowboy Bebop: The Movie	Bandai Visual
@@ -114,28 +114,28 @@ Tsubasa Tokyo Revelations (OAV)	Kodansha
 Katanagatari (TV)	Aniplex
 Mobile Suit Gundam UC (OAV)	Bandai Visual
 (The) Garden of Words (movie)	CoMix Wave Films
-Gintama. (TV 5/2017)	unknown
-Full Metal Panic! The Second Raid (TV)	Full Metal Panic! Film Partners
 My Hero Academia (TV 3)	Toho Animation
+Full Metal Panic! The Second Raid (TV)	Full Metal Panic! Film Partners
+Gintama. (TV 5/2017)	unknown
 Lupin the Third: Part 5 (TV)	Nippon Animation
 Hunter X Hunter (TV)	Nippon Animation
 Fate/Zero (TV 2)	Aniplex
+ERASED (TV)	Aniplex
 Kimi ni Todoke - From Me to You (TV)	D.N. Dream Partners
 BECK: Mongolian Chop Squad (TV)	Asatsu
-ERASED (TV)	Aniplex
 Den-noh Coil (TV)	Bandai Visual
 (La) Maison en Petits Cubes (movie)	Robot
 Bakuman. 2 (TV)	NHK
-One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	unknown
 Attack on Titan (TV 2/2017)	Dentsu Inc.
+One Piece Episode of Nami: Kōkaishi no Namida to Nakama no Kizuna (special)	unknown
 Natsume's Book of Friends (TV)	NAS
 Nodame Cantabile: Paris (TV)	Asmik Ace Entertainment, Inc.
 JoJo's Bizarre Adventure: Diamond Is Unbreakable (TV)	JoJo's Bizarre Adventure DU Production Committee
 Berserk (TV)	Hakusensha
 Brave King GaoGaiGar Final (OAV)	Sunrise
-Owarimonogatari (specials)	Aniplex
 Kaiba (TV)	Madhouse
 Ping Pong (TV)	Aniplex
+Owarimonogatari (specials)	Aniplex
 Princess Tutu (TV)	Dentsu Inc.
 Conan, the Boy in Future (TV)	NHK
 Hotarubi no Mori e (movie)	Aniplex
@@ -152,12 +152,12 @@ Natsume Yūjin-Chō Roku (TV 6)	NAS
 Yuri!!! on Ice (TV)	unknown
 Girls und Panzer der Film (movie)	Bandai Visual
 Kimi ni Todoke 2nd Season (TV)	D.N. Dream Partners
+Violet Evergarden (TV)	ABC Animation
 Assassination Classroom (TV 2)	BS Fuji
 Trigun (TV)	Victor Entertainment
 Mob Psycho 100 (TV)	BONES
 Hanasaku Iroha - Blossoms for Tomorrow (TV)	Bandai Visual
 Ghost in the Shell: Stand Alone Complex: Solid State Society (movie)	Production I.G
-Violet Evergarden (TV)	ABC Animation
 Spice and Wolf (TV)	Spice & Wolf Production Committee
 Paprika (movie)	Sony Pictures
 Magnetic Rose (movie)	Studio 4°C
@@ -166,17 +166,17 @@ R.O.D -The TV-	Aniplex
 Berserk: The Golden Age Arc III - The Advent (movie)	BERSERK FILM PARTNERS
 Ashita no Joe 2 (TV)	Tokyo Movie Shinsha
 Sound! Euphonium 2 (TV)	Kyoto Animation
+Bakuman. 3 (TV)	NHK
 (The) Eccentric Family 2 (TV)	unknown
 Gungrave (TV)	Flying Dog
 Last Exile (TV)	MC Entertainment
-Bakuman. 3 (TV)	NHK
 Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)	Kitty Films
 Rurouni Kenshin (TV)	Aniplex
 Comedy (OAV)	Studio 4°C
 When Marnie Was There (movie)	Koji Hoshino
 Skip Beat! (TV)	Hakusensha
-Land of the Lustrous (TV)	Crystal Ruiz
 Natsume Yūjin-Chō Go (TV 5)	NAS
+Land of the Lustrous (TV)	Crystal Ruiz
 xxxHOLiC: Kei (TV)	BMG Japan
 Attack on Titan (TV)	Dentsu Inc.
 Neon Genesis Evangelion: The End of Evangelion (movie)	Hiroyuki Yamaga
@@ -193,11 +193,11 @@ Gintama (TV)	Dentsu Inc.
 (The) Boy and The Beast (movie)	Chukyo TV
 One Outs (TV)	D.N. Dream Partners
 Black Lagoon (TV)	Black Lagoon Production Team
-Neon Genesis Evangelion (TV)	GAINAX
 Tiger & Bunny (TV)	Bandai Visual
-Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	Bandai Entertainment
-No Game, No Life Zero (movie)	unknown
 Fate/stay night: Unlimited Blade Works (TV)	Aniplex
+Ghost in the Shell: Stand Alone Complex - Individual Eleven (OAV)	Bandai Entertainment
+Neon Genesis Evangelion (TV)	GAINAX
+No Game, No Life Zero (movie)	AT-X
 Food Wars! Shokugeki no Soma (TV)	Hiroo Maruyama
 (The) Anthem of the Heart (movie)	A-1 Pictures
 Fate/Zero (TV)	Aniplex
@@ -210,25 +210,24 @@ Gosick (TV)	BONES
 One Punch Man (TV)	Asatsu
 Lupin III: The Castle of Cagliostro (movie)	Kazuhiko Yagiuchi
 Aria the Avvenire (OAV)	Shochiku
+My Hero Academia (TV)	Toho Animation
 Denpa teki na Kanojo (OAV)	unknown
 Welcome to THE SPACE SHOW (movie)	Atsuhiro Iwakami
-My Hero Academia (TV)	Toho Animation
 Nobody's Boy Remi (TV)	TMS Entertainment
 Emma: A Victorian Romance Second Act (TV)	Ajiado
 Monthly Girls' Nozaki-kun (TV)	AT-X
-Kizumonogatari Part 3: Reiketsu (movie)	Aniplex
 Elfen Lied (TV)	GENCO
 Wolf's Rain (OAV)	Asatsu-DK
 No Game, No Life (TV)	Kadokawa
 Rainbow - Nisha Rokubō no Shichinin (TV)	VAP
-Junjō Romantica 2 (TV)	Frontier Works
 Ghost in the Shell: Stand Alone Complex - The Laughing Man (OAV)	Animax
+Kizumonogatari Part 3: Reiketsu (movie)	Aniplex
+Junjō Romantica 2 (TV)	Frontier Works
 Magical Girl Lyrical Nanoha the Movie 2nd A's	Aniplex
 Tokyo Magnitude 8.0 (TV)	Asmik Ace Entertainment, Inc.
 Eureka Seven (TV)	Bandai Entertainment
 School Rumble (TV)	Marvelous Entertainment
 Parasyte -the maxim- (TV)	Forecast Communications
-Kizumonogatari Part 2: Nekketsu (movie)	Aniplex
 planetarian: Hoshi no Hito (movie)	Asmik Ace, Inc.
 Hinamatsuri (TV)	unknown
 Ghost in the Shell (movie)	Bandai Visual
@@ -237,11 +236,12 @@ Puella Magi Madoka Magica the Movie Part 2: Eternal	Aniplex
 Kill la Kill (TV)	Aniplex
 Berserk: The Golden Age Arc II - The Battle for Doldrey (movie)	BERSERK FILM PARTNERS
 Wagnaria!!3 (TV)	Aniplex
-Kizumonogatari Part 1: Tekketsu (movie)	Aniplex
 Puella Magi Madoka Magica the Movie Part 1: Beginnings	Aniplex
+Kizumonogatari Part 2: Nekketsu (movie)	Aniplex
 Puella Magi Madoka Magica The Movie Part 3: Rebellion	Aniplex
-Kimagure Orange Road: The Movie	Pierrot
 Lovely Complex (TV)	Shueisha
+Kimagure Orange Road: The Movie	Pierrot
+Kizumonogatari Part 1: Tekketsu (movie)	Aniplex
 Porco Rosso (movie)	Japan Airline
 Hikaru No Go: New Year Special	Dentsu Inc.
 Mobile Suit Gundam - The Movie Trilogy	Sunrise
@@ -252,14 +252,15 @@ Legend of the Galactic Heroes: A Hundred Billion Stars, A Hundred Billion Lights
 (The) Wind Rises (movie)	Buena Vista Home Entertainment
 Detroit Metal City (OAV)	Beyond C.
 (The) Slayers Next (TV)	J.C. Staff
+ReLIFE (OAV)	unknown
 KenIchi the Mightiest Disciple (TV)	TMS Entertainment
 Strawberry Panic! (TV)	Dwango
-ReLIFE (OAV)	unknown
-Princess Jellyfish (TV)	Atsushi Terada
+Treasure Island (TV)	TMS Entertainment
 Bamboo Blade (TV)	AIC
+Princess Jellyfish (TV)	Atsushi Terada
 Initial D: Fourth Stage (TV)	OB Planning
-One Piece Film Strong World (movie 10)	Bandai Co., Ltd.
 Mobile Suit Gundam 00 (TV)	Mainichi Broadcasting System
+One Piece Film Strong World (movie 10)	Bandai Co., Ltd.
 Food Wars! The Second Plate (TV)	unknown
 Bakuman. (TV)	NHK Enterprises
 Silver Spoon (TV)	Kouichirou Natsume
@@ -268,9 +269,8 @@ Owarimonogatari (TV)	unknown
 Hajime no Ippo Rising (TV)	unknown
 Banner of the Stars II (TV)	Bandai Visual
 ReLIFE (TV)	Aniplex
-Treasure Island (TV)	TMS Entertainment
-Gunbuster (OAV)	Tadatsugu Hayakawa
 Higurashi no Naku Koroni Kai (TV)	Frontier Works
+Gunbuster (OAV)	Tadatsugu Hayakawa
 Case Closed: The Phantom of Baker Street (movie)	Detective Conan Production Committee
 Samurai 7 (TV)	G.D.H.
 Voices of a Distant Star (OAV)	CoMix Wave Films
@@ -283,11 +283,11 @@ Psycho-Pass (TV)	Dentsu Inc.
 Sayonara, Zetsubou-Sensei (TV)	Starchild Records
 FLCL (OAV)	FLCL Production Committee
 (The) Story of Saiunkoku Second Series (TV 2)	NHK
-(The) Ancient Magus' Bride (TV)	Flying Dog
 Case Closed: Captured in Her Eyes (movie)	Kyokuichi Tokyo Movie Shinsha
 Case Closed: The Last Magician of the Century (movie)	Detective Conan Production Committee
 (The) Secret World of Arrietty (movie)	Dentsu Inc.
 Genshiken (TV)	GENCO
+(The) Ancient Magus' Bride (TV)	Flying Dog
 Miss Kobayashi's Dragon Maid (TV)	ABC Animation
 Touch (TV)	Asatsu-DK
 Kyo kara Maoh! 3rd Series (TV)	NHK
@@ -324,35 +324,35 @@ Emma: A Victorian Romance (TV)	Enterbrain
 Macross Zero (OAV)	Bandai Visual
 (The) Garden of Sinners/recalled out summer (movie)	Aniplex
 Space Battleship Yamato 2199 (movie)	AIC
+Chihayafuru 2 (TV)	Nippon Television Network
 Mobile Suit Gundam: The Origin (OAV)	Sunrise
 (The) Tatami Galaxy (TV)	Emiko Uchimura
-Chihayafuru 2 (TV)	Nippon Television Network
 One Piece "3D2Y" Ace no Shi wo Koete! Luffy Nakama to no Chikai (special)	Fuji Television Network
 Tamayura: Sotsugyō Shashin (movie series)	Animatic
 (The) Vision of Escaflowne (TV)	Sunrise
-Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	Mainichi Broadcasting System
 Magical Girl Lyrical Nanoha A's (TV)	Nanoha A's Project
 Fairy Tail Zero (TV)	unknown
 (The) Eccentric Family (TV)	Bandai Visual
 Read or Die (OAV)	Aniplex
+Mobile Suit Gundam: Iron-Blooded Orphans (TV 2)	Mainichi Broadcasting System
 Fate/stay night: Heaven's Feel I. presage flower (movie)	Aniplex
 Durarara!! (TV)	Aniplex
 Broken Blade (movie series)	Bandai Visual
-Yu Yu Hakusho: Ghost Files (TV)	Fuji Television Network
 Fate/stay night: Unlimited Blade Works (TV 2)	ufotable
+Yu Yu Hakusho: Ghost Files (TV)	Fuji Television Network
 Ga-Rei-Zero (TV)	AIC
 Macross Plus Movie Edition	Bandai Visual
 (The) Disastrous Life of Saiki K. (TV 2)	unknown
-Kaiji (TV)	D.N. Dream Partners
 Gintama Season 4 (TV 6/2017)	unknown
+Kaiji (TV)	D.N. Dream Partners
 Black Butler: Book of Murder (OAV)	Aniplex
 Tsubasa: Spring Thunder (OAV)	Kodansha
 (The) Story of Saiunkoku (TV)	NHK
 Crest of the Stars (TV)	Bandai Visual
 Urusei Yatsura: Beautiful Dreamer (movie)	Kitty Films
 Gintama (OAV)	unknown
-On Your Mark (movie)	Real Cast Inc.
 Hanamonogatari (TV)	Aniplex
+On Your Mark (movie)	Real Cast Inc.
 Toward the Terra (TV)	Aniplex
 Genshiken (OAV)	unknown
 Mobile Suit Gundam Seed (TV)	Asatsu-DK
@@ -383,23 +383,22 @@ Kurenai (TV)	Kurenai Production Committee
 Death Parade (TV)	Madhouse
 Kyousougiga (TV)	unknown
 Barakamon (TV)	Atsushi Fukushi
-Aggretsuko (ONA)	FANWORKS, Inc.
 (The) Irresponsible Captain Tylor (TV)	Akira Takamura
+Aggretsuko (ONA)	FANWORKS, Inc.
 Patema Inverted (movie)	Asmik Ace Entertainment, Inc.
 Revolutionary Girl Utena (TV)	unknown
 Banner of the Stars (TV)	Bandai Visual
 Hidamari Sketch × Honeycomb (TV)	Aniplex
-Barefoot Gen (movie)	GEN Productions
 Wagnaria!!2 (TV)	Aniplex
 Children Who Chase Lost Voices (movie)	CMMMY
 Case Closed: The Fourteenth Target (movie)	Detective Conan Production Committee
+Barefoot Gen (movie)	GEN Productions
 My-HiME (TV)	Sunrise
 Ghost in the Shell S.A.C. Solid State Society 3D (movie)	unknown
-Yona of the Dawn (TV)	Age Global Networks
 Natsume Yūjin-Chō: Itsuka Yuki no Hi ni (OAV)	unknown
 Detective Conan: The Lost Ship in The Sky (movie 14)	Nippon Television Network
+Yona of the Dawn (TV)	Age Global Networks
 Sound! Euphonium (TV)	Kyoto Animation
-Mirai (movie)	Chukyo TV
 One Piece (TV)	Asatsu-DK
 Shigofumi - Letters from the Departed (TV)	Bandai Visual
 Trigun: Badlands Rumble (movie)	Flying Dog
@@ -412,20 +411,22 @@ Gurren Lagann the Movie –Childhood's End-	Aniplex
 My Teen Romantic Comedy SNAFU TOO! (TV)	Janice Williams
 Tsukimonogatari (TV)	Aniplex
 His and Her Circumstances (TV)	GAINAX
-Tsukigakirei (TV)	unknown
 Girls' Last Tour (TV)	unknown
 Kobato. (TV)	D.N. Dream Partners
-Vampire Hunter D: Bloodlust (movie)	Animate
 Berserk: The Golden Age Arc I - The Egg of the King (movie)	BERSERK FILM PARTNERS
 Doukyusei -Classmates- (movie)	unknown
+Vampire Hunter D: Bloodlust (movie)	Animate
 House of Five Leaves (TV)	Dentsu Inc.
-School Rumble: Extra Class (OAV)	Akihiro Yuasa
 Laid-Back Camp (TV)	Hikaru Sakamoto
-Nekomonogatari (Black) (TV)	Aniplex
-My Love Story!! (TV)	Nippon Television Network
-Glass Mask (TV 2/2005)	TMS Entertainment
-Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	Asatsu-DK
+School Rumble: Extra Class (OAV)	Akihiro Yuasa
+Tsukigakirei (TV)	unknown
 Food Wars! The Third Plate (TV)	unknown
+My Love Story!! (TV)	Nippon Television Network
+Nekomonogatari (Black) (TV)	Aniplex
+Mirai (movie)	Chukyo TV
+Glass Mask (TV 2/2005)	TMS Entertainment
+Night is Short, Walk On Girl (movie)	unknown
+Heartcatch Precure! Hana no Miyako de Fashion Show…Desu ka!? (movie)	Asatsu-DK
 Ergo Proxy (TV)	Geneon Entertainment Inc.
 Tenchi Muyo! Ryo-Ohki (OAV 2/1994)	Pioneer LDC
 Ghost in the Shell: Arise (OAV)	Hideji Kaneko
@@ -437,24 +438,22 @@ Banner of the Stars III (OAV)	Bandai Visual
 Final Fantasy VII: Advent Children (movie)	Square Enix
 Macross Plus (OAV)	Bandai Visual
 Fullmetal Alchemist: The Movie - Conqueror of Shamballa	Anime Film
-Night is Short, Walk On Girl (movie)	unknown
+Food Wars! The Third Plate (TV 2)	unknown
 Hayate the Combat Butler!! (TV)	Shogakukan-Shueisha Productions
 Daily Lives of High School Boys (TV)	Happinet Pictures
-Attack on Titan: No Regrets (OAV)	unknown
 (The) Disastrous Life of Saiki K. (TV)	unknown
-Initial D: Final Stage (TV)	unknown
+Hyōka (TV)	chara-ani.com
 Hidamari Sketch: Sae/Hiro Sotsugyō-hen (OAV)	Aniplex
 Tekkonkinkreet (movie)	Aniplex
-Hyōka (TV)	chara-ani.com
+Initial D: Final Stage (TV)	unknown
 Tari Tari (TV)	Bandai Visual
 Little Witch Academia (movie)	unknown
 Moshidora (TV)	NHK
-(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	Production I.G
 Shakugan no Shana (TV)	Shakugan no Shana Production Committee
-Attack on Titan (TV 3/2018)	unknown
-Food Wars! The Third Plate (TV 2)	unknown
 A Letter to Momo (movie)	Bandai Visual
 Rage of Bahamut: Genesis (TV)	Cygames
+(The) Ancient Magus' Bride: Those Awaiting a Star (OAV)	Production I.G
+Attack on Titan (TV 3/2018)	Dentsu Inc.
 (The) Cat Returns (movie)	Studio Ghibli
 xxxHOLiC: Shunmuki (OAV)	unknown
 xxxHOLiC: Rō Adayume (OAV)	unknown
@@ -470,23 +469,24 @@ Hōzuki no Reitetsu (OAV)	unknown
 Seto no Hanayome (OAV)	unknown
 Shonen Onmyouji (TV)	unknown
 Scrapped Princess (TV)	BONES
-Full Metal Panic! The Second Raid (OAV)	Full Metal Panic! Film Partners
 Tenchi Muyo! War on Geminar (OAV)	AIC
+Full Metal Panic! The Second Raid (OAV)	Full Metal Panic! Film Partners
 White Album 2 (TV)	AQUAPLUS
 Tiger & Bunny The Movie -The Rising-	Asatsu-DK
 Ushio & Tora (TV 2)	Janice Williams
 JoJo's Bizarre Adventure: Stardust Crusaders Egypt Arc (TV)	JoJo's Bizarre Adventure Production Committee
 Hidamari Sketch × 365 (TV)	Aniplex
+Attack on Titan: No Regrets (OAV)	unknown
 Gunslinger Girl (TV)	Bandai Visual
-Little Witch Academia (TV)	Good Smile Company
+Megalobox (TV)	Bandai Namco Arts
 Giovanni's Island (movie)	Japan Association of Music Enterprises
+Little Witch Academia (TV)	Good Smile Company
 Colorful (movie)	Atsushi Terada
 Steins;Gate 0 (TV)	Future Gadget Lab
-Megalobox (TV)	Bandai Namco Arts
 Akira (movie)	Akira Committee Company Ltd
 Another (TV)	Hiroyasu Asami
-Detective Conan: The Raven Chaser (movie 13)	Nippon Television Network
 From the New World (TV)	A-1 Pictures
+Detective Conan: The Raven Chaser (movie 13)	Nippon Television Network
 Blood+ (TV)	Aniplex
 Lupin the Third: Jigen's Gravestone (movie)	TMS Entertainment
 Waiting in the Summer (TV)	AT-X
@@ -495,6 +495,6 @@ Queen Millennia (TV)	Toei Animation
 Inuyashiki Last Hero (TV)	Aniplex
 Case Closed The Movie: The Time Bombed Skyscraper	Detective Conan Production Committee
 Fairy Tail (TV 2/2014)	A-1 Pictures
-(The) Seven Deadly Sins: Revival of The Commandments (TV)	A-1 Pictures
 Fullmetal Alchemist: Brotherhood (OAV)	unknown
 Full Metal Panic! Invisible Victory (TV)	unknown
+Detective Conan: Magician of the Silver Sky (movie)	Nippon Television Network

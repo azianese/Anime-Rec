@@ -2,6 +2,7 @@
 from urllib.request import urlopen
 # from urllib2 import urlopen
 from bs4 import BeautifulSoup as soup
+import datetime
 
 # Anime class for different animes
 class Anime:
@@ -11,11 +12,12 @@ class Anime:
 # List to store anime
 animeList = []
 # Clears the anime data file
-open('AnimeData2.txt','w').close()
+open('AnimeData.txt','w').close()
 # Opens the anime data file for append
-animeFile = open('AnimeData2.txt', 'a', encoding='utf-8')
+animeFile = open('AnimeData.txt', 'a', encoding='utf-8')
 animeFile.write('ANIME DATA TAKEN FROM ANIMENEWSNETWORK.COM')
-animeFile.write('\n\n')
+animeFile.write('\n' + str(datetime.datetime.now()))
+animeFile.write('\n')
 
 # data URL
 dataUrl = 'https://www.animenewsnetwork.com/encyclopedia/ratings-anime.php?top50=best_bayesian&n=500'
@@ -71,6 +73,8 @@ def getAnime():
           altTitles = pageSoup.find(id='infotype-2').findAll("div");
           for title in altTitles:
               if "Japanese" in title.text:
+                  if ("\n" in title):
+                      title = title.strip("\n")
                   currentAnime.altTitle = title.text;
                   break
       except:
@@ -103,10 +107,23 @@ def getAnime():
 
       # Premiere date of the current anime
       try:
-          date = pageSoup.find(id='infotype-9').div.text
+          #date = pageSoup.find(id='infotype-9').div.text
+          #currentAnime.premiereDate = date
+          date = pageSoup.find(id='infotype-7').div.text
+          if ("\n" in date):
+              date = date.strip("\n")
           currentAnime.premiereDate = date
       except:
           currentAnime.premiereDate = 'unknown'
+
+      if (currentAnime.premiereDate == 'unknown'):
+          try:
+            date = pageSoup.find(id='infotype-7').span.text
+            if ("\n" in date):
+                date = date.strip("\n")
+            currentAnime.premiereDate = date
+          except:
+            currentAnime.premiereDate = 'unknown'
 
       # Director of the current anime
       try:

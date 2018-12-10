@@ -1,5 +1,5 @@
 ANIME DATA TAKEN FROM ANIMENEWSNETWORK.COM
-2018-12-10 13:12:46.561860
+2018-12-10 09:37:38.526846
 
 name: your name. (movie)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=18171
@@ -615,7 +615,7 @@ production studio: Aniplex
 genres: action,comedy,horror,supernatural,
 themes: alchemy,crime,historical,immortality,mafia,
 plot: Each of the stories in the series involves several unrelated plots intersecting and crossing each other as events spiral farther and farther out of control. Immortal alchemists, mafia operated speakeasies, and many other elements of pulp fiction mashed together for a world straight out of the movies.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/123/baccano_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/139/baccano_900x350.jpg
 
 name: Natsume's Book of Friends (TV 4)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13600
@@ -1049,7 +1049,7 @@ production studio: BONES
 genres: comedy,romance,slice of life,
 themes: bishounen,crossdressing,host club,male harem,parody,school,school life,
 plot: Haruhi is a poor tomboyish student at a school for the ultra-wealthy, able to attend because of a scholarship, and unable to even afford a uniform. One day, she stumbles across the decidedly peculiar but very popular Ouran Host Club. She tries to leave, but accidentally breaks a vase, and unable to pay for it, she's told that she'll have to stay and do odd jobs. That is, until they decide she would be more valuable as a club member. Not realizing she's female due to her appearance, they fix her up and give her a male uniform. She's an instant hit, so they decide to have her keep up the charade even after they find out the truth. Haruhi, being average almost to a fault, doesn't know what to make of the unconventional activities of the Host Club (or of the even more unconventional members), but having little choice, she plays along. Before long, real bonds are formed, friends made, and Haruhi finds herself accepted in a way she could never have been otherwise in this affluent school.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/246/ouran_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/85/ouran_900x350.jpg
 
 name: (The) Beast Player Erin (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10291
@@ -1749,7 +1749,7 @@ production studio: Asatsu
 genres: drama,
 themes: high school,music,
 plot: Tanaka Yukio, better known by his nickname Koyuki is a 14 year old who feels disconnected from life in general. Through the act of saving a mismatched dog, he meets guitarist Minami Ryuusuke, and becomes involved in Ryuusuke's new band BECK. Koyuki's life starts to change as the band struggles towards fame.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/378/beck_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/377/beck_900x350.jpg
 
 name: Den-noh Coil (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6278
@@ -2057,7 +2057,7 @@ production studio: Hiroko Yamada
 genres: adventure,mystery,psychological,romance,thriller,
 themes: amnesia,neet,political fiction,politics,social-networking,society,
 plot: On November 22, 2010 ten missiles strike Japan. However, this unprecedented terrorist act, later to be called as "Careless Monday," does not result in any apparent victims, and is soon forgotten by almost everyone. Then, 3 months later... Saki Morimi is a young woman currently in the United States of America on her graduation trip. But just when she is in front of the White House, Washington DC, she gets into trouble, and only the unexpected intervention of one of her fellow countrymen saves her. However, this man, who introduces himself as Akira Takizawa, is a complete mystery. He appears to have lost his memory. and he is stark naked, except for the gun he holds in one hand, and the mobile phone he's holding with the other hand. A phone that is charged with 8,200,000,000 yen in digital cash.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/356/eden_new_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/357/eden_new_900x350.jpg
 
 name: Hunter X Hunter: G I Final (OAV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=3177
@@ -2253,7 +2253,7 @@ production studio: Spice & Wolf Production Committee
 genres: adventure,drama,fantasy,romance,
 themes: economics,trading,wolf girls,
 plot: Kraft Lawrence, a 25 year old peddler travelling from town to town selling and buying various things to make a living during a period much like Europe in the Middle Ages. One night when stopped at the town of Pasroe, he finds in his wagon a 250 year old pagan wolf deity girl named Holo. She appears to be that of a 15 year old girl, except for a wolf tail and ears. She introduces herself as the town's goddess of harvest who has kept it blessed with good harvests of wheat for many years. Despite having the responsibility to watch over the town, she wants to go back to her homeland in the north called Yoitsu, she believes the people have already forsaken her anyway and that she has kept her promise to maintain the good harvests. She manages to bargain her way out of the village by making a deal with Lawrence to take her with him. As they travel, her wisdom helps increase his profits, but at the same time, her true nature draws unwanted attention from the church.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/225/spice&wolf.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/224/spice&wolf.jpg
 
 name: Paprika (movie)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6142
@@ -2407,7 +2407,7 @@ production studio: MC Entertainment
 genres: adventure,drama,fantasy,science fiction,
 themes: flying battleship,steampunk,
 plot: In a world that looks like the 19th century with anti-gravity devices, Claus and Lavie are pilot and co-pilot of a Vanship and act as couriers. They become involved with a mysterious mission after rescuing a little girl from a strange star-shaped killing machine. Not willing to let the girl die, they complete the mission by delivering her to the legendary mercenary ship Sylvana, only to become part of the crew as fighter pilots.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/255/lastexile.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/254/lastexile.jpg
 
 name: Legend of the Galactic Heroes: My Conquest is the Sea of Stars (movie)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=1802
@@ -3625,7 +3625,7 @@ production studio: AIC
 genres: comedy,slice of life,tournament,
 themes: kendo,moe,sports,
 plot: Toraji Ishida is a high school kendo teacher. His friend and fellow kendo teacher makes him a bet: if Ishida can assemble a girls' kendo team that can defeat his girls' team in a practice match, he'll treat Ishida to free meals at his father's sushi restaurant for a whole year. Now Ishida must find five girls to join the team.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/141/bambooblade_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/140/bambooblade_900x350.jpg
 
 name: Princess Jellyfish (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11282
@@ -4423,7 +4423,7 @@ production studio: BONES
 genres: action,comedy,fantasy,
 themes: human weapons,school,shinigami,superpowers,Witches,
 plot: Set in the Shinigami technical school for weapon meisters, the series revolves around 3 groups of each a weapon meister and a human weapon. Trying to make the latter a "Death Scythe" and thus fit for use by the Shinigami, they must collect the souls of 99 evil humans and 1 witch.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/318/souleater_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/317/souleater_900x350.jpg
 
 name: Penguindrum (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=12998
@@ -4885,7 +4885,7 @@ production studio: Kodansha
 genres: action,drama,fantasy,romance,
 themes: other worlds,sorcery,
 plot: The group tries to find a way out of a world trying to keep them there. They managed to get away, but not without a few sacrifices. They end up in Kurogane's home world. Sakura-hime is trapped in the dream world. When Real Syaoran goes to save her Clone Syaoran appears.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/433/key_art_tsubasa_spring_thunder_chronicles.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/660/key_art_tsubasa_spring_thunder_chronicles.jpg
 
 name: (The) Story of Saiunkoku (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6200
@@ -5239,7 +5239,8 @@ img: https://www.animenewsnetwork.com/images/encyc/A10713-3.jpg
 
 name: Gintama: The Movie
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=11152
-altTitle: unknown
+altTitle: Gintama: Shinyaku Benizakura-Hen (Japanese) 
+
 ranking: 375
 rating: 7.95
 votes: 231
@@ -5655,7 +5656,7 @@ production studio: Flying Dog
 genres: action,comedy,science fiction,
 themes: gunslinger,western,
 plot: 20 years after meddling into the bank heist of a notorious robber named Gasback, Vash the Stampede is heading towards Macca City. Rumors say that the legendary thief might appear there causing an enormous influx of bounty hunters in the area who want to collect the $$300,000,000 prize for his head.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/784/key_art_trigun_badlands_rumble.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/785/key_art_trigun_badlands_rumble.jpg
 
 name: Lucky Star (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=7222
@@ -6719,7 +6720,7 @@ production studio: Bandai Visual
 genres: action,drama,psychological,science fiction,
 themes: assassins,cyborg,girls with guns,terrorists,
 plot: "Henrietta" was an innocent little girl when her entire family was massacred and she was left for dead. She was rescued by a privately-owned social welfare organization and given cybernetic components over her battered body. Brainwashed by the organization, she and four other girls now work as cold-blooded assassins, doing the dirty work for the Italian government.
-img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/302/gunslinger_900x350.jpg
+img: https://www.animenewsnetwork.com/thumbnails/crop900x350/video/category/303/gunslinger_900x350.jpg
 
 name: Megalobox (TV)
 link: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20565

@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS `nirzj0shn94smawo`.`anime` (
   `altTitle` NVARCHAR(255),
   `rating` FLOAT NOT NULL,
   `votes` INT NOT NULL,
-  `date` DATE NULL,
+  `date` DATE NOT NULL,
   `plot` TEXT,
   `img` VARCHAR(255)
 );

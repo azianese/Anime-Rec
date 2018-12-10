@@ -171,7 +171,6 @@ Takashi Imanishi
 Takashi Watanabe
 Takayuki Hamana
 Takeo Takahashi
-Takeshi Furuta
 Takeshi Koike
 Takeyuki Kanda
 Takuya Igarashi
@@ -205,7 +204,6 @@ Yasuhito Kikuchi
 Yasuichiro Yamamoto
 Yasunao Aoki
 Yoh Yoshinari
-Yoichi Fujita
 Yoshiaki Iwasaki
 Yoshiaki Kawajiri
 Yoshiaki Kyougoku
@@ -224,4 +222,5 @@ Yutaka Izubuchi
 Yutaka Uemura
 Yuzo Sato
 Yuzuru Tachikawa
+Yōichi Fujita
 unknown

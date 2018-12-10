@@ -39,25 +39,29 @@ CREATE TABLE anime_themes (
 );
 
 INSERT IGNORE INTO anime_directors (director_id, anime_id)
-SELECT directors.id AS director_id, anime.id AS anime_id
+SELECT anime.id AS anime_id, directors.id AS director_id
 FROM anime_to_directors
-INNER JOIN directors ON anime_to_directors.director = directors.director
-INNER JOIN anime ON anime_to_directors.anime = anime.title;
+INNER JOIN anime ON anime_to_directors.anime = anime.title
+INNER JOIN directors ON anime_to_directors.director = directors.director;
+DROP TABLE anime_to_directors;
 
 INSERT IGNORE INTO anime_studios (studio_id, anime_id)
-SELECT studios.id AS studio_id, anime.id AS anime_id
+SELECT anime.id AS anime_id, studios.id AS studio_id
 FROM anime_to_studios
-INNER JOIN studios ON anime_to_studios.studio = studios.studio
-INNER JOIN anime ON anime_to_studios.anime = anime.title;
+INNER JOIN anime ON anime_to_studios.anime = anime.title
+INNER JOIN studios ON anime_to_studios.studio = studios.studio;
+DROP TABLE anime_to_studios;
 
 INSERT IGNORE INTO anime_genres (anime_id, genre_id)
 SELECT anime.id AS anime_id, genres.id AS genre_id
 FROM anime_to_genres
 INNER JOIN anime ON anime_to_genres.anime = anime.title
 INNER JOIN genres ON anime_to_genres.genre = genres.genre;
+DROP TABLE anime_to_genres;
 
 INSERT IGNORE INTO anime_themes (anime_id, theme_id)
 SELECT anime.id AS anime_id, themes.id AS genre_id
 FROM anime_to_themes
 INNER JOIN anime ON anime_to_themes.anime = anime.title
 INNER JOIN themes ON anime_to_themes.theme = themes.theme;
+DROP TABLE anime_to_themes;
