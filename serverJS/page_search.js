@@ -14,9 +14,10 @@ module.exports.getData = function(param) {
       })
     });
     // Query mysql for data relating to particular anime input
+    var titleArray = param.titles.split(",").map(item => item.trim());
+    titleArray.remove('');
     var aniData = new Promise((res, rej) => {
       db.getConnection.then(mysql=> {
-        var titleArray = param.titles.split(",").map(item => item.trim());
         var query = db.buildSearchQuery(titleArray);        
         if (query == null)
           res("");
@@ -51,8 +52,6 @@ module.exports.getData = function(param) {
       var formData = searchData[1];
       var response = {};
       // Data to prefill form
-      var titleArray = param.titles.split(",").map(item => item.trim())
-      titleArray.remove('');
       response.titleArray = titleArray;
       response.formTitles = createStringFromArray(titleArray)
       response.formDirectors = createStringFromArray(formData.directors);
@@ -88,7 +87,6 @@ module.exports.getData = function(param) {
           break;
         response.themes.push(data[i].themes);
       }
-
       //send data back to client
       resolve(response);
     })

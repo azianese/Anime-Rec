@@ -5,8 +5,8 @@ const pq = require("./PriorityQueue.js");
 function getPQ(req) {
   return new Promise((resolve, reject) => {
     //gets an array of anime objects
-    var aniRecs = animeFile.getAniArray(req);
-    aniRecs.then(data => {
+    var dataPromise = animeFile.getAniArray(req);
+    dataPromise.then(data => {
       const aniQueue = new pq((a, b) => a.score > b.score);
       //pushes each anime object into a priority queue
       data.forEach(anime => {
@@ -26,13 +26,20 @@ function getPQ(req) {
 // 2. params: request (parameter) body
 module.exports.getData = function(req) {
   return new Promise((resolve, reject) => {
+    //turn the string of anime titles into an array of titles
+    req.body.titles 
+        = req.body.titles.split(",").map(function(item) {return item.trim()});
     //get promise for priority queue of anime objects
     var pqPromise = getPQ(req);
     pqPromise.then(pq => {
       var aniArray = [];
       //pushes the correct amount of anime objects into an array
       for (var i = 0; i < req.body.numRecs && pq.size() > 0; ++i) {
-        aniArray.push(pq.pop());
+        var anime = pq.pop();
+        if (req.body.titles.indexOf(anime.title) == -1)
+          aniArray.push(anime);
+        else
+          --i;
       }
       var data = {};
       //add array of sorted anime objects to request body

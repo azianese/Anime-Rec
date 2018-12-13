@@ -56,6 +56,18 @@
       </form>
     </div>
 
+    <!-- Script to add titles to submit -->
+    <script>
+      $("#search-form").submit(function(eventObj) {
+        $('<input />')
+          .attr('type', 'hidden')
+          .attr('name', 'titles')
+          .attr('value', '<%- data.titleArray %>')
+                .appendTo('#search-form');
+        return true;
+      });
+    </script>
+
     <!---------------------- AUTOCOMPLETE SCRIPTS ---------------------->
     <script>
       ////////// DIRECTOR //////////
